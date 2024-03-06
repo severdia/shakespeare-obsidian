@@ -1,0 +1,104 @@
+---
+Title: Coriolanus
+Author: William Shakespeare
+Genre: Tragedy
+Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
+License: GFDL License 1.3
+License URL: http://www.gnu.org/copyleft/fdl.html
+Version: 4.3
+Sources: First Folio (1623)
+ID: coriolanus-dp
+---
+
+- Caius Martius (Coriolanus) (MAR.; COR.)
+- Menenius Agrippa (MEN.; BOTH MEN. AND BRU.)
+- Sicinius Velutus (SIC.; BOTH BRU. AND SIC.)
+- Cominius (COM.)
+- Tullus Aufidius (AUF.)
+- Junius Brutus (BRU.; BOTH MEN. AND BRU.; BOTH BRU. AND SIC.)
+- Titus Lartius (LART.)
+- Lieutenant to Aufidius (LIEU. AUF.)
+- Nicanor (NIC.)
+- Adrian (ADR.)
+- Volumnia (VOL.)
+- Virgilia (VIR.; BOTH VIR. AND VAL.)
+- Valeria (VAL.; BOTH VIR. AND VAL.)
+- Young Martius (BOY.)
+- Gentlewoman (GENTLEW.)
+- Lieutenant to Lartius (LIEU. LART.)
+- First Servingman (1. SERV.; BOTH 1. SERV. AND 2. SERV.)
+- Second Servingman (2. SERV.; BOTH 1. SERV. AND 2. SERV.)
+- Third Servingman (3. SERV.)
+- First Roman Senator (1. ROM. SEN.; SENATORS.; LORDS AND SENATORS.)
+- Second Roman Senator (2. ROM. SEN.; SENATORS.; LORDS AND SENATORS.)
+- First Volscian Senator (1. VOL. SEN.; ALL VOL. SEN.)
+- Second Volscian Senator (2. VOL. SEN.; ALL VOL. SEN.)
+- First Volscian Lord (1. VOL. LORD.; ALL VOL. LORDS.)
+- Second Volscian Lord (2. VOL. LORD.; ALL VOL. LORDS.)
+- Third Volscian Lord (3. VOL. LORD.; ALL VOL. LORDS.)
+- First Roman Soldier (1. ROM. SOLD.; ROM. SOLD.)
+- Second Roman Soldier (2. ROM. SOLD.; ROM. SOLD.)
+- Roman Soldiers (ALL ROM. SOLD.; ROM. SOLD.)
+- Volscian Soldier (VOL. SOLD.)
+- Volscian Soldiers (VOL. SOLDS.)
+- First Officer (1. OFF.)
+- First Aedile (1. AED.; BOTH AEDILES.)
+- Second Aedile (2. AED.; BOTH AEDILES.)
+- First Watchman (1. WATCH.)
+- Second Watchman (2. WATCH.)
+- First Messenger (1. MESS.)
+- Second Messenger (2. MESS.)
+- Third Messenger (3. MESS.)
+- First Roman Citizen (1. ROM. CIT.; ALL ROM. CIT.)
+- Second Roman Citizen (2. ROM. CIT.; ALL ROM. CIT.)
+- Third Roman Citizen (3. ROM. CIT.; ALL ROM. CIT.)
+- Fourth Roman Citizen (4. ROM. CIT.; ALL ROM. CIT.; BOTH 4. CIT. AND 5. CIT.)
+- Fifth Roman Citizen (5. ROM. CIT.; ALL ROM. CIT.; BOTH 4. CIT. AND 5. CIT.)
+- Sixth Roman Citizen (6. ROM. CIT.; ALL ROM. CIT.)
+- Seventh Roman Citizen (7. ROM. CIT.; ALL ROM. CIT.)
+- Plebeians (ALL PLEBEIANS.)
+- First Roman (1. ROM.)
+- Second Roman (2. ROM.)
+- Third Roman (3. ROM.)
+- Citizen of Antium (CIT. ANT.)
+- First Conspirator (1. CONSP.; ALL CONSP.)
+- Second Conspirator (2. CONSP.; ALL CONSP.)
+- Third Conspirator (3. CONSP.; ALL CONSP.)
+- Roman Herald (ROM. HER.)
+- Patrician (PATRICIAN.; ALL PATRICIANS)
+- Second Officer (2. OFF.)
+- Patricians (PATRICIANS; ALL PATRICIANS)
+- Scout (SCOUT.)
+- Usher (USH.)
+
+## Scenes
+
+- [[Act 1, Scene 1|Act 1, Scene 1 →]]
+- [[Act 1, Scene 2|Act 1, Scene 2 →]]
+- [[Act 1, Scene 3|Act 1, Scene 3 →]]
+- [[Act 1, Scene 4|Act 1, Scene 4 →]]
+- [[Act 1, Scene 5|Act 1, Scene 5 →]]
+- [[Act 1, Scene 6|Act 1, Scene 6 →]]
+- [[Act 1, Scene 7|Act 1, Scene 7 →]]
+- [[Act 1, Scene 8|Act 1, Scene 8 →]]
+- [[Act 1, Scene 9|Act 1, Scene 9 →]]
+- [[Act 1, Scene 10|Act 1, Scene 10 →]]
+- [[Act 2, Scene 1|Act 2, Scene 1 →]]
+- [[Act 2, Scene 2|Act 2, Scene 2 →]]
+- [[Act 2, Scene 3|Act 2, Scene 3 →]]
+- [[Act 3, Scene 1|Act 3, Scene 1 →]]
+- [[Act 3, Scene 2|Act 3, Scene 2 →]]
+- [[Act 3, Scene 3|Act 3, Scene 3 →]]
+- [[Act 4, Scene 1|Act 4, Scene 1 →]]
+- [[Act 4, Scene 2|Act 4, Scene 2 →]]
+- [[Act 4, Scene 3|Act 4, Scene 3 →]]
+- [[Act 4, Scene 4|Act 4, Scene 4 →]]
+- [[Act 4, Scene 5|Act 4, Scene 5 →]]
+- [[Act 4, Scene 6|Act 4, Scene 6 →]]
+- [[Act 4, Scene 7|Act 4, Scene 7 →]]
+- [[Act 5, Scene 1|Act 5, Scene 1 →]]
+- [[Act 5, Scene 2|Act 5, Scene 2 →]]
+- [[Act 5, Scene 3|Act 5, Scene 3 →]]
+- [[Act 5, Scene 4|Act 5, Scene 4 →]]
+- [[Act 5, Scene 5|Act 5, Scene 5 →]]
+- [[Act 5, Scene 6|Act 5, Scene 6 →]]

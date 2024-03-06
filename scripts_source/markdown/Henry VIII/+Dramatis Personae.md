@@ -1,0 +1,111 @@
+---
+Title: Henry VIII
+Author: 
+  - William Shakespeare
+  - John Fletcher
+Genre: History
+Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
+License: GFDL License 1.3
+License URL: http://www.gnu.org/copyleft/fdl.html
+Version: 4.3
+Sources: First Folio (1623)
+ID: henry-viii-dp
+---
+
+- King Henry the Eighth (KING.)
+- Cardinal Wolsey (WOL.)
+- Duke of Norfolk (NOR.; ALL NOR., SUF., SUR., CHAM.)
+- Duke of Buckingham (BUCK.)
+- Cranmer, Archbishop of Canterbury (CRAN.)
+- Duke of Suffolk (SUF.; ALL NOR., SUF., SUR., CHAM.)
+- Gardiner (Bishop of Winchester) (GARD.; BISH. WIN.)
+- Earl of Surrey (SUR.; ALL NOR., SUF., SUR., CHAM.)
+- Sir Thomas Lovell (LOV.)
+- Griffith (GRIF.)
+- Buckingham’s Surveyor (BUCK. SURV.)
+- Cardinal Campeius (CAM.)
+- Cromwell (CROM.)
+- Prologue (PRO.; EPILOGUE)
+- Brandon (BRAN.)
+- Porter (PORT.)
+- Porter’s Man (PORT. MAN.)
+- Sir Henry Guilford (GUIL.)
+- Doctor Butts (BUTTS.)
+- Bishop of Lincoln (LIN.)
+- Sir Anthony Denny (DEN.)
+- Sir Nicholas Vaux (VAUX.)
+- Queen Katherine (Katherine, Queen Dowager) (Q. KATH.; KATH.)
+- Old Lady (OLD L.)
+- Anne Boleyn (ANNE.)
+- Gentlewoman (GENTLEW.)
+- Patience (PAT.)
+- Lord Chamberlain (CHAM.; ALL NOR., SUF., SUR., CHAM.)
+- Lord Sands (SAN.)
+- Lord Chancellor (CHAN.)
+- Lord Abergavenny (ABER.)
+- Lord Capuchius (CAP.)
+- First Gentleman (1. GENT.; BOTH 1. GENT. AND 2. GENT.)
+- Second Gentleman (2. GENT.; BOTH 1. GENT. AND 2. GENT.)
+- Third Gentleman (3. GENT.)
+- Servant (SERV.)
+- Doorkeeper of the Council Chamber (DOORKEEP.)
+- Sergeant at Arms (SERG.)
+- Messenger (MESS.)
+- Crier (CRIER.)
+- Wolsey’s First Secretary (1. WOL. SECR.)
+- Wolsey’s Second Secretary (2. WOL. SECR.)
+- First Scribe (1. SCRIBE.)
+- Second Scribe (2. SCRIBE.)
+- Gentleman (GENT.)
+- Garter King-of-Arms (GART.)
+- Gardiner’s Page (GARD. PAGE.)
+- Two Priests (PRIESTS)
+- Four Noblemen (FOUR NOBLE.)
+- Council Guards (COUN. GUARDS)
+- Archbishop of Canterbury (ARCH. CANT.)
+- Two Noblemen (TWO NOBLE.)
+- Bishop of Saint Asaph (BISH. ASAPH.)
+- Bishop Stokesly of London (BISH. STOK.)
+- Bishop of Rochester (BISH. ROCH.)
+- Bishop of Ely (BISH. ELY.)
+- Pursuivants (PURS.)
+- Maskers (MASKERS.)
+- Pages (PAGES.)
+- Halberdiers (HALB.)
+- Tipstaves (TIPS.)
+- Two Vergers (VERGERS)
+- Two Aldermen of London (ALDERMEN)
+- Four Barons of the Cinque Ports (FOUR BARONS)
+- Marquess Dorset (MARQ. DORS.)
+- Lord Mayor of London (MAY. LOND.)
+- Choristers (CHOR.)
+- Two Judges (TWO JUDG.)
+- Lady (LADY)
+- Princess Elizabeth (PRIN. ELIZ.)
+- Marchioness Dorset (MARCH.)
+- Six Vision Dancers (VIS. DANC.)
+- Duchess of Norfolk (DUCH. NORF.)
+- Countesses (COUNTESSES)
+- Two Gentlemen Bearers (BEARERS.)
+- Gentleman Purse-Bearer (PURSE.)
+
+## Scenes
+
+- [[Act 1, Act 1 Prologue|Act 1, Act 1 Prologue →]]
+- [[Act 1, Scene 1|Act 1, Scene 1 →]]
+- [[Act 1, Scene 2|Act 1, Scene 2 →]]
+- [[Act 1, Scene 3|Act 1, Scene 3 →]]
+- [[Act 1, Scene 4|Act 1, Scene 4 →]]
+- [[Act 2, Scene 1|Act 2, Scene 1 →]]
+- [[Act 2, Scene 2|Act 2, Scene 2 →]]
+- [[Act 2, Scene 3|Act 2, Scene 3 →]]
+- [[Act 2, Scene 4|Act 2, Scene 4 →]]
+- [[Act 3, Scene 1|Act 3, Scene 1 →]]
+- [[Act 3, Scene 2|Act 3, Scene 2 →]]
+- [[Act 4, Scene 1|Act 4, Scene 1 →]]
+- [[Act 4, Scene 2|Act 4, Scene 2 →]]
+- [[Act 5, Scene 1|Act 5, Scene 1 →]]
+- [[Act 5, Scene 2|Act 5, Scene 2 →]]
+- [[Act 5, Scene 3|Act 5, Scene 3 →]]
+- [[Act 5, Scene 4|Act 5, Scene 4 →]]
+- [[ị Epilogue|Epilogue →]]

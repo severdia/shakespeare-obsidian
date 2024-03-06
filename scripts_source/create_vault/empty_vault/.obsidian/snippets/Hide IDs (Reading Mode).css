@@ -1,0 +1,10 @@
+/* Shakespeare to Obsidian: Hide IDs in Reading Mode */
+
+.markdown-preview-view h6,
+.cc-pretty-preview .markdown-preview-view h6 {
+	display: none;
+}
+.markdown-source-view.is-live-preview .markdown-embed h6,
+.markdown-preview-view .markdown-embed h6 {
+	display: none;
+}

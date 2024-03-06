@@ -1,0 +1,32 @@
+/* Shakespeare to Obsidian: General Styles */
+
+.markdown-source-view.is-live-preview div.HyperMD-header-6,
+.markdown-preview-view h6,
+.cc-pretty-preview .markdown-preview-view h6,
+.markdown-preview-view .markdown-embed h6 {
+	color: #949494;
+	font-size: 0.7em;
+	margin-bottom: 0;
+}
+
+/* Styles for Full Play (Editing) view */
+
+/* Hide scene links */
+.full-play p:has(.internal-link) {
+	display: none
+}
+
+/* Hide file/scene titles */
+.full-play .embed-title.markdown-embed-title {
+	display: none;
+}
+
+.full-play .markdown-embed {
+	border-left: 0;
+}
+.full-play .markdown-rendered .internal-link {
+	text-decoration: none;
+    color: #000;
+}
+
+
