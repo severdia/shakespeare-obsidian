@@ -11,7 +11,7 @@ ID: tempest-1-1
 ---
 
 ## Act 1, Scene 1
-[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
+[[Act 1, Prologue 2|← Act 1, Prologue 2]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
 
 *On a ship at sea.*
 
