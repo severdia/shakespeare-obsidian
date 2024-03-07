@@ -10,6 +10,7 @@ Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
 ID: henry-vi-part-ii-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

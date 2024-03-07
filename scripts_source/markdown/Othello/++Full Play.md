@@ -10,6 +10,7 @@ Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
 ID: othello-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

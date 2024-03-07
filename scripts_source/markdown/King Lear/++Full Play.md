@@ -11,6 +11,7 @@ Sources:
   - Quarto 2 (1619)
   - First Folio (1623)
 ID: king-lear-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

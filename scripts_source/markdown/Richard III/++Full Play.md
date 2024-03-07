@@ -11,6 +11,7 @@ Sources:
   - Quarto 3 (1602)
   - First Folio (1623)
 ID: richard-iii-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

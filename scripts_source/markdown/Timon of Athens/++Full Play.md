@@ -10,6 +10,7 @@ License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
 Sources: First Folio (1623)
 ID: timon-of-athens-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

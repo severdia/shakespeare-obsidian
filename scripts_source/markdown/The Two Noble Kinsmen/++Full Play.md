@@ -10,6 +10,7 @@ License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

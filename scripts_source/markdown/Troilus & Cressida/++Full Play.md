@@ -10,6 +10,7 @@ Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
 ID: troilus-and-cressida-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

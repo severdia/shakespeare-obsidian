@@ -10,6 +10,7 @@ Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
 ID: merry-wives-of-windsor-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

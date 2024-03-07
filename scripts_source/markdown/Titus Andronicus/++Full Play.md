@@ -12,6 +12,7 @@ Sources:
   - Quarto 1 (1594)
   - First Folio (1623)
 ID: titus-andronicus-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

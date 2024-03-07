@@ -10,6 +10,7 @@ Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
 ID: midsummer-nights-dream-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

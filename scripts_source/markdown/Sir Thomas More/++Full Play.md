@@ -13,6 +13,7 @@ License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

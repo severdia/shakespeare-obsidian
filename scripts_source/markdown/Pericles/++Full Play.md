@@ -12,6 +12,7 @@ Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
 ID: pericles-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

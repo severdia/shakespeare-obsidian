@@ -10,6 +10,7 @@ Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
 ID: henry-iv-part-ii-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

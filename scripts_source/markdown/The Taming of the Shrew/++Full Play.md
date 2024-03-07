@@ -10,6 +10,7 @@ Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
 ID: taming-of-the-shrew-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

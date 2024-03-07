@@ -11,6 +11,7 @@ Sources:
   - Quarto 2 (1599)
   - First Folio (1623)
 ID: romeo-and-juliet-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

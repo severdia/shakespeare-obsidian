@@ -11,6 +11,7 @@ Sources:
   - Quarto 4 (1608)
   - First Folio (1623)
 ID: king-richard-ii-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

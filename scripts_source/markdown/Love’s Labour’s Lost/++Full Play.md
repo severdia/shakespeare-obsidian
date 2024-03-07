@@ -10,6 +10,7 @@ Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
 ID: loves-labours-lost-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]

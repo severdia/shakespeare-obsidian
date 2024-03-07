@@ -10,6 +10,7 @@ Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
 ID: henry-vi-part-iii-full
+cssclasses: full-play
 ---
 
 ![[Act 1, Scene 1.md]]

@@ -11,6 +11,7 @@ Sources:
   - Quarto 2 (1604-1605)
   - First Folio (1623)
 ID: hamlet-full
+cssclasses: full-play
 ---
 
 ![[+Dramatis Personae.md]]
