@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: as-you-like-it-dp
 ---
 
+## Dramatis Personae
+
+
 - Orlando (ORL.)
 - Jaques (JAQ.)
 - Duke Senior (DUKE S.)
@@ -37,29 +40,3 @@ ID: as-you-like-it-dp
 - Second Lord at Court (2. LORD. COURT.)
 - First Page (1. PAGE.)
 - Second Page (2. PAGE.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 2, Scene 5|Act 2, Scene 5 →]]
-- [[Act 2, Scene 6|Act 2, Scene 6 →]]
-- [[Act 2, Scene 7|Act 2, Scene 7 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 3, Scene 4|Act 3, Scene 4 →]]
-- [[Act 3, Scene 5|Act 3, Scene 5 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[ị Epilogue|Epilogue →]]

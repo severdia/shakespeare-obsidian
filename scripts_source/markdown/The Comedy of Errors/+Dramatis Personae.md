@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: comedy-of-errors-dp
 ---
 
+## Dramatis Personae
+
+
 - Antipholus of Syracuse (S. ANT.)
 - Antipholus of Ephesus (E. ANT.)
 - Dromio of Syracuse (S. DRO.)
@@ -30,17 +33,3 @@ ID: comedy-of-errors-dp
 - Luce (LUCE.)
 - Messenger (MESS.)
 - Headsman (HEAD.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]

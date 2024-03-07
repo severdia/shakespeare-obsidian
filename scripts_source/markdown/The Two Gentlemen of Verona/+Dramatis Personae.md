@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-dp
 ---
 
+## Dramatis Personae
+
+
 - Proteus (PRO.)
 - Valentine (VAL.)
 - Duke of Milan (DUKE.)
@@ -28,26 +31,3 @@ ID: two-gentlemen-of-verona-dp
 - Third Outlaw (3. OUT.; ALL OUTLAWS)
 - Musicians (MUSIC.)
 - Crab (CRAB.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 2, Scene 5|Act 2, Scene 5 →]]
-- [[Act 2, Scene 6|Act 2, Scene 6 →]]
-- [[Act 2, Scene 7|Act 2, Scene 7 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]

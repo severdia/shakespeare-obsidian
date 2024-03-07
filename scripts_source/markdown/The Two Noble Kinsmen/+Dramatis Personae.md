@@ -12,6 +12,9 @@ Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-dp
 ---
 
+## Dramatis Personae
+
+
 - Palamon (PAL.; BOTH ARC. AND PAL.)
 - Arcite (ARC.; BOTH ARC. AND PAL.)
 - Theseus, Duke of Athens (THE.)
@@ -58,32 +61,3 @@ ID: two-noble-kinsmen-dp
 - Maudline (MAUD.)
 - Luce (LUCE.)
 - Barbary (BARB.)
-
-## Scenes
-
-- [[Act 1, Prologue|Act 1, Prologue →]]
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 1, Scene 4|Act 1, Scene 4 →]]
-- [[Act 1, Scene 5|Act 1, Scene 5 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 2, Scene 5|Act 2, Scene 5 →]]
-- [[Act 2, Scene 6|Act 2, Scene 6 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 3, Scene 4|Act 3, Scene 4 →]]
-- [[Act 3, Scene 5|Act 3, Scene 5 →]]
-- [[Act 3, Scene 6|Act 3, Scene 6 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[ị Epilogue|Epilogue →]]

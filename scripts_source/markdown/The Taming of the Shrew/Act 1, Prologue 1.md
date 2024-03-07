@@ -12,8 +12,8 @@ Sources:
 ID: taming-of-the-shrew-1-prologue-1
 ---
 
-## Act 1, Prologue Scene 1
-[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Prologue Scene 2|Act 1, Prologue Scene 2 →]]
+## Act 1, Prologue 1
+[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Prologue 2|Act 1, Prologue 2 →]]
 
 *Before an alehouse on a heath.*
 
@@ -230,4 +230,4 @@ Which otherwise would grow into extremes.
 
 *Exeunt.*
 
-[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Prologue Scene 2|Act 1, Prologue Scene 2 →]]
+[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Prologue 2|Act 1, Prologue 2 →]]

@@ -12,6 +12,9 @@ Sources:
 ID: henry-iv-part-ii-dp
 ---
 
+## Dramatis Personae
+
+
 - King Henry the Fourth (KING.)
 - Prince Henry (King Henry the Fifth) (PRINCE.; K. HEN.; BOTH PRINCE. AND POINS.)
 - Sir John Falstaff (FAL.)
@@ -67,27 +70,3 @@ ID: henry-iv-part-ii-dp
 - Sir John Blunt (BLUNT.)
 - Earl of Surrey (SURR.)
 - King Henry’s Page (K. HEN. PAGE)
-
-## Scenes
-
-- [[Act 1, Prologue|Act 1, Prologue →]]
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 4, Scene 5|Act 4, Scene 5 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[Act 5, Scene 5|Act 5, Scene 5 →]]
-- [[ị Epilogue|Epilogue →]]

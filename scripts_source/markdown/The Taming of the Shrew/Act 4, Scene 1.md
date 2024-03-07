@@ -1,328 +1,475 @@
 ---
-Title: The Taming of the Shrew
+Title: The Tempest
 Author: William Shakespeare
 Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
-Sources:
-  - Quarto 2 (1596)
-  - First Folio (1623)
-ID: taming-of-the-shrew-4-1
+Sources: First Folio (1623)
+ID: tempest-4-1
 ---
 
 ## Act 4, Scene 1
-[[Act 3, Scene 2|← Act 3, Scene 2]] | [[Act 4, Scene 2|Act 4, Scene 2 →]]
-
-*Petruchio’s country house.*
-
-*Enter Grumio.*
-
-**GRU.**
-Fie, fie on all tir’d jades, on all mad masters, and all foul ways! Was ever man so beaten? Was ever man so ray’d? Was ever man so weary? I am sent before to make a fire, and they are coming after to warm them. Now were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly, ere I should come by a fire to thaw me. But I with blowing the fire shall warm myself; for considering the weather, a taller man than I will take cold. Holla, ho, Curtis!
-
-*Enter Curtis.*
-
-**CURT.**
-Who is that calls so coldly?
-
-**GRU.**
-A piece of ice. If thou doubt it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A fire, good Curtis.
-
-**CURT.**
-Is my master and his wife coming, Grumio?
-
-**GRU.**
-O ay, Curtis, ay, and therefore fire, fire; cast on no water.
-
-**CURT.**
-Is she so hot a shrew as she’s reported?
-
-**GRU.**
-She was, good Curtis, before this frost; but thou know’st winter tames man, woman, and beast; for it hath tam’d my old master and my new mistress and myself, fellow Curtis.
-
-**CURT.**
-Away, you three-inch fool! I am no beast.
-
-**GRU.**
-Am I but three inches? Why, thy horn is a foot, and so long am I at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand (she being now at hand) thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?
-
-**CURT.**
-I prithee, good Grumio, tell me, how goes the world?
-
-**GRU.**
-A cold world, Curtis, in every office but thine, and therefore fire. Do thy duty and have thy duty, for my master and mistress are almost frozen to death.
-
-**CURT.**
-There’s fire ready, and therefore, good Grumio, the news.
-
-**GRU.**
-Why, “Jack, boy! Ho, boy!” and as much news as wilt thou.
-
-**CURT.**
-Come, you are so full of cony-catching!
-
-**GRU.**
-Why, therefore fire, for I have caught extreme cold. Where’s the cook? Is supper ready, the house trimm’d, rushes strew’d, cobwebs swept, the servingmen in their new fustian, their white stockings, and every officer his wedding garment on? Be the Jacks fair within, the Gills fair without, the carpets laid, and every thing in order?
-
-**CURT.**
-All ready; and therefore I pray thee, news.
-
-**GRU.**
-First, know my horse is tir’d, my master and mistress fall’n out.
-
-**CURT.**
-How?
-
-**GRU.**
-Out of their saddles into the dirt, and thereby hangs a tale.
-
-**CURT.**
-Let’s ha’t, good Grumio.
-
-**GRU.**
-Lend thine ear.
-
-**CURT.**
-Here.
-
-**GRU.**
-There.
-
-*Strikes him.*
-
-**CURT.**
-This ’tis to feel a tale, not to hear a tale.
-
-**GRU.**
-And therefore ’tis call’d a sensible tale; and this cuff was but to knock at your ear, and beseech list’ning. Now I begin: *Imprimis*, we came down a foul hill, my master riding behind my mistress⁠—
-
-**CURT.**
-Both of one horse?
-
-**GRU.**
-What’s that to thee?
-
-**CURT.**
-Why, a horse.
-
-**GRU.**
-Tell thou the tale. But hadst thou not cross’d me, thou shouldst have heard how her horse fell, and she under her horse; thou shouldst have heard in how miry a place, how she was bemoil’d, how he left her with the horse upon her, how he beat me because her horse stumbled, how she waded through the dirt to pluck him off me; how he swore, how she pray’d that never pray’d before; how I cried, how the horses ran away, how her bridle was burst; how I lost my crupper, with many things of worthy memory, which now shall die in oblivion, and thou return unexperienc’d to thy grave.
-
-**CURT.**
-By this reck’ning he is more shrew than she.
-
-**GRU.**
-Ay, and that thou and the proudest of you all shall find when he comes home. But what talk I of this? Call forth Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest; let their heads be slickly comb’d, their blue coats brush’d, and their garters of an indifferent knit; let them curtsy with their left legs, and not presume to touch a hair of my master’s horse-tail till they kiss their hands. Are they all ready?
-
-**CURT.**
-They are.
-
-**GRU.**
-Call them forth.
-
-**CURT.**
-Do you hear, ho? You must meet my master to countenance my mistress.
-
-**GRU.**
-Why, she hath a face of her own.
-
-**CURT.**
-Who knows not that?
-
-**GRU.**
-Thou, it seems, that calls for company to countenance her.
-
-**CURT.**
-I call them forth to credit her.
-
-*Enter four or five Servingmen.*
-
-**GRU.**
-Why, she comes to borrow nothing of them.
-
-**NATH.**
-Welcome home, Grumio!
-
-**PHIL.**
-How now, Grumio?
-
-**JOS.**
-What, Grumio!
-
-**NICH.**
-Fellow Grumio!
-
-**NATH.**
-How now, old lad?
-
-**GRU.**
-Welcome, you; how now, you; what, you; fellow, you—and thus much for greeting. Now, my spruce companions, is all ready, and all things neat?
-
-**NATH.**
-All things is ready. How near is our master?
-
-**GRU.**
-E’en at hand, alighted by this; and therefore be not—Cock’s passion, silence! I hear my master.
-
-*Enter Petruchio and Kate.*
-
-**PETR.**
-Where be these knaves? What, no man at door
-To hold my stirrup, nor to take my horse?
-Where is Nathaniel, Gregory, Philip?
-
-**ALL SERV.**
-Here, here, sir, here, sir.
-
-**PETR.**
-Here, sir! Here, sir! Here, sir! Here, sir!
-You loggerheaded and unpolish’d grooms!
-What? No attendance? No regard? No duty?
-Where is the foolish knave I sent before?
-
-**GRU.**
-Here, sir, as foolish as I was before.
-
-**PETR.**
-You peasant swain, you whoreson malt-horse drudge!
-Did I not bid thee meet me in the park,
-And bring along these rascal knaves with thee?
-
-**GRU.**
-Nathaniel’s coat, sir, was not fully made,
-And Gabr’el’s pumps were all unpink’d i’ th’ heel;
-There was no link to color Peter’s hat,
-And Walter’s dagger was not come from sheathing;
-There were none fine but Adam, Rafe, and Gregory;
-The rest were ragged, old, and beggarly,
-Yet, as they are, here are they come to meet you.
-
-**PETR.**
-Go, rascals, go, and fetch my supper in.
-*(Exeunt Servants.)*
-*(Sings.)*
-*“Where is the life that late I led?*
-*Where are those”⁠—*
-Sit down, Kate, and welcome. Soud, soud, soud, soud!
-*(Enter Servants with supper.)*
-Why, when, I say? Nay, good sweet Kate, be merry.
-Off with my boots, you rogues! You villains, when?
-*(Sings.)*
-*“It was the friar of orders grey,*
-*As he forth walked on his way”⁠—*
-Out, you rogue, you pluck my foot awry.
-Take that, and mend the plucking off the other.
-*(Strikes him.)*
-Be merry, Kate. Some water here; what ho!
-*(Enter one with water.)*
-Where’s my spaniel Troilus? Sirrah, get you hence,
-And bid my cousin Ferdinand come hither;
-One, Kate, that you must kiss, and be acquainted with.
-Where are my slippers? Shall I have some water?
-Come, Kate, and wash, and welcome heartily.
-You whoreson villain, will you let it fall?
-
-*Strikes him.*
-
-**KATH.**
-Patience, I pray you, ’twas a fault unwilling.
-
-**PETR.**
-A whoreson, beetle-headed, flap-ear’d knave!
-Come, Kate, sit down, I know you have a stomach.
-Will you give thanks, sweet Kate, or else shall I?
-What’s this? Mutton?
-
-**JOS.**
-           Ay.
-
-**PETR.**
-              Who brought it?
-
-**PET.**
-                         I.
-
-**PETR.**
-’Tis burnt, and so is all the meat.
-What dogs are these? Where is the rascal cook?
-How durst you, villains, bring it from the dresser
-And serve it thus to me that love it not?
-There, take it to you, trenchers, cups, and all.
-*(He throws down the table and meat and all, and beats them.)*
-You heedless joltheads and unmanner’d slaves!
-What, do you grumble? I’ll be with you straight.
-
-*Exeunt Servants.*
-
-**KATH.**
-I pray you, husband, be not so disquiet.
-The meat was well, if you were so contented.
-
-**PETR.**
-I tell thee, Kate, ’twas burnt and dried away,
-And I expressly am forbid to touch it;
-For it engenders choler, planteth anger,
-And better ’twere that both of us did fast,
-Since of ourselves, ourselves are choleric,
-Than feed it with such overroasted flesh.
-Be patient, tomorrow’t shall be mended,
-And for this night we’ll fast for company.
-Come, I will bring thee to thy bridal chamber.
-
-*Exeunt.*
-
-*Enter Servants severally.*
-
-**NATH.**
-Peter, didst ever see the like?
-
-**PET.**
-He kills her in her own humor.
-
-*Enter Curtis, a servant.*
-
-**GRU.**
-Where is he?
-
-**CURT.**
-In her chamber, making a sermon of continency to her,
-And rails, and swears, and rates, that she, poor soul,
-Knows not which way to stand, to look, to speak,
-And sits as one new risen from a dream.
-Away, away, for he is coming hither.
-
-*Exeunt.*
-
-*Enter Petruchio.*
-
-**PETR.**
-Thus have I politicly begun my reign,
-And ’tis my hope to end successfully.
-My falcon now is sharp and passing empty,
-And till she stoop, she must not be full-gorg’d,
-For then she never looks upon her lure.
-Another way I have to man my haggard,
-To make her come, and know her keeper’s call,
-That is, to watch her, as we watch these kites
-That bate and beat and will not be obedient.
-She eat no meat today, nor none shall eat;
-Last night she slept not, nor tonight she shall not;
-As with the meat, some undeserved fault
-I’ll find about the making of the bed,
-And here I’ll fling the pillow, there the bolster,
-This way the coverlet, another way the sheets.
-Ay, and amid this hurly I intend
-That all is done in reverend care of her,
-And in conclusion, she shall watch all night,
-And if she chance to nod I’ll rail and brawl,
-And with the clamor keep her still awake.
-This is a way to kill a wife with kindness,
-And thus I’ll curb her mad and headstrong humor.
-He that knows better how to tame a shrew,
-Now let him speak; ’tis charity to shew.
+[[Act 3, Scene 3|← Act 3, Scene 3]] | [[Act 5, Scene 1|Act 5, Scene 1 →]]
+
+*Before Prospero’s cell.*
+
+*Enter Prospero, Ferdinand, and Miranda.*
+
+**PROS.**
+If I have too austerely punish’d you,
+Your compensation makes amends, for I
+Have given you here a third of mine own life,
+Or that for which I live; who once again
+I tender to thy hand. All thy vexations
+Were but my trials of thy love, and thou
+Hast strangely stood the test. Here, afore heaven,
+I ratify this my rich gift. O Ferdinand,
+Do not smile at me that I boast her off,
+For thou shalt find she will outstrip all praise
+And make it halt behind her.
+
+**FER.**
+                I do believe it
+Against an oracle.
+
+**PROS.**
+Then, as my gift, and thine own acquisition
+Worthily purchas’d, take my daughter. But
+If thou dost break her virgin-knot before
+All sanctimonious ceremonies may
+With full and holy rite be minist’red,
+No sweet aspersion shall the heavens let fall
+To make this contract grow; but barren hate,
+Sour-ey’d disdain, and discord shall bestrew
+The union of your bed with weeds so loathly
+That you shall hate it both. Therefore take heed,
+As Hymen’s lamps shall light you.
+
+**FER.**
+                  As I hope
+For quiet days, fair issue, and long life,
+With such love as ’tis now, the murkiest den,
+The most opportune place, the strong’st suggestion
+Our worser genius can, shall never melt
+Mine honor into lust, to take away
+The edge of that day’s celebration,
+When I shall think or Phoebus’ steeds are founder’d
+Or Night kept chain’d below.
+
+**PROS.**
+                Fairly spoke.
+Sit then and talk with her, she is thine own.
+What, Ariel! My industrious servant, Ariel!
+
+*Enter Ariel.*
+
+**ARI.**
+What would my potent master? Here I am.
+
+**PROS.**
+Thou and thy meaner fellows your last service
+Did worthily perform; and I must use you
+In such another trick. Go bring the rabble
+( o’er whom I give thee pow’r) here to this place.
+Incite them to quick motion, for I must
+Bestow upon the eyes of this young couple
+Some vanity of mine art. It is my promise,
+And they expect it from me.
+
+**ARI.**
+                Presently?
+
+**PROS.**
+Ay, with a twink.
+
+**ARI.**
+*Before you can say “come” and “go,”*
+*And breathe twice, and cry “so, so,”*
+*Each one, tripping on his toe,*
+*Will be here with mop and mow.*
+*Do you love me, master? No?*
+
+**PROS.**
+Dearly, my delicate Ariel. Do not approach
+Till thou dost hear me call.
+
+**ARI.**
+              Well; I conceive.
 
 *Exit.*
 
-[[Act 3, Scene 2|← Act 3, Scene 2]] | [[Act 4, Scene 2|Act 4, Scene 2 →]]
+**PROS.**
+Look thou be true; do not give dalliance
+Too much the rein. The strongest oaths are straw
+To th’ fire i’ th’ blood. Be more abstenious,
+Or else good night your vow!
+
+**FER.**
+                I warrant you, sir,
+The white cold virgin snow upon my heart
+Abates the ardor of my liver.
+
+**PROS.**
+                Well.
+Now come, my Ariel, bring a corollary,
+Rather than want a spirit. Appear, and pertly!
+No tongue! All eyes! Be silent.
+
+*Soft music.*
+
+*Enter Iris.*
+
+**IRIS.**
+Ceres, most bounteous lady, thy rich leas
+Of wheat, rye, barley, fetches, oats, and pease;
+Thy turfy mountains, where live nibbling sheep,
+And flat meads thatch’d with stover, them to keep;
+Thy banks with pioned and twilled brims,
+Which spungy April at thy hest betrims,
+To make cold nymphs chaste crowns; and thy broom-groves,
+Whose shadow the dismissed bachelor loves,
+Being lass-lorn; thy pole-clipt vineyard,
+And thy sea-marge, sterile and rocky-hard,
+Where thou thyself dost air—the Queen o’ th’ sky,
+Whose wat’ry arch and messenger am I,
+Bids thee leave these, and with her sovereign Grace,
+Here on this grass-plot, in this very place,
+To come and sport. Her peacocks fly amain.
+*(Juno descends slowly in her car.)*
+Approach, rich Ceres, her to entertain.
+
+*Enter Ceres.*
+
+**CER.**
+Hail, many-colored messenger, that ne’er
+Dost disobey the wife of Jupiter;
+Who with thy saffron wings upon my flow’rs
+Diffusest honey-drops, refreshing show’rs,
+And with each end of thy blue bow dost crown
+My bosky acres and my unshrubb’d down,
+Rich scarf to my proud earth—why hath thy Queen
+Summon’d me hither, to this short-grass’d green?
+
+**IRIS.**
+A contract of true love to celebrate,
+And some donation freely to estate
+On the bless’d lovers.
+
+**CER.**
+           Tell me, heavenly bow,
+If Venus or her son, as thou dost know,
+Do now attend the Queen? Since they did plot
+The means that dusky Dis my daughter got,
+Her and her blind boy’s scandall’d company
+I have forsworn.
+
+**IRIS.**
+           Of her society
+Be not afraid. I met her Deity
+Cutting the clouds towards Paphos; and her son
+Dove-drawn with her. Here thought they to have done
+Some wanton charm upon this man and maid,
+Whose vows are, that no bed-right shall be paid
+Till Hymen’s torch be lighted; but in vain,
+Mars’s hot minion is return’d again;
+Her waspish-headed son has broke his arrows,
+Swears he will shoot no more, but play with sparrows,
+And be a boy right out.
+
+*Juno alights.*
+
+**CER.**
+              Highest Queen of state,
+Great Juno, comes, I know her by her gait.
+
+**JUNO.**
+How does my bounteous sister? Go with me
+To bless this twain, that they may prosperous be,
+And honor’d in their issue.
+
+*They sing.*
+
+**JUNO.**
+*Honor, riches, marriage-blessing,*
+*Long continuance, and increasing,*
+*Hourly joys be still upon you!*
+*Juno sings her blessings on you.*
+
+**CER.**
+*Earth’s increase, foison plenty,*
+*Barns and garners never empty;*
+*Vines with clust’ring bunches growing,*
+*Plants with goodly burden bowing;*
+*Spring come to you at the farthest*
+*In the very end of harvest!*
+*Scarcity and want shall shun you,*
+*Ceres’ blessing so is on you.*
+
+**FER.**
+This is a most majestic vision, and
+Harmonious charmingly. May I be bold
+To think these spirits?
+
+**PROS.**
+           Spirits, which by mine art
+I have from their confines call’d to enact
+My present fancies.
+
+**FER.**
+           Let me live here ever;
+So rare a wond’red father and a wise
+Makes this place Paradise.
+
+*Juno and Ceres whisper, and send Iris on employment.*
+
+**PROS.**
+              Sweet now, silence!
+Juno and Ceres whisper seriously;
+There’s something else to do. Hush and be mute,
+Or else our spell is marr’d.
+
+**IRIS.**
+You nymphs, call’d Naiades, of the windring brooks,
+With your sedg’d crowns and ever-harmless looks,
+Leave your crisp channels, and on this green land
+Answer your summons; Juno does command.
+Come, temperate nymphs, and help to celebrate
+A contract of true love; be not too late.
+*(Enter certain Nymphs.)*
+You sunburn’d sicklemen, of August weary,
+Come hither from the furrow and be merry.
+Make holiday; your rye-straw hats put on,
+And these fresh nymphs encounter every one
+In country footing.
+
+*Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance, towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish.*
+
+**PROS.**
+*(Aside.)*
+I had forgot that foul conspiracy
+Of the beast Caliban and his confederates
+Against my life. The minute of their plot
+Is almost come.
+*(To the Spirits.)*
+        Well done, avoid; no more.
+
+**FER.**
+This is strange. Your father’s in some passion
+That works him strongly.
+
+**MIR.**
+              Never till this day
+Saw I him touch’d with anger, so distemper’d.
+
+**PROS.**
+You do look, my son, in a mov’d sort,
+As if you were dismay’d; be cheerful, sir.
+Our revels now are ended. These our actors
+(As I foretold you) were all spirits, and
+Are melted into air, into thin air,
+And like the baseless fabric of this vision,
+The cloud-capp’d tow’rs, the gorgeous palaces,
+The solemn temples, the great globe itself,
+Yea, all which it inherit, shall dissolve,
+And like this insubstantial pageant faded
+Leave not a rack behind. We are such stuff
+As dreams are made on; and our little life
+Is rounded with a sleep. Sir, I am vex’d;
+Bear with my weakness, my old brain is troubled.
+Be not disturb’d with my infirmity.
+If you be pleas’d, retire into my cell,
+And there repose. A turn or two I’ll walk
+To still my beating mind.
+
+**BOTH FER. AND MIR.**
+              We wish your peace.
+
+**PROS.**
+*(To Ariel.)*
+Come with a thought.
+*(To Ferdinand and Miranda.)*
+           I thank thee.
+*(Exeunt Ferdinand and Miranda.)*
+                     Ariel! Come.
+
+*Enter Ariel.*
+
+**ARI.**
+Thy thoughts I cleave to. What’s thy pleasure?
+
+**PROS.**
+                         Spirit,
+We must prepare to meet with Caliban.
+
+**ARI.**
+Ay, my commander. When I presented Ceres,
+I thought to have told thee of it, but I fear’d
+Lest I might anger thee.
+
+**PROS.**
+Say again, where didst thou leave these varlots?
+
+**ARI.**
+I told you, sir, they were red-hot with drinking,
+So full of valor that they smote the air
+For breathing in their faces; beat the ground
+For kissing of their feet; yet always bending
+Towards their project. Then I beat my tabor,
+At which like unback’d colts they prick’d their ears,
+Advanc’d their eyelids, lifted up their noses
+As they smelt music. So I charm’d their ears
+That calf-like they my lowing follow’d through
+Tooth’d briers, sharp furzes, pricking goss, and thorns,
+Which ent’red their frail shins. At last I left them
+I’ th’ filthy-mantled pool beyond your cell,
+There dancing up to th’ chins, that the foul lake
+O’erstunk their feet.
+
+**PROS.**
+           This was well done, my bird.
+Thy shape invisible retain thou still.
+The trumpery in my house, go bring it hither,
+For stale to catch these thieves.
+
+**ARI.**
+                  I go, I go.
+
+*Exit.*
+
+**PROS.**
+A devil, a born devil, on whose nature
+Nurture can never stick; on whom my pains,
+Humanely taken, all, all lost, quite lost;
+And as with age his body uglier grows,
+So his mind cankers. I will plague them all,
+Even to roaring.
+*(Enter Ariel, loaden with glistering apparel, etc.)*
+Come, hang them on this line.
+
+*Prospero and Ariel remain, invisible.*
+
+*Enter Caliban, Stephano, and Trinculo, all wet.*
+
+**CAL.**
+Pray you tread softly, that the blind mole may not
+Hear a foot fall; we now are near his cell.
+
+**STE.**
+Monster, your fairy, which you say is a harmless fairy, has done little better than play’d the Jack with us.
+
+**TRIN.**
+Monster, I do smell all horse-piss, at which my nose is in great indignation.
+
+**STE.**
+So is mine. Do you hear, monster? If I should take a displeasure against you, look you⁠—
+
+**TRIN.**
+Thou wert but a lost monster.
+
+**CAL.**
+Good my lord, give me thy favor still.
+Be patient, for the prize I’ll bring thee to
+Shall hoodwink this mischance; therefore speak softly,
+All’s hush’d as midnight yet.
+
+**TRIN.**
+Ay, but to lose our bottles in the pool⁠—
+
+**STE.**
+There is not only disgrace and dishonor in that, monster, but an infinite loss.
+
+**TRIN.**
+That’s more to me than my wetting; yet this is your harmless fairy, monster!
+
+**STE.**
+I will fetch off my bottle, though I be o’er ears for my labor.
+
+**CAL.**
+Prithee, my king, be quiet. Seest thou here,
+This is the mouth o’ th’ cell. No noise, and enter.
+Do that good mischief which may make this island
+Thine own forever, and I, thy Caliban,
+For aye thy foot-licker.
+
+**STE.**
+Give me thy hand. I do begin to have bloody thoughts.
+
+**TRIN.**
+O King Stephano! O peer! O worthy Stephano! Look what a wardrobe here is for thee!
+
+**CAL.**
+Let it alone, thou fool, it is but trash.
+
+**TRIN.**
+O, ho, monster! We know what belongs to a frippery. O King Stephano!
+
+**STE.**
+Put off that gown, Trinculo. By this hand, I’ll have that gown.
+
+**TRIN.**
+Thy Grace shall have it.
+
+**CAL.**
+The dropsy drown this fool! What do you mean
+To dote thus on such luggage? Let’t alone
+And do the murder first. If he awake,
+From toe to crown he’ll fill our skins with pinches,
+Make us strange stuff.
+
+**STE.**
+Be you quiet, monster. Mistress line, is not this my jerkin? Now is the jerkin under the line. Now, jerkin, you are like to lose your hair, and prove a bald jerkin.
+
+**TRIN.**
+Do, do; we steal by line and level, and’t like your Grace.
+
+**STE.**
+I thank thee for that jest; here’s a garment for’t. Wit shall not go unrewarded while I am king of this country. ’Steal by line and level’ is an excellent pass of pate; there’s another garment for’t.
+
+**TRIN.**
+Monster, come put some lime upon your fingers, and away with the rest.
+
+**CAL.**
+I will have none on’t. We shall lose our time,
+And all be turn’d to barnacles, or to apes
+With foreheads villainous low.
+
+**STE.**
+Monster, lay-to your fingers. Help to bear this away where my hogshead of wine is, or I’ll turn you out of my kingdom. Go to, carry this.
+
+**TRIN.**
+And this.
+
+**STE.**
+Ay, and this.
+
+*A noise of hunters heard. Enter diverse Spirits in shape of dogs and hounds, hunting them about; Prospero and Ariel setting them on.*
+
+**PROS.**
+Hey, Mountain, hey!
+
+**ARI.**
+Silver! There it goes, Silver!
+
+**PROS.**
+Fury, Fury! There, Tyrant, there! Hark, hark!
+*(Caliban, Stephano, and Trinculo are driven out.)*
+Go, charge my goblins that they grind their joints
+With dry convulsions, shorten up their sinews
+With aged cramps, and more pinch-spotted make them
+Than pard or cat o’ mountain.
+
+**ARI.**
+                Hark, they roar!
+
+**PROS.**
+Let them be hunted soundly. At this hour
+Lies at my mercy all mine enemies.
+Shortly shall all my labors end, and thou
+Shalt have the air at freedom. For a little
+Follow, and do me service.
+
+*Exeunt.*
+
+[[Act 3, Scene 3|← Act 3, Scene 3]] | [[Act 5, Scene 1|Act 5, Scene 1 →]]

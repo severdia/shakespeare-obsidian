@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: cymbeline-dp
 ---
 
+## Dramatis Personae
+
+
 - Cymbeline (CYM.)
 - Posthumus Leonatus (POST.)
 - Jachimo (JACH.)
@@ -52,33 +55,3 @@ ID: cymbeline-dp
 - Frenchman (FRENCH.)
 - Spaniard (SPANIARD.)
 - Dutchman (DUTCHMAN.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 1, Scene 4|Act 1, Scene 4 →]]
-- [[Act 1, Scene 5|Act 1, Scene 5 →]]
-- [[Act 1, Scene 6|Act 1, Scene 6 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 2, Scene 5|Act 2, Scene 5 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 3, Scene 4|Act 3, Scene 4 →]]
-- [[Act 3, Scene 5|Act 3, Scene 5 →]]
-- [[Act 3, Scene 6|Act 3, Scene 6 →]]
-- [[Act 3, Scene 7|Act 3, Scene 7 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[Act 5, Scene 5|Act 5, Scene 5 →]]

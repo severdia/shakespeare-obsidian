@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: twelfth-night-dp
 ---
 
+## Dramatis Personae
+
+
 - Orsino (DUKE.)
 - Sir Toby Belch (SIR TO.)
 - Feste (CLO.)
@@ -28,24 +31,3 @@ ID: twelfth-night-dp
 - Curio (CUR.)
 - Priest (PRIEST.)
 - Olivia’s Servant (SERV.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 1, Scene 4|Act 1, Scene 4 →]]
-- [[Act 1, Scene 5|Act 1, Scene 5 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 2, Scene 5|Act 2, Scene 5 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 3, Scene 4|Act 3, Scene 4 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]

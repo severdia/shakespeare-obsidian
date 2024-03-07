@@ -13,7 +13,7 @@ ID: henry-viii-1-1
 ---
 
 ## Act 1, Scene 1
-[[Act 1, Act 1 Prologue|← Act 1, Act 1 Prologue]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
+[[Act 1, Prologue|← Act 1, Prologue]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
 
 *London. An ante-chamber in the palace.*
 
@@ -412,4 +412,4 @@ By dark’ning my clear sun. My lord, farewell.
 
 *Exeunt.*
 
-[[Act 1, Act 1 Prologue|← Act 1, Act 1 Prologue]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
+[[Act 1, Prologue|← Act 1, Prologue]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]

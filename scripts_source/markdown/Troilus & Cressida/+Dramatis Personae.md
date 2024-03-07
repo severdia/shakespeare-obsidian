@@ -12,6 +12,9 @@ Sources:
 ID: troilus-and-cressida-dp
 ---
 
+## Dramatis Personae
+
+
 - Troilus (TRO.)
 - Ulysses (ULYSS.)
 - Hector (HECT.)
@@ -48,31 +51,3 @@ ID: troilus-and-cressida-dp
 - Greek Trumpeter (GREEK TRUM.)
 - Musicians (MUSIC.)
 - Trojan Soldiers (TROJ. SOLD.)
-
-## Scenes
-
-- [[Act 1, Prologue|Act 1, Prologue →]]
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 4, Scene 5|Act 4, Scene 5 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[Act 5, Scene 5|Act 5, Scene 5 →]]
-- [[Act 5, Scene 6|Act 5, Scene 6 →]]
-- [[Act 5, Scene 7|Act 5, Scene 7 →]]
-- [[Act 5, Scene 8|Act 5, Scene 8 →]]
-- [[Act 5, Scene 9|Act 5, Scene 9 →]]
-- [[Act 5, Scene 10|Act 5, Scene 10 →]]

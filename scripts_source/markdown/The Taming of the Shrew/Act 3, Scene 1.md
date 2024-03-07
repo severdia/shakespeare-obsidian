@@ -1,179 +1,192 @@
 ---
-Title: The Taming of the Shrew
+Title: The Tempest
 Author: William Shakespeare
 Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
-Sources:
-  - Quarto 2 (1596)
-  - First Folio (1623)
-ID: taming-of-the-shrew-3-1
+Sources: First Folio (1623)
+ID: tempest-3-1
 ---
 
 ## Act 3, Scene 1
-[[Act 2, Scene 1|← Act 2, Scene 1]] | [[Act 3, Scene 2|Act 3, Scene 2 →]]
+[[Act 2, Scene 2|← Act 2, Scene 2]] | [[Act 3, Scene 2|Act 3, Scene 2 →]]
 
-*Padua. Baptista’s house.*
+*Before Prospero’s cell.*
 
-*Enter Lucentio as Cambio, Hortensio as Litio, and Bianca.*
+*Enter Ferdinand bearing a log.*
 
-**LUC.**
-Fiddler, forbear, you grow too forward, sir.
-Have you so soon forgot the entertainment
-Her sister Katherine welcom’d you withal?
+**FER.**
+There be some sports are painful, and their labor
+Delight in them sets off; some kinds of baseness
+Are nobly undergone; and most poor matters
+Point to rich ends. This my mean task
+Would be as heavy to me as odious, but
+The mistress which I serve quickens what’s dead,
+And makes my labors pleasures. O, she is
+Ten times more gentle than her father’s crabbed;
+And he’s compos’d of harshness. I must remove
+Some thousands of these logs, and pile them up,
+Upon a sore injunction. My sweet mistress
+Weeps when she sees me work, and says such baseness
+Had never like executor. I forget;
+But these sweet thoughts do even refresh my labors,
+Most busil’est when I do it.
 
-**HOR.**
-But, wrangling pedant, this is
-The patroness of heavenly harmony.
-Then give me leave to have prerogative,
-And when in music we have spent an hour,
-Your lecture shall have leisure for as much.
+*Enter Miranda, and Prospero at a distance, unseen.*
 
-**LUC.**
-Preposterous ass, that never read so far
-To know the cause why music was ordain’d!
-Was it not to refresh the mind of man
-After his studies or his usual pain?
-Then give me leave to read philosophy,
-And while I pause, serve in your harmony.
+**MIR.**
+              Alas, now pray you
+Work not so hard. I would the lightning had
+Burnt up those logs that you are enjoin’d to pile!
+Pray set it down, and rest you. When this burns,
+’Twill weep for having wearied you. My father
+Is hard at study; pray now rest yourself,
+He’s safe for these three hours.
 
-**HOR.**
-Sirrah, I will not bear these braves of thine.
+**FER.**
+                O most dear mistress,
+The sun will set before I shall discharge
+What I must strive to do.
 
-**BIAN.**
-Why, gentlemen, you do me double wrong
-To strive for that which resteth in my choice.
-I am no breeching scholar in the schools,
-I’ll not be tied to hours, nor ’pointed times,
-But learn my lessons as I please myself.
-And to cut off all strife, here sit we down:
-Take you your instrument, play you the whiles,
-His lecture will be done ere you have tun’d.
+**MIR.**
+              If you’ll sit down,
+I’ll bear your logs the while. Pray give me that,
+I’ll carry it to the pile.
 
-**HOR.**
-You’ll leave his lecture when I am in tune?
+**FER.**
+           No, precious creature,
+I had rather crack my sinews, break my back,
+Than you should such dishonor undergo,
+While I sit lazy by.
 
-**LUC.**
-That will be never, tune your instrument.
+**MIR.**
+           It would become me
+As well as it does you; and I should do it
+With much more ease, for my good will is to it,
+And yours it is against.
 
-**BIAN.**
-Where left we last?
-
-**LUC.**
-Here, madam:
-*“Hic ibat Simois; hic est Sigeia tellus;*
-*Hic steterat Priami regia celsa senis.”*
-
-**BIAN.**
-Construe them.
-
-**LUC.**
-*“Hic ibat,”* as I told you before, *“Simois,”* I am Lucentio, *“hic est,”* son unto Vincentio of Pisa, *“Sigeia tellus,”* disguis’d thus to get your love, *“Hic steterat,”* and that Lucentio that comes a-wooing, *“Priami,”* is my man Tranio, *“regia,”* bearing my port, *“celsa senis,”* that we might beguile the old pantaloon.
-
-**HOR.**
-Madam, my instrument’s in tune.
-
-**BIAN.**
-Let’s hear. O fie, the treble jars.
-
-**LUC.**
-Spit in the hole, man, and tune again.
-
-**BIAN.**
-Now let me see if I can construe it: *“Hic ibat Simois,”* I know you not, *“hic est Sigeia tellus,”* I trust you not, *“Hic steterat Priami,”* take heed he hear us not, *“regia,”* presume not, *“celsa senis,”* despair not.
-
-**HOR.**
-Madam, ’tis now in tune.
-
-**LUC.**
-              All but the base.
-
-**HOR.**
-The base is right, ’tis the base knave that jars.
+**PROS.**
 *(Aside.)*
-How fiery and forward our pedant is!
-Now, for my life, the knave doth court my love:
-*Pedascule*, I’ll watch you better yet.
+              Poor worm, thou art infected!
+This visitation shows it.
 
-**BIAN.**
-In time I may believe, yet I mistrust.
+**MIR.**
+              You look wearily.
 
-**LUC.**
-Mistrust it not, for sure Aeacides
-Was Ajax, call’d so from his grandfather.
+**FER.**
+No, noble mistress, ’tis fresh morning with me
+When you are by at night. I do beseech you⁠—
+Chiefly that I might set it in my prayers⁠—
+What is your name?
 
-**BIAN.**
-I must believe my master, else, I promise you,
-I should be arguing still upon that doubt.
-But let it rest. Now, Litio, to you:
-Good master, take it not unkindly, pray,
-That I have been thus pleasant with you both.
+**MIR.**
+           Miranda.—O my father,
+I have broke your hest to say so.
 
-**HOR.**
-*(To Lucentio.)*
-You may go walk, and give me leave a while;
-My lessons make no music in three parts.
+**FER.**
+                  Admir’d Miranda,
+Indeed the top of admiration! Worth
+What’s dearest to the world! Full many a lady
+I have ey’d with best regard, and many a time
+Th’ harmony of their tongues hath into bondage
+Brought my too diligent ear. For several virtues
+Have I lik’d several women, never any
+With so full soul but some defect in her
+Did quarrel with the noblest grace she ow’d,
+And put it to the foil. But you, O you,
+So perfect and so peerless, are created
+Of every creature’s best!
 
-**LUC.**
-Are you so formal, sir? Well, I must wait,
+**MIR.**
+              I do not know
+One of my sex; no woman’s face remember,
+Save, from my glass, mine own; nor have I seen
+More that I may call men than you, good friend,
+And my dear father. How features are abroad
+I am skilless of; but by my modesty
+(The jewel in my dower), I would not wish
+Any companion in the world but you;
+Nor can imagination form a shape,
+Besides yourself, to like of. But I prattle
+Something too wildly, and my father’s precepts
+I therein do forget.
+
+**FER.**
+           I am, in my condition,
+A prince, Miranda; I do think, a king
+(I would, not so!), and would no more endure
+This wooden slavery than to suffer
+The flesh-fly blow my mouth. Hear my soul speak:
+The very instant that I saw you, did
+My heart fly to your service, there resides,
+To make me slave to it, and for your sake
+Am I this patient log-man.
+
+**MIR.**
+              Do you love me?
+
+**FER.**
+O heaven, O earth, bear witness to this sound,
+And crown what I profess with kind event
+If I speak true! If hollowly, invert
+What best is boded me to mischief! I,
+Beyond all limit of what else i’ th’ world,
+Do love, prize, honor you.
+
+**MIR.**
+              I am a fool
+To weep at what I am glad of.
+
+**PROS.**
 *(Aside.)*
-And watch withal, for but I be deceiv’d,
-Our fine musician groweth amorous.
+                Fair encounter
+Of two most rare affections! Heavens rain grace
+On that which breeds between ’em!
 
-**HOR.**
-Madam, before you touch the instrument,
-To learn the order of my fingering,
-I must begin with rudiments of art,
-To teach you gamut in a briefer sort,
-More pleasant, pithy, and effectual,
-Than hath been taught by any of my trade;
-And there it is in writing, fairly drawn.
+**FER.**
+                  Wherefore weep you?
 
-**BIAN.**
-Why, I am past my gamut long ago.
+**MIR.**
+At mine unworthiness, that dare not offer
+What I desire to give; and much less take
+What I shall die to want. But this is trifling,
+And all the more it seeks to hide itself,
+The bigger bulk it shows. Hence, bashful cunning,
+And prompt me, plain and holy innocence!
+I am your wife, if you will marry me;
+If not, I’ll die your maid. To be your fellow
+You may deny me, but I’ll be your servant,
+Whether you will or no.
 
-**HOR.**
-Yet read the gamut of Hortensio.
+**FER.**
+              My mistress, dearest,
+And I thus humble ever.
 
-**BIAN.**
-*(Reads.)*
-*“Gamut I am, the ground of all accord:*
-*A *re*, to plead Hortensio’s passion;*
-*B *mi*, Bianca, take him for thy lord,*
-*C *fa* ut, that loves with all affection.*
-*D *sol re*, one cliff, two notes have I,*
-*E *la mi*, show pity, or I die.”*
-Call you this gamut? Tut, I like it not.
-Old fashions please me best; I am not so nice
-To change true rules for odd inventions.
+**MIR.**
+              My husband then?
 
-*Enter Baptista’s Messenger.*
+**FER.**
+Ay, with a heart as willing
+As bondage e’er of freedom. Here’s my hand.
 
-**BAP. MESS.**
-Mistress, your father prays you leave your books,
-And help to dress your sister’s chamber up.
-You know tomorrow is the wedding-day.
+**MIR.**
+And mine, with my heart in’t. And now farewell
+Till half an hour hence.
 
-**BIAN.**
-Farewell, sweet masters both, I must be gone.
+**FER.**
+              A thousand, thousand!
 
-*Exeunt Bianca and Baptista’s Messenger.*
+*Exeunt Ferdinand and Miranda severally.*
 
-**LUC.**
-Faith, mistress, then I have no cause to stay.
+**PROS.**
+So glad of this as they I cannot be,
+Who are surpris’d withal; but my rejoicing
+At nothing can be more. I’ll to my book,
+For yet ere supper-time must I perform
+Much business appertaining.
 
 *Exit.*
 
-**HOR.**
-But I have cause to pry into this pedant.
-Methinks he looks as though he were in love;
-Yet if thy thoughts, Bianca, be so humble
-To cast thy wand’ring eyes on every stale,
-Seize thee that list. If once I find thee ranging,
-Hortensio will be quit with thee by changing.
-
-*Exit.*
-
-[[Act 2, Scene 1|← Act 2, Scene 1]] | [[Act 3, Scene 2|Act 3, Scene 2 →]]
+[[Act 2, Scene 2|← Act 2, Scene 2]] | [[Act 3, Scene 2|Act 3, Scene 2 →]]

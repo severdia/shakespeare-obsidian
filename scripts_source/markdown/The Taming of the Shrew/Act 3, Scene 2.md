@@ -1,436 +1,271 @@
 ---
-Title: The Taming of the Shrew
+Title: The Tempest
 Author: William Shakespeare
 Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
 Version: 4.3
-Sources:
-  - Quarto 2 (1596)
-  - First Folio (1623)
-ID: taming-of-the-shrew-3-2
+Sources: First Folio (1623)
+ID: tempest-3-2
 ---
 
 ## Act 3, Scene 2
-[[Act 3, Scene 1|← Act 3, Scene 1]] | [[Act 4, Scene 1|Act 4, Scene 1 →]]
+[[Act 3, Scene 1|← Act 3, Scene 1]] | [[Act 3, Scene 3|Act 3, Scene 3 →]]
 
-*Padua. Before Baptista’s house.*
+*Another part of the island.*
 
-*Enter Baptista, Gremio, Tranio as Lucentio, Katherine, Bianca, Lucentio as Cambio, and others, attendants.*
+*Enter Caliban, Stephano, and Trinculo.*
 
-**BAP.**
-*(To Tranio.)*
-*Signior* Lucentio, this is the ’pointed day,
-That Katherine and Petruchio should be married,
-And yet we hear not of our son-in-law.
-What will be said? What mockery will it be,
-To want the bridegroom when the priest attends
-To speak the ceremonial rites of marriage?
-What says Lucentio to this shame of ours?
+**STE.**
+Tell not me. When the butt is out, we will drink water—not a drop before; therefore bear up and board ’em. Servant-monster, drink to me.
 
-**KATH.**
-No shame but mine. I must forsooth be forc’d
-To give my hand oppos’d against my heart
-Unto a mad-brain rudesby full of spleen,
-Who woo’d in haste, and means to wed at leisure.
-I told you, I, he was a frantic fool,
-Hiding his bitter jests in blunt behavior;
-And to be noted for a merry man,
-He’ll woo a thousand, ’point the day of marriage,
-Make friends, invite, and proclaim the banes,
-Yet never means to wed where he hath woo’d.
-Now must the world point at poor Katherine,
-And say, “Lo, there is mad Petruchio’s wife,
-If it would please him come and marry her!”
+**TRIN.**
+Servant-monster? The folly of this island! They say there’s but five upon this isle: we are three of them; if th’ other two be brain’d like us, the state totters.
 
-**TRA.**
-Patience, good Katherine, and Baptista too.
-Upon my life, Petruchio means but well,
-Whatever fortune stays him from his word.
-Though he be blunt, I know him passing wise;
-Though he be merry, yet withal he’s honest.
+**STE.**
+Drink, servant-monster, when I bid thee. Thy eyes are almost set in thy head.
 
-**KATH.**
-Would Katherine had never seen him though!
+**TRIN.**
+Where should they be set else? He were a brave monster indeed if they were set in his tail.
 
-*Exit weeping followed by Bianca and others.*
+**STE.**
+My man-monster hath drown’d his tongue in sack. For my part, the sea cannot drown me; I swam, ere I could recover the shore, five and thirty leagues off and on. By this light, thou shalt be my lieutenant, monster, or my standard.
 
-**BAP.**
-Go, girl, I cannot blame thee now to weep,
-For such an injury would vex a very saint,
-Much more a shrew of thy impatient humor.
+**TRIN.**
+Your lieutenant if you list, he’s no standard.
 
-*Enter Biondello.*
+**STE.**
+We’ll not run, *Monsieur* Monster.
 
-**BION.**
-Master, master, news, old news, and such news as you never heard of!
+**TRIN.**
+Nor go neither; but you’ll lie like dogs, and yet say nothing neither.
 
-**BAP.**
-Is it new and old too? How may that be?
+**STE.**
+Moon-calf, speak once in thy life, if thou beest a good moon-calf.
 
-**BION.**
-Why, is it not news to hear of Petruchio’s coming?
+**CAL.**
+How does thy honor? Let me lick thy shoe. I’ll not serve him, he is not valiant.
 
-**BAP.**
-Is he come?
+**TRIN.**
+Thou liest, most ignorant monster, I am in case to justle a constable. Why, thou debosh’d fish thou, was there ever man a coward that hath drunk so much sack as I today? Wilt thou tell a monstrous lie, being but half a fish and half a monster?
 
-**BION.**
-Why, no, sir.
+**CAL.**
+Lo, how he mocks me! Wilt thou let him, my lord?
 
-**BAP.**
-What then?
-
-**BION.**
-He is coming.
-
-**BAP.**
-When will he be here?
-
-**BION.**
-When he stands where I am, and sees you there.
+**TRIN.**
+“Lord,” quoth he? That a monster should be such a natural!
 
-**TRA.**
-But say, what to thine old news?
+**CAL.**
+Lo, lo again. Bite him to death, I prithee.
 
-**BION.**
-Why, Petruchio is coming in a new hat and an old jerkin; a pair of old breeches thrice turn’d; a pair of boots that have been candle-cases, one buckled, another lac’d; an old rusty sword ta’en out of the town armory, with a broken hilt, and chapeless; with two broken points; his horse hipp’d, with an old mothy saddle and stirrups of no kindred; besides, possess’d with the glanders and like to mose in the chine, troubled with the lampass, infected with the fashions, full of windgalls, sped with spavins, ray’d with the yellows, past cure of the fives, stark spoil’d with the staggers, begnawn with the bots, sway’d in the back, and shoulder-shotten, near-legg’d before, and with a half-cheek’d bit and a head-stall of sheep’s leather, which being restrain’d to keep him from stumbling, hath been often burst, and now repair’d with knots; one girth six times piec’d, and a woman’s crupper of velure, which hath two letters for her name fairly set down in studs, and here and there piec’d with packthread.
-
-**BAP.**
-Who comes with him?
-
-**BION.**
-O, sir, his lackey, for all the world caparison’d like the horse; with a linen stock on one leg, and a kersey boot-hose on the other, gart’red with a red and blue list; an old hat, and the humor of forty fancies prick’d in’t for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman’s lackey.
-
-**TRA.**
-’Tis some odd humor pricks him to this fashion;
-Yet oftentimes he goes but mean apparell’d.
-
-**BAP.**
-I am glad he’s come, howsoe’er he comes.
-
-**BION.**
-Why, sir, he comes not.
-
-**BAP.**
-Didst thou not say he comes?
-
-**BION.**
-Who? That Petruchio came?
-
-**BAP.**
-Ay, that Petruchio came.
-
-**BION.**
-No, sir, I say his horse comes, with him on his back.
-
-**BAP.**
-Why, that’s all one.
-
-**BION.**
-*Nay, by Saint Jamy,*
-*I hold you a penny,*
-*A horse and a man*
-*Is more than one,*
-*And yet not many.*
-
-*Enter Petruchio and Grumio.*
-
-**PETR.**
-Come, where be these gallants? Who’s at home?
-
-**BAP.**
-You are welcome, sir.
-
-**PETR.**
-And yet I come not well.
-
-**BAP.**
-And yet you halt not.
-
-**TRA.**
-Not so well apparell’d
-As I wish you were.
-
-**PETR.**
-Were it better I should rush in thus:
-*(Pretends great excitement.)*
-But where is Kate? Where is my lovely bride?
-How does my father?—Gentles, methinks you frown,
-And wherefore gaze this goodly company,
-As if they saw some wondrous monument,
-Some comet or unusual prodigy?
-
-**BAP.**
-Why, sir, you know this is your wedding-day.
-First were we sad, fearing you would not come,
-Now sadder, that you come so unprovided.
-Fie, doff this habit, shame to your estate,
-An eye-sore to our solemn festival!
-
-**TRA.**
-And tell us what occasion of import
-Hath all so long detain’d you from your wife,
-And sent you hither so unlike yourself?
-
-**PETR.**
-Tedious it were to tell, and harsh to hear⁠—
-Sufficeth I am come to keep my word,
-Though in some part enforced to digress,
-Which at more leisure I will so excuse
-As you shall well be satisfied with all.
-But where is Kate? I stay too long from her.
-The morning wears, ’tis time we were at church.
-
-**TRA.**
-See not your bride in these unreverent robes,
-Go to my chamber, put on clothes of mine.
-
-**PETR.**
-Not I, believe me, thus I’ll visit her.
-
-**BAP.**
-But thus, I trust, you will not marry her.
-
-**PETR.**
-Good sooth, even thus; therefore ha’ done with words;
-To me she’s married, not unto my clothes.
-Could I repair what she will wear in me,
-As I can change these poor accoutrements,
-’Twere well for Kate, and better for myself.
-But what a fool am I to chat with you,
-When I should bid good morrow to my bride,
-And seal the title with a lovely kiss!
-
-*Exit with Grumio.*
-
-**TRA.**
-He hath some meaning in his mad attire.
-We will persuade him, be it possible,
-To put on better ere he go to church.
-
-**BAP.**
-I’ll after him, and see the event of this.
-
-*Exit with Gremio and Attendants.*
-
-**TRA.**
-But, sir, love concerneth us to add
-Her father’s liking, which to bring to pass,
-As before imparted to your worship,
-I am to get a man—what e’er he be,
-It skills not much, we’ll fit him to our turn⁠—
-And he shall be Vincentio of Pisa,
-And make assurance here in Padua
-Of greater sums than I have promised.
-So shall you quietly enjoy your hope,
-And marry sweet Bianca with consent.
-
-**LUC.**
-Were it not that my fellow schoolmaster
-Doth watch Bianca’s steps so narrowly,
-’Twere good methinks to steal our marriage,
-Which once perform’d, let all the world say no,
-I’ll keep mine own, despite of all the world.
-
-**TRA.**
-That by degrees we mean to look into,
-And watch our vantage in this business.
-We’ll overreach the greybeard, Gremio,
-The narrow-prying father, Minola,
-The quaint musician, amorous Litio,
-All for my master’s sake, Lucentio.
-*(Enter Gremio.)*
-*Signior* Gremio, came you from the church?
-
-**GRE.**
-As willingly as e’er I came from school.
-
-**TRA.**
-And is the bride and bridegroom coming home?
-
-**GRE.**
-A bridegroom, say you? ’Tis a groom indeed,
-A grumbling groom, and that the girl shall find.
-
-**TRA.**
-Curster than she? Why, ’tis impossible.
-
-**GRE.**
-Why, he’s a devil, a devil, a very fiend.
-
-**TRA.**
-Why, she’s a devil, a devil, the devil’s dam.
-
-**GRE.**
-Tut, she’s a lamb, a dove, a fool to him!
-I’ll tell you, Sir Lucentio: when the priest
-Should ask if Katherine should be his wife,
-“Ay, by gogs-wouns,” quoth he, and swore so loud,
-That all amaz’d the priest let fall the book,
-And as he stoop’d again to take it up,
-This mad-brain’d bridegroom took him such a cuff
-That down fell priest and book, and book and priest.
-“Now take them up,” quoth he, “if any list.”
-
-**TRA.**
-What said the wench when he rose again?
-
-**GRE.**
-Trembled and shook; for why, he stamp’d and swore
-As if the vicar meant to cozen him.
-But after many ceremonies done,
-He calls for wine. “A health!” quoth he, as if
-He had been aboard, carousing to his mates
-After a storm, quaff’d off the muscadel,
-And threw the sops all in the sexton’s face,
-Having no other reason
-But that his beard grew thin and hungerly,
-And seem’d to ask him sops as he was drinking.
-This done, he took the bride about the neck,
-And kiss’d her lips with such a clamorous smack
-That at the parting all the church did echo.
-And I seeing this, came thence for very shame,
-And after me I know the rout is coming.
-Such a mad marriage never was before.
-Hark, hark, I hear the minstrels play.
-
-*Music plays.*
-
-*Enter Petruchio, Kate, Bianca, Hortensio as Litio, Baptista, Grumio, and Train.*
-
-**PETR.**
-Gentlemen and friends, I thank you for your pains.
-I know you think to dine with me today,
-And have prepared great store of wedding cheer,
-But so it is, my haste doth call me hence,
-And therefore here I mean to take my leave.
-
-**BAP.**
-Is’t possible you will away tonight?
-
-**PETR.**
-I must away today, before night come.
-Make it no wonder; if you knew my business,
-You would entreat me rather go than stay.
-And, honest company, I thank you all
-That have beheld me give away myself
-To this most patient, sweet, and virtuous wife.
-Dine with my father, drink a health to me,
-For I must hence, and farewell to you all.
-
-**TRA.**
-Let us entreat you stay till after dinner.
-
-**PETR.**
-It may not be.
-
-**GRE.**
-        Let me entreat you.
-
-**PETR.**
-It cannot be.
-
-**KATH.**
-        Let me entreat you.
-
-**PETR.**
-I am content.
-
-**KATH.**
-Are you content to stay?
-
-**PETR.**
-I am content you shall entreat me stay,
-But yet not stay, entreat me how you can.
-
-**KATH.**
-Now if you love me stay.
-
-**PETR.**
-              Grumio, my horse.
-
-**GRU.**
-Ay, sir, they be ready; the oats have eaten the horses.
-
-**KATH.**
-Nay then,
-Do what thou canst, I will not go today,
-No, nor tomorrow—not till I please myself.
-The door is open, sir, there lies your way;
-You may be jogging whiles your boots are green.
-For me, I’ll not be gone till I please myself.
-’Tis like you’ll prove a jolly surly groom,
-That take it on you at the first so roundly.
-
-**PETR.**
-O Kate, content thee, prithee be not angry.
-
-**KATH.**
-I will be angry; what hast thou to do?
-Father, be quiet, he shall stay my leisure.
-
-**GRE.**
-Ay, marry, sir, now it begins to work.
-
-**KATH.**
-Gentlemen, forward to the bridal dinner.
-I see a woman may be made a fool,
-If she had not a spirit to resist.
-
-**PETR.**
-They shall go forward, Kate, at thy command.
-Obey the bride, you that attend on her.
-Go to the feast, revel and domineer,
-Carouse full measure to her maidenhead,
-Be mad and merry, or go hang yourselves;
-But for my bonny Kate, she must with me.
-Nay, look not big, nor stamp, nor stare, nor fret,
-I will be master of what is mine own.
-She is my goods, my chattels, she is my house,
-My household stuff, my field, my barn,
-My horse, my ox, my ass, my any thing;
-And here she stands, touch her whoever dare,
-I’ll bring mine action on the proudest he
-That stops my way in Padua. Grumio,
-Draw forth thy weapon, we are beset with thieves;
-Rescue thy mistress if thou be a man
-Fear not, sweet wench, they shall not touch thee, Kate!
-I’ll buckler thee against a million.
-
-*Exeunt Petruchio, Katherina, and Grumio.*
-
-**BAP.**
-Nay, let them go, a couple of quiet ones.
-
-**GRE.**
-Went they not quickly, I should die with laughing.
-
-**TRA.**
-Of all mad matches never was the like.
-
-**LUC.**
-Mistress, what’s your opinion of your sister?
-
-**BIAN.**
-That being mad herself, she’s madly mated.
-
-**GRE.**
-I warrant him, Petruchio is Kated.
-
-**BAP.**
-Neighbors and friends, though bride and bridegroom wants
-For to supply the places at the table,
-You know there wants no junkets at the feast.
-Lucentio, you shall supply the bridegroom’s place,
-And let Bianca take her sister’s room.
-
-**TRA.**
-Shall sweet Bianca practice how to bride it?
-
-**BAP.**
-She shall, Lucentio. Come, gentlemen, let’s go.
+**STE.**
+Trinculo, keep a good tongue in your head. If you prove a mutineer—the next tree! The poor monster’s my subject, and he shall not suffer indignity.
+
+**CAL.**
+I thank my noble lord. Wilt thou be pleas’d to hearken once again to the suit I made to thee?
+
+**STE.**
+Marry, will I; kneel, and repeat it. I will stand, and so shall Trinculo.
+
+*Enter Ariel, invisible.*
+
+**CAL.**
+As I told thee before, I am subject to a tyrant,
+A sorcerer, that by his cunning hath
+Cheated me of the island.
+
+**ARI.**
+Thou liest.
+
+**CAL.**
+        Thou liest, thou jesting monkey thou!
+I would my valiant master would destroy thee.
+I do not lie.
+
+**STE.**
+Trinculo, if you trouble him any more in ’s tale, by this hand, I will supplant some of your teeth.
+
+**TRIN.**
+Why, I said nothing.
+
+**STE.**
+Mum then, and no more.—Proceed.
+
+**CAL.**
+I say by sorcery he got this isle;
+From me he got it. If thy greatness will
+Revenge it on him—for I know thou dar’st,
+But this thing dare not⁠—
+
+**STE.**
+That’s most certain.
+
+**CAL.**
+Thou shalt be lord of it, and I’ll serve thee.
+
+**STE.**
+How now shall this be compass’d? Canst thou bring me to the party?
+
+**CAL.**
+Yea, yea, my lord. I’ll yield him thee asleep,
+Where thou mayst knock a nail into his head.
+
+**ARI.**
+Thou liest, thou canst not.
+
+**CAL.**
+What a pied ninny’s this! Thou scurvy patch!
+I do beseech thy greatness, give him blows,
+And take his bottle from him. When that’s gone,
+He shall drink nought but brine, for I’ll not show him
+Where the quick freshes are.
+
+**STE.**
+Trinculo, run into no further danger; interrupt the monster one word further, and by this hand, I’ll turn my mercy out o’ doors, and make a stock-fish of thee.
+
+**TRIN.**
+Why, what did I? I did nothing. I’ll go farther off.
+
+**STE.**
+Didst thou not say he lied?
+
+**ARI.**
+Thou liest.
+
+**STE.**
+Do I so? Take thou that.
+*(Beats Trinculo.)*
+As you like this, give me the lie another time.
+
+**TRIN.**
+I did not give the lie. Out o’ your wits, and hearing too? A pox o’ your bottle! This can sack and drinking do. A murrain on your monster, and the devil take your fingers!
+
+**CAL.**
+Ha, ha, ha!
+
+**STE.**
+Now forward with your tale.—Prithee stand further off.
+
+**CAL.**
+Beat him enough. After a little time
+I’ll beat him too.
+
+**STE.**
+           Stand farther.—Come, proceed.
+
+**CAL.**
+Why, as I told thee, ’tis a custom with him
+I’ th’ afternoon to sleep. There thou mayst brain him,
+Having first seiz’d his books; or with a log
+Batter his skull, or paunch him with a stake,
+Or cut his wezand with thy knife. Remember
+First to possess his books; for without them
+He’s but a sot, as I am; nor hath not
+One spirit to command: they all do hate him
+As rootedly as I. Burn but his books.
+He has brave utensils (for so he calls them) 
+Which when he has a house, he’ll deck withal.
+And that most deeply to consider is
+The beauty of his daughter. He himself
+Calls her a nonpareil. I never saw a woman
+But only Sycorax my dam and she;
+But she as far surpasseth Sycorax
+As great’st does least.
+
+**STE.**
+           Is it so brave a lass?
+
+**CAL.**
+Ay, lord, she will become thy bed, I warrant,
+And bring thee forth brave brood.
+
+**STE.**
+Monster, I will kill this man. His daughter and I will be king and queen—’save our Graces! And Trinculo and thyself shall be viceroys. Dost thou like the plot, Trinculo?
+
+**TRIN.**
+Excellent.
+
+**STE.**
+Give me thy hand. I am sorry I beat thee; but while thou liv’st keep a good tongue in thy head.
+
+**CAL.**
+Within this half hour will he be asleep.
+Wilt thou destroy him then?
+
+**STE.**
+                Ay, on mine honor.
+
+**ARI.**
+This will I tell my master.
+
+**CAL.**
+Thou mak’st me merry; I am full of pleasure,
+Let us be jocund. Will you troll the catch
+You taught me but while-ere?
+
+**STE.**
+At thy request, monster, I will do reason, any reason. Come on, Trinculo, let us sing.
+*(Sings.)*
+*“Flout ’em and scout ’em,*
+*And scout ’em and flout ’em!*
+*Thought is free.”*
+
+**CAL.**
+That’s not the tune.
+
+*Ariel plays the tune on a tabor and pipe.*
+
+**STE.**
+What is this same?
+
+**TRIN.**
+This is the tune of our catch, play’d by the picture of Nobody.
+
+**STE.**
+If thou beest a man, show thyself in thy likeness. If thou beest a devil, take’t as thou list.
+
+**TRIN.**
+O, forgive me my sins!
+
+**STE.**
+He that dies pays all debts. I defy thee. Mercy upon us!
+
+**CAL.**
+Art thou afeard?
+
+**STE.**
+No, monster, not I.
+
+**CAL.**
+Be not afeard, the isle is full of noises,
+Sounds, and sweet airs, that give delight and hurt not.
+Sometimes a thousand twangling instruments
+Will hum about mine ears; and sometime voices,
+That if I then had wak’d after long sleep,
+Will make me sleep again, and then in dreaming,
+The clouds methought would open, and show riches
+Ready to drop upon me, that when I wak’d
+I cried to dream again.
+
+**STE.**
+This will prove a brave kingdom to me, where I shall have my music for nothing.
+
+**CAL.**
+When Prospero is destroy’d.
+
+**STE.**
+That shall be by and by. I remember the story.
+
+**TRIN.**
+The sound is going away. Let’s follow it, and after do our work.
+
+**STE.**
+Lead, monster, we’ll follow. I would I could see this taborer; he lays it on.
+
+**TRIN.**
+Wilt come? I’ll follow Stephano.
 
 *Exeunt.*
 
-[[Act 3, Scene 1|← Act 3, Scene 1]] | [[Act 4, Scene 1|Act 4, Scene 1 →]]
+[[Act 3, Scene 1|← Act 3, Scene 1]] | [[Act 3, Scene 3|Act 3, Scene 3 →]]

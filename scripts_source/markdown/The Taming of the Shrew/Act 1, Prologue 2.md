@@ -12,8 +12,8 @@ Sources:
 ID: taming-of-the-shrew-1-prologue-2
 ---
 
-## Act 1, Prologue Scene 2
-[[Act 1, Prologue Scene 1|← Act 1, Prologue Scene 1]] | [[Act 1, Scene 1|Act 1, Scene 1 →]]
+## Act 1, Prologue 2
+[[Act 1, Prologue 1|← Act 1, Prologue 1]] | [[Act 1, Scene 1|Act 1, Scene 1 →]]
 
 *A bedchamber in the Lord’s house.*
 
@@ -246,4 +246,4 @@ Well, we’ll see’t. Come, madam wife, sit by my side, and let the world slip,
 
 *They all sit. Flourish.*
 
-[[Act 1, Prologue Scene 1|← Act 1, Prologue Scene 1]] | [[Act 1, Scene 1|Act 1, Scene 1 →]]
+[[Act 1, Prologue 1|← Act 1, Prologue 1]] | [[Act 1, Scene 1|Act 1, Scene 1 →]]

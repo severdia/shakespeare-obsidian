@@ -12,6 +12,9 @@ Sources:
 ID: midsummer-nights-dream-dp
 ---
 
+## Dramatis Personae
+
+
 - Oberon (OBE.)
 - Theseus, Duke of Athens (THE.)
 - Puck (PUCK.)
@@ -36,15 +39,3 @@ ID: midsummer-nights-dream-dp
 - Hippolyta (HIP.)
 - First Fairy (1. FAIRY.; CHORUS.)
 - Second Fairy (2. FAIRY.; CHORUS.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]

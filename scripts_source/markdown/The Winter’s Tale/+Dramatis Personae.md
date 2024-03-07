@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: winters-tale-dp
 ---
 
+## Dramatis Personae
+
+
 - Leontes, King of Sicilia (LEON.)
 - Camillo (CAM.)
 - Polixenes, King of Bohemia (POL.)
@@ -46,21 +49,3 @@ ID: winters-tale-dp
 - Shepherds and Shepherdesses (SHEPS.)
 - Twelve Satyrs (12. SAT.)
 - Bear (BEAR.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]

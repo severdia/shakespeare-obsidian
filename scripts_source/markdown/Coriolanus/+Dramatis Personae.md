@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: coriolanus-dp
 ---
 
+## Dramatis Personae
+
+
 - Caius Martius (Coriolanus) (MAR.; COR.)
 - Menenius Agrippa (MEN.; BOTH MEN. AND BRU.)
 - Sicinius Velutus (SIC.; BOTH BRU. AND SIC.)
@@ -70,35 +73,3 @@ ID: coriolanus-dp
 - Patricians (PATRICIANS; ALL PATRICIANS)
 - Scout (SCOUT.)
 - Usher (USH.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 1, Scene 4|Act 1, Scene 4 →]]
-- [[Act 1, Scene 5|Act 1, Scene 5 →]]
-- [[Act 1, Scene 6|Act 1, Scene 6 →]]
-- [[Act 1, Scene 7|Act 1, Scene 7 →]]
-- [[Act 1, Scene 8|Act 1, Scene 8 →]]
-- [[Act 1, Scene 9|Act 1, Scene 9 →]]
-- [[Act 1, Scene 10|Act 1, Scene 10 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 4, Scene 4|Act 4, Scene 4 →]]
-- [[Act 4, Scene 5|Act 4, Scene 5 →]]
-- [[Act 4, Scene 6|Act 4, Scene 6 →]]
-- [[Act 4, Scene 7|Act 4, Scene 7 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[Act 5, Scene 5|Act 5, Scene 5 →]]
-- [[Act 5, Scene 6|Act 5, Scene 6 →]]

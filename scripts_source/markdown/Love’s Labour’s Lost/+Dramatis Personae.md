@@ -12,6 +12,9 @@ Sources:
 ID: loves-labours-lost-dp
 ---
 
+## Dramatis Personae
+
+
 - Berowne (BER.)
 - Ferdinand, King of Navarre (KING.)
 - Boyet (BOYET.)
@@ -35,15 +38,3 @@ ID: loves-labours-lost-dp
 - First French Lord (1. FR. LORD.)
 - Second French Lord (2. FR. LORD.)
 - Blackamoors (BLACK.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]

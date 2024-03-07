@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: julius-caesar-dp
 ---
 
+## Dramatis Personae
+
+
 - Julius Caesar (Ghost of Julius Caesar) (CAES.; GHOST.)
 - Marcus Brutus (BRU.)
 - Cassius (CAS.)
@@ -61,24 +64,3 @@ ID: julius-caesar-dp
 - Third Soldier (3. SOLD.)
 - Messenger (MESS.)
 - Carpenter (CAR.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 1, Scene 3|Act 1, Scene 3 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 2, Scene 3|Act 2, Scene 3 →]]
-- [[Act 2, Scene 4|Act 2, Scene 4 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 4, Scene 2|Act 4, Scene 2 →]]
-- [[Act 4, Scene 3|Act 4, Scene 3 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[Act 5, Scene 2|Act 5, Scene 2 →]]
-- [[Act 5, Scene 3|Act 5, Scene 3 →]]
-- [[Act 5, Scene 4|Act 5, Scene 4 →]]
-- [[Act 5, Scene 5|Act 5, Scene 5 →]]

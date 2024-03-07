@@ -12,7 +12,7 @@ Sources: First Folio (1623)
 ID: henry-viii-1-prologue
 ---
 
-## Act 1, Act 1 Prologue
+## Act 1, Prologue
 [[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Scene 1|Act 1, Scene 1 →]]
 
 **PRO.**
