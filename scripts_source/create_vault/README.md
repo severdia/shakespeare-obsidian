@@ -55,3 +55,7 @@ python create_vault /path/to/shakespeare/markdown/files/folder --output-dir=/pat
 ```
 python create_vault --help
 ```
+
+<a href="https://www.buymeacoffee.com/severdia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
