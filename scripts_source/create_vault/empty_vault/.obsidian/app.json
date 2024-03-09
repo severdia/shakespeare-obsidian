@@ -1,4 +1,7 @@
 {
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": false
 }

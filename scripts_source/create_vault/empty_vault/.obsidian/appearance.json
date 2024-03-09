@@ -1,7 +1,8 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "Shakespeare Styles"
+    "Shakespeare Styles",
+    "Hide IDs (Reading Mode)"
   ],
   "theme": "moonstone"
 }
