@@ -3,5 +3,7 @@
   "spellcheck": false,
   "strictLineBreaks": true,
   "propertiesInDocument": "hidden",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "My Scripts"
 }
