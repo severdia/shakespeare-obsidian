@@ -1,12 +1,19 @@
 /* Shakespeare to Obsidian: General Styles */
 
+/* styles for <h6> tags */
 .markdown-source-view.is-live-preview div.HyperMD-header-6,
-.markdown-preview-view h6,
-.cc-pretty-preview .markdown-preview-view h6,
-.markdown-preview-view .markdown-embed h6 {
-	color: #949494;
-	font-size: 0.7em;
-	margin-bottom: 0;
+.markdown-preview-view h6 {
+  color: #949494;
+  font-size: 0.7em;
+  margin-bottom: 0;
+}
+
+/* Maintain the exact spacing in Reading Mode. 
+   It is also required to turn ON Obsidian "Editor / Strict Line Breaks" setting.
+*/
+.markdown-preview-view p {
+	margin-top: 0;
+	white-space: pre-wrap;
 }
 
 /* Styles for Full Play (Editing) view */

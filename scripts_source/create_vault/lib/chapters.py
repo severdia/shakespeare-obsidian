@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from .settings import CHARACTERS_FILE_NAME, CHARACTERS_FOLDER_NAME
+from .settings import CHARACTERS_FILE_NAME
 from .utils import copy_file
 
 class ChapterInfoRetriever:
@@ -120,31 +120,4 @@ class ChapterGenerator:
                     header = f"###### {paragraph_number}\n"
                     output_file_obj.write(header)
 
-                    prev_line_is_header = True
-                    paragraph_has_characters = len(chapter_paragraph_info[line_number]['characters']) > 0
-                else:
-                    prev_line_is_header = False
-                    paragraph_has_characters = False
-
-                if prev_line_is_header and paragraph_has_characters:
-                    line_representation = self._build_line_representation(line.strip(), chapter_paragraph_info[line_number]['characters'])
-                    output_file_obj.write(f'{line_representation}\n')
-                else:
-                    output_file_obj.write(self._replace_spaces_with_nbsp(line.rstrip('\n')) + '\n')
-
-
-    def _build_line_representation(self, line, line_characters):
-        return line
-        # if len(line_characters) == 1:
-        #     obsidian_path_prefix = self.books_folder.name + '/' + self.output_book_path.name + '/' + CHARACTERS_FOLDER_NAME
-
-        #     character_complete_name = line_characters[0]['complete_name']
-        #     line_representation = f'**[[{obsidian_path_prefix}/{character_complete_name}|{line[2:-2]}]]**'
-        # else:
-        #     line_representation = line
-
-        # return line_representation
-    
-
-    def _replace_spaces_with_nbsp(self, line):
-        return line.replace('\u2003', '. ')
+                output_file_obj.write(line)

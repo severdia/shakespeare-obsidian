@@ -3,6 +3,7 @@ from pathlib import Path
 import shutil
 
 from .settings import DEFAULT_OUTPUT_VAULT_NAME
+from .version import __version__
 
 
 def copy_file(from_file, to_folder):
@@ -27,6 +28,11 @@ def parse_arguments():
                         type=str,
                         default=DEFAULT_OUTPUT_VAULT_NAME,
                         help='The vault name')
+    
+    parser.add_argument('--version',
+                        '-v',
+                        action='version',
+                        version='%(prog)s ' + __version__)
 
     args = parser.parse_args()
 
