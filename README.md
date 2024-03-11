@@ -19,7 +19,7 @@ To create your own script, first make a copy of the play folder and put it in "M
 
 If you use Obsidian to publish on the web, this is built right in. You can also export either a single scene or the entire play directly to PDF. 
 
-### Searching the Works 🔍
+### 🔍 Searching the Works 
 
 You can search across the works in many custom ways. For more info about search in Obsidian, visit:
 
