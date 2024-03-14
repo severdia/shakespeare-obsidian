@@ -118,7 +118,7 @@ And of opposed natures.
 *By the time I linger here.*
 *With one fool’s head I came to woo,*
 *But I go away with two.*
-*Sweet, *adieu*. I’ll keep my oath,*
+*Sweet, adieu. I’ll keep my oath,*
 *Patiently to bear my wroth.*
 
 *Exit with his Train.*

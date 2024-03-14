@@ -120,7 +120,7 @@ Ye say honestly, rest you merry!
 **ROM.**
 Stay, fellow, I can read.
 *(He reads the letter.)*
-*“*Signior* Martino and his wife and daughters; County Anselme and his beauteous sisters; the lady widow of Vitruvio; *Signior* Placentio and his lovely nieces; Mercutio and his brother Valentine; mine uncle Capulet, his wife, and daughters; my fair niece Rosaline, and Livia; *Signior* Valentio and his cousin Tybalt; Lucio and the lively Helena.”*
+*“Signior Martino and his wife and daughters; County Anselme and his beauteous sisters; the lady widow of Vitruvio; Signior Placentio and his lovely nieces; Mercutio and his brother Valentine; mine uncle Capulet, his wife, and daughters; my fair niece Rosaline, and Livia; Signior Valentio and his cousin Tybalt; Lucio and the lively Helena.”*
 A fair assembly. Whither should they come?
 
 **2. SERV.**

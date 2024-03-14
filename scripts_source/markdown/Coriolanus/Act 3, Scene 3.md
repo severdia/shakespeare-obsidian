@@ -297,7 +297,7 @@ That won you without blows! Despising,
 For you, the city, thus I turn my back;
 There is a world elsewhere.
 
-*Exeunt Coriolanus, Cominius, *cum aliis* (Menenius, Senators, and Patricians).*
+*Exeunt Coriolanus, Cominius, cum aliis (Menenius, Senators, and Patricians).*
 
 **1. AED.**
 The people’s enemy is gone, is gone!

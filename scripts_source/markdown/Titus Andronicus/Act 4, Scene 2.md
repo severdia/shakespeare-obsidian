@@ -58,8 +58,8 @@ And so I leave you both⁠—
 What’s here? A scroll, and written round about.
 Let’s see:
 *(Reads.)*
-*“*Integer vitae, scelerisque purus,**
-**Non eget Mauri jaculis, nec arcu.*”*
+*“Integer vitae, scelerisque purus,*
+*Non eget Mauri jaculis, nec arcu.”*
 
 **CHI.**
 O, ’tis a verse in Horace, I know it well,

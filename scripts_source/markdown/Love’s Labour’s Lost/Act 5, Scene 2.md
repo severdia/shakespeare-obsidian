@@ -1478,7 +1478,7 @@ The naked truth of it is, I have no shirt; I go woolward for penance.
 **BOYET.**
 True, and it was enjoin’d him in Rome for want of linen; since when, I’ll be sworn he wore none but a dishclout of Jaquenetta’s, and that ’a wears next his heart for a favor.
 
-*Enter a Messenger, *Monsieur*Marcade.*
+*Enter a Messenger, MonsieurMarcade.*
 
 **MARC.**
 God save you, madam!

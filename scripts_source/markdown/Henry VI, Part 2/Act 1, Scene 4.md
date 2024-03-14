@@ -51,7 +51,7 @@ That time best fits the work we have in hand.
 Madam, sit you and fear not. Whom we raise,
 We will make fast within a hallow’d verge.
 
-*Here do the ceremonies belonging, and make the circle; Bolingbrook or Southwell reads, *“Conjuro te, etc.”* It thunders and lightens terribly; then the Spirit riseth.*
+*Here do the ceremonies belonging, and make the circle; Bolingbrook or Southwell reads, “Conjuro te, etc.” It thunders and lightens terribly; then the Spirit riseth.*
 
 **SPIR.**
 *Adsum.*
@@ -131,7 +131,7 @@ What have we here?
 *“The duke yet lives that Henry shall depose;*
 *But him out-live, and die a violent death.”*
 Why, this is just
-**“Aio te, Aeacida, Romanos vincere posse.”**
+*“Aio te, Aeacida, Romanos vincere posse.”*
 Well, to the rest:
 *“Tell me what fate awaits the Duke of Suffolk?”*
 *“By water shall he die, and take his end.”*

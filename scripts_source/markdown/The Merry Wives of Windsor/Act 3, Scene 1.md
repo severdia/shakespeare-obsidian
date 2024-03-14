@@ -38,14 +38,14 @@ I will, sir.
 *(Sings.)*
 *“To shallow rivers, to whose falls*
 *Melodious birds sings madrigals;*
-*There will we make our *peds* of roses,*
+*There will we make our peds of roses,*
 *And a thousand fragrant posies.*
 *To shallow—”*
 Mercy on me! I have a great dispositions to cry.
 *(Sings.)*
 *“Melodious birds sing madrigals⁠—*
-*When as I sat in *Pabylon*⁠—*
-*And a thousand *vagram* posies.*
+*When as I sat in Pabylon⁠—*
+*And a thousand vagram posies.*
 *To shallow, etc.”*
 
 *Enter Simple.*

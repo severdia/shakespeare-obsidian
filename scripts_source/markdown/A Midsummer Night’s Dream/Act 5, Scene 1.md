@@ -557,7 +557,7 @@ And thus she means, *videlicet*⁠—
 *(Stabs herself.)*
 *And farewell, friends;*
 *Thus Thisbe ends;*
-**Adieu*, *adieu*, *adieu*.*
+*Adieu, adieu, adieu.*
 
 *Dies.*
 

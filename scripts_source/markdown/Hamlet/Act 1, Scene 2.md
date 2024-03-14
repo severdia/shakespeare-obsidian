@@ -18,7 +18,7 @@ ID: hamlet-1-2
 
 *Elsinore. A room of state in the castle.*
 
-*Flourish. Enter Claudius, King of Denmark, Gertrude the Queen; Council: as Polonius; and his son Laertes, Hamlet, *cum aliis* including Voltemand and Cornelius.*
+*Flourish. Enter Claudius, King of Denmark, Gertrude the Queen; Council: as Polonius; and his son Laertes, Hamlet, cum aliis including Voltemand and Cornelius.*
 
 **KING.**
 Though yet of Hamlet our dear brother’s death

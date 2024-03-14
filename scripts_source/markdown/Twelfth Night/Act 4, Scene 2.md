@@ -205,7 +205,7 @@ Fool, I’ll requite it in the highest degree. I prithee be gone.
 *Cries, ah, ha! To the devil;*
 *Like a mad lad,*
 *Pare thy nails, dad.*
-**Adieu*, goodman devil.*
+*Adieu, goodman devil.*
 
 *Exit.*
 

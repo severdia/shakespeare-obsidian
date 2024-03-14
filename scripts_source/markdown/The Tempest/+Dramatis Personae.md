@@ -10,6 +10,9 @@ Sources: First Folio (1623)
 ID: tempest-dp
 ---
 
+## Dramatis Personae
+
+
 - Prospero (PROS.)
 - Ariel (ARI.)
 - Caliban (CAL.)
@@ -29,16 +32,3 @@ ID: tempest-dp
 - Juno (JUNO.)
 - Master of a Ship (MAST.)
 - Mariners (MARINERS.)
-
-## Scenes
-
-- [[Act 1, Scene 1|Act 1, Scene 1 →]]
-- [[Act 1, Scene 2|Act 1, Scene 2 →]]
-- [[Act 2, Scene 1|Act 2, Scene 1 →]]
-- [[Act 2, Scene 2|Act 2, Scene 2 →]]
-- [[Act 3, Scene 1|Act 3, Scene 1 →]]
-- [[Act 3, Scene 2|Act 3, Scene 2 →]]
-- [[Act 3, Scene 3|Act 3, Scene 3 →]]
-- [[Act 4, Scene 1|Act 4, Scene 1 →]]
-- [[Act 5, Scene 1|Act 5, Scene 1 →]]
-- [[ị Epilogue|Epilogue →]]

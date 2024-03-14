@@ -18,7 +18,7 @@ ID: hamlet-2-2
 
 *Elsinore. A room in Elsinore castle.*
 
-*Flourish. Enter King and Queen, Rosencrantz and Guildenstern *cum aliis*.*
+*Flourish. Enter King and Queen, Rosencrantz and Guildenstern cum aliis.*
 
 **KING.**
 Welcome, dear Rosencrantz and Guildenstern!
@@ -200,7 +200,7 @@ Good madam, stay awhile. I will be faithful.
 *Doubt that the sun doth move,*
 *Doubt truth to be a liar,*
 *But never doubt I love.*
-*O dear Ophelia, I am ill at these numbers. I have not art to reckon my groans, but that I love thee best, O most best, believe it. *Adieu*.*
+*O dear Ophelia, I am ill at these numbers. I have not art to reckon my groans, but that I love thee best, O most best, believe it. Adieu.*
 *Thine evermore, most dear lady,*
 *whilst this machine is to him, Hamlet.”*
 This in obedience hath my daughter shown me,

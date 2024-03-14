@@ -24,7 +24,7 @@ Warble, child, make passionate my sense of hearing.
 
 **MOTH.**
 *(Sings the song.)*
-**“Concolinel.”**
+*“Concolinel.”*
 
 **ARM.**
 Sweet air! Go, tenderness of years, take this key, give enlargement to the swain, bring him festinately hither. I must employ him in a letter to my love.
