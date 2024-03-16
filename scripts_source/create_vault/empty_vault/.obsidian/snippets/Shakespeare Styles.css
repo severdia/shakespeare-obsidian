@@ -9,8 +9,7 @@
 }
 
 /* Maintain the exact spacing in Reading Mode. 
-   It is also required to turn ON Obsidian "Editor / Strict Line Breaks" setting.
-*/
+   It is also required to turn ON Obsidian "Editor / Strict Line Breaks" setting. */
 .markdown-preview-view p {
 	margin-top: 0;
 	white-space: pre-wrap;
@@ -37,3 +36,12 @@
 }
 
 
+/* HR Horizontal Rule */
+.full-play hr {
+	border: none;
+}
+.full-play hr::before {
+	content: '***';
+    display: block;
+    text-align: center;
+}

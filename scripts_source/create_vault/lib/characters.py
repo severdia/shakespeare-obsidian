@@ -1,11 +1,12 @@
-from collections import defaultdict
+from collections import OrderedDict
 
 from .settings import CHARACTERS_FOLDER_NAME, CHARACTERS_FILE_NAME
 
+
 class CharactersInfoRetriever:
-    def __init__(self, input_book_path, books_folder):
+    def __init__(self, input_book_path, book_obsidian_path):
         self.input_book_path = input_book_path
-        self.books_folder = books_folder
+        self.book_obsidian_path = book_obsidian_path
         self._characters_info = None
 
     
@@ -31,7 +32,7 @@ class CharactersInfoRetriever:
 
 
     def get_book_characters(self, chapters_info):
-        characters = defaultdict(dict)
+        characters = OrderedDict()
 
         characters_info = self._characters_info if self._characters_info is not None else self.retrieve_characters_info()
 
@@ -39,11 +40,14 @@ class CharactersInfoRetriever:
             complete_name = char_info['complete_name']
             character_speeches = self._find_character_speeches(char_info, chapters_info, self.input_book_path)
 
-            characters[complete_name]['name'] = char_info['name']
-            characters[complete_name]['roles'] = char_info['roles']
-            characters[complete_name]['speeches'] = character_speeches
-            characters[complete_name]['speech_count'] = sum(len(speech_list) for speech_list in character_speeches.values())
-            characters[complete_name]['obsidian_path'] = self.books_folder.name + '/' + self.input_book_path.name + '/' + complete_name
+            characters[complete_name] = {
+                'complete_name': complete_name,
+                'name': char_info['name'],
+                'roles': char_info['roles'],
+                'speeches': character_speeches,
+                'speech_count': sum(len(speech_list) for speech_list in character_speeches.values()),
+                'obsidian_path': f'{self.book_obsidian_path}/{complete_name}',
+            }
 
         return characters
 
@@ -52,18 +56,14 @@ class CharactersInfoRetriever:
         names = []
 
         # characters file contains the list of all book characters ("+Dramatis Personae.md")
-        book_characters_file = self.input_book_path / CHARACTERS_FILE_NAME
+        book_characters_file = self.input_book_path / f'{CHARACTERS_FILE_NAME}.md'
 
         if not book_characters_file.exists():
             return names
 
         bullet_prefix = '- '
         with book_characters_file.open('rt', encoding='utf-8') as f:
-            lines = f.readlines()
-            for line in lines:
-                if line.startswith('## Scenes'):
-                    break
-                
+            for line in f:
                 if line.startswith(bullet_prefix):
                     names.append(line[2:].strip())
 
@@ -116,57 +116,68 @@ class CharactersInfoRetriever:
                 line = line.strip()
                 if line_number in chapter_paragraph_info and char_info in chapter_paragraph_info[line_number]['characters']:
                     speech_number = chapter_paragraph_info[line_number]['paragraph_number']
-                    obsidian_path = self.books_folder.name + '/' + input_book_path.name + '/' + chapter_file.stem
-                    speeches.append(f'{obsidian_path}#{speech_number}')
+                    speech_obsidian_path = f'{self.book_obsidian_path}/{chapter_file.stem}#{speech_number}'
+                    speeches.append(speech_obsidian_path)
 
         return speeches
 
 
+def build_character_bulleted_item(character_info, book_obsidian_paths):
+    BULLET_PREFIX = '- '
+
+    character_has_speeches = character_info['speech_count'] > 0
+    character_complete_name = character_info['complete_name']
+    character_name = character_info['name']
+    character_roles_string = '; '.join(character_info['roles'])
+    
+    if character_has_speeches:
+        char_folder_obsidian_path = book_obsidian_paths['characters_folder_path']
+        character_obsidian_path = f'{char_folder_obsidian_path}/{character_complete_name}'
+        bulleted_item = f'{BULLET_PREFIX}[[{character_obsidian_path}|{character_name}]] *({character_roles_string})*'
+    else:
+        bulleted_item = f'{BULLET_PREFIX}{character_name} *({character_roles_string})*'
+
+    return bulleted_item
+
 
 class CharactersFileWriter:
     
-    def __init__(self, input_book_path, output_book_path, books_folder, book_characters):
-        self.input_book_path = input_book_path
-        self.output_book_path = output_book_path
-        self.books_folder = books_folder
-        self.book_characters = book_characters
+    def __init__(self, book_info):
+        self.input_book_path = book_info.get('input_book_path')
+        self.output_book_path = book_info.get('output_book_path')
+        self.book_characters = book_info.get('book_characters')
+        self.obsidian_paths = book_info.get('obsidian_paths')
 
     
     def generate_characters_file(self):
-        input_characters_file = self.input_book_path / CHARACTERS_FILE_NAME
-        output_characters_file = self.output_book_path / CHARACTERS_FILE_NAME
+        input_characters_file = self.input_book_path / f'{CHARACTERS_FILE_NAME}.md'
+        output_characters_file = self.output_book_path / f'{CHARACTERS_FILE_NAME}.md'
 
         with input_characters_file.open('rt', encoding='utf-8') as input_file:
             lines = input_file.readlines()
             
             with output_characters_file.open('wt', encoding='utf-8') as output_file:
-                bullet_prefix = '- '
+                BULLET_PREFIX = '- '
 
                 for line in lines:
-                    obsidian_path_prefix = self.books_folder.name + '/' + self.output_book_path.name + '/' + CHARACTERS_FOLDER_NAME
-                    if line.startswith(bullet_prefix):
+                    if line.startswith(BULLET_PREFIX):
                         character_complete_name = line[2:].strip()
 
                         if self.book_characters.get(character_complete_name) is None: # if it's a bulleted line that is not a character
                             output_file.write(line)
                         else:
-                            character_has_speeches = self.book_characters[character_complete_name]['speech_count'] > 0
-                            character_name = self.book_characters[character_complete_name]['name']
-                            character_roles_string = "; ".join(self.book_characters[character_complete_name]['roles'])
-                            
-                            if character_has_speeches:
-                                output_file.write(f'{bullet_prefix}[[{obsidian_path_prefix}/{character_complete_name}|{character_name}]] *({character_roles_string})*\n')
-                            else:
-                                output_file.write(f'{bullet_prefix}{character_name} *({character_roles_string})*\n')
+                            character_info = self.book_characters[character_complete_name]
+                            character_bulleted_item = build_character_bulleted_item(character_info, self.obsidian_paths)
+                            output_file.write(character_bulleted_item + '\n')
                     else:
                         output_file.write(line)
 
 
 class CharacterGenerator:
-    def __init__(self, output_book_path, book_characters, books_folder):
-        self.output_book_path = output_book_path
-        self.book_characters = book_characters
-        self.books_folder = books_folder
+    def __init__(self, book_info):
+        self.output_book_path = book_info.get('output_book_path')
+        self.book_characters = book_info.get('book_characters')
+        self.obsidian_paths = book_info.get('obsidian_paths')
 
     def generate_character_files(self):
         """
@@ -195,8 +206,8 @@ class CharacterGenerator:
                 if not speeches_list:
                     continue
                 
-                chapter_obsidian_path = self.books_folder.name + '/' + self.output_book_path.name + '/' + chapter_file.stem
-                chapter_link = f'[[{chapter_obsidian_path}|{chapter_file.stem}]]'
+                book_obsidian_path = self.obsidian_paths['book_path']
+                chapter_link = f'[[{book_obsidian_path}/{chapter_file.stem}|{chapter_file.stem}]]'
 
                 f.write(f'### {chapter_link}\n\n')
 

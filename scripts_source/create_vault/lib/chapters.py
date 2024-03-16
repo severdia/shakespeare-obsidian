@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from .settings import CHARACTERS_FILE_NAME
+from .settings import CHARACTERS_FILE_NAME, FULL_BOOK_FILE_NAME
 from .utils import copy_file
 
 class ChapterInfoRetriever:
@@ -87,18 +87,18 @@ def retrieve_book_chapters_info(input_book_path, characters_info=None):
 
 class ChapterGenerator:
 
-    def __init__(self, input_book_path, output_book_path, books_folder, chapters_info, book_characters):
-        self.input_book_path = input_book_path
-        self.output_book_path = output_book_path
-        self.books_folder = books_folder
-        self.chapters_info = chapters_info
-        self.book_characters = book_characters
+    def __init__(self, book_info):
+        self.input_book_path = book_info.get('input_book_path')
+        self.output_book_path = book_info.get('output_book_path')
+        self.chapters_info = book_info.get('chapters_info')
+        self.book_characters = book_info.get('book_characters')
+        self.obsidian_paths = book_info.get('obsidian_paths')
 
 
     def generate_book_chapters(self):
         # create chapter files
         for input_file in self.input_book_path.iterdir():
-            if input_file.name == CHARACTERS_FILE_NAME: # characters file is already created
+            if input_file.stem in [CHARACTERS_FILE_NAME, FULL_BOOK_FILE_NAME]:
                 continue
             elif input_file.name.startswith('+'): # files that are not chapter files
                 copy_file(input_file, self.output_book_path)
