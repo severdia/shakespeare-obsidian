@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "aa6653e947e13730",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c15931cd3038adc",
+  "active": "aa6653e947e13730",
   "lastOpenFiles": [
     "Welcome.md"
   ]
