@@ -98,13 +98,16 @@ class ChapterGenerator:
     def generate_book_chapters(self):
         # create chapter files
         for input_file in self.input_book_path.iterdir():
-            if input_file.stem in [CHARACTERS_FILE_NAME, FULL_BOOK_FILE_NAME]:
+            if input_file.stem in [CHARACTERS_FILE_NAME, FULL_BOOK_FILE_NAME]: # these files are generated in other classes
                 continue
             elif input_file.name.startswith('+'): # files that are not chapter files
                 copy_file(input_file, self.output_book_path)
+            elif input_file.name.startswith('.'): # ignore hidden files
+                continue
             else:
-                chapter_info = self.chapters_info[input_file]
-                self._create_chapter_file(input_file, chapter_info)
+                chapter_info = self.chapters_info.get(input_file)
+                if chapter_info:
+                    self._create_chapter_file(input_file, chapter_info)
 
 
     def _create_chapter_file(self, input_file, chapter_info):
