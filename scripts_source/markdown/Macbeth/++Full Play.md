@@ -13,6 +13,8 @@ ID: macbeth-full
 cssclasses: full-play
 ---
 
+## Macbeth
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

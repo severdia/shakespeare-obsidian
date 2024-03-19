@@ -16,6 +16,8 @@ ID: sir-thomas-more-full
 cssclasses: full-play
 ---
 
+## Sir Thomas More
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

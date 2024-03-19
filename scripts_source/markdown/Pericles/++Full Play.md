@@ -15,6 +15,8 @@ ID: pericles-full
 cssclasses: full-play
 ---
 
+## Pericles
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Prologue.md]]
 ![[Act 1, Scene 1.md]]

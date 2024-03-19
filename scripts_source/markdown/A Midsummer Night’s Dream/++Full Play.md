@@ -13,6 +13,8 @@ ID: midsummer-nights-dream-full
 cssclasses: full-play
 ---
 
+## A Midsummer Night’s Dream
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

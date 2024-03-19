@@ -11,6 +11,8 @@ ID: antony-and-cleopatra-full
 cssclasses: full-play
 ---
 
+## Antony & Cleopatra
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

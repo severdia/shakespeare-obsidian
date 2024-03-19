@@ -13,6 +13,8 @@ ID: henry-vi-part-ii-full
 cssclasses: full-play
 ---
 
+## Henry VI, Part 2
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

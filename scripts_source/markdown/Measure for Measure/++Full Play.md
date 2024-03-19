@@ -13,6 +13,8 @@ ID: measure-for-measure-full
 cssclasses: full-play
 ---
 
+## Measure for Measure
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

@@ -13,6 +13,8 @@ ID: taming-of-the-shrew-full
 cssclasses: full-play
 ---
 
+## The Taming of the Shrew
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Prologue 1.md]]
 ![[Act 1, Prologue 2.md]]

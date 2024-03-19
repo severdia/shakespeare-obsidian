@@ -13,6 +13,8 @@ ID: henry-iv-part-i-full
 cssclasses: full-play
 ---
 
+## Henry IV, Part 1
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

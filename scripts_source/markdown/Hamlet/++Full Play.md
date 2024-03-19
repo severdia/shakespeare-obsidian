@@ -14,6 +14,8 @@ ID: hamlet-full
 cssclasses: full-play
 ---
 
+## Hamlet
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

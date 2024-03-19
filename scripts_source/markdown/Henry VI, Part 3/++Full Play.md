@@ -13,6 +13,8 @@ ID: henry-vi-part-iii-full
 cssclasses: full-play
 ---
 
+## Henry VI, Part 3
+
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]
 ![[Act 1, Scene 3.md]]

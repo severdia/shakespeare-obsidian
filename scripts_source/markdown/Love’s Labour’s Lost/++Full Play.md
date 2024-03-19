@@ -13,6 +13,8 @@ ID: loves-labours-lost-full
 cssclasses: full-play
 ---
 
+## Love’s Labour’s Lost
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

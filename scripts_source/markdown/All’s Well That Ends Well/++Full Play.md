@@ -13,6 +13,8 @@ ID: alls-well-that-ends-well-full
 cssclasses: full-play
 ---
 
+## All’s Well That Ends Well
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

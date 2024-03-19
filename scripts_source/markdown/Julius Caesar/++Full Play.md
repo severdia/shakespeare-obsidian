@@ -11,6 +11,8 @@ ID: julius-caesar-full
 cssclasses: full-play
 ---
 
+## Julius Caesar
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]
