@@ -1,6 +1,7 @@
 ---
 Title: Henry V
-Author: William Shakespeare
+Author: 
+  - William Shakespeare
 Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3

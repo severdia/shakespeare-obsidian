@@ -1,6 +1,7 @@
 ---
 Title: Coriolanus
-Author: William Shakespeare
+Author: 
+  - William Shakespeare
 Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3

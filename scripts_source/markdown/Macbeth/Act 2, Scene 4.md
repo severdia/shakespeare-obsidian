@@ -2,7 +2,7 @@
 Title: Macbeth
 Author: 
   - William Shakespeare
-  - Thomas MIddleton
+  - Thomas Middleton
 Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
