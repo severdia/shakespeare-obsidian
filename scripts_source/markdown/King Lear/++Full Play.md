@@ -14,6 +14,8 @@ ID: king-lear-full
 cssclasses: full-play
 ---
 
+## King Lear
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

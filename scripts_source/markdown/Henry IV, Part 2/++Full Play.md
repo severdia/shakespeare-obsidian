@@ -13,6 +13,8 @@ ID: henry-iv-part-ii-full
 cssclasses: full-play
 ---
 
+## Henry IV, Part 2
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Prologue.md]]
 ![[Act 1, Scene 1.md]]

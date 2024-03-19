@@ -11,6 +11,8 @@ ID: comedy-of-errors-full
 cssclasses: full-play
 ---
 
+## The Comedy of Errors
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

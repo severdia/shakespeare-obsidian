@@ -13,6 +13,8 @@ ID: henry-viii-full
 cssclasses: full-play
 ---
 
+## Henry VIII
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Prologue.md]]
 ![[Act 1, Scene 1.md]]

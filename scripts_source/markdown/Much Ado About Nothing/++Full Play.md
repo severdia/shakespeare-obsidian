@@ -13,6 +13,8 @@ ID: much-ado-about-nothing-full
 cssclasses: full-play
 ---
 
+## Much Ado About Nothing
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

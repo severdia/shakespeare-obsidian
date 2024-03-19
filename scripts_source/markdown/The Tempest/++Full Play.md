@@ -11,6 +11,8 @@ ID: tempest-full
 cssclasses: full-play
 ---
 
+## The Tempest
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

@@ -11,6 +11,8 @@ ID: two-gentlemen-of-verona-full
 cssclasses: full-play
 ---
 
+## The Two Gentlemen of Verona
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

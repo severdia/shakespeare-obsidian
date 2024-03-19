@@ -14,6 +14,8 @@ ID: king-richard-ii-full
 cssclasses: full-play
 ---
 
+## King Richard II
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Scene 1.md]]
 ![[Act 1, Scene 2.md]]

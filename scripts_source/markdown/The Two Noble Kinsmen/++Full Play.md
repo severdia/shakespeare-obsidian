@@ -13,6 +13,8 @@ ID: two-noble-kinsmen-full
 cssclasses: full-play
 ---
 
+## The Two Noble Kinsmen
+
 ![[+Dramatis Personae.md]]
 ![[Act 1, Prologue.md]]
 ![[Act 1, Scene 1.md]]
