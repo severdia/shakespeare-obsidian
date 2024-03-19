@@ -1,6 +1,7 @@
 ---
 Title: The Two Gentlemen of Verona
-Author: William Shakespeare
+Author: 
+  - William Shakespeare
 Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
