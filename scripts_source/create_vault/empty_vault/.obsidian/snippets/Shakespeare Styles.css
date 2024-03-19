@@ -19,7 +19,7 @@
 
 /* Hide scene links */
 .full-play p:has(.internal-link) {
-	display: none
+	display: none;
 }
 
 /* Hide file/scene titles */
@@ -27,12 +27,41 @@
 	display: none;
 }
 
+/* Hide links on full play */
+.full-play .markdown-embed-link {
+	display: none !important;
+}
+
 .full-play .markdown-embed {
 	border-left: 0;
 }
-.full-play .markdown-rendered .internal-link {
+
+/* Hide links on full play */
+.full-play a.internal-link,
+.full-play a.internal-link:hover,
+.full-play .markdown-rendered  {
 	text-decoration: none;
     color: #000;
+}
+/* Full play: Match spacing on scene pages */
+.full-play .markdown-rendered p {
+	margin-block-end: .25rem;
+}
+
+/* Print full play */
+@media print {
+	.full-play.markdown-preview-view p,
+	.full-play.markdown-preview-view li {
+		font-size: .85em;
+		margin: 0;
+	}
+	.full-play .markdown-rendered p {
+		margin-block-end: 0;
+		margin-block-start: 0 !important;
+	}
+	h6, .embed-title {
+		display: none;
+	}
 }
 
 
