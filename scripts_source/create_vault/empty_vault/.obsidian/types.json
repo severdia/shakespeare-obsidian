@@ -1,0 +1,16 @@
+{
+  "types": {
+    "Title": "text",
+    "Author": "multitext",
+    "Genre": "text",
+    "Copyright": "text",
+    "License": "text",
+    "License URL": "text",
+    "Version": "number",
+    "Sources": "multitext",
+    "ID": "text",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags"
+  }
+}
