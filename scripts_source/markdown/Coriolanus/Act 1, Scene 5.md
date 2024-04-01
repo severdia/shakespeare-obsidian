@@ -19,13 +19,13 @@ ID: coriolanus-1-5
 *Enter certain Romans with spoils.*
 
 **1. ROM.**
-This will I carry to Rome.
+==1== This will I carry to Rome.
 
 **2. ROM.**
-And I this.
+==2== And I this.
 
 **3. ROM.**
-A murrain on’t! I took this for silver.
+==3== A murrain on’t! I took this for silver.
 
 *Exeunt.*
 
@@ -34,46 +34,46 @@ A murrain on’t! I took this for silver.
 *Enter Martius and Titus Lartius with a Trumpet.*
 
 **MAR.**
-See here these movers that do prize their hours
-At a crack’d drachme! Cushions, leaden spoons,
-Irons of a doit, doublets that hangmen would
-Bury with those that wore them, these base slaves,
-Ere yet the fight be done, pack up. Down with them!
-And hark, what noise the general makes! To him!
-There is the man of my soul’s hate, Aufidius,
-Piercing our Romans; then, valiant Titus, take
-Convenient numbers to make good the city,
-Whilst I, with those that have the spirit, will haste
-To help Cominius.
+==4== See here these movers that do prize their hours
+==5== At a crack’d drachme! Cushions, leaden spoons,
+==6== Irons of a doit, doublets that hangmen would
+==7== Bury with those that wore them, these base slaves,
+==8== Ere yet the fight be done, pack up. Down with them!
+==9== And hark, what noise the general makes! To him!
+==10== There is the man of my soul’s hate, Aufidius,
+==11== Piercing our Romans; then, valiant Titus, take
+==12== Convenient numbers to make good the city,
+==13== Whilst I, with those that have the spirit, will haste
+==14== To help Cominius.
 
 **LART.**
-           Worthy sir, thou bleed’st,
-Thy exercise hath been too violent for
-A second course of fight.
+==14==            Worthy sir, thou bleed’st,
+==15== Thy exercise hath been too violent for
+==16== A second course of fight.
 
 **MAR.**
-              Sir, praise me not;
-My work hath yet not warm’d me. Fare you well.
-The blood I drop is rather physical
-Than dangerous to me. To Aufidius thus
-I will appear, and fight.
+==16==               Sir, praise me not;
+==17== My work hath yet not warm’d me. Fare you well.
+==18== The blood I drop is rather physical
+==19== Than dangerous to me. To Aufidius thus
+==20== I will appear, and fight.
 
 **LART.**
-           Now the fair goddess Fortune
-Fall deep in love with thee, and her great charms
-Misguide thy opposers’ swords! Bold gentleman!
-Prosperity be thy page.
+==20==            Now the fair goddess Fortune
+==21== Fall deep in love with thee, and her great charms
+==22== Misguide thy opposers’ swords! Bold gentleman!
+==23== Prosperity be thy page.
 
 **MAR.**
-              Thy friend no less
-Than those she placeth highest! So farewell.
+==23==               Thy friend no less
+==24== Than those she placeth highest! So farewell.
 
 **LART.**
-Thou worthiest Martius!
+==25== Thou worthiest Martius!
 *(Exit Martius.)*
-Go sound thy trumpet in the market-place;
-Call thither all the officers a’ th’ town,
-Where they shall know our mind. Away!
+==26== Go sound thy trumpet in the market-place;
+==27== Call thither all the officers a’ th’ town,
+==28== Where they shall know our mind. Away!
 
 *Exeunt.*
 

@@ -19,55 +19,55 @@ ID: antony-and-cleopatra-3-4
 *Enter Antony and Octavia.*
 
 **ANT.**
-Nay, nay, Octavia, not only that⁠—
-That were excusable, that, and thousands more
-Of semblable import—but he hath wag’d
-New wars ’gainst Pompey; made his will, and read it
-To public ear;
-Spoke scantly of me; when perforce he could not
-But pay me terms of honor, cold and sickly
-He vented them, most narrow measure lent me;
-When the best hint was given him, he not took’t,
-Or did it from his teeth.
+==1== Nay, nay, Octavia, not only that⁠—
+==2== That were excusable, that, and thousands more
+==3== Of semblable import—but he hath wag’d
+==4== New wars ’gainst Pompey; made his will, and read it
+==5== To public ear;
+==6== Spoke scantly of me; when perforce he could not
+==7== But pay me terms of honor, cold and sickly
+==8== He vented them, most narrow measure lent me;
+==9== When the best hint was given him, he not took’t,
+==10== Or did it from his teeth.
 
 **OCT.**
-              O my good lord,
-Believe not all, or if you must believe,
-Stomach not all. A more unhappy lady,
-If this division chance, ne’er stood between,
-Praying for both parts.
-The good gods will mock me presently,
-When I shall pray, “O, bless my lord and husband!”
-Undo that prayer, by crying out as loud,
-“O, bless my brother!” Husband win, win brother,
-Prays, and destroys the prayer, no midway
-’Twixt these extremes at all.
+==10==               O my good lord,
+==11== Believe not all, or if you must believe,
+==12== Stomach not all. A more unhappy lady,
+==13== If this division chance, ne’er stood between,
+==14== Praying for both parts.
+==15== The good gods will mock me presently,
+==16== When I shall pray, “O, bless my lord and husband!”
+==17== Undo that prayer, by crying out as loud,
+==18== “O, bless my brother!” Husband win, win brother,
+==19== Prays, and destroys the prayer, no midway
+==20== ’Twixt these extremes at all.
 
 **ANT.**
-                Gentle Octavia,
-Let your best love draw to that point which seeks
-Best to preserve it. If I lose mine honor,
-I lose myself; better I were not yours
-Than yours so branchless. But as you requested,
-Yourself shall go between ’s. The mean time, lady,
-I’ll raise the preparation of a war
-Shall stain your brother. Make your soonest haste;
-So your desires are yours.
+==20==                 Gentle Octavia,
+==21== Let your best love draw to that point which seeks
+==22== Best to preserve it. If I lose mine honor,
+==23== I lose myself; better I were not yours
+==24== Than yours so branchless. But as you requested,
+==25== Yourself shall go between ’s. The mean time, lady,
+==26== I’ll raise the preparation of a war
+==27== Shall stain your brother. Make your soonest haste;
+==28== So your desires are yours.
 
 **OCT.**
-              Thanks to my lord.
-The Jove of power make me most weak, most weak,
-Your reconciler! Wars ’twixt you twain would be
-As if the world should cleave, and that slain men
-Should solder up the rift.
+==28==               Thanks to my lord.
+==29== The Jove of power make me most weak, most weak,
+==30== Your reconciler! Wars ’twixt you twain would be
+==31== As if the world should cleave, and that slain men
+==32== Should solder up the rift.
 
 **ANT.**
-When it appears to you where this begins,
-Turn your displeasure that way, for our faults
-Can never be so equal that your love
-Can equally move with them. Provide your going,
-Choose your own company, and command what cost
-Your heart has mind to.
+==33== When it appears to you where this begins,
+==34== Turn your displeasure that way, for our faults
+==35== Can never be so equal that your love
+==36== Can equally move with them. Provide your going,
+==37== Choose your own company, and command what cost
+==38== Your heart has mind to.
 
 *Exeunt.*
 

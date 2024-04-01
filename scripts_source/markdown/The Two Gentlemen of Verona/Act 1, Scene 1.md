@@ -19,265 +19,265 @@ ID: two-gentlemen-of-verona-1-1
 *Enter Valentine, Proteus.*
 
 **VAL.**
-Cease to persuade, my loving Proteus:
-Home-keeping youth have ever homely wits.
-Were’t not affection chains thy tender days
-To the sweet glances of thy honor’d love,
-I rather would entreat thy company,
-To see the wonders of the world abroad,
-Than (living dully sluggardiz’d at home) 
-Wear out thy youth with shapeless idleness.
-But since thou lov’st, love still, and thrive therein,
-Even as I would, when I to love begin.
+==1== Cease to persuade, my loving Proteus:
+==2== Home-keeping youth have ever homely wits.
+==3== Were’t not affection chains thy tender days
+==4== To the sweet glances of thy honor’d love,
+==5== I rather would entreat thy company,
+==6== To see the wonders of the world abroad,
+==7== Than (living dully sluggardiz’d at home) 
+==8== Wear out thy youth with shapeless idleness.
+==9== But since thou lov’st, love still, and thrive therein,
+==10== Even as I would, when I to love begin.
 
 **PRO.**
-Wilt thou be gone? Sweet Valentine, *adieu*,
-Think on thy Proteus, when thou, happ’ly, seest
-Some rare noteworthy object in thy travel.
-Wish me partaker in thy happiness
-When thou dost meet good hap; and in thy danger
-(If ever danger do environ thee) 
-Commend thy grievance to my holy prayers,
-For I will be thy beadsman, Valentine.
+==11== Wilt thou be gone? Sweet Valentine, *adieu*,
+==12== Think on thy Proteus, when thou, happ’ly, seest
+==13== Some rare noteworthy object in thy travel.
+==14== Wish me partaker in thy happiness
+==15== When thou dost meet good hap; and in thy danger
+==16== (If ever danger do environ thee) 
+==17== Commend thy grievance to my holy prayers,
+==18== For I will be thy beadsman, Valentine.
 
 **VAL.**
-And on a love-book pray for my success?
+==19== And on a love-book pray for my success?
 
 **PRO.**
-Upon some book I love I’ll pray for thee.
+==20== Upon some book I love I’ll pray for thee.
 
 **VAL.**
-That’s on some shallow story of deep love,
-How young Leander cross’d the Hellespont.
+==21== That’s on some shallow story of deep love,
+==22== How young Leander cross’d the Hellespont.
 
 **PRO.**
-That’s a deep story of a deeper love,
-For he was more than over shoes in love.
+==23== That’s a deep story of a deeper love,
+==24== For he was more than over shoes in love.
 
 **VAL.**
-’Tis true; for you are over boots in love,
-And yet you never swom the Hellespont.
+==25== ’Tis true; for you are over boots in love,
+==26== And yet you never swom the Hellespont.
 
 **PRO.**
-Over the boots? Nay, give me not the boots.
+==27== Over the boots? Nay, give me not the boots.
 
 **VAL.**
-No, I will not; for it boots thee not.
+==28== No, I will not; for it boots thee not.
 
 **PRO.**
-                  What?
+==28==                   What?
 
 **VAL.**
-To be in love—where scorn is bought with groans;
-Coy looks with heart-sore sighs; one fading moment’s mirth
-With twenty watchful, weary, tedious nights:
-If happ’ly won, perhaps a hapless gain;
-If lost, why then a grievous labor won;
-However—but a folly bought with wit,
-Or else a wit by folly vanquished.
+==29== To be in love—where scorn is bought with groans;
+==30== Coy looks with heart-sore sighs; one fading moment’s mirth
+==31== With twenty watchful, weary, tedious nights:
+==32== If happ’ly won, perhaps a hapless gain;
+==33== If lost, why then a grievous labor won;
+==34== However—but a folly bought with wit,
+==35== Or else a wit by folly vanquished.
 
 **PRO.**
-So, by your circumstance, you call me fool.
+==36== So, by your circumstance, you call me fool.
 
 **VAL.**
-So, by your circumstance, I fear you’ll prove.
+==37== So, by your circumstance, I fear you’ll prove.
 
 **PRO.**
-’Tis love you cavil at, I am not Love.
+==38== ’Tis love you cavil at, I am not Love.
 
 **VAL.**
-Love is your master, for he masters you;
-And he that is so yoked by a fool,
-Methinks should not be chronicled for wise.
+==39== Love is your master, for he masters you;
+==40== And he that is so yoked by a fool,
+==41== Methinks should not be chronicled for wise.
 
 **PRO.**
-Yet writers say: as in the sweetest bud
-The eating canker dwells, so eating love
-Inhabits in the finest wits of all.
+==42== Yet writers say: as in the sweetest bud
+==43== The eating canker dwells, so eating love
+==44== Inhabits in the finest wits of all.
 
 **VAL.**
-And writers say: as the most forward bud
-Is eaten by the canker ere it blow,
-Even so by love the young and tender wit
-Is turn’d to folly, blasting in the bud,
-Losing his verdure, even in the prime,
-And all the fair effects of future hopes.
-But wherefore waste I time to counsel thee
-That art a votary to fond desire?
-Once more *adieu*. My father at the road
-Expects my coming, there to see me shipp’d.
+==45== And writers say: as the most forward bud
+==46== Is eaten by the canker ere it blow,
+==47== Even so by love the young and tender wit
+==48== Is turn’d to folly, blasting in the bud,
+==49== Losing his verdure, even in the prime,
+==50== And all the fair effects of future hopes.
+==51== But wherefore waste I time to counsel thee
+==52== That art a votary to fond desire?
+==53== Once more *adieu*. My father at the road
+==54== Expects my coming, there to see me shipp’d.
 
 **PRO.**
-And thither will I bring thee, Valentine.
+==55== And thither will I bring thee, Valentine.
 
 **VAL.**
-Sweet Proteus, no; now let us take our leave.
-To Milan let me hear from thee by letters
-Of thy success in love, and what news else
-Betideth here in absence of thy friend;
-And I likewise will visit thee with mine.
+==56== Sweet Proteus, no; now let us take our leave.
+==57== To Milan let me hear from thee by letters
+==58== Of thy success in love, and what news else
+==59== Betideth here in absence of thy friend;
+==60== And I likewise will visit thee with mine.
 
 **PRO.**
-All happiness bechance to thee in Milan.
+==61== All happiness bechance to thee in Milan.
 
 **VAL.**
-As much to you at home; and so farewell.
+==62== As much to you at home; and so farewell.
 
 *Exit.*
 
 **PRO.**
-He after honor hunts, I after love:
-He leaves his friends, to dignify them more;
-I leave myself, my friends, and all, for love.
-Thou, Julia, thou hast metamorphis’d me,
-Made me neglect my studies, lose my time,
-War with good counsel, set the world at nought;
-Made wit with musing weak, heart sick with thought.
+==63== He after honor hunts, I after love:
+==64== He leaves his friends, to dignify them more;
+==65== I leave myself, my friends, and all, for love.
+==66== Thou, Julia, thou hast metamorphis’d me,
+==67== Made me neglect my studies, lose my time,
+==68== War with good counsel, set the world at nought;
+==69== Made wit with musing weak, heart sick with thought.
 
 *Enter Speed.*
 
 **SPEED.**
-Sir Proteus! ’Save you! Saw you my master?
+==70== Sir Proteus! ’Save you! Saw you my master?
 
 **PRO.**
-But now he parted hence to embark for Milan.
+==71== But now he parted hence to embark for Milan.
 
 **SPEED.**
-Twenty to one then he is shipp’d already,
-And I have play’d the sheep in losing him.
+==72== Twenty to one then he is shipp’d already,
+==73== And I have play’d the sheep in losing him.
 
 **PRO.**
-Indeed a sheep doth very often stray,
-And if the shepherd be awhile away.
+==74== Indeed a sheep doth very often stray,
+==75== And if the shepherd be awhile away.
 
 **SPEED.**
-You conclude that my master is a shepherd then, and I a sheep?
+==76== You conclude that my master is a shepherd then, and I a sheep?
 
 **PRO.**
-I do.
+==77== I do.
 
 **SPEED.**
-Why then my horns are his horns, whether I wake or sleep.
+==78== Why then my horns are his horns, whether I wake or sleep.
 
 **PRO.**
-A silly answer, and fitting well a sheep.
+==79== A silly answer, and fitting well a sheep.
 
 **SPEED.**
-This proves me still a sheep.
+==80== This proves me still a sheep.
 
 **PRO.**
-True; and thy master a shepherd.
+==81== True; and thy master a shepherd.
 
 **SPEED.**
-Nay, that I can deny by a circumstance.
+==82== Nay, that I can deny by a circumstance.
 
 **PRO.**
-It shall go hard but I’ll prove it by another.
+==83== It shall go hard but I’ll prove it by another.
 
 **SPEED.**
-The shepherd seeks the sheep, and not the sheep the shepherd; but I seek my master, and my master seeks not me: therefore I am no sheep.
+==84== The shepherd seeks the sheep, and not the sheep the shepherd; but I seek my master, and my master seeks not me: therefore I am no sheep.
 
 **PRO.**
-The sheep for fodder follow the shepherd, the shepherd for food follows not the sheep; thou for wages followest thy master, thy master for wages follows not thee: therefore thou art a sheep.
+==85== The sheep for fodder follow the shepherd, the shepherd for food follows not the sheep; thou for wages followest thy master, thy master for wages follows not thee: therefore thou art a sheep.
 
 **SPEED.**
-Such another proof will make me cry “baa.”
+==86== Such another proof will make me cry “baa.”
 
 **PRO.**
-But dost thou hear? Gav’st thou my letter to Julia?
+==87== But dost thou hear? Gav’st thou my letter to Julia?
 
 **SPEED.**
-Ay, sir; I (a lost mutton) gave your letter to her (a lac’d mutton), and she (a lac’d mutton) gave me (a lost mutton) nothing for my labor.
+==88== Ay, sir; I (a lost mutton) gave your letter to her (a lac’d mutton), and she (a lac’d mutton) gave me (a lost mutton) nothing for my labor.
 
 **PRO.**
-Here’s too small a pasture for such store of muttons.
+==89== Here’s too small a pasture for such store of muttons.
 
 **SPEED.**
-If the ground be overcharg’d, you were best stick her.
+==90== If the ground be overcharg’d, you were best stick her.
 
 **PRO.**
-Nay, in that you are astray; ’twere best pound you.
+==91== Nay, in that you are astray; ’twere best pound you.
 
 **SPEED.**
-Nay, sir, less than a pound shall serve me for carrying your letter.
+==92== Nay, sir, less than a pound shall serve me for carrying your letter.
 
 **PRO.**
-You mistake; I mean the pound—a pinfold.
+==93== You mistake; I mean the pound—a pinfold.
 
 **SPEED.**
-From a pound to a pin? Fold it over and over,
-’Tis threefold too little for carrying a letter to your lover.
+==94== From a pound to a pin? Fold it over and over,
+==95== ’Tis threefold too little for carrying a letter to your lover.
 
 **PRO.**
-But what said she?
+==96== But what said she?
 
 *Speed nods, and Proteus looks at him questioningly.*
 
 **SPEED.**
-Ay.
+==97== Ay.
 
 **PRO.**
-Nod-ay—why, that’s “noddy.”
+==98== Nod-ay—why, that’s “noddy.”
 
 **SPEED.**
-You mistook, sir: I say, she did nod; and you ask me if she did nod, and I say, “Ay.”
+==99== You mistook, sir: I say, she did nod; and you ask me if she did nod, and I say, “Ay.”
 
 **PRO.**
-And that set together is “noddy.”
+==100== And that set together is “noddy.”
 
 **SPEED.**
-Now you have taken the pains to set it together, take it for your pains.
+==101== Now you have taken the pains to set it together, take it for your pains.
 
 **PRO.**
-No, no, you shall have it for bearing the letter.
+==102== No, no, you shall have it for bearing the letter.
 
 **SPEED.**
-Well, I perceive I must be fain to bear with you.
+==103== Well, I perceive I must be fain to bear with you.
 
 **PRO.**
-Why, sir, how do you bear with me?
+==104== Why, sir, how do you bear with me?
 
 **SPEED.**
-Marry, sir, the letter, very orderly, having nothing but the word “noddy” for my pains.
+==105== Marry, sir, the letter, very orderly, having nothing but the word “noddy” for my pains.
 
 **PRO.**
-Beshrew me, but you have a quick wit.
+==106== Beshrew me, but you have a quick wit.
 
 **SPEED.**
-And yet it cannot overtake your slow purse.
+==107== And yet it cannot overtake your slow purse.
 
 **PRO.**
-Come, come, open the matter in brief: what said she?
+==108== Come, come, open the matter in brief: what said she?
 
 **SPEED.**
-Open your purse, that the money and the matter may be both at once deliver’d.
+==109== Open your purse, that the money and the matter may be both at once deliver’d.
 
 **PRO.**
-Well, sir, here is for your pains. What said she?
+==110== Well, sir, here is for your pains. What said she?
 
 **SPEED.**
-Truly, sir, I think you’ll hardly win her.
+==111== Truly, sir, I think you’ll hardly win her.
 
 **PRO.**
-Why? Couldst thou perceive so much from her?
+==112== Why? Couldst thou perceive so much from her?
 
 **SPEED.**
-Sir, I could perceive nothing at all from her; no, not so much as a ducat for delivering your letter: and being so hard to me that brought your mind, I fear she’ll prove as hard to you in telling your mind. Give her no token but stones, for she’s as hard as steel.
+==113== Sir, I could perceive nothing at all from her; no, not so much as a ducat for delivering your letter: and being so hard to me that brought your mind, I fear she’ll prove as hard to you in telling your mind. Give her no token but stones, for she’s as hard as steel.
 
 **PRO.**
-What said she? Nothing?
+==114== What said she? Nothing?
 
 **SPEED.**
-No, not so much as “Take this for thy pains.” To testify your bounty, I thank you, you have testern’d me; in requital whereof, henceforth carry your letters yourself: and so, sir, I’ll commend you to my master.
+==115== No, not so much as “Take this for thy pains.” To testify your bounty, I thank you, you have testern’d me; in requital whereof, henceforth carry your letters yourself: and so, sir, I’ll commend you to my master.
 
 **PRO.**
-Go, go, be gone, to save your ship from wrack,
-Which cannot perish having thee aboard,
-Being destin’d to a drier death on shore.
+==116== Go, go, be gone, to save your ship from wrack,
+==117== Which cannot perish having thee aboard,
+==118== Being destin’d to a drier death on shore.
 *(Exit Speed.)*
-I must go send some better messenger:
-I fear my Julia would not deign my lines,
-Receiving them from such a worthless post.
+==119== I must go send some better messenger:
+==120== I fear my Julia would not deign my lines,
+==121== Receiving them from such a worthless post.
 
 *Exit.*
 

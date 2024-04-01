@@ -19,22 +19,22 @@ ID: antony-and-cleopatra-4-13
 *Enter Cleopatra, Charmian, Iras, Mardian.*
 
 **CLEO.**
-Help me, my women! O, he’s more mad
-Than Telamon for his shield; the boar of Thessaly
-Was never so emboss’d.
+==1== Help me, my women! O, he’s more mad
+==2== Than Telamon for his shield; the boar of Thessaly
+==3== Was never so emboss’d.
 
 **CHAR.**
-              To th’ monument!
-There lock yourself, and send him word you are dead.
-The soul and body rive not more in parting
-Than greatness going off.
+==3==               To th’ monument!
+==4== There lock yourself, and send him word you are dead.
+==5== The soul and body rive not more in parting
+==6== Than greatness going off.
 
 **CLEO.**
-              To th’ monument!
-Mardian, go tell him I have slain myself;
-Say that the last I spoke was “Antony,”
-And word it, prithee, piteously. Hence, Mardian,
-And bring me how he takes my death. To th’ monument!
+==6==               To th’ monument!
+==7== Mardian, go tell him I have slain myself;
+==8== Say that the last I spoke was “Antony,”
+==9== And word it, prithee, piteously. Hence, Mardian,
+==10== And bring me how he takes my death. To th’ monument!
 
 *Exeunt.*
 

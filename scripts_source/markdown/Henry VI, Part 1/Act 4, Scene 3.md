@@ -19,83 +19,83 @@ ID: henry-vi-part-i-4-3
 *Enter a Messenger that meets York. Enter York with Trumpet and many Soldiers.*
 
 **YORK.**
-Are not the speedy scouts return’d again
-That dogg’d the mighty army of the Dauphin?
+==1== Are not the speedy scouts return’d again
+==2== That dogg’d the mighty army of the Dauphin?
 
 **5. MESS.**
-They are return’d, my lord, and give it out
-That he is march’d to Bordeaux with his power
-To fight with Talbot. As he march’d along,
-By your espials were discovered
-Two mightier troops than that the Dauphin led,
-Which join’d with him and made their march for Bordeaux.
+==3== They are return’d, my lord, and give it out
+==4== That he is march’d to Bordeaux with his power
+==5== To fight with Talbot. As he march’d along,
+==6== By your espials were discovered
+==7== Two mightier troops than that the Dauphin led,
+==8== Which join’d with him and made their march for Bordeaux.
 
 *Exit.*
 
 **YORK.**
-A plague upon that villain Somerset,
-That thus delays my promised supply
-Of horsemen, that were levied for this siege!
-Renowned Talbot doth expect my aid,
-And I am louted by a traitor villain
-And cannot help the noble chevalier.
-God comfort him in this necessity!
-If he miscarry, farewell wars in France!
+==9== A plague upon that villain Somerset,
+==10== That thus delays my promised supply
+==11== Of horsemen, that were levied for this siege!
+==12== Renowned Talbot doth expect my aid,
+==13== And I am louted by a traitor villain
+==14== And cannot help the noble chevalier.
+==15== God comfort him in this necessity!
+==16== If he miscarry, farewell wars in France!
 
 *Enter another Messenger, Sir William Lucy.*
 
 **LUCY.**
-Thou princely leader of our English strength,
-Never so needful on the earth of France,
-Spur to the rescue of the noble Talbot,
-Who now is girdled with a waist of iron
-And hemm’d about with grim destruction.
-To Bordeaux, warlike Duke! To Bordeaux, York!
-Else farewell Talbot, France, and England’s honor!
+==17== Thou princely leader of our English strength,
+==18== Never so needful on the earth of France,
+==19== Spur to the rescue of the noble Talbot,
+==20== Who now is girdled with a waist of iron
+==21== And hemm’d about with grim destruction.
+==22== To Bordeaux, warlike Duke! To Bordeaux, York!
+==23== Else farewell Talbot, France, and England’s honor!
 
 **YORK.**
-O God, that Somerset, who in proud heart
-Doth stop my cornets, were in Talbot’s place!
-So should we save a valiant gentleman
-By forfeiting a traitor and a coward.
-Mad ire and wrathful fury makes me weep,
-That thus we die, while remiss traitors sleep.
+==24== O God, that Somerset, who in proud heart
+==25== Doth stop my cornets, were in Talbot’s place!
+==26== So should we save a valiant gentleman
+==27== By forfeiting a traitor and a coward.
+==28== Mad ire and wrathful fury makes me weep,
+==29== That thus we die, while remiss traitors sleep.
 
 **LUCY.**
-O, send some succor to the distress’d lord!
+==30== O, send some succor to the distress’d lord!
 
 **YORK.**
-He dies, we lose; I break my warlike word;
-We mourn, France smiles; we lose, they daily get;
-All long of this vile traitor Somerset.
+==31== He dies, we lose; I break my warlike word;
+==32== We mourn, France smiles; we lose, they daily get;
+==33== All long of this vile traitor Somerset.
 
 **LUCY.**
-Then God take mercy on brave Talbot’s soul,
-And on his son young John, who two hours since
-I met in travel toward his warlike father!
-This seven years did not Talbot see his son,
-And now they meet where both their lives are done.
+==34== Then God take mercy on brave Talbot’s soul,
+==35== And on his son young John, who two hours since
+==36== I met in travel toward his warlike father!
+==37== This seven years did not Talbot see his son,
+==38== And now they meet where both their lives are done.
 
 **YORK.**
-Alas, what joy shall noble Talbot have
-To bid his young son welcome to his grave?
-Away! Vexation almost stops my breath,
-That sund’red friends greet in the hour of death.
-Lucy, farewell, no more my fortune can,
-But curse the cause I cannot aid the man.
-Maine, Blois, Poictiers, and Tours, are won away,
-Long all of Somerset and his delay.
+==39== Alas, what joy shall noble Talbot have
+==40== To bid his young son welcome to his grave?
+==41== Away! Vexation almost stops my breath,
+==42== That sund’red friends greet in the hour of death.
+==43== Lucy, farewell, no more my fortune can,
+==44== But curse the cause I cannot aid the man.
+==45== Maine, Blois, Poictiers, and Tours, are won away,
+==46== Long all of Somerset and his delay.
 
 *Exit with his Soldiers.*
 
 **LUCY.**
-Thus while the vulture of sedition
-Feeds in the bosom of such great commanders,
-Sleeping neglection doth betray to loss
-The conquest of our scarce-cold conqueror,
-That ever-living man of memory,
-Henry the Fifth. Whiles they each other cross,
-Lives, honors, lands, and all, hurry to loss.
+==47== Thus while the vulture of sedition
+==48== Feeds in the bosom of such great commanders,
+==49== Sleeping neglection doth betray to loss
+==50== The conquest of our scarce-cold conqueror,
+==51== That ever-living man of memory,
+==52== Henry the Fifth. Whiles they each other cross,
+==53== Lives, honors, lands, and all, hurry to loss.
 
 *Exit Sir William Lucy*
 

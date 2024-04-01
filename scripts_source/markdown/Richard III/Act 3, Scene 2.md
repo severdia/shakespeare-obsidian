@@ -22,242 +22,242 @@ ID: richard-iii-3-2
 *Enter a Messenger to the door of Hastings.*
 
 **STAN. MESS.**
-My lord! My lord!
+==1== My lord! My lord!
 
 **HAST.**
 *(Within.)*
-Who knocks?
+==2== Who knocks?
 
 **STAN. MESS.**
-One from the Lord Stanley.
+==3== One from the Lord Stanley.
 
 **HAST.**
 *(Within.)*
-What is’t a’ clock?
+==4== What is’t a’ clock?
 
 **STAN. MESS.**
-Upon the stroke of four.
+==5== Upon the stroke of four.
 
 *Enter Lord Hastings.*
 
 **HAST.**
-Cannot my Lord Stanley sleep these tedious nights?
+==6== Cannot my Lord Stanley sleep these tedious nights?
 
 **STAN. MESS.**
-So it appears by that I have to say:
-First, he commends him to your noble self.
+==7== So it appears by that I have to say:
+==8== First, he commends him to your noble self.
 
 **HAST.**
-What then?
+==9== What then?
 
 **STAN. MESS.**
-Then certifies your lordship that this night
-He dreamt the boar had rased off his helm.
-Besides, he says there are two Councils kept;
-And that may be determin’d at the one
-Which may make you and him to rue at th’ other.
-Therefore he sends to know your lordship’s pleasure,
-If you will presently take horse with him,
-And with all speed post with him toward the north,
-To shun the danger that his soul divines.
+==10== Then certifies your lordship that this night
+==11== He dreamt the boar had rased off his helm.
+==12== Besides, he says there are two Councils kept;
+==13== And that may be determin’d at the one
+==14== Which may make you and him to rue at th’ other.
+==15== Therefore he sends to know your lordship’s pleasure,
+==16== If you will presently take horse with him,
+==17== And with all speed post with him toward the north,
+==18== To shun the danger that his soul divines.
 
 **HAST.**
-Go, fellow, go, return unto thy lord,
-Bid him not fear the separated Council:
-His honor and myself are at the one,
-And at the other is my good friend Catesby;
-Where nothing can proceed that toucheth us
-Whereof I shall not have intelligence.
-Tell him his fears are shallow, without instance;
-And for his dreams, I wonder he’s so simple
-To trust the mock’ry of unquiet slumbers.
-To fly the boar before the boar pursues
-Were to incense the boar to follow us,
-And make pursuit where he did mean no chase.
-Go, bid thy master rise and come to me,
-And we will both together to the Tower,
-Where he shall see the boar will use us kindly.
+==19== Go, fellow, go, return unto thy lord,
+==20== Bid him not fear the separated Council:
+==21== His honor and myself are at the one,
+==22== And at the other is my good friend Catesby;
+==23== Where nothing can proceed that toucheth us
+==24== Whereof I shall not have intelligence.
+==25== Tell him his fears are shallow, without instance;
+==26== And for his dreams, I wonder he’s so simple
+==27== To trust the mock’ry of unquiet slumbers.
+==28== To fly the boar before the boar pursues
+==29== Were to incense the boar to follow us,
+==30== And make pursuit where he did mean no chase.
+==31== Go, bid thy master rise and come to me,
+==32== And we will both together to the Tower,
+==33== Where he shall see the boar will use us kindly.
 
 **STAN. MESS.**
-I’ll go, my lord, and tell him what you say.
+==34== I’ll go, my lord, and tell him what you say.
 
 *Exit.*
 
 *Enter Catesby.*
 
 **CATE.**
-Many good morrows to my noble lord!
+==35== Many good morrows to my noble lord!
 
 **HAST.**
-Good morrow, Catesby, you are early stirring.
-What news, what news, in this our tott’ring state?
+==36== Good morrow, Catesby, you are early stirring.
+==37== What news, what news, in this our tott’ring state?
 
 **CATE.**
-It is a reeling world indeed, my lord,
-And I believe will never stand upright
-Till Richard wear the garland of the realm.
+==38== It is a reeling world indeed, my lord,
+==39== And I believe will never stand upright
+==40== Till Richard wear the garland of the realm.
 
 **HAST.**
-How? Wear the garland? Dost thou mean the crown?
+==41== How? Wear the garland? Dost thou mean the crown?
 
 **CATE.**
-Ay, my good lord.
+==42== Ay, my good lord.
 
 **HAST.**
-I’ll have this crown of mine cut from my shoulders
-Before I’ll see the crown so foul misplac’d.
-But canst thou guess that he doth aim at it?
+==43== I’ll have this crown of mine cut from my shoulders
+==44== Before I’ll see the crown so foul misplac’d.
+==45== But canst thou guess that he doth aim at it?
 
 **CATE.**
-Ay, on my life, and hopes to find you forward
-Upon his party for the gain thereof;
-And thereupon he sends you this good news,
-That this same very day your enemies,
-The kindred of the Queen, must die at Pomfret.
+==46== Ay, on my life, and hopes to find you forward
+==47== Upon his party for the gain thereof;
+==48== And thereupon he sends you this good news,
+==49== That this same very day your enemies,
+==50== The kindred of the Queen, must die at Pomfret.
 
 **HAST.**
-Indeed I am no mourner for that news,
-Because they have been still my adversaries;
-But that I’ll give my voice on Richard’s side
-To bar my master’s heirs in true descent,
-God knows I will not do it, to the death!
+==51== Indeed I am no mourner for that news,
+==52== Because they have been still my adversaries;
+==53== But that I’ll give my voice on Richard’s side
+==54== To bar my master’s heirs in true descent,
+==55== God knows I will not do it, to the death!
 
 **CATE.**
-God keep your lordship in that gracious mind!
+==56== God keep your lordship in that gracious mind!
 
 **HAST.**
-But I shall laugh at this a twelvemonth hence,
-That they which brought me in my master’s hate,
-I live to look upon their tragedy.
-Well, Catesby, ere a fortnight make me older,
-I’ll send some packing that yet think not on’t.
+==57== But I shall laugh at this a twelvemonth hence,
+==58== That they which brought me in my master’s hate,
+==59== I live to look upon their tragedy.
+==60== Well, Catesby, ere a fortnight make me older,
+==61== I’ll send some packing that yet think not on’t.
 
 **CATE.**
-’Tis a vile thing to die, my gracious lord,
-When men are unprepar’d and look not for it.
+==62== ’Tis a vile thing to die, my gracious lord,
+==63== When men are unprepar’d and look not for it.
 
 **HAST.**
-O monstrous, monstrous! And so falls it out
-With Rivers, Vaughan, Grey; and so ’twill do
-With some men else, that think themselves as safe
-As thou and I, who (as thou know’st) are dear
-To princely Richard and to Buckingham.
+==64== O monstrous, monstrous! And so falls it out
+==65== With Rivers, Vaughan, Grey; and so ’twill do
+==66== With some men else, that think themselves as safe
+==67== As thou and I, who (as thou know’st) are dear
+==68== To princely Richard and to Buckingham.
 
 **CATE.**
-The princes both make high account of you⁠—
+==69== The princes both make high account of you⁠—
 *(Aside.)*
-For they account his head upon the bridge.
+==70== For they account his head upon the bridge.
 
 **HAST.**
-I know they do, and I have well deserv’d it.
+==71== I know they do, and I have well deserv’d it.
 *(Enter Lord Stanley.)*
-Come on, come on, where is your boar-spear, man?
-Fear you the boar, and go so unprovided?
+==72== Come on, come on, where is your boar-spear, man?
+==73== Fear you the boar, and go so unprovided?
 
 **STAN.**
-My lord, good morrow, good morrow, Catesby.
-You may jest on, but, by the holy rood,
-I do not like these several Councils, I.
+==74== My lord, good morrow, good morrow, Catesby.
+==75== You may jest on, but, by the holy rood,
+==76== I do not like these several Councils, I.
 
 **HAST.**
-My lord,
-I hold my life as dear as you do yours,
-And never in my days, I do protest,
-Was it so precious to me as ’tis now.
-Think you, but that I know our state secure,
-I would be so triumphant as I am?
+==77== My lord,
+==78== I hold my life as dear as you do yours,
+==79== And never in my days, I do protest,
+==80== Was it so precious to me as ’tis now.
+==81== Think you, but that I know our state secure,
+==82== I would be so triumphant as I am?
 
 **STAN.**
-The lords at Pomfret, when they rode from London,
-Were jocund, and suppos’d their states were sure,
-And they indeed had no cause to mistrust;
-But yet you see how soon the day o’ercast.
-This sudden stab of rancor I misdoubt;
-Pray God, I say, I prove a needless coward!
-What, shall we toward the Tower? The day is spent.
+==83== The lords at Pomfret, when they rode from London,
+==84== Were jocund, and suppos’d their states were sure,
+==85== And they indeed had no cause to mistrust;
+==86== But yet you see how soon the day o’ercast.
+==87== This sudden stab of rancor I misdoubt;
+==88== Pray God, I say, I prove a needless coward!
+==89== What, shall we toward the Tower? The day is spent.
 
 **HAST.**
-Come, come, have with you. Wot you what, my lord?
-Today the lords you talk’d of are beheaded.
+==90== Come, come, have with you. Wot you what, my lord?
+==91== Today the lords you talk’d of are beheaded.
 
 **STAN.**
-They, for their truth, might better wear their heads
-Than some that have accus’d them wear their hats.
-But come, my lord, let’s away.
+==92== They, for their truth, might better wear their heads
+==93== Than some that have accus’d them wear their hats.
+==94== But come, my lord, let’s away.
 
 *Enter a Pursuivant, also named Hastings.*
 
 **HAST.**
-Go on before, I’ll talk with this good fellow.
+==95== Go on before, I’ll talk with this good fellow.
 *(Exeunt Lord Stanley and Catesby.)*
-How now, sirrah? How goes the world with thee?
+==96== How now, sirrah? How goes the world with thee?
 
 **PURS.**
-The better that your lordship please to ask.
+==97== The better that your lordship please to ask.
 
 **HAST.**
-I tell thee, man, ’tis better with me now
-Than when thou met’st me last where now we meet.
-Then was I going prisoner to the Tower,
-By the suggestion of the Queen’s allies;
-But now I tell thee (keep it to thyself) 
-This day those enemies are put to death,
-And I in better state than e’er I was.
+==98== I tell thee, man, ’tis better with me now
+==99== Than when thou met’st me last where now we meet.
+==100== Then was I going prisoner to the Tower,
+==101== By the suggestion of the Queen’s allies;
+==102== But now I tell thee (keep it to thyself) 
+==103== This day those enemies are put to death,
+==104== And I in better state than e’er I was.
 
 **PURS.**
-God hold it, to your honor’s good content!
+==105== God hold it, to your honor’s good content!
 
 **HAST.**
-Gramercy, fellow. There, drink that for me.
+==106== Gramercy, fellow. There, drink that for me.
 
 *Throws him his purse.*
 
 **PURS.**
-I thank your honor.
+==107== I thank your honor.
 
 *Exit Pursuivant.*
 
 *Enter Sir John, a Priest.*
 
 **PRIEST.**
-Well met, my lord, I am glad to see your honor.
+==108== Well met, my lord, I am glad to see your honor.
 
 **HAST.**
-I thank thee, good Sir John, with all my heart.
-I am in your debt for your last exercise;
-Come the next Sabbath, and I will content you.
+==109== I thank thee, good Sir John, with all my heart.
+==110== I am in your debt for your last exercise;
+==111== Come the next Sabbath, and I will content you.
 
 *He whispers in his ear.*
 
 **PRIEST.**
-I’ll wait upon your lordship.
+==112== I’ll wait upon your lordship.
 
 *Enter Buckingham.*
 
 **BUCK.**
-What, talking with a priest, Lord Chamberlain?
-Your friends at Pomfret, they do need the priest,
-Your honor hath no shriving work in hand.
+==113== What, talking with a priest, Lord Chamberlain?
+==114== Your friends at Pomfret, they do need the priest,
+==115== Your honor hath no shriving work in hand.
 
 **HAST.**
-Good faith, and when I met this holy man
-The men you talk of came into my mind.
-What, go you toward the Tower?
+==116== Good faith, and when I met this holy man
+==117== The men you talk of came into my mind.
+==118== What, go you toward the Tower?
 
 **BUCK.**
-I do, my lord, but long I cannot stay there.
-I shall return before your lordship thence.
+==119== I do, my lord, but long I cannot stay there.
+==120== I shall return before your lordship thence.
 
 **HAST.**
-Nay, like enough, for I stay dinner there.
+==121== Nay, like enough, for I stay dinner there.
 
 **BUCK.**
 *(Aside.)*
-And supper too, although thou know’st it not.⁠—
-Come, will you go?
+==122== And supper too, although thou know’st it not.⁠—
+==123== Come, will you go?
 
 **HAST.**
-           I’ll wait upon your lordship.
+==123==            I’ll wait upon your lordship.
 
 *Exeunt.*
 

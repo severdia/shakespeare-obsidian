@@ -21,90 +21,90 @@ ID: merchant-of-venice-2-5
 *Enter Shylock the Jew and his man that was, the Clown Launcelot.*
 
 **SHY.**
-Well, thou shalt see, thy eyes shall be thy judge,
-The difference of old Shylock and Bassanio.⁠—
-What, Jessica!—Thou shalt not gurmandize,
-As thou hast done with me—What, Jessica!⁠—
-And sleep and snore, and rend apparel out⁠—
-Why, Jessica, I say!
+==1== Well, thou shalt see, thy eyes shall be thy judge,
+==2== The difference of old Shylock and Bassanio.⁠—
+==3== What, Jessica!—Thou shalt not gurmandize,
+==4== As thou hast done with me—What, Jessica!⁠—
+==5== And sleep and snore, and rend apparel out⁠—
+==6== Why, Jessica, I say!
 
 **LAUN.**
-           Why, Jessica!
+==6==            Why, Jessica!
 
 **SHY.**
-Who bids thee call? I do not bid thee call.
+==7== Who bids thee call? I do not bid thee call.
 
 **LAUN.**
-Your worship was wont to tell me I could do nothing without bidding.
+==8== Your worship was wont to tell me I could do nothing without bidding.
 
 *Enter Jessica.*
 
 **JES.**
-Call you? What is your will?
+==9== Call you? What is your will?
 
 **SHY.**
-I am bid forth to supper, Jessica.
-There are my keys. But wherefore should I go?
-I am not bid for love, they flatter me,
-But yet I’ll go in hate, to feed upon
-The prodigal Christian. Jessica, my girl,
-Look to my house. I am right loath to go;
-There is some ill a-brewing towards my rest,
-For I did dream of money-bags tonight.
+==10== I am bid forth to supper, Jessica.
+==11== There are my keys. But wherefore should I go?
+==12== I am not bid for love, they flatter me,
+==13== But yet I’ll go in hate, to feed upon
+==14== The prodigal Christian. Jessica, my girl,
+==15== Look to my house. I am right loath to go;
+==16== There is some ill a-brewing towards my rest,
+==17== For I did dream of money-bags tonight.
 
 **LAUN.**
-I beseech you, sir, go. My young master doth expect your reproach.
+==18== I beseech you, sir, go. My young master doth expect your reproach.
 
 **SHY.**
-So do I his.
+==19== So do I his.
 
 **LAUN.**
-And they have conspir’d together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six a’ clock i’ th’ morning, falling out that year on Ash We’n’sday was four year in th’ afternoon.
+==20== And they have conspir’d together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six a’ clock i’ th’ morning, falling out that year on Ash We’n’sday was four year in th’ afternoon.
 
 **SHY.**
-What, are there masques? Hear you me, Jessica:
-Lock up my doors, and when you hear the drum
-And the vile squealing of the wry-neck’d fife,
-Clamber not you up to the casements then,
-Nor thrust your head into the public street
-To gaze on Christian fools with varnish’d faces;
-But stop my house’s ears, I mean my casements;
-Let not the sound of shallow fopp’ry enter
-My sober house. By Jacob’s staff I swear
-I have no mind of feasting forth tonight;
-But I will go. Go you before me, sirrah,
-Say I will come.
+==21== What, are there masques? Hear you me, Jessica:
+==22== Lock up my doors, and when you hear the drum
+==23== And the vile squealing of the wry-neck’d fife,
+==24== Clamber not you up to the casements then,
+==25== Nor thrust your head into the public street
+==26== To gaze on Christian fools with varnish’d faces;
+==27== But stop my house’s ears, I mean my casements;
+==28== Let not the sound of shallow fopp’ry enter
+==29== My sober house. By Jacob’s staff I swear
+==30== I have no mind of feasting forth tonight;
+==31== But I will go. Go you before me, sirrah,
+==32== Say I will come.
 
 **LAUN.**
-I will go before, sir. Mistress, look out at window for all this⁠—
-    There will come a Christian by,
-    Will be worth a Jewess’ eye.
+==33== I will go before, sir. Mistress, look out at window for all this⁠—
+==33==     There will come a Christian by,
+==33==     Will be worth a Jewess’ eye.
 
 *Exit.*
 
 **SHY.**
-What says that fool of Hagar’s offspring, ha?
+==34== What says that fool of Hagar’s offspring, ha?
 
 **JES.**
-His words were “Farewell, mistress!”—nothing else.
+==35== His words were “Farewell, mistress!”—nothing else.
 
 **SHY.**
-The patch is kind enough, but a huge feeder,
-Snail-slow in profit, and he sleeps by day
-More than the wild-cat. Drones hive not with me,
-Therefore I part with him, and part with him
-To one that I would have him help to waste
-His borrowed purse. Well, Jessica, go in,
-Perhaps I will return immediately.
-Do as I bid you, shut doors after you;
-Fast bind, fast find⁠—
-A proverb never stale in thrifty mind.
+==36== The patch is kind enough, but a huge feeder,
+==37== Snail-slow in profit, and he sleeps by day
+==38== More than the wild-cat. Drones hive not with me,
+==39== Therefore I part with him, and part with him
+==40== To one that I would have him help to waste
+==41== His borrowed purse. Well, Jessica, go in,
+==42== Perhaps I will return immediately.
+==43== Do as I bid you, shut doors after you;
+==44== Fast bind, fast find⁠—
+==45== A proverb never stale in thrifty mind.
 
 *Exit.*
 
 **JES.**
-Farewell, and if my fortune be not cross’d,
-I have a father, you a daughter, lost.
+==46== Farewell, and if my fortune be not cross’d,
+==47== I have a father, you a daughter, lost.
 
 *Exit.*
 

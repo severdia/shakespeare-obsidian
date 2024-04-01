@@ -22,85 +22,85 @@ ID: king-richard-ii-5-6
 *Flourish. Enter Bullingbrook, now King Henry, with the Duke of York with other Lords and Attendants.*
 
 **K. HEN.**
-Kind uncle York, the latest news we hear
-Is that the rebels have consum’d with fire
-Our town of Ciceter in Gloucestershire,
-But whether they be ta’en or slain we hear not.
+==1== Kind uncle York, the latest news we hear
+==2== Is that the rebels have consum’d with fire
+==3== Our town of Ciceter in Gloucestershire,
+==4== But whether they be ta’en or slain we hear not.
 *(Enter Northumberland.)*
-Welcome, my lord, what is the news?
+==5== Welcome, my lord, what is the news?
 
 **NORTH.**
-First, to thy sacred state wish I all happiness.
-The next news is, I have to London sent
-The heads of Salisbury, Spencer, Blunt, and Kent.
-The manner of their taking may appear
-At large discoursed in this paper here.
+==6== First, to thy sacred state wish I all happiness.
+==7== The next news is, I have to London sent
+==8== The heads of Salisbury, Spencer, Blunt, and Kent.
+==9== The manner of their taking may appear
+==10== At large discoursed in this paper here.
 
 **K. HEN.**
-We thank thee, gentle Percy, for thy pains,
-And to thy worth will add right worthy gains.
+==11== We thank thee, gentle Percy, for thy pains,
+==12== And to thy worth will add right worthy gains.
 
 *Enter Lord Fitzwater.*
 
 **FITZ.**
-My lord, I have from Oxford sent to London
-The heads of Brocas and Sir Bennet Seely,
-Two of the dangerous consorted traitors
-That sought at Oxford thy dire overthrow.
+==13== My lord, I have from Oxford sent to London
+==14== The heads of Brocas and Sir Bennet Seely,
+==15== Two of the dangerous consorted traitors
+==16== That sought at Oxford thy dire overthrow.
 
 **K. HEN.**
-Thy pains, Fitzwater, shall not be forgot,
-Right noble is thy merit, well I wot.
+==17== Thy pains, Fitzwater, shall not be forgot,
+==18== Right noble is thy merit, well I wot.
 
 *Enter Harry Percy and the Bishop of Carlisle.*
 
 **PERCY.**
-The grand conspirator, Abbot of Westminster,
-With clog of conscience and sour melancholy
-Hath yielded up his body to the grave;
-But here is Carlisle living, to abide
-Thy kingly doom and sentence of his pride.
+==19== The grand conspirator, Abbot of Westminster,
+==20== With clog of conscience and sour melancholy
+==21== Hath yielded up his body to the grave;
+==22== But here is Carlisle living, to abide
+==23== Thy kingly doom and sentence of his pride.
 
 **K. HEN.**
-Carlisle, this is your doom:
-Choose out some secret place, some reverent room,
-More than thou hast, and with it joy thy life.
-So as thou liv’st in peace, die free from strife,
-For though mine enemy thou hast ever been,
-High sparks of honor in thee have I seen.
+==24== Carlisle, this is your doom:
+==25== Choose out some secret place, some reverent room,
+==26== More than thou hast, and with it joy thy life.
+==27== So as thou liv’st in peace, die free from strife,
+==28== For though mine enemy thou hast ever been,
+==29== High sparks of honor in thee have I seen.
 
 *Enter Exton with Attendants bearing the coffin.*
 
 **EXTON.**
-Great King, within this coffin I present
-Thy buried fear. Herein all breathless lies
-The mightiest of thy greatest enemies,
-Richard of Bordeaux, by me hither brought.
+==30== Great King, within this coffin I present
+==31== Thy buried fear. Herein all breathless lies
+==32== The mightiest of thy greatest enemies,
+==33== Richard of Bordeaux, by me hither brought.
 
 **K. HEN.**
-Exton, I thank thee not, for thou hast wrought
-A deed of slander with thy fatal hand
-Upon my head and all this famous land.
+==34== Exton, I thank thee not, for thou hast wrought
+==35== A deed of slander with thy fatal hand
+==36== Upon my head and all this famous land.
 
 **EXTON.**
-From your own mouth, my lord, did I this deed.
+==37== From your own mouth, my lord, did I this deed.
 
 **K. HEN.**
-They love not poison that do poison need,
-Nor do I thee. Though I did wish him dead,
-I hate the murderer, love him murdered.
-The guilt of conscience take thou for thy labor,
-But neither my good word nor princely favor.
-With Cain go wander thorough shades of night,
-And never show thy head by day nor light.
-Lords, I protest my soul is full of woe
-That blood should sprinkle me to make me grow.
-Come mourn with me for what I do lament,
-And put on sullen black incontinent.
-I’ll make a voyage to the Holy Land,
-To wash this blood off from my guilty hand.
-March sadly after, grace my mournings here,
-In weeping after this untimely bier.
+==38== They love not poison that do poison need,
+==39== Nor do I thee. Though I did wish him dead,
+==40== I hate the murderer, love him murdered.
+==41== The guilt of conscience take thou for thy labor,
+==42== But neither my good word nor princely favor.
+==43== With Cain go wander thorough shades of night,
+==44== And never show thy head by day nor light.
+==45== Lords, I protest my soul is full of woe
+==46== That blood should sprinkle me to make me grow.
+==47== Come mourn with me for what I do lament,
+==48== And put on sullen black incontinent.
+==49== I’ll make a voyage to the Holy Land,
+==50== To wash this blood off from my guilty hand.
+==51== March sadly after, grace my mournings here,
+==52== In weeping after this untimely bier.
 
 *Exeunt.*
 

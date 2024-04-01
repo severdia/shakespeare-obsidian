@@ -21,187 +21,187 @@ ID: henry-v-2-1
 *Enter Corporal Nym and Lieutenant Bardolph.*
 
 **BARD.**
-Well met, Corporal Nym.
+==1== Well met, Corporal Nym.
 
 **NYM.**
-Good morrow, Lieutenant Bardolph.
+==2== Good morrow, Lieutenant Bardolph.
 
 **BARD.**
-What, are Ancient Pistol and you friends yet?
+==3== What, are Ancient Pistol and you friends yet?
 
 **NYM.**
-For my part, I care not; I say little; but when time shall serve, there shall be smiles—but that shall be as it may. I dare not fight, but I will wink and hold out mine iron. It is a simple one, but what though? It will toast cheese, and it will endure cold as another man’s sword will; and there’s an end.
+==4== For my part, I care not; I say little; but when time shall serve, there shall be smiles—but that shall be as it may. I dare not fight, but I will wink and hold out mine iron. It is a simple one, but what though? It will toast cheese, and it will endure cold as another man’s sword will; and there’s an end.
 
 **BARD.**
-I will bestow a breakfast to make you friends, and we’ll be all three sworn brothers to France. Let’t be so, good Corporal Nym.
+==5== I will bestow a breakfast to make you friends, and we’ll be all three sworn brothers to France. Let’t be so, good Corporal Nym.
 
 **NYM.**
-Faith, I will live so long as I may, that’s the certain of it; and when I cannot live any longer, I will do as I may: that is my rest, that is the rendezvous of it.
+==6== Faith, I will live so long as I may, that’s the certain of it; and when I cannot live any longer, I will do as I may: that is my rest, that is the rendezvous of it.
 
 **BARD.**
-It is certain, corporal, that he is married to Nell Quickly, and certainly she did you wrong, for you were troth-plight to her.
+==7== It is certain, corporal, that he is married to Nell Quickly, and certainly she did you wrong, for you were troth-plight to her.
 
 **NYM.**
-I cannot tell; things must be as they may. Men may sleep, and they may have their throats about them at that time, and some say knives have edges. It must be as it may; though patience be a tir’d mare, yet she will plod—there must be conclusions—well, I cannot tell.
+==8== I cannot tell; things must be as they may. Men may sleep, and they may have their throats about them at that time, and some say knives have edges. It must be as it may; though patience be a tir’d mare, yet she will plod—there must be conclusions—well, I cannot tell.
 
 *Enter Pistol and Hostess Quickly.*
 
 **BARD.**
-Here comes Ancient Pistol and his wife. Good corporal, be patient here.
+==9== Here comes Ancient Pistol and his wife. Good corporal, be patient here.
 
 **NYM.**
-How now, mine host Pistol?
+==10== How now, mine host Pistol?
 
 **PIST.**
-Base tike, call’st thou me host?
-Now by Gadslugs I swear I scorn the term;
-Nor shall my Nell keep lodgers.
+==11== Base tike, call’st thou me host?
+==12== Now by Gadslugs I swear I scorn the term;
+==13== Nor shall my Nell keep lodgers.
 
 **HOST.**
-No, by my troth, not long; for we cannot lodge and board a dozen or fourteen gentlewomen that live honestly by the prick of their needles but it will be thought we keep a bawdy-house straight.
+==14== No, by my troth, not long; for we cannot lodge and board a dozen or fourteen gentlewomen that live honestly by the prick of their needles but it will be thought we keep a bawdy-house straight.
 *(Nym and Pistol draw.)*
-O welliday, Lady, if he be not hewn now, we shall see willful adultery and murder committed.
+==15== O welliday, Lady, if he be not hewn now, we shall see willful adultery and murder committed.
 
 **BARD.**
-Good lieutenant! Good corporal! Offer nothing here.
+==16== Good lieutenant! Good corporal! Offer nothing here.
 
 **NYM.**
-Pish!
+==17== Pish!
 
 **PIST.**
-Pish for thee, Iceland dog! Thou prick-ear’d cur of Iceland!
+==18== Pish for thee, Iceland dog! Thou prick-ear’d cur of Iceland!
 
 **HOST.**
-Good Corporal Nym, show thy valor, and put up your sword.
+==19== Good Corporal Nym, show thy valor, and put up your sword.
 
 **NYM.**
-Will you shog off? I would have you *solus*.
+==20== Will you shog off? I would have you *solus*.
 
 **PIST.**
-“*Solus*,” egregious dog? O viper vile!
-The “*solus*” in thy most mervailous face,
-The “*solus*” in thy teeth, and in thy throat,
-And in thy hateful lungs, yea, in thy maw, perdy;
-And which is worse, within thy nasty mouth!
-I do retort the “*solus*” in thy bowels,
-For I can take, and Pistol’s cock is up,
-And flashing fire will follow.
+==21== “*Solus*,” egregious dog? O viper vile!
+==22== The “*solus*” in thy most mervailous face,
+==23== The “*solus*” in thy teeth, and in thy throat,
+==24== And in thy hateful lungs, yea, in thy maw, perdy;
+==25== And which is worse, within thy nasty mouth!
+==26== I do retort the “*solus*” in thy bowels,
+==27== For I can take, and Pistol’s cock is up,
+==28== And flashing fire will follow.
 
 **NYM.**
-I am not Barbason, you cannot conjure me. I have an humor to knock you indifferently well. If you grow foul with me, Pistol, I will scour you with my rapier, as I may, in fair terms. If you would walk off, I would prick your guts a little in good terms, as I may, and that’s the humor of it.
+==29== I am not Barbason, you cannot conjure me. I have an humor to knock you indifferently well. If you grow foul with me, Pistol, I will scour you with my rapier, as I may, in fair terms. If you would walk off, I would prick your guts a little in good terms, as I may, and that’s the humor of it.
 
 **PIST.**
-O braggard vile and damned furious wight!
-The grave doth gape, and doting death is near,
-Therefore exhale.
+==30== O braggard vile and damned furious wight!
+==31== The grave doth gape, and doting death is near,
+==32== Therefore exhale.
 
 **BARD.**
-Hear me, hear me what I say. He that strikes the first stroke, I’ll run him up to the hilts, as I am a soldier.
+==33== Hear me, hear me what I say. He that strikes the first stroke, I’ll run him up to the hilts, as I am a soldier.
 
 *Draws.*
 
 **PIST.**
-An oath of mickle might, and fury shall abate.
-Give me thy fist, thy fore-foot to me give.
-Thy spirits are most tall.
+==34== An oath of mickle might, and fury shall abate.
+==35== Give me thy fist, thy fore-foot to me give.
+==36== Thy spirits are most tall.
 
 **NYM.**
-I will cut thy throat one time or other in fair terms, that is the humor of it.
+==37== I will cut thy throat one time or other in fair terms, that is the humor of it.
 
 **PIST.**
-*Couple à gorge!*
-That is the word. I thee defy again.
-O hound of Crete, think’st thou my spouse to get?
-No, to the spittle go,
-And from the powd’ring-tub of infamy
-Fetch forth the lazar kite of Cressid’s kind,
-Doll Tearsheet she by name, and her espouse.
-I have, and I will hold, the quondam Quickly
-For the only she; and—*pauca*, there’s enough too!
-Go to.
+==38== *Couple à gorge!*
+==39== That is the word. I thee defy again.
+==40== O hound of Crete, think’st thou my spouse to get?
+==41== No, to the spittle go,
+==42== And from the powd’ring-tub of infamy
+==43== Fetch forth the lazar kite of Cressid’s kind,
+==44== Doll Tearsheet she by name, and her espouse.
+==45== I have, and I will hold, the quondam Quickly
+==46== For the only she; and—*pauca*, there’s enough too!
+==47== Go to.
 
 *Enter the Boy.*
 
 **BOY.**
-Mine host Pistol, you must come to my master, and your hostess. He is very sick, and would to bed. Good Bardolph, put thy face between his sheets, and do the office of a warming-pan. Faith, he’s very ill.
+==48== Mine host Pistol, you must come to my master, and your hostess. He is very sick, and would to bed. Good Bardolph, put thy face between his sheets, and do the office of a warming-pan. Faith, he’s very ill.
 
 **BARD.**
-Away, you rogue!
+==49== Away, you rogue!
 
 **HOST.**
-By my troth, he’ll yield the crow a pudding one of these days. The King has kill’d his heart. Good husband, come home presently.
+==50== By my troth, he’ll yield the crow a pudding one of these days. The King has kill’d his heart. Good husband, come home presently.
 
 *Exit with Boy.*
 
 **BARD.**
-Come, shall I make you two friends? We must to France together; why the devil should we keep knives to cut one another’s throats?
+==51== Come, shall I make you two friends? We must to France together; why the devil should we keep knives to cut one another’s throats?
 
 **PIST.**
-Let floods o’erswell, and fiends for food howl on!
+==52== Let floods o’erswell, and fiends for food howl on!
 
 **NYM.**
-You’ll pay me the eight shillings I won of you at betting?
+==53== You’ll pay me the eight shillings I won of you at betting?
 
 **PIST.**
-Base is the slave that pays.
+==54== Base is the slave that pays.
 
 **NYM.**
-That now I will have: that’s the humor of it.
+==55== That now I will have: that’s the humor of it.
 
 **PIST.**
-As manhood shall compound. Push home.
+==56== As manhood shall compound. Push home.
 
 *They draw.*
 
 **BARD.**
-By this sword, he that makes the first thrust, I’ll kill him; by this sword, I will.
+==57== By this sword, he that makes the first thrust, I’ll kill him; by this sword, I will.
 
 *Draws.*
 
 **PIST.**
-Sword is an oath, and oaths must have their course.
+==58== Sword is an oath, and oaths must have their course.
 
 **BARD.**
-Corporal Nym, and thou wilt be friends, be friends; and thou wilt not, why then be enemies with me too. Prithee put up.
+==59== Corporal Nym, and thou wilt be friends, be friends; and thou wilt not, why then be enemies with me too. Prithee put up.
 
 **NYM.**
-I shall have my eight shillings I won of you at betting?
+==60== I shall have my eight shillings I won of you at betting?
 
 **PIST.**
-A noble shalt thou have, and present pay,
-And liquor likewise will I give to thee,
-And friendship shall combine, and brotherhood.
-I’ll live by Nym, and Nym shall live by me.
-Is not this just? For I shall sutler be
-Unto the camp, and profits will accrue.
-Give me thy hand.
+==61== A noble shalt thou have, and present pay,
+==62== And liquor likewise will I give to thee,
+==63== And friendship shall combine, and brotherhood.
+==64== I’ll live by Nym, and Nym shall live by me.
+==65== Is not this just? For I shall sutler be
+==66== Unto the camp, and profits will accrue.
+==67== Give me thy hand.
 
 **NYM.**
-I shall have my noble?
+==68== I shall have my noble?
 
 **PIST.**
-In cash, most justly paid.
+==69== In cash, most justly paid.
 
 **NYM.**
-Well, then that’s the humor of’t.
+==70== Well, then that’s the humor of’t.
 
 *Enter Hostess.*
 
 **HOST.**
-As ever you come of women, come in quickly to Sir John. Ah, poor heart! He is so shak’d of a burning quotidian tertian, that it is most lamentable to behold. Sweet men, come to him.
+==71== As ever you come of women, come in quickly to Sir John. Ah, poor heart! He is so shak’d of a burning quotidian tertian, that it is most lamentable to behold. Sweet men, come to him.
 
 **NYM.**
-The King hath run bad humors on the knight, that’s the even of it.
+==72== The King hath run bad humors on the knight, that’s the even of it.
 
 **PIST.**
-Nym, thou hast spoke the right.
-His heart is fracted and corroborate.
+==73== Nym, thou hast spoke the right.
+==74== His heart is fracted and corroborate.
 
 **NYM.**
-The King is a good king, but it must be as it may; he passes some humors and careers.
+==75== The King is a good king, but it must be as it may; he passes some humors and careers.
 
 **PIST.**
-Let us condole the knight, for, lambkins, we will live.
+==76== Let us condole the knight, for, lambkins, we will live.
 
 *Exeunt.*
 

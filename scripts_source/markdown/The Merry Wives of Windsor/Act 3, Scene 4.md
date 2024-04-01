@@ -21,188 +21,188 @@ ID: merry-wives-of-windsor-3-4
 *Enter Fenton, Anne Page.*
 
 **FENT.**
-I see I cannot get thy father’s love,
-Therefore no more turn me to him, sweet Nan.
+==1== I see I cannot get thy father’s love,
+==2== Therefore no more turn me to him, sweet Nan.
 
 **ANNE.**
-Alas, how then?
+==3== Alas, how then?
 
 **FENT.**
-        Why, thou must be thyself.
-He doth object I am too great of birth,
-And that my state being gall’d with my expense,
-I seek to heal it only by his wealth.
-Besides these, other bars he lays before me,
-My riots past, my wild societies,
-And tells me ’tis a thing impossible
-I should love thee but as a property.
+==3==         Why, thou must be thyself.
+==4== He doth object I am too great of birth,
+==5== And that my state being gall’d with my expense,
+==6== I seek to heal it only by his wealth.
+==7== Besides these, other bars he lays before me,
+==8== My riots past, my wild societies,
+==9== And tells me ’tis a thing impossible
+==10== I should love thee but as a property.
 
 **ANNE.**
-May be he tells you true.
+==11== May be he tells you true.
 
 **FENT.**
-No, heaven so speed me in my time to come!
-Albeit I will confess thy father’s wealth
-Was the first motive that I woo’d thee, Anne;
-Yet wooing thee, I found thee of more value
-Than stamps in gold, or sums in sealed bags;
-And ’tis the very riches of thyself
-That now I aim at.
+==12== No, heaven so speed me in my time to come!
+==13== Albeit I will confess thy father’s wealth
+==14== Was the first motive that I woo’d thee, Anne;
+==15== Yet wooing thee, I found thee of more value
+==16== Than stamps in gold, or sums in sealed bags;
+==17== And ’tis the very riches of thyself
+==18== That now I aim at.
 
 **ANNE.**
-           Gentle Master Fenton,
-Yet seek my father’s love, still seek it, sir.
-If opportunity and humblest suit
-Cannot attain it, why then hark you hither!
+==18==            Gentle Master Fenton,
+==19== Yet seek my father’s love, still seek it, sir.
+==20== If opportunity and humblest suit
+==21== Cannot attain it, why then hark you hither!
 
 *They converse apart.*
 
 *Enter Shallow, Slender, Mistress Quickly.*
 
 **SHAL.**
-Break their talk, Mistress Quickly, my kinsman shall speak for himself.
+==22== Break their talk, Mistress Quickly, my kinsman shall speak for himself.
 
 **SLEN.**
-I’ll make a shaft or a bolt on’t. ’Slid, ’tis but venturing.
+==23== I’ll make a shaft or a bolt on’t. ’Slid, ’tis but venturing.
 
 **SHAL.**
-Be not dismay’d.
+==24== Be not dismay’d.
 
 **SLEN.**
-No, she shall not dismay me. I care not for that, but that I am afeard.
+==25== No, she shall not dismay me. I care not for that, but that I am afeard.
 
 **QUICK.**
-Hark ye, Master Slender would speak a word with you.
+==26== Hark ye, Master Slender would speak a word with you.
 
 **ANNE.**
-I come to him.
+==27== I come to him.
 *(Aside.)*
-        This is my father’s choice.
-O, what a world of vild ill-favor’d faults
-Looks handsome in three hundred pounds a year!
+==27==         This is my father’s choice.
+==28== O, what a world of vild ill-favor’d faults
+==29== Looks handsome in three hundred pounds a year!
 
 **QUICK.**
-And how does good Master Fenton? Pray you a word with you.
+==30== And how does good Master Fenton? Pray you a word with you.
 
 **SHAL.**
-She’s coming; to her, coz. O boy, thou hadst a father!
+==31== She’s coming; to her, coz. O boy, thou hadst a father!
 
 **SLEN.**
-I had a father, Mistress Anne, my uncle can tell you good jests of him. Pray you, uncle, tell Mistress Anne the jest how my father stole two geese out of a pen, good uncle.
+==32== I had a father, Mistress Anne, my uncle can tell you good jests of him. Pray you, uncle, tell Mistress Anne the jest how my father stole two geese out of a pen, good uncle.
 
 **SHAL.**
-Mistress Anne, my cousin loves you.
+==33== Mistress Anne, my cousin loves you.
 
 **SLEN.**
-Ay, that I do—as well as I love any woman in Gloucestershire.
+==34== Ay, that I do—as well as I love any woman in Gloucestershire.
 
 **SHAL.**
-He will maintain you like a gentlewoman.
+==35== He will maintain you like a gentlewoman.
 
 **SLEN.**
-Ay, that I will, come cut and long-tail, under the degree of a squire.
+==36== Ay, that I will, come cut and long-tail, under the degree of a squire.
 
 **SHAL.**
-He will make you a hundred and fifty pounds jointure.
+==37== He will make you a hundred and fifty pounds jointure.
 
 **ANNE.**
-Good Master Shallow, let him woo for himself.
+==38== Good Master Shallow, let him woo for himself.
 
 **SHAL.**
-Marry, I thank you for it; I thank you for that good comfort. She calls you, coz. I’ll leave you.
+==39== Marry, I thank you for it; I thank you for that good comfort. She calls you, coz. I’ll leave you.
 
 **ANNE.**
-Now, Master Slender⁠—
+==40== Now, Master Slender⁠—
 
 **SLEN.**
-Now, good Mistress Anne⁠—
+==41== Now, good Mistress Anne⁠—
 
 **ANNE.**
-What is your will?
+==42== What is your will?
 
 **SLEN.**
-My will? ’Od’s heartlings, that’s a pretty jest indeed! I ne’er made my will yet, I thank heaven. I am not such a sickly creature, I give heaven praise.
+==43== My will? ’Od’s heartlings, that’s a pretty jest indeed! I ne’er made my will yet, I thank heaven. I am not such a sickly creature, I give heaven praise.
 
 **ANNE.**
-I mean, Master Slender, what would you with me?
+==44== I mean, Master Slender, what would you with me?
 
 **SLEN.**
-Truly, for mine own part, I would little or nothing with you. Your father and my uncle hath made motions. If it be my luck, so; if not, happy man be his dole! They can tell you how things go better than I can. You may ask your father, here he comes.
+==45== Truly, for mine own part, I would little or nothing with you. Your father and my uncle hath made motions. If it be my luck, so; if not, happy man be his dole! They can tell you how things go better than I can. You may ask your father, here he comes.
 
 *Enter Page, Mistress Page.*
 
 **PAGE.**
-Now, Master Slender. Love him, daughter Anne.
-Why, how now? What does Master Fenton here?
-You wrong me, sir, thus still to haunt my house.
-I told you, sir, my daughter is dispos’d of.
+==46== Now, Master Slender. Love him, daughter Anne.
+==47== Why, how now? What does Master Fenton here?
+==48== You wrong me, sir, thus still to haunt my house.
+==49== I told you, sir, my daughter is dispos’d of.
 
 **FENT.**
-Nay, Master Page, be not impatient.
+==50== Nay, Master Page, be not impatient.
 
 **MRS. PAGE.**
-Good Master Fenton, come not to my child.
+==51== Good Master Fenton, come not to my child.
 
 **PAGE.**
-She is no match for you.
+==52== She is no match for you.
 
 **FENT.**
-Sir, will you hear me?
+==53== Sir, will you hear me?
 
 **PAGE.**
-           No, good Master Fenton.
-Come, Master Shallow; come, son Slender, in.
-Knowing my mind, you wrong me, Master Fenton.
+==53==            No, good Master Fenton.
+==54== Come, Master Shallow; come, son Slender, in.
+==55== Knowing my mind, you wrong me, Master Fenton.
 
 *Exeunt Page, Shallow, and Slender.*
 
 **QUICK.**
-Speak to Mistress Page.
+==56== Speak to Mistress Page.
 
 **FENT.**
-Good Mistress Page, for that I love your daughter
-In such a righteous fashion as I do,
-Perforce, against all checks, rebukes, and manners,
-I must advance the colors of my love,
-And not retire. Let me have your good will.
+==57== Good Mistress Page, for that I love your daughter
+==58== In such a righteous fashion as I do,
+==59== Perforce, against all checks, rebukes, and manners,
+==60== I must advance the colors of my love,
+==61== And not retire. Let me have your good will.
 
 **ANNE.**
-Good mother, do not marry me to yond fool.
+==62== Good mother, do not marry me to yond fool.
 
 **MRS. PAGE.**
-I mean it not, I seek you a better husband.
+==63== I mean it not, I seek you a better husband.
 
 **QUICK.**
-That’s my master, Master Doctor.
+==64== That’s my master, Master Doctor.
 
 **ANNE.**
-Alas, I had rather be set quick i’ th’ earth,
-And bowl’d to death with turnips!
+==65== Alas, I had rather be set quick i’ th’ earth,
+==66== And bowl’d to death with turnips!
 
 **MRS. PAGE.**
-Come, trouble not yourself. Good Master Fenton,
-I will not be your friend nor enemy.
-My daughter will I question how she loves you,
-And as I find her, so am I affected.
-Till then farewell, sir; she must needs go in,
-Her father will be angry.
+==67== Come, trouble not yourself. Good Master Fenton,
+==68== I will not be your friend nor enemy.
+==69== My daughter will I question how she loves you,
+==70== And as I find her, so am I affected.
+==71== Till then farewell, sir; she must needs go in,
+==72== Her father will be angry.
 
 **FENT.**
-Farewell, gentle mistress; farewell, Nan.
+==73== Farewell, gentle mistress; farewell, Nan.
 
 *Exeunt Mrs. Page and Anne.*
 
 **QUICK.**
-This is my doing now. “Nay,” said I, “will you cast away your child on a fool, and a physician? Look on Master Fenton.” This is my doing.
+==74== This is my doing now. “Nay,” said I, “will you cast away your child on a fool, and a physician? Look on Master Fenton.” This is my doing.
 
 **FENT.**
-I thank thee; and I pray thee, once tonight
-Give my sweet Nan this ring. There’s for thy pains.
+==75== I thank thee; and I pray thee, once tonight
+==76== Give my sweet Nan this ring. There’s for thy pains.
 
 **QUICK.**
-Now heaven send thee good fortune!
+==77== Now heaven send thee good fortune!
 *(Exit Fenton.)*
-A kind heart he hath. A woman would run through fire and water for such a kind heart. But yet I would my master had Mistress Anne; or I would Master Slender had her; or, in sooth, I would Master Fenton had her. I will do what I can for them all three, for so I have promis’d, and I’ll be as good as my word, but speciously for Master Fenton. Well, I must of another errand to Sir John Falstaff from my two mistresses. What a beast am I to slack it!
+==78== A kind heart he hath. A woman would run through fire and water for such a kind heart. But yet I would my master had Mistress Anne; or I would Master Slender had her; or, in sooth, I would Master Fenton had her. I will do what I can for them all three, for so I have promis’d, and I’ll be as good as my word, but speciously for Master Fenton. Well, I must of another errand to Sir John Falstaff from my two mistresses. What a beast am I to slack it!
 
 *Exit.*
 

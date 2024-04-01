@@ -19,614 +19,614 @@ ID: two-gentlemen-of-verona-3-1
 *Enter Duke, Thurio, Proteus.*
 
 **DUKE.**
-Sir Thurio, give us leave, I pray, a while,
-We have some secrets to confer about.
+==1== Sir Thurio, give us leave, I pray, a while,
+==2== We have some secrets to confer about.
 *(Exit Thurio.)*
-Now tell me, Proteus, what’s your will with me?
+==3== Now tell me, Proteus, what’s your will with me?
 
 **PRO.**
-My gracious lord, that which I would discover
-The law of friendship bids me to conceal,
-But when I call to mind your gracious favors
-Done to me (undeserving as I am),
-My duty pricks me on to utter that
-Which else no worldly good should draw from me.
-Know, worthy prince, Sir Valentine, my friend,
-This night intends to steal away your daughter;
-Myself am one made privy to the plot.
-I know you have determin’d to bestow her
-On Thurio, whom your gentle daughter hates,
-And should she thus be stol’n away from you,
-It would be much vexation to your age.
-Thus, for my duty’s sake, I rather chose
-To cross my friend in his intended drift,
-Than, by concealing it, heap on your head
-A pack of sorrows which would press you down,
-Being unprevented, to your timeless grave.
+==4== My gracious lord, that which I would discover
+==5== The law of friendship bids me to conceal,
+==6== But when I call to mind your gracious favors
+==7== Done to me (undeserving as I am),
+==8== My duty pricks me on to utter that
+==9== Which else no worldly good should draw from me.
+==10== Know, worthy prince, Sir Valentine, my friend,
+==11== This night intends to steal away your daughter;
+==12== Myself am one made privy to the plot.
+==13== I know you have determin’d to bestow her
+==14== On Thurio, whom your gentle daughter hates,
+==15== And should she thus be stol’n away from you,
+==16== It would be much vexation to your age.
+==17== Thus, for my duty’s sake, I rather chose
+==18== To cross my friend in his intended drift,
+==19== Than, by concealing it, heap on your head
+==20== A pack of sorrows which would press you down,
+==21== Being unprevented, to your timeless grave.
 
 **DUKE.**
-Proteus, I thank thee for thine honest care,
-Which to requite, command me while I live.
-This love of theirs myself have often seen,
-Haply when they have judg’d me fast asleep,
-And oftentimes have purpos’d to forbid
-Sir Valentine her company and my court;
-But fearing lest my jealous aim might err,
-And so, unworthily, disgrace the man
-(A rashness that I ever yet have shunn’d),
-I gave him gentle looks, thereby to find
-That which thyself hast now disclos’d to me.
-And that thou mayst perceive my fear of this,
-Knowing that tender youth is soon suggested,
-I nightly lodge her in an upper tow’r,
-The key whereof myself have ever kept;
-And thence she cannot be convey’d away.
+==22== Proteus, I thank thee for thine honest care,
+==23== Which to requite, command me while I live.
+==24== This love of theirs myself have often seen,
+==25== Haply when they have judg’d me fast asleep,
+==26== And oftentimes have purpos’d to forbid
+==27== Sir Valentine her company and my court;
+==28== But fearing lest my jealous aim might err,
+==29== And so, unworthily, disgrace the man
+==30== (A rashness that I ever yet have shunn’d),
+==31== I gave him gentle looks, thereby to find
+==32== That which thyself hast now disclos’d to me.
+==33== And that thou mayst perceive my fear of this,
+==34== Knowing that tender youth is soon suggested,
+==35== I nightly lodge her in an upper tow’r,
+==36== The key whereof myself have ever kept;
+==37== And thence she cannot be convey’d away.
 
 **PRO.**
-Know, noble lord, they have devis’d a mean
-How he her chamber-window will ascend,
-And with a corded ladder fetch her down;
-For which the youthful lover now is gone,
-And this way comes he with it presently,
-Where (if it please you) you may intercept him.
-But, good my lord, do it so cunningly
-That my discovery be not aimed at:
-For love of you, not hate unto my friend,
-Hath made me publisher of this pretense.
+==38== Know, noble lord, they have devis’d a mean
+==39== How he her chamber-window will ascend,
+==40== And with a corded ladder fetch her down;
+==41== For which the youthful lover now is gone,
+==42== And this way comes he with it presently,
+==43== Where (if it please you) you may intercept him.
+==44== But, good my lord, do it so cunningly
+==45== That my discovery be not aimed at:
+==46== For love of you, not hate unto my friend,
+==47== Hath made me publisher of this pretense.
 
 **DUKE.**
-Upon mine honor, he shall never know
-That I had any light from thee of this.
+==48== Upon mine honor, he shall never know
+==49== That I had any light from thee of this.
 
 **PRO.**
-*Adieu*, my lord, Sir Valentine is coming.
+==50== *Adieu*, my lord, Sir Valentine is coming.
 
 *Exit.*
 
 *Enter Valentine.*
 
 **DUKE.**
-Sir Valentine, whither away so fast?
+==51== Sir Valentine, whither away so fast?
 
 **VAL.**
-Please it your Grace, there is a messenger
-That stays to bear my letters to my friends,
-And I am going to deliver them.
+==52== Please it your Grace, there is a messenger
+==53== That stays to bear my letters to my friends,
+==54== And I am going to deliver them.
 
 **DUKE.**
-Be they of much import?
+==55== Be they of much import?
 
 **VAL.**
-The tenure of them doth but signify
-My health and happy being at your court.
+==56== The tenure of them doth but signify
+==57== My health and happy being at your court.
 
 **DUKE.**
-Nay then no matter; stay with me a while;
-I am to break with thee of some affairs
-That touch me near, wherein thou must be secret.
-’Tis not unknown to thee that I have sought
-To match my friend Sir Thurio to my daughter.
+==58== Nay then no matter; stay with me a while;
+==59== I am to break with thee of some affairs
+==60== That touch me near, wherein thou must be secret.
+==61== ’Tis not unknown to thee that I have sought
+==62== To match my friend Sir Thurio to my daughter.
 
 **VAL.**
-I know it well, my lord, and sure the match
-Were rich and honorable; besides, the gentleman
-Is full of virtue, bounty, worth, and qualities
-Beseeming such a wife as your fair daughter.
-Cannot your Grace win her to fancy him?
+==63== I know it well, my lord, and sure the match
+==64== Were rich and honorable; besides, the gentleman
+==65== Is full of virtue, bounty, worth, and qualities
+==66== Beseeming such a wife as your fair daughter.
+==67== Cannot your Grace win her to fancy him?
 
 **DUKE.**
-No, trust me, she is peevish, sullen, froward,
-Proud, disobedient, stubborn, lacking duty,
-Neither regarding that she is my child,
-Nor fearing me as if I were her father;
-And may I say to thee, this pride of hers
-(Upon advice) hath drawn my love from her,
-And where I thought the remnant of mine age
-Should have been cherish’d by her child-like duty,
-I now am full resolv’d to take a wife,
-And turn her out to who will take her in:
-Then let her beauty be her wedding-dow’r,
-For me and my possessions she esteems not.
+==68== No, trust me, she is peevish, sullen, froward,
+==69== Proud, disobedient, stubborn, lacking duty,
+==70== Neither regarding that she is my child,
+==71== Nor fearing me as if I were her father;
+==72== And may I say to thee, this pride of hers
+==73== (Upon advice) hath drawn my love from her,
+==74== And where I thought the remnant of mine age
+==75== Should have been cherish’d by her child-like duty,
+==76== I now am full resolv’d to take a wife,
+==77== And turn her out to who will take her in:
+==78== Then let her beauty be her wedding-dow’r,
+==79== For me and my possessions she esteems not.
 
 **VAL.**
-What would your Grace have me to do in this?
+==80== What would your Grace have me to do in this?
 
 **DUKE.**
-There is a lady in Milano here
-Whom I affect; but she is nice and coy,
-And nought esteems my aged eloquence.
-Now therefore would I have thee to my tutor
-(For long agone I have forgot to court;
-Besides, the fashion of the time is chang’d) 
-How and which way I may bestow myself
-To be regarded in her sun-bright eye.
+==81== There is a lady in Milano here
+==82== Whom I affect; but she is nice and coy,
+==83== And nought esteems my aged eloquence.
+==84== Now therefore would I have thee to my tutor
+==85== (For long agone I have forgot to court;
+==86== Besides, the fashion of the time is chang’d) 
+==87== How and which way I may bestow myself
+==88== To be regarded in her sun-bright eye.
 
 **VAL.**
-Win her with gifts, if she respect not words:
-Dumb jewels often in their silent kind
-More than quick words do move a woman’s mind.
+==89== Win her with gifts, if she respect not words:
+==90== Dumb jewels often in their silent kind
+==91== More than quick words do move a woman’s mind.
 
 **DUKE.**
-But she did scorn a present that I sent her.
+==92== But she did scorn a present that I sent her.
 
 **VAL.**
-A woman sometime scorns what best contents her.
-Send her another; never give her o’er,
-For scorn at first makes after-love the more.
-If she do frown, ’tis not in hate of you,
-But rather to beget more love in you.
-If she do chide, ’tis not to have you gone,
-For why, the fools are mad, if left alone.
-Take no repulse, what ever she doth say;
-For “get you gone,” she doth not mean “away!”
-Flatter and praise, commend, extol their graces;
-Though ne’er so black, say they have angels’ faces.
-That man that hath a tongue, I say is no man,
-If with his tongue he cannot win a woman.
+==93== A woman sometime scorns what best contents her.
+==94== Send her another; never give her o’er,
+==95== For scorn at first makes after-love the more.
+==96== If she do frown, ’tis not in hate of you,
+==97== But rather to beget more love in you.
+==98== If she do chide, ’tis not to have you gone,
+==99== For why, the fools are mad, if left alone.
+==100== Take no repulse, what ever she doth say;
+==101== For “get you gone,” she doth not mean “away!”
+==102== Flatter and praise, commend, extol their graces;
+==103== Though ne’er so black, say they have angels’ faces.
+==104== That man that hath a tongue, I say is no man,
+==105== If with his tongue he cannot win a woman.
 
 **DUKE.**
-But she I mean is promis’d by her friends
-Unto a youthful gentleman of worth,
-And kept severely from resort of men,
-That no man hath access by day to her.
+==106== But she I mean is promis’d by her friends
+==107== Unto a youthful gentleman of worth,
+==108== And kept severely from resort of men,
+==109== That no man hath access by day to her.
 
 **VAL.**
-Why then I would resort to her by night.
+==110== Why then I would resort to her by night.
 
 **DUKE.**
-Ay, but the doors be lock’d, and keys kept safe,
-That no man hath recourse to her by night.
+==111== Ay, but the doors be lock’d, and keys kept safe,
+==112== That no man hath recourse to her by night.
 
 **VAL.**
-What lets but one may enter at her window?
+==113== What lets but one may enter at her window?
 
 **DUKE.**
-Her chamber is aloft, far from the ground,
-And built so shelving that one cannot climb it
-Without apparent hazard of his life.
+==114== Her chamber is aloft, far from the ground,
+==115== And built so shelving that one cannot climb it
+==116== Without apparent hazard of his life.
 
 **VAL.**
-Why then a ladder, quaintly made of cords,
-To cast up, with a pair of anchoring hooks,
-Would serve to scale another Hero’s tow’r,
-So bold Leander would adventure it.
+==117== Why then a ladder, quaintly made of cords,
+==118== To cast up, with a pair of anchoring hooks,
+==119== Would serve to scale another Hero’s tow’r,
+==120== So bold Leander would adventure it.
 
 **DUKE.**
-Now as thou art a gentleman of blood,
-Advise me where I may have such a ladder.
+==121== Now as thou art a gentleman of blood,
+==122== Advise me where I may have such a ladder.
 
 **VAL.**
-When would you use it? Pray, sir, tell me that.
+==123== When would you use it? Pray, sir, tell me that.
 
 **DUKE.**
-This very night; for Love is like a child,
-That longs for every thing that he can come by.
+==124== This very night; for Love is like a child,
+==125== That longs for every thing that he can come by.
 
 **VAL.**
-By seven a’ clock I’ll get you such a ladder.
+==126== By seven a’ clock I’ll get you such a ladder.
 
 **DUKE.**
-But hark thee: I will go to her alone.
-How shall I best convey the ladder thither?
+==127== But hark thee: I will go to her alone.
+==128== How shall I best convey the ladder thither?
 
 **VAL.**
-It will be light, my lord, that you may bear it
-Under a cloak that is of any length.
+==129== It will be light, my lord, that you may bear it
+==130== Under a cloak that is of any length.
 
 **DUKE.**
-A cloak as long as thine will serve the turn?
+==131== A cloak as long as thine will serve the turn?
 
 **VAL.**
-Ay, my good lord.
+==132== Ay, my good lord.
 
 **DUKE.**
-           Then let me see thy cloak⁠—
-I’ll get me one of such another length.
+==132==            Then let me see thy cloak⁠—
+==133== I’ll get me one of such another length.
 
 **VAL.**
-Why, any cloak will serve the turn, my lord.
+==134== Why, any cloak will serve the turn, my lord.
 
 **DUKE.**
-How shall I fashion me to wear a cloak?
-I pray thee let me feel thy cloak upon me.
-What letter is this same? What’s here? “To Silvia”?
-And here an engine fit for my proceeding!
-I’ll be so bold to break the seal for once.
+==135== How shall I fashion me to wear a cloak?
+==136== I pray thee let me feel thy cloak upon me.
+==137== What letter is this same? What’s here? “To Silvia”?
+==138== And here an engine fit for my proceeding!
+==139== I’ll be so bold to break the seal for once.
 *(Reads.)*
-*“My thoughts do harbor with my Silvia nightly,*
-*And slaves they are to me that send them flying:*
-*O, could their master come and go as lightly,*
-*Himself would lodge where, senseless, they are lying!*
-*My herald thoughts in thy pure bosom rest them,*
-*While I, their king, that thither them importune,*
-*Do curse the grace that with such grace hath blest them,*
-*Because myself do want my servants’ fortune.*
-*I curse myself, for they are sent by me,*
-*That they should harbor where their lord should be.”*
-What’s here?
-*“Silvia, this night I will enfranchise thee.”*
-’Tis so; and here’s the ladder for the purpose.
-Why, Phaëton (for thou art Merops’ son),
-Wilt thou aspire to guide the heavenly car,
-And with thy daring folly burn the world?
-Wilt thou reach stars, because they shine on thee?
-Go, base intruder, overweening slave,
-Bestow thy fawning smiles on equal mates,
-And think my patience (more than thy desert) 
-Is privilege for thy departure hence.
-Thank me for this more than for all the favors
-Which (all too much) I have bestowed on thee.
-But if thou linger in my territories
-Longer than swiftest expedition
-Will give thee time to leave our royal court,
-By heaven, my wrath shall far exceed the love
-I ever bore my daughter, or thyself.
-Be gone, I will not hear thy vain excuse,
-But as thou lov’st thy life, make speed from hence.
+==140== *“My thoughts do harbor with my Silvia nightly,*
+==141== *And slaves they are to me that send them flying:*
+==142== *O, could their master come and go as lightly,*
+==143== *Himself would lodge where, senseless, they are lying!*
+==144== *My herald thoughts in thy pure bosom rest them,*
+==145== *While I, their king, that thither them importune,*
+==146== *Do curse the grace that with such grace hath blest them,*
+==147== *Because myself do want my servants’ fortune.*
+==148== *I curse myself, for they are sent by me,*
+==149== *That they should harbor where their lord should be.”*
+==150== What’s here?
+==151== *“Silvia, this night I will enfranchise thee.”*
+==152== ’Tis so; and here’s the ladder for the purpose.
+==153== Why, Phaëton (for thou art Merops’ son),
+==154== Wilt thou aspire to guide the heavenly car,
+==155== And with thy daring folly burn the world?
+==156== Wilt thou reach stars, because they shine on thee?
+==157== Go, base intruder, overweening slave,
+==158== Bestow thy fawning smiles on equal mates,
+==159== And think my patience (more than thy desert) 
+==160== Is privilege for thy departure hence.
+==161== Thank me for this more than for all the favors
+==162== Which (all too much) I have bestowed on thee.
+==163== But if thou linger in my territories
+==164== Longer than swiftest expedition
+==165== Will give thee time to leave our royal court,
+==166== By heaven, my wrath shall far exceed the love
+==167== I ever bore my daughter, or thyself.
+==168== Be gone, I will not hear thy vain excuse,
+==169== But as thou lov’st thy life, make speed from hence.
 
 *Exit.*
 
 **VAL.**
-And why not death, rather than living torment?
-To die is to be banish’d from myself,
-And Silvia is myself: banish’d from her
-Is self from self, a deadly banishment.
-What light is light, if Silvia be not seen?
-What joy is joy, if Silvia be not by?
-Unless it be to think that she is by,
-And feed upon the shadow of perfection.
-Except I be by Silvia in the night,
-There is no music in the nightingale;
-Unless I look on Silvia in the day,
-There is no day for me to look upon.
-She is my essence, and I leave to be,
-If I be not by her fair influence
-Foster’d, illumin’d, cherish’d, kept alive.
-I fly not death, to fly his deadly doom:
-Tarry I here, I but attend on death,
-But fly I hence, I fly away from life.
+==170== And why not death, rather than living torment?
+==171== To die is to be banish’d from myself,
+==172== And Silvia is myself: banish’d from her
+==173== Is self from self, a deadly banishment.
+==174== What light is light, if Silvia be not seen?
+==175== What joy is joy, if Silvia be not by?
+==176== Unless it be to think that she is by,
+==177== And feed upon the shadow of perfection.
+==178== Except I be by Silvia in the night,
+==179== There is no music in the nightingale;
+==180== Unless I look on Silvia in the day,
+==181== There is no day for me to look upon.
+==182== She is my essence, and I leave to be,
+==183== If I be not by her fair influence
+==184== Foster’d, illumin’d, cherish’d, kept alive.
+==185== I fly not death, to fly his deadly doom:
+==186== Tarry I here, I but attend on death,
+==187== But fly I hence, I fly away from life.
 
 *Enter Proteus and Launce.*
 
 **PRO.**
-Run, boy, run, run, and seek him out.
+==188== Run, boy, run, run, and seek him out.
 
 **LAUNCE.**
-Soho, soho!
+==189== Soho, soho!
 
 **PRO.**
-What seest thou?
+==190== What seest thou?
 
 **LAUNCE.**
-Him we go to find. There’s not a hair on ’s head but ’tis a Valentine.
+==191== Him we go to find. There’s not a hair on ’s head but ’tis a Valentine.
 
 **PRO.**
-Valentine?
+==192== Valentine?
 
 **VAL.**
-No.
+==193== No.
 
 **PRO.**
-Who then? His spirit?
+==194== Who then? His spirit?
 
 **VAL.**
-Neither.
+==195== Neither.
 
 **PRO.**
-What then?
+==196== What then?
 
 **VAL.**
-Nothing.
+==197== Nothing.
 
 **LAUNCE.**
-Can nothing speak? Master, shall I strike?
+==198== Can nothing speak? Master, shall I strike?
 
 **PRO.**
-Who wouldst thou strike?
+==199== Who wouldst thou strike?
 
 **LAUNCE.**
-Nothing.
+==200== Nothing.
 
 **PRO.**
-Villain, forbear.
+==201== Villain, forbear.
 
 **LAUNCE.**
-Why, sir, I’ll strike nothing. I pray you⁠—
+==202== Why, sir, I’ll strike nothing. I pray you⁠—
 
 **PRO.**
-Sirrah, I say forbear. Friend Valentine, a word.
+==203== Sirrah, I say forbear. Friend Valentine, a word.
 
 **VAL.**
-My ears are stopp’d and cannot hear good news,
-So much of bad already hath possess’d them.
+==204== My ears are stopp’d and cannot hear good news,
+==205== So much of bad already hath possess’d them.
 
 **PRO.**
-Then in dumb silence will I bury mine,
-For they are harsh, untuneable, and bad.
+==206== Then in dumb silence will I bury mine,
+==207== For they are harsh, untuneable, and bad.
 
 **VAL.**
-Is Silvia dead?
+==208== Is Silvia dead?
 
 **PRO.**
-No, Valentine.
+==209== No, Valentine.
 
 **VAL.**
-No Valentine indeed, for sacred Silvia.
-Hath she forsworn me?
+==210== No Valentine indeed, for sacred Silvia.
+==211== Hath she forsworn me?
 
 **PRO.**
-No, Valentine.
+==212== No, Valentine.
 
 **VAL.**
-No Valentine, if Silvia have forsworn me. What is your news?
+==213== No Valentine, if Silvia have forsworn me. What is your news?
 
 **LAUNCE.**
-Sir, there is a proclamation that you are vanish’d.
+==214== Sir, there is a proclamation that you are vanish’d.
 
 **PRO.**
-That thou art banish’d—O, that’s the news!⁠—
-From hence, from Silvia, and from me thy friend.
+==215== That thou art banish’d—O, that’s the news!⁠—
+==216== From hence, from Silvia, and from me thy friend.
 
 **VAL.**
-O, I have fed upon this woe already,
-And now excess of it will make me surfeit.
-Doth Silvia know that I am banished?
+==217== O, I have fed upon this woe already,
+==218== And now excess of it will make me surfeit.
+==219== Doth Silvia know that I am banished?
 
 **PRO.**
-Ay, ay; and she hath offered to the doom
-(Which unrevers’d stands in effectual force) 
-A sea of melting pearl, which some call tears;
-Those at her father’s churlish feet she tender’d,
-With them, upon her knees, her humble self,
-Wringing her hands, whose whiteness so became them
-As if but now they waxed pale for woe:
-But neither bended knees, pure hands held up,
-Sad sighs, deep groans, nor silver-shedding tears
-Could penetrate her uncompassionate sire;
-But Valentine, if he be ta’en, must die.
-Besides, her intercession chaf’d him so,
-When she for thy repeal was suppliant,
-That to close prison he commanded her,
-With many bitter threats of biding there.
+==220== Ay, ay; and she hath offered to the doom
+==221== (Which unrevers’d stands in effectual force) 
+==222== A sea of melting pearl, which some call tears;
+==223== Those at her father’s churlish feet she tender’d,
+==224== With them, upon her knees, her humble self,
+==225== Wringing her hands, whose whiteness so became them
+==226== As if but now they waxed pale for woe:
+==227== But neither bended knees, pure hands held up,
+==228== Sad sighs, deep groans, nor silver-shedding tears
+==229== Could penetrate her uncompassionate sire;
+==230== But Valentine, if he be ta’en, must die.
+==231== Besides, her intercession chaf’d him so,
+==232== When she for thy repeal was suppliant,
+==233== That to close prison he commanded her,
+==234== With many bitter threats of biding there.
 
 **VAL.**
-No more; unless the next word that thou speak’st
-Have some malignant power upon my life;
-If so—I pray thee breathe it in mine ear,
-As ending anthem of my endless dolor.
+==235== No more; unless the next word that thou speak’st
+==236== Have some malignant power upon my life;
+==237== If so—I pray thee breathe it in mine ear,
+==238== As ending anthem of my endless dolor.
 
 **PRO.**
-Cease to lament for that thou canst not help,
-And study help for that which thou lament’st.
-Time is the nurse and breeder of all good.
-Here if thou stay, thou canst not see thy love;
-Besides, thy staying will abridge thy life.
-Hope is a lover’s staff; walk hence with that
-And manage it against despairing thoughts.
-Thy letters may be here, though thou art hence,
-Which, being writ to me, shall be deliver’d
-Even in the milk-white bosom of thy love.
-The time now serves not to expostulate:
-Come, I’ll convey thee through the city-gate;
-And ere I part with thee, confer at large
-Of all that may concern thy love-affairs.
-As thou lov’st Silvia (though not for thyself) 
-Regard thy danger, and along with me.
+==239== Cease to lament for that thou canst not help,
+==240== And study help for that which thou lament’st.
+==241== Time is the nurse and breeder of all good.
+==242== Here if thou stay, thou canst not see thy love;
+==243== Besides, thy staying will abridge thy life.
+==244== Hope is a lover’s staff; walk hence with that
+==245== And manage it against despairing thoughts.
+==246== Thy letters may be here, though thou art hence,
+==247== Which, being writ to me, shall be deliver’d
+==248== Even in the milk-white bosom of thy love.
+==249== The time now serves not to expostulate:
+==250== Come, I’ll convey thee through the city-gate;
+==251== And ere I part with thee, confer at large
+==252== Of all that may concern thy love-affairs.
+==253== As thou lov’st Silvia (though not for thyself) 
+==254== Regard thy danger, and along with me.
 
 **VAL.**
-I pray thee, Launce, and if thou seest my boy,
-Bid him make haste and meet me at the North-gate.
+==255== I pray thee, Launce, and if thou seest my boy,
+==256== Bid him make haste and meet me at the North-gate.
 
 **PRO.**
-Go, sirrah, find him out. Come, Valentine.
+==257== Go, sirrah, find him out. Come, Valentine.
 
 **VAL.**
-O my dear Silvia! Hapless Valentine!
+==258== O my dear Silvia! Hapless Valentine!
 
 *Exeunt Valentine and Proteus.*
 
 **LAUNCE.**
-I am but a fool, look you, and yet I have the wit to think my master is a kind of a knave; but that’s all one, if he be but one knave. He lives not now that knows me to be in love, yet I am in love, but a team of horse shall not pluck that from me; nor who ’tis I love; and yet ’tis a woman; but what woman, I will not tell myself; and yet ’tis a milkmaid; yet ’tis not a maid, for she hath had gossips; yet ’tis a maid, for she is her master’s maid, and serves for wages. She hath more qualities than a water-spaniel, which is much in a bare Christian.
+==259== I am but a fool, look you, and yet I have the wit to think my master is a kind of a knave; but that’s all one, if he be but one knave. He lives not now that knows me to be in love, yet I am in love, but a team of horse shall not pluck that from me; nor who ’tis I love; and yet ’tis a woman; but what woman, I will not tell myself; and yet ’tis a milkmaid; yet ’tis not a maid, for she hath had gossips; yet ’tis a maid, for she is her master’s maid, and serves for wages. She hath more qualities than a water-spaniel, which is much in a bare Christian.
 *(Pulling out a paper.)*
-Here is the cate-log of her condition. “Imprimis, She can fetch and carry.” Why, a horse can do no more; nay, a horse cannot fetch, but only carry, therefore is she better than a jade. “Item, She can milk.” Look you, a sweet virtue in a maid with clean hands.
+==260== Here is the cate-log of her condition. “Imprimis, She can fetch and carry.” Why, a horse can do no more; nay, a horse cannot fetch, but only carry, therefore is she better than a jade. “Item, She can milk.” Look you, a sweet virtue in a maid with clean hands.
 
 *Enter Speed.*
 
 **SPEED.**
-How now, *Signior* Launce? What news with your mastership?
+==261== How now, *Signior* Launce? What news with your mastership?
 
 **LAUNCE.**
-With my master’s ship? Why, it is at sea.
+==262== With my master’s ship? Why, it is at sea.
 
 **SPEED.**
-Well, your old vice still: mistake the word. What news then in your paper?
+==263== Well, your old vice still: mistake the word. What news then in your paper?
 
 **LAUNCE.**
-The blackest news that ever thou heardst.
+==264== The blackest news that ever thou heardst.
 
 **SPEED.**
-Why, man? How black?
+==265== Why, man? How black?
 
 **LAUNCE.**
-Why, as black as ink.
+==266== Why, as black as ink.
 
 **SPEED.**
-Let me read them.
+==267== Let me read them.
 
 **LAUNCE.**
-Fie on thee, jolthead, thou canst not read.
+==268== Fie on thee, jolthead, thou canst not read.
 
 **SPEED.**
-Thou liest; I can.
+==269== Thou liest; I can.
 
 **LAUNCE.**
-I will try thee. Tell me this: who begot thee?
+==270== I will try thee. Tell me this: who begot thee?
 
 **SPEED.**
-Marry, the son of my grandfather.
+==271== Marry, the son of my grandfather.
 
 **LAUNCE.**
-O illiterate loiterer! It was the son of thy grandmother. This proves that thou canst not read.
+==272== O illiterate loiterer! It was the son of thy grandmother. This proves that thou canst not read.
 
 **SPEED.**
-Come, fool, come; try me in thy paper.
+==273== Come, fool, come; try me in thy paper.
 
 **LAUNCE.**
-There—and Saint Nicholas be thy speed!
-
-**SPEED.**
-*(Reads.)*
-*“Imprimis, She can milk.”*
-
-**LAUNCE.**
-Ay, that she can.
+==274== There—and Saint Nicholas be thy speed!
 
 **SPEED.**
 *(Reads.)*
-*“Item, She brews good ale.”*
+==275== *“Imprimis, She can milk.”*
 
 **LAUNCE.**
-And thereof comes the proverb: “Blessing of your heart, you brew good ale.”
+==276== Ay, that she can.
 
 **SPEED.**
-*“Item, She can sew.”*
+*(Reads.)*
+==277== *“Item, She brews good ale.”*
 
 **LAUNCE.**
-That’s as much as to say, “Can she so?”
+==278== And thereof comes the proverb: “Blessing of your heart, you brew good ale.”
 
 **SPEED.**
-*“Item, She can knit.”*
+==279== *“Item, She can sew.”*
 
 **LAUNCE.**
-What need a man care for a stock with a wench, when she can knit him a stock?
+==280== That’s as much as to say, “Can she so?”
 
 **SPEED.**
-*“Item, She can wash and scour.”*
+==281== *“Item, She can knit.”*
 
 **LAUNCE.**
-A special virtue; for then she need not be wash’d and scour’d.
+==282== What need a man care for a stock with a wench, when she can knit him a stock?
 
 **SPEED.**
-*“Item, She can spin.”*
+==283== *“Item, She can wash and scour.”*
 
 **LAUNCE.**
-Then may I set the world on wheels, when she can spin for her living.
+==284== A special virtue; for then she need not be wash’d and scour’d.
 
 **SPEED.**
-*“Item, She hath many nameless virtues.”*
+==285== *“Item, She can spin.”*
 
 **LAUNCE.**
-That’s as much as to say “bastard virtues,” that indeed know not their fathers, and therefore have no names.
+==286== Then may I set the world on wheels, when she can spin for her living.
 
 **SPEED.**
-Here follow her vices.
+==287== *“Item, She hath many nameless virtues.”*
 
 **LAUNCE.**
-Close at the heels of her virtues.
+==288== That’s as much as to say “bastard virtues,” that indeed know not their fathers, and therefore have no names.
 
 **SPEED.**
-*“Item, She is not to be kiss’d fasting, in respect of her breath.”*
+==289== Here follow her vices.
 
 **LAUNCE.**
-Well, that fault may be mended with a breakfast. Read on.
+==290== Close at the heels of her virtues.
 
 **SPEED.**
-*“Item, She hath a sweet mouth.”*
+==291== *“Item, She is not to be kiss’d fasting, in respect of her breath.”*
 
 **LAUNCE.**
-That makes amends for her sour breath.
+==292== Well, that fault may be mended with a breakfast. Read on.
 
 **SPEED.**
-*“Item, She doth talk in her sleep.”*
+==293== *“Item, She hath a sweet mouth.”*
 
 **LAUNCE.**
-It’s no matter for that, so she sleep not in her talk.
+==294== That makes amends for her sour breath.
 
 **SPEED.**
-*“Item, She is slow in words.”*
+==295== *“Item, She doth talk in her sleep.”*
 
 **LAUNCE.**
-O villain, that set this down among her vices! To be slow in words is a woman’s only virtue. I pray thee out with’t, and place it for her chief virtue.
+==296== It’s no matter for that, so she sleep not in her talk.
 
 **SPEED.**
-*“Item, She is proud.”*
+==297== *“Item, She is slow in words.”*
 
 **LAUNCE.**
-Out with that too; it was Eve’s legacy, and cannot be ta’en from her.
+==298== O villain, that set this down among her vices! To be slow in words is a woman’s only virtue. I pray thee out with’t, and place it for her chief virtue.
 
 **SPEED.**
-*“Item, She hath no teeth.”*
+==299== *“Item, She is proud.”*
 
 **LAUNCE.**
-I care not for that neither, because I love crusts.
+==300== Out with that too; it was Eve’s legacy, and cannot be ta’en from her.
 
 **SPEED.**
-*“Item, She is curst.”*
+==301== *“Item, She hath no teeth.”*
 
 **LAUNCE.**
-Well, the best is, she hath no teeth to bite.
+==302== I care not for that neither, because I love crusts.
 
 **SPEED.**
-*“Item, She will often praise her liquor.”*
+==303== *“Item, She is curst.”*
 
 **LAUNCE.**
-If her liquor be good, she shall; if she will not, I will; for good things should be prais’d.
+==304== Well, the best is, she hath no teeth to bite.
 
 **SPEED.**
-*“Item, She is too liberal.”*
+==305== *“Item, She will often praise her liquor.”*
 
 **LAUNCE.**
-Of her tongue she cannot, for that’s writ down she is slow of; of her purse she shall not, for that I’ll keep shut. Now, of another thing she may, and that cannot I help. Well, proceed.
+==306== If her liquor be good, she shall; if she will not, I will; for good things should be prais’d.
 
 **SPEED.**
-*“Item, She hath more hair than wit, and more faults than hairs, and more wealth than faults.”*
+==307== *“Item, She is too liberal.”*
 
 **LAUNCE.**
-Stop there; I’ll have her. She was mine and not mine twice or thrice in that last article. Rehearse that once more.
+==308== Of her tongue she cannot, for that’s writ down she is slow of; of her purse she shall not, for that I’ll keep shut. Now, of another thing she may, and that cannot I help. Well, proceed.
 
 **SPEED.**
-*“Item, She hath more hair than wit”—*
+==309== *“Item, She hath more hair than wit, and more faults than hairs, and more wealth than faults.”*
 
 **LAUNCE.**
-More hair than wit? It may be; I’ll prove it: the cover of the salt hides the salt, and therefore it is more than the salt; the hair that covers the wit is more than the wit, for the greater hides the less. What’s next?
+==310== Stop there; I’ll have her. She was mine and not mine twice or thrice in that last article. Rehearse that once more.
 
 **SPEED.**
-*“And more faults than hairs”—*
+==311== *“Item, She hath more hair than wit”—*
 
 **LAUNCE.**
-That’s monstrous. O that that were out!
+==312== More hair than wit? It may be; I’ll prove it: the cover of the salt hides the salt, and therefore it is more than the salt; the hair that covers the wit is more than the wit, for the greater hides the less. What’s next?
 
 **SPEED.**
-*“And more wealth than faults.”*
+==313== *“And more faults than hairs”—*
 
 **LAUNCE.**
-Why, that word makes the faults gracious. Well, I’ll have her; and if it be a match, as nothing is impossible⁠—
+==314== That’s monstrous. O that that were out!
 
 **SPEED.**
-What then?
+==315== *“And more wealth than faults.”*
 
 **LAUNCE.**
-Why, then will I tell thee—that thy master stays for thee at the North-gate.
+==316== Why, that word makes the faults gracious. Well, I’ll have her; and if it be a match, as nothing is impossible⁠—
 
 **SPEED.**
-For me?
+==317== What then?
 
 **LAUNCE.**
-For thee? Ay, who art thou? He hath stay’d for a better man than thee.
+==318== Why, then will I tell thee—that thy master stays for thee at the North-gate.
 
 **SPEED.**
-And must I go to him?
+==319== For me?
 
 **LAUNCE.**
-Thou must run to him, for thou hast stay’d so long that going will scarce serve the turn.
+==320== For thee? Ay, who art thou? He hath stay’d for a better man than thee.
 
 **SPEED.**
-Why didst not tell me sooner? Pox of your love-letters!
+==321== And must I go to him?
+
+**LAUNCE.**
+==322== Thou must run to him, for thou hast stay’d so long that going will scarce serve the turn.
+
+**SPEED.**
+==323== Why didst not tell me sooner? Pox of your love-letters!
 
 *Exit.*
 
 **LAUNCE.**
-Now will he be swing’d for reading my letter—an unmannerly slave, that will thrust himself into secrets. I’ll after, to rejoice in the boy’s correction.
+==324== Now will he be swing’d for reading my letter—an unmannerly slave, that will thrust himself into secrets. I’ll after, to rejoice in the boy’s correction.
 
 *Exit.*
 

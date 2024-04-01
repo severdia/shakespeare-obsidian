@@ -19,47 +19,47 @@ ID: henry-vi-part-i-5-2
 *Enter Charles, Burgundy, Alanson, Bastard, Reignier, and Joan de Pucelle, with forces.*
 
 **CHAR.**
-These news, my lords, may cheer our drooping spirits:
-’Tis said the stout Parisians do revolt,
-And turn again unto the warlike French.
+==1== These news, my lords, may cheer our drooping spirits:
+==2== ’Tis said the stout Parisians do revolt,
+==3== And turn again unto the warlike French.
 
 **ALAN.**
-Then march to Paris, royal Charles of France,
-And keep not back your powers in dalliance.
+==4== Then march to Paris, royal Charles of France,
+==5== And keep not back your powers in dalliance.
 
 **PUC.**
-Peace be amongst them if they turn to us,
-Else ruin combat with their palaces!
+==6== Peace be amongst them if they turn to us,
+==7== Else ruin combat with their palaces!
 
 *Enter Scout.*
 
 **SCOUT.**
-Success unto our valiant general,
-And happiness to his accomplices!
+==8== Success unto our valiant general,
+==9== And happiness to his accomplices!
 
 **CHAR.**
-What tidings send our scouts? I prithee speak.
+==10== What tidings send our scouts? I prithee speak.
 
 **SCOUT.**
-The English army, that divided was
-Into two parties, is now conjoin’d in one,
-And means to give you battle presently.
+==11== The English army, that divided was
+==12== Into two parties, is now conjoin’d in one,
+==13== And means to give you battle presently.
 
 **CHAR.**
-Somewhat too sudden, sirs, the warning is,
-But we will presently provide for them.
+==14== Somewhat too sudden, sirs, the warning is,
+==15== But we will presently provide for them.
 
 **BUR.**
-I trust the ghost of Talbot is not there.
-Now he is gone, my lord, you need not fear.
+==16== I trust the ghost of Talbot is not there.
+==17== Now he is gone, my lord, you need not fear.
 
 **PUC.**
-Of all base passions, fear is most accurs’d.
-Command the conquest, Charles, it shall be thine,
-Let Henry fret, and all the world repine.
+==18== Of all base passions, fear is most accurs’d.
+==19== Command the conquest, Charles, it shall be thine,
+==20== Let Henry fret, and all the world repine.
 
 **CHAR.**
-Then on, my lords, and France be fortunate!
+==21== Then on, my lords, and France be fortunate!
 
 *Exeunt.*
 

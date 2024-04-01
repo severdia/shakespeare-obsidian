@@ -22,299 +22,299 @@ ID: hamlet-4-7
 *Enter King and Laertes.*
 
 **KING.**
-Now must your conscience my acquittance seal,
-And you must put me in your heart for friend,
-Sith you have heard, and with a knowing ear,
-That he which hath your noble father slain
-Pursued my life.
+==1== Now must your conscience my acquittance seal,
+==2== And you must put me in your heart for friend,
+==3== Sith you have heard, and with a knowing ear,
+==4== That he which hath your noble father slain
+==5== Pursued my life.
 
 **LAER.**
-        It well appears. But tell me
-Why you proceeded not against these feats
-So criminal and so capital in nature,
-As by your safety, greatness, wisdom, all things else
-You mainly were stirr’d up.
+==5==         It well appears. But tell me
+==6== Why you proceeded not against these feats
+==7== So criminal and so capital in nature,
+==8== As by your safety, greatness, wisdom, all things else
+==9== You mainly were stirr’d up.
 
 **KING.**
-              O, for two special reasons,
-Which may to you perhaps seem much unsinew’d,
-But yet to me th’ are strong. The Queen his mother
-Lives almost by his looks, and for myself⁠—
-My virtue or my plague, be it either which⁠—
-She is so conjunctive to my life and soul,
-That, as the star moves not but in his sphere,
-I could not but by her. The other motive,
-Why to a public count I might not go,
-Is the great love the general gender bear him,
-Who, dipping all his faults in their affection,
-Work like the spring that turneth wood to stone,
-Convert his gyves to graces, so that my arrows,
-Too slightly timber’d for so loud a wind,
-Would have reverted to my bow again,
-But not where I have aim’d them.
+==9==               O, for two special reasons,
+==10== Which may to you perhaps seem much unsinew’d,
+==11== But yet to me th’ are strong. The Queen his mother
+==12== Lives almost by his looks, and for myself⁠—
+==13== My virtue or my plague, be it either which⁠—
+==14== She is so conjunctive to my life and soul,
+==15== That, as the star moves not but in his sphere,
+==16== I could not but by her. The other motive,
+==17== Why to a public count I might not go,
+==18== Is the great love the general gender bear him,
+==19== Who, dipping all his faults in their affection,
+==20== Work like the spring that turneth wood to stone,
+==21== Convert his gyves to graces, so that my arrows,
+==22== Too slightly timber’d for so loud a wind,
+==23== Would have reverted to my bow again,
+==24== But not where I have aim’d them.
 
 **LAER.**
-And so have I a noble father lost,
-A sister driven into desp’rate terms,
-Whose worth, if praises may go back again,
-Stood challenger on mount of all the age
-For her perfections—but my revenge will come.
+==25== And so have I a noble father lost,
+==26== A sister driven into desp’rate terms,
+==27== Whose worth, if praises may go back again,
+==28== Stood challenger on mount of all the age
+==29== For her perfections—but my revenge will come.
 
 **KING.**
-Break not your sleeps for that. You must not think
-That we are made of stuff so flat and dull
-That we can let our beard be shook with danger
-And think it pastime. You shortly shall hear more.
-I lov’d your father, and we love ourself,
-And that, I hope, will teach you to imagine⁠—
+==30== Break not your sleeps for that. You must not think
+==31== That we are made of stuff so flat and dull
+==32== That we can let our beard be shook with danger
+==33== And think it pastime. You shortly shall hear more.
+==34== I lov’d your father, and we love ourself,
+==35== And that, I hope, will teach you to imagine⁠—
 *(Enter a Messenger with letters.)*
-How now? What news?
+==36== How now? What news?
 
 **MESS.**
-           Letters, my lord, from Hamlet:
-These to your Majesty, this to the queen.
+==36==            Letters, my lord, from Hamlet:
+==37== These to your Majesty, this to the queen.
 
 **KING.**
-From Hamlet? Who brought them?
+==38== From Hamlet? Who brought them?
 
 **MESS.**
-Sailors, my lord, they say, I saw them not.
-They were given me by Claudio. He receiv’d them
-Of him that brought them.
+==39== Sailors, my lord, they say, I saw them not.
+==40== They were given me by Claudio. He receiv’d them
+==41== Of him that brought them.
 
 **KING.**
-              Laertes, you shall hear them.
-—Leave us.
+==41==               Laertes, you shall hear them.
+==42== —Leave us.
 *(Exit Messenger.)*
 *(Reads.)*
-*“High and mighty, You shall know I am set naked on your kingdom. Tomorrow shall I beg leave to see your kingly eyes, when I shall, first asking you pardon thereunto, recount the occasion of my sudden and more strange return. Hamlet.”*
-What should this mean? Are all the rest come back?
-Or is it some abuse, and no such thing?
+==43== *“High and mighty, You shall know I am set naked on your kingdom. Tomorrow shall I beg leave to see your kingly eyes, when I shall, first asking you pardon thereunto, recount the occasion of my sudden and more strange return. Hamlet.”*
+==44== What should this mean? Are all the rest come back?
+==45== Or is it some abuse, and no such thing?
 
 **LAER.**
-Know you the hand?
+==46== Know you the hand?
 
 **KING.**
-           ’Tis Hamlet’s character. “Naked”!
-And in a postscript here he says “alone.”
-Can you devise me?
+==46==            ’Tis Hamlet’s character. “Naked”!
+==47== And in a postscript here he says “alone.”
+==48== Can you devise me?
 
 **LAER.**
-I am lost in it, my lord. But let him come,
-It warms the very sickness in my heart
-That I shall live and tell him to his teeth,
-“Thus didst thou.”
+==49== I am lost in it, my lord. But let him come,
+==50== It warms the very sickness in my heart
+==51== That I shall live and tell him to his teeth,
+==52== “Thus didst thou.”
 
 **KING.**
-           If it be so, Laertes⁠—
-As how should it be so? How otherwise?⁠—
-Will you be rul’d by me?
+==52==            If it be so, Laertes⁠—
+==53== As how should it be so? How otherwise?⁠—
+==54== Will you be rul’d by me?
 
 **LAER.**
-              Ay, my lord,
-So you will not o’errule me to a peace.
+==54==               Ay, my lord,
+==55== So you will not o’errule me to a peace.
 
 **KING.**
-To thine own peace. If he be now returned
-As checking at his voyage, and that he means
-No more to undertake it, I will work him
-To an exploit, now ripe in my device,
-Under the which he shall not choose but fall;
-And for his death no wind of blame shall breathe,
-But even his mother shall uncharge the practice,
-And call it accident.
+==56== To thine own peace. If he be now returned
+==57== As checking at his voyage, and that he means
+==58== No more to undertake it, I will work him
+==59== To an exploit, now ripe in my device,
+==60== Under the which he shall not choose but fall;
+==61== And for his death no wind of blame shall breathe,
+==62== But even his mother shall uncharge the practice,
+==63== And call it accident.
 
 **LAER.**
-              My lord, I will be rul’d,
-The rather if you could devise it so
-That I might be the organ.
+==63==               My lord, I will be rul’d,
+==64== The rather if you could devise it so
+==65== That I might be the organ.
 
 **KING.**
-              It falls right.
-You have been talk’d of since your travel much,
-And that in Hamlet’s hearing, for a quality
-Wherein they say you shine. Your sum of parts
-Did not together pluck such envy from him
-As did that one, and that, in my regard,
-Of the unworthiest siege.
+==65==               It falls right.
+==66== You have been talk’d of since your travel much,
+==67== And that in Hamlet’s hearing, for a quality
+==68== Wherein they say you shine. Your sum of parts
+==69== Did not together pluck such envy from him
+==70== As did that one, and that, in my regard,
+==71== Of the unworthiest siege.
 
 **LAER.**
-              What part is that, my lord?
+==71==               What part is that, my lord?
 
 **KING.**
-A very riband in the cap of youth,
-Yet needful too, for youth no less becomes
-The light and careless livery that it wears
-Than settled age his sables and his weeds,
-Importing health and graveness. Two months since
-Here was a gentleman of Normandy:
-I have seen myself, and serv’d against, the French,
-And they can well on horseback, but this gallant
-Had witchcraft in’t, he grew unto his seat,
-And to such wondrous doing brought his horse,
-As had he been incorps’d and demi-natur’d
-With the brave beast. So far he topp’d my thought,
-That I in forgery of shapes and tricks
-Come short of what he did.
+==72== A very riband in the cap of youth,
+==73== Yet needful too, for youth no less becomes
+==74== The light and careless livery that it wears
+==75== Than settled age his sables and his weeds,
+==76== Importing health and graveness. Two months since
+==77== Here was a gentleman of Normandy:
+==78== I have seen myself, and serv’d against, the French,
+==79== And they can well on horseback, but this gallant
+==80== Had witchcraft in’t, he grew unto his seat,
+==81== And to such wondrous doing brought his horse,
+==82== As had he been incorps’d and demi-natur’d
+==83== With the brave beast. So far he topp’d my thought,
+==84== That I in forgery of shapes and tricks
+==85== Come short of what he did.
 
 **LAER.**
-              A Norman was’t?
+==85==               A Norman was’t?
 
 **KING.**
-A Norman.
+==86== A Norman.
 
 **LAER.**
-Upon my life, Lamord.
+==87== Upon my life, Lamord.
 
 **KING.**
-              The very same.
+==87==               The very same.
 
 **LAER.**
-I know him well. He is the brooch indeed
-And gem of all the nation.
+==88== I know him well. He is the brooch indeed
+==89== And gem of all the nation.
 
 **KING.**
-He made confession of you,
-And gave you such a masterly report
-For art and exercise in your defense,
-And for your rapier most especial,
-That he cried out ’twould be a sight indeed
-If one could match you. The scrimers of their nation
-He swore had neither motion, guard, nor eye,
-If you oppos’d them. Sir, this report of his
-Did Hamlet so envenom with his envy
-That he could nothing do but wish and beg
-Your sudden coming o’er to play with you.
-Now, out of this⁠—
+==90== He made confession of you,
+==91== And gave you such a masterly report
+==92== For art and exercise in your defense,
+==93== And for your rapier most especial,
+==94== That he cried out ’twould be a sight indeed
+==95== If one could match you. The scrimers of their nation
+==96== He swore had neither motion, guard, nor eye,
+==97== If you oppos’d them. Sir, this report of his
+==98== Did Hamlet so envenom with his envy
+==99== That he could nothing do but wish and beg
+==100== Your sudden coming o’er to play with you.
+==101== Now, out of this⁠—
 
 **LAER.**
-           What out of this, my lord?
+==101==            What out of this, my lord?
 
 **KING.**
-Laertes, was your father dear to you?
-Or are you like the painting of a sorrow,
-A face without a heart?
+==102== Laertes, was your father dear to you?
+==103== Or are you like the painting of a sorrow,
+==104== A face without a heart?
 
 **LAER.**
-              Why ask you this?
+==104==               Why ask you this?
 
 **KING.**
-Not that I think you did not love your father,
-But that I know love is begun by time,
-And that I see, in passages of proof,
-Time qualifies the spark and fire of it.
-There lives within the very flame of love
-A kind of week or snuff that will abate it,
-And nothing is at a like goodness still,
-For goodness, growing to a plurisy,
-Dies in his own too much. That we would do,
-We should do when we would; for this “would” changes,
-And hath abatements and delays as many
-As there are tongues, are hands, are accidents,
-And then this ’should’ is like a spendthrift’s sigh,
-That hurts by easing. But to the quick of th’ ulcer:
-Hamlet comes back. What would you undertake
-To show yourself indeed your father’s son
-More than in words?
+==105== Not that I think you did not love your father,
+==106== But that I know love is begun by time,
+==107== And that I see, in passages of proof,
+==108== Time qualifies the spark and fire of it.
+==109== There lives within the very flame of love
+==110== A kind of week or snuff that will abate it,
+==111== And nothing is at a like goodness still,
+==112== For goodness, growing to a plurisy,
+==113== Dies in his own too much. That we would do,
+==114== We should do when we would; for this “would” changes,
+==115== And hath abatements and delays as many
+==116== As there are tongues, are hands, are accidents,
+==117== And then this ’should’ is like a spendthrift’s sigh,
+==118== That hurts by easing. But to the quick of th’ ulcer:
+==119== Hamlet comes back. What would you undertake
+==120== To show yourself indeed your father’s son
+==121== More than in words?
 
 **LAER.**
-           To cut his throat i’ th’ church.
+==121==            To cut his throat i’ th’ church.
 
 **KING.**
-No place indeed should murder sanctuarize,
-Revenge should have no bounds. But, good Laertes,
-Will you do this, keep close within your chamber.
-Hamlet return’d shall know you are come home.
-We’ll put on those shall praise your excellence,
-And set a double varnish on the fame
-The Frenchman gave you, bring you in fine together,
-And wager o’er your heads. He, being remiss,
-Most generous, and free from all contriving,
-Will not peruse the foils, so that with ease,
-Or with a little shuffling, you may choose
-A sword unbated, and in a pass of practice
-Requite him for your father.
+==122== No place indeed should murder sanctuarize,
+==123== Revenge should have no bounds. But, good Laertes,
+==124== Will you do this, keep close within your chamber.
+==125== Hamlet return’d shall know you are come home.
+==126== We’ll put on those shall praise your excellence,
+==127== And set a double varnish on the fame
+==128== The Frenchman gave you, bring you in fine together,
+==129== And wager o’er your heads. He, being remiss,
+==130== Most generous, and free from all contriving,
+==131== Will not peruse the foils, so that with ease,
+==132== Or with a little shuffling, you may choose
+==133== A sword unbated, and in a pass of practice
+==134== Requite him for your father.
 
 **LAER.**
-                I will do’t,
-And for that purpose I’ll anoint my sword.
-I bought an unction of a mountebank,
-So mortal that, but dip a knife in it,
-Where it draws blood, no cataplasm so rare,
-Collected from all simples that have virtue
-Under the moon, can save the thing from death
-That is but scratch’d withal. I’ll touch my point
-With this contagion, that if I gall him slightly,
-It may be death.
+==134==                 I will do’t,
+==135== And for that purpose I’ll anoint my sword.
+==136== I bought an unction of a mountebank,
+==137== So mortal that, but dip a knife in it,
+==138== Where it draws blood, no cataplasm so rare,
+==139== Collected from all simples that have virtue
+==140== Under the moon, can save the thing from death
+==141== That is but scratch’d withal. I’ll touch my point
+==142== With this contagion, that if I gall him slightly,
+==143== It may be death.
 
 **KING.**
-        Let’s further think of this,
-Weigh what convenience both of time and means
-May fit us to our shape. If this should fail,
-And that our drift look through our bad performance,
-’Twere better not assay’d; therefore this project
-Should have a back or second, that might hold
-If this did blast in proof. Soft, let me see.
-We’ll make a solemn wager on your cunnings⁠—
-I ha’t!
-When in your motion you are hot and dry⁠—
-As make your bouts more violent to that end⁠—
-And that he calls for drink, I’ll have preferr’d him
-A chalice for the nonce, whereon but sipping,
-If he by chance escape your venom’d stuck,
-Our purpose may hold there. But stay, what noise?
+==143==         Let’s further think of this,
+==144== Weigh what convenience both of time and means
+==145== May fit us to our shape. If this should fail,
+==146== And that our drift look through our bad performance,
+==147== ’Twere better not assay’d; therefore this project
+==148== Should have a back or second, that might hold
+==149== If this did blast in proof. Soft, let me see.
+==150== We’ll make a solemn wager on your cunnings⁠—
+==151== I ha’t!
+==152== When in your motion you are hot and dry⁠—
+==153== As make your bouts more violent to that end⁠—
+==154== And that he calls for drink, I’ll have preferr’d him
+==155== A chalice for the nonce, whereon but sipping,
+==156== If he by chance escape your venom’d stuck,
+==157== Our purpose may hold there. But stay, what noise?
 
 *Enter Queen.*
 
 **QUEEN.**
-One woe doth tread upon another’s heel,
-So fast they follow. Your sister’s drown’d, Laertes.
+==158== One woe doth tread upon another’s heel,
+==159== So fast they follow. Your sister’s drown’d, Laertes.
 
 **LAER.**
-Drown’d! O, where?
+==160== Drown’d! O, where?
 
 **QUEEN.**
-There is a willow grows askaunt the brook,
-That shows his hoary leaves in the glassy stream,
-Therewith fantastic garlands did she make
-Of crow-flowers, nettles, daisies, and long purples
-That liberal shepherds give a grosser name,
-But our cull-cold maids do dead men’s fingers call them.
-There on the pendant boughs her crownet weeds
-Clamb’ring to hang, an envious sliver broke,
-When down her weedy trophies and herself
-Fell in the weeping brook. Her clothes spread wide,
-And mermaid-like awhile they bore her up,
-Which time she chaunted snatches of old lauds,
-As one incapable of her own distress,
-Or like a creature native and indued
-Unto that element. But long it could not be
-Till that her garments, heavy with their drink,
-Pull’d the poor wretch from her melodious lay
-To muddy death.
+==161== There is a willow grows askaunt the brook,
+==162== That shows his hoary leaves in the glassy stream,
+==163== Therewith fantastic garlands did she make
+==164== Of crow-flowers, nettles, daisies, and long purples
+==165== That liberal shepherds give a grosser name,
+==166== But our cull-cold maids do dead men’s fingers call them.
+==167== There on the pendant boughs her crownet weeds
+==168== Clamb’ring to hang, an envious sliver broke,
+==169== When down her weedy trophies and herself
+==170== Fell in the weeping brook. Her clothes spread wide,
+==171== And mermaid-like awhile they bore her up,
+==172== Which time she chaunted snatches of old lauds,
+==173== As one incapable of her own distress,
+==174== Or like a creature native and indued
+==175== Unto that element. But long it could not be
+==176== Till that her garments, heavy with their drink,
+==177== Pull’d the poor wretch from her melodious lay
+==178== To muddy death.
 
 **LAER.**
-        Alas, then she is drown’d?
+==178==         Alas, then she is drown’d?
 
 **QUEEN.**
-Drown’d, drown’d.
+==179== Drown’d, drown’d.
 
 **LAER.**
-Too much of water hast thou, poor Ophelia,
-And therefore I forbid my tears; but yet
-It is our trick, Nature her custom holds,
-Let shame say what it will; when these are gone,
-The woman will be out. *Adieu*, my lord,
-I have a speech a’ fire that fain would blaze,
-But that this folly drowns it.
+==180== Too much of water hast thou, poor Ophelia,
+==181== And therefore I forbid my tears; but yet
+==182== It is our trick, Nature her custom holds,
+==183== Let shame say what it will; when these are gone,
+==184== The woman will be out. *Adieu*, my lord,
+==185== I have a speech a’ fire that fain would blaze,
+==186== But that this folly drowns it.
 
 *Exit.*
 
 **KING.**
-                Let’s follow, Gertrude.
-How much I had to do to calm his rage!
-Now fear I this will give it start again,
-Therefore let’s follow.
+==186==                 Let’s follow, Gertrude.
+==187== How much I had to do to calm his rage!
+==188== Now fear I this will give it start again,
+==189== Therefore let’s follow.
 
 *Exeunt.*
 

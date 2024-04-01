@@ -22,262 +22,262 @@ ID: henry-viii-1-4
 *Then enter Anne Boleyn and diverse other Ladies and Gentlemen as guests, at one door; at another door, enter Sir Henry Guilford.*
 
 **GUIL.**
-Ladies, a general welcome from his Grace
-Salutes ye all; this night he dedicates
-To fair content and you. None here, he hopes,
-In all this noble bevy, has brought with her
-One care abroad. He would have all as merry
-As, first, good company, good wine, good welcome,
-Can make good people.
+==1== Ladies, a general welcome from his Grace
+==2== Salutes ye all; this night he dedicates
+==3== To fair content and you. None here, he hopes,
+==4== In all this noble bevy, has brought with her
+==5== One care abroad. He would have all as merry
+==6== As, first, good company, good wine, good welcome,
+==7== Can make good people.
 *(Enter Lord Chamberlain, Lord Sands, and Lovell.)*
-              O my lord, y’ are tardy;
-The very thought of this fair company
-Clapp’d wings to me.
+==7==               O my lord, y’ are tardy;
+==8== The very thought of this fair company
+==9== Clapp’d wings to me.
 
 **CHAM.**
-           You are young, Sir Harry Guilford.
+==9==            You are young, Sir Harry Guilford.
 
 **SAN.**
-Sir Thomas Lovell, had the Cardinal
-But half my lay-thoughts in him, some of these
-Should find a running banquet, ere they rested,
-I think would better please ’em. By my life,
-They are a sweet society of fair ones.
+==10== Sir Thomas Lovell, had the Cardinal
+==11== But half my lay-thoughts in him, some of these
+==12== Should find a running banquet, ere they rested,
+==13== I think would better please ’em. By my life,
+==14== They are a sweet society of fair ones.
 
 **LOV.**
-O that your lordship were but now confessor
-To one or two of these!
+==15== O that your lordship were but now confessor
+==16== To one or two of these!
 
 **SAN.**
-           I would I were,
-They should find easy penance.
+==16==            I would I were,
+==17== They should find easy penance.
 
 **LOV.**
-                  Faith, how easy?
+==17==                   Faith, how easy?
 
 **SAN.**
-As easy as a down-bed would afford it.
+==18== As easy as a down-bed would afford it.
 
 **CHAM.**
-Sweet ladies, will it please you sit? Sir Harry,
-Place you that side, I’ll take the charge of this.
-His Grace is ent’ring. Nay, you must not freeze,
-Two women plac’d together makes cold weather.
-My Lord Sands, you are one will keep ’em waking;
-Pray sit between these ladies.
+==19== Sweet ladies, will it please you sit? Sir Harry,
+==20== Place you that side, I’ll take the charge of this.
+==21== His Grace is ent’ring. Nay, you must not freeze,
+==22== Two women plac’d together makes cold weather.
+==23== My Lord Sands, you are one will keep ’em waking;
+==24== Pray sit between these ladies.
 
 **SAN.**
-                By my faith,
-And thank your lordship. By your leave, sweet ladies.
-If I chance to talk a little wild, forgive me;
-I had it from my father.
+==24==                 By my faith,
+==25== And thank your lordship. By your leave, sweet ladies.
+==26== If I chance to talk a little wild, forgive me;
+==27== I had it from my father.
 
 **ANNE.**
-              Was he mad, sir?
+==27==               Was he mad, sir?
 
 **SAN.**
-O, very mad, exceeding mad, in love too;
-But he would bite none. Just as I do now,
-He would kiss you twenty with a breath.
+==28== O, very mad, exceeding mad, in love too;
+==29== But he would bite none. Just as I do now,
+==30== He would kiss you twenty with a breath.
 
 *Kisses her.*
 
 **CHAM.**
-                Well said, my lord.
-So now y’ are fairly seated. Gentlemen,
-The penance lies on you, if these fair ladies
-Pass away frowning.
+==30==                 Well said, my lord.
+==31== So now y’ are fairly seated. Gentlemen,
+==32== The penance lies on you, if these fair ladies
+==33== Pass away frowning.
 
 **SAN.**
-           For my little cure,
-Let me alone.
+==33==            For my little cure,
+==34== Let me alone.
 
 *Hoboys. Enter Cardinal Wolsey and takes his state.*
 
 **WOL.**
-Y’ are welcome, my fair guests. That noble lady
-Or gentleman that is not freely merry
-Is not my friend. This, to confirm my welcome,
-And to you all good health.
+==35== Y’ are welcome, my fair guests. That noble lady
+==36== Or gentleman that is not freely merry
+==37== Is not my friend. This, to confirm my welcome,
+==38== And to you all good health.
 
 *Drinks.*
 
 **SAN.**
-                Your Grace is noble.
-Let me have such a bowl may hold my thanks,
-And save me so much talking.
+==38==                 Your Grace is noble.
+==39== Let me have such a bowl may hold my thanks,
+==40== And save me so much talking.
 
 **WOL.**
-                My Lord Sands,
-I am beholding to you; cheer your neighbors.
-Ladies, you are not merry. Gentlemen,
-Whose fault is this?
+==40==                 My Lord Sands,
+==41== I am beholding to you; cheer your neighbors.
+==42== Ladies, you are not merry. Gentlemen,
+==43== Whose fault is this?
 
 **SAN.**
-           The red wine first must rise
-In their fair cheeks, my lord, then we shall have ’em
-Talk us to silence.
+==43==            The red wine first must rise
+==44== In their fair cheeks, my lord, then we shall have ’em
+==45== Talk us to silence.
 
 **ANNE.**
-           You are a merry gamester,
-My Lord Sands.
+==45==            You are a merry gamester,
+==46== My Lord Sands.
 
 **SAN.**
-           Yes, if I make my play.
-Here’s to your ladyship, and pledge it, madam,
-For ’tis to such a thing⁠—
+==46==            Yes, if I make my play.
+==47== Here’s to your ladyship, and pledge it, madam,
+==48== For ’tis to such a thing⁠—
 
 **ANNE.**
-              You cannot show me.
+==48==               You cannot show me.
 
 **SAN.**
-I told your Grace they would talk anon.
+==49== I told your Grace they would talk anon.
 
 *Drum and trumpet; chambers discharg’d.*
 
 **WOL.**
-                     What’s that?
+==49==                      What’s that?
 
 **CHAM.**
-Look out there, some of ye.
+==50== Look out there, some of ye.
 
 *Exit a Servant.*
 
 **WOL.**
-                What warlike voice,
-And to what end is this? Nay, ladies, fear not;
-By all the laws of war y’ are privileg’d.
+==50==                 What warlike voice,
+==51== And to what end is this? Nay, ladies, fear not;
+==52== By all the laws of war y’ are privileg’d.
 
 *Enter a Servant.*
 
 **CHAM.**
-How now, what is’t?
+==53== How now, what is’t?
 
 **SERV.**
-           A noble troop of strangers,
-For so they seem. Th’ have left their barge and landed,
-And hither make, as great ambassadors
-From foreign princes.
+==53==            A noble troop of strangers,
+==54== For so they seem. Th’ have left their barge and landed,
+==55== And hither make, as great ambassadors
+==56== From foreign princes.
 
 **WOL.**
-              Good Lord Chamberlain,
-Go, give ’em welcome: you can speak the French tongue;
-And pray receive ’em nobly and conduct ’em
-Into our presence, where this heaven of beauty
-Shall shine at full upon them. Some attend him.
+==56==               Good Lord Chamberlain,
+==57== Go, give ’em welcome: you can speak the French tongue;
+==58== And pray receive ’em nobly and conduct ’em
+==59== Into our presence, where this heaven of beauty
+==60== Shall shine at full upon them. Some attend him.
 *(Exit Chamberlain attended.)*
 *(All rise, and tables remov’d.)*
-You have now a broken banquet, but we’ll mend it.
-A good digestion to you all; and once more
-I show’r a welcome on ye. Welcome all!
+==61== You have now a broken banquet, but we’ll mend it.
+==62== A good digestion to you all; and once more
+==63== I show’r a welcome on ye. Welcome all!
 *(Hoboys. Enter King and others as Maskers, habited like shepherds, usher’d by the Lord Chamberlain.)*
 *(They pass directly before the Cardinal and gracefully salute him.)*
-A noble company! What are their pleasures?
+==64== A noble company! What are their pleasures?
 
 **CHAM.**
-Because they speak no English, thus they pray’d
-To tell your Grace, that having heard by fame
-Of this so noble and so fair assembly
-This night to meet here, they could do no less
-(Out of the great respect they bear to beauty) 
-But leave their flocks, and under your fair conduct
-Crave leave to view these ladies, and entreat
-An hour of revels with’em.
+==65== Because they speak no English, thus they pray’d
+==66== To tell your Grace, that having heard by fame
+==67== Of this so noble and so fair assembly
+==68== This night to meet here, they could do no less
+==69== (Out of the great respect they bear to beauty) 
+==70== But leave their flocks, and under your fair conduct
+==71== Crave leave to view these ladies, and entreat
+==72== An hour of revels with’em.
 
 **WOL.**
-              Say, Lord Chamberlain,
-They have done my poor house grace; for which I pay ’em
-A thousand thanks, and pray ’em take their pleasures.
+==72==               Say, Lord Chamberlain,
+==73== They have done my poor house grace; for which I pay ’em
+==74== A thousand thanks, and pray ’em take their pleasures.
 
 *Choose ladies; King and Anne Boleyn.*
 
 **KING.**
-The fairest hand I ever touch’d! O Beauty,
-Till now I never knew thee!
+==75== The fairest hand I ever touch’d! O Beauty,
+==76== Till now I never knew thee!
 
 *Music. Dance.*
 
 **WOL.**
-My lord!
+==77== My lord!
 
 **CHAM.**
-    Your Grace?
+==77==     Your Grace?
 
 **WOL.**
-        Pray tell ’em thus much from me:
-There should be one amongst ’em, by his person
-More worthy this place than myself, to whom
-(If I but knew him) with my love and duty
-I would surrender it.
+==77==         Pray tell ’em thus much from me:
+==78== There should be one amongst ’em, by his person
+==79== More worthy this place than myself, to whom
+==80== (If I but knew him) with my love and duty
+==81== I would surrender it.
 
 **CHAM.**
-           I will, my lord.
+==81==            I will, my lord.
 
 *Whisper with the Maskers.*
 
 **WOL.**
-What say they?
+==82== What say they?
 
 **CHAM.**
-        Such a one, they all confess,
-There is indeed, which they would have your Grace
-Find out, and he will take it.
+==82==         Such a one, they all confess,
+==83== There is indeed, which they would have your Grace
+==84== Find out, and he will take it.
 
 **WOL.**
-                Let me see then,
-By all your good leaves, gentlemen; here I’ll make
-My royal choice.
+==84==                 Let me see then,
+==85== By all your good leaves, gentlemen; here I’ll make
+==86== My royal choice.
 
 **KING.**
-           Ye have found him, Cardinal.
+==86==            Ye have found him, Cardinal.
 *(Unmasking.)*
-You hold a fair assembly; you do well, lord.
-You are a churchman, or I’ll tell you, Cardinal,
-I should judge now unhappily.
+==87== You hold a fair assembly; you do well, lord.
+==88== You are a churchman, or I’ll tell you, Cardinal,
+==89== I should judge now unhappily.
 
 **WOL.**
-                I am glad
-Your Grace is grown so pleasant.
+==89==                 I am glad
+==90== Your Grace is grown so pleasant.
 
 **KING.**
-                  My Lord Chamberlain,
-Prithee come hither. What fair lady’s that?
+==90==                   My Lord Chamberlain,
+==91== Prithee come hither. What fair lady’s that?
 
 **CHAM.**
-An’t please your Grace, Sir Thomas Boleyn’s daughter⁠—
-The Viscount Rochford—one of her Highness’ women.
+==92== An’t please your Grace, Sir Thomas Boleyn’s daughter⁠—
+==93== The Viscount Rochford—one of her Highness’ women.
 
 **KING.**
-By heaven, she is a dainty one. Sweet heart,
-I were unmannerly to take you out
-And not to kiss you. A health, gentlemen!
-Let it go round.
+==94== By heaven, she is a dainty one. Sweet heart,
+==95== I were unmannerly to take you out
+==96== And not to kiss you. A health, gentlemen!
+==97== Let it go round.
 
 **WOL.**
-Sir Thomas Lovell, is the banquet ready
-I’ th’ privy chamber?
+==98== Sir Thomas Lovell, is the banquet ready
+==99== I’ th’ privy chamber?
 
 **LOV.**
-           Yes, my lord.
+==99==            Yes, my lord.
 
 **WOL.**
-                     Your Grace,
-I fear, with dancing is a little heated.
+==99==                      Your Grace,
+==100== I fear, with dancing is a little heated.
 
 **KING.**
-I fear, too much.
+==101== I fear, too much.
 
 **WOL.**
-           There’s fresher air, my lord,
-In the next chamber.
+==101==            There’s fresher air, my lord,
+==102== In the next chamber.
 
 **KING.**
-Lead in your ladies, ev’ry one. Sweet partner,
-I must not yet forsake you. Let’s be merry,
-Good my Lord Cardinal: I have half a dozen healths
-To drink to these fair ladies, and a measure
-To lead ’em once again, and then let’s dream
-Who’s best in favor. Let the music knock it.
+==103== Lead in your ladies, ev’ry one. Sweet partner,
+==104== I must not yet forsake you. Let’s be merry,
+==105== Good my Lord Cardinal: I have half a dozen healths
+==106== To drink to these fair ladies, and a measure
+==107== To lead ’em once again, and then let’s dream
+==108== Who’s best in favor. Let the music knock it.
 
 *Exeunt with Trumpets.*
 

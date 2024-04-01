@@ -21,16 +21,16 @@ ID: merry-wives-of-windsor-5-2
 *Enter Page, Shallow, Slender.*
 
 **PAGE.**
-Come, come; we’ll couch i’ th’ castle-ditch till we see the light of our fairies. Remember, son Slender, my daughter.
+==1== Come, come; we’ll couch i’ th’ castle-ditch till we see the light of our fairies. Remember, son Slender, my daughter.
 
 **SLEN.**
-Ay, forsooth, I have spoke with her, and we have a nay-word how to know one another. I come to her in white, and cry “mum”; she cries “budget”; and by that we know one another.
+==2== Ay, forsooth, I have spoke with her, and we have a nay-word how to know one another. I come to her in white, and cry “mum”; she cries “budget”; and by that we know one another.
 
 **SHAL.**
-That’s good too; but what needs either your “mum” or her “budget”? The white will decipher her well enough. It hath struck ten a’ clock.
+==3== That’s good too; but what needs either your “mum” or her “budget”? The white will decipher her well enough. It hath struck ten a’ clock.
 
 **PAGE.**
-The night is dark, light and spirits will become it well. Heaven prosper our sport! No man means evil but the devil, and we shall know him by his horns. Let’s away; follow me.
+==4== The night is dark, light and spirits will become it well. Heaven prosper our sport! No man means evil but the devil, and we shall know him by his horns. Let’s away; follow me.
 
 *Exeunt.*
 

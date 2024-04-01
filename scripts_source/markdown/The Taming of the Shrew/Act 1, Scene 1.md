@@ -21,371 +21,371 @@ ID: taming-of-the-shrew-1-1
 *Enter Lucentio and his man Tranio.*
 
 **LUC.**
-Tranio, since for the great desire I had
-To see fair Padua, nursery of arts,
-I am arriv’d for fruitful Lombardy,
-The pleasant garden of great Italy,
-And by my father’s love and leave am arm’d
-With his good will and thy good company,
-My trusty servant, well approv’d in all,
-Here let us breathe, and haply institute
-A course of learning and ingenious studies.
-Pisa, renowned for grave citizens,
-Gave me my being and my father first,
-A merchant of great traffic through the world,
-Vincentio, come of the Bentivolii;
-Vincentio’s son, brought up in Florence,
-It shall become to serve all hopes conceiv’d,
-To deck his fortune with his virtuous deeds.
-And therefore, Tranio, for the time I study,
-Virtue and that part of philosophy
-Will I apply that treats of happiness
-By virtue specially to be achiev’d.
-Tell me thy mind, for I have Pisa left
-And am to Padua come, as he that leaves
-A shallow plash to plunge him in the deep,
-And with satiety seeks to quench his thirst.
+==1== Tranio, since for the great desire I had
+==2== To see fair Padua, nursery of arts,
+==3== I am arriv’d for fruitful Lombardy,
+==4== The pleasant garden of great Italy,
+==5== And by my father’s love and leave am arm’d
+==6== With his good will and thy good company,
+==7== My trusty servant, well approv’d in all,
+==8== Here let us breathe, and haply institute
+==9== A course of learning and ingenious studies.
+==10== Pisa, renowned for grave citizens,
+==11== Gave me my being and my father first,
+==12== A merchant of great traffic through the world,
+==13== Vincentio, come of the Bentivolii;
+==14== Vincentio’s son, brought up in Florence,
+==15== It shall become to serve all hopes conceiv’d,
+==16== To deck his fortune with his virtuous deeds.
+==17== And therefore, Tranio, for the time I study,
+==18== Virtue and that part of philosophy
+==19== Will I apply that treats of happiness
+==20== By virtue specially to be achiev’d.
+==21== Tell me thy mind, for I have Pisa left
+==22== And am to Padua come, as he that leaves
+==23== A shallow plash to plunge him in the deep,
+==24== And with satiety seeks to quench his thirst.
 
 **TRA.**
-*Mi perdonato*, gentle master mine;
-I am, in all affected as yourself,
-Glad that you thus continue your resolve
-To suck the sweets of sweet philosophy.
-Only, good master, while we do admire
-This virtue and this moral discipline,
-Let’s be no Stoics nor no stocks, I pray,
-Or so devote to Aristotle’s checks
-As Ovid be an outcast quite abjur’d.
-Balk logic with acquaintance that you have,
-And practice rhetoric in your common talk,
-Music and poesy use to quicken you,
-The mathematics, and the metaphysics,
-Fall to them as you find your stomach serves you:
-No profit grows where is no pleasure ta’en.
-In brief, sir, study what you most affect.
+==25== *Mi perdonato*, gentle master mine;
+==26== I am, in all affected as yourself,
+==27== Glad that you thus continue your resolve
+==28== To suck the sweets of sweet philosophy.
+==29== Only, good master, while we do admire
+==30== This virtue and this moral discipline,
+==31== Let’s be no Stoics nor no stocks, I pray,
+==32== Or so devote to Aristotle’s checks
+==33== As Ovid be an outcast quite abjur’d.
+==34== Balk logic with acquaintance that you have,
+==35== And practice rhetoric in your common talk,
+==36== Music and poesy use to quicken you,
+==37== The mathematics, and the metaphysics,
+==38== Fall to them as you find your stomach serves you:
+==39== No profit grows where is no pleasure ta’en.
+==40== In brief, sir, study what you most affect.
 
 **LUC.**
-Gramercies, Tranio, well dost thou advise.
-If, Biondello, thou wert come ashore,
-We could at once put us in readiness,
-And take a lodging fit to entertain
-Such friends as time in Padua shall beget.
-But stay a while, what company is this?
+==41== Gramercies, Tranio, well dost thou advise.
+==42== If, Biondello, thou wert come ashore,
+==43== We could at once put us in readiness,
+==44== And take a lodging fit to entertain
+==45== Such friends as time in Padua shall beget.
+==46== But stay a while, what company is this?
 
 **TRA.**
-Master, some show to welcome us to town.
+==47== Master, some show to welcome us to town.
 
 *Enter Baptista with his two daughters, Katherina and Bianca, Gremio, a pantaloon, Hortensio, suitor to Bianca. Lucentio, Tranio stand by.*
 
 **BAP.**
-Gentlemen, importune me no farther,
-For how I firmly am resolv’d you know:
-That is, not to bestow my youngest daughter
-Before I have a husband for the elder.
-If either of you both love Katherina,
-Because I know you well, and love you well,
-Leave shall you have to court her at your pleasure.
+==48== Gentlemen, importune me no farther,
+==49== For how I firmly am resolv’d you know:
+==50== That is, not to bestow my youngest daughter
+==51== Before I have a husband for the elder.
+==52== If either of you both love Katherina,
+==53== Because I know you well, and love you well,
+==54== Leave shall you have to court her at your pleasure.
 
 **GRE.**
-To cart her rather; she’s too rough for me.
-There, there, Hortensio, will you any wife?
+==55== To cart her rather; she’s too rough for me.
+==56== There, there, Hortensio, will you any wife?
 
 **KATH.**
 *(To Baptista.)*
-I pray you, sir, is it your will
-To make a stale of me amongst these mates?
+==57== I pray you, sir, is it your will
+==58== To make a stale of me amongst these mates?
 
 **HOR.**
-Mates, maid, how mean you that? No mates for you,
-Unless you were of gentler, milder mould.
+==59== Mates, maid, how mean you that? No mates for you,
+==60== Unless you were of gentler, milder mould.
 
 **KATH.**
-I’ faith, sir, you shall never need to fear.
-Iwis it is not half way to her heart;
-But if it were, doubt not her care should be
-To comb your noddle with a three-legg’d stool,
-And paint your face, and use you like a fool.
+==61== I’ faith, sir, you shall never need to fear.
+==62== Iwis it is not half way to her heart;
+==63== But if it were, doubt not her care should be
+==64== To comb your noddle with a three-legg’d stool,
+==65== And paint your face, and use you like a fool.
 
 **HOR.**
-From all such devils, good Lord deliver us!
+==66== From all such devils, good Lord deliver us!
 
 **GRE.**
-And me too, good Lord!
+==67== And me too, good Lord!
 
 **TRA.**
-Husht, master, here’s some good pastime toward;
-That wench is stark mad or wonderful froward.
+==68== Husht, master, here’s some good pastime toward;
+==69== That wench is stark mad or wonderful froward.
 
 **LUC.**
-But in the other’s silence do I see
-Maid’s mild behavior and sobriety.
-Peace, Tranio!
+==70== But in the other’s silence do I see
+==71== Maid’s mild behavior and sobriety.
+==72== Peace, Tranio!
 
 **TRA.**
-Well said, master, mum, and gaze your fill.
+==73== Well said, master, mum, and gaze your fill.
 
 **BAP.**
-Gentlemen, that I may soon make good
-What I have said, Bianca, get you in,
-And let it not displease thee, good Bianca,
-For I will love thee ne’er the less, my girl.
+==74== Gentlemen, that I may soon make good
+==75== What I have said, Bianca, get you in,
+==76== And let it not displease thee, good Bianca,
+==77== For I will love thee ne’er the less, my girl.
 
 **KATH.**
-A pretty peat! It is best
-Put finger in the eye, and she knew why.
+==78== A pretty peat! It is best
+==79== Put finger in the eye, and she knew why.
 
 **BIAN.**
-Sister, content you in my discontent.
-Sir, to your pleasure humbly I subscribe;
-My books and instruments shall be my company,
-On them to look and practice by myself.
+==80== Sister, content you in my discontent.
+==81== Sir, to your pleasure humbly I subscribe;
+==82== My books and instruments shall be my company,
+==83== On them to look and practice by myself.
 
 **LUC.**
-Hark, Tranio, thou mayst hear Minerva speak.
+==84== Hark, Tranio, thou mayst hear Minerva speak.
 
 **HOR.**
-*Signior* Baptista, will you be so strange?
-Sorry am I that our good will effects
-Bianca’s grief.
+==85== *Signior* Baptista, will you be so strange?
+==86== Sorry am I that our good will effects
+==87== Bianca’s grief.
 
 **GRE.**
-        Why will you mew her up,
-*Signior* Baptista, for this fiend of hell,
-And make her bear the penance of her tongue?
+==87==         Why will you mew her up,
+==88== *Signior* Baptista, for this fiend of hell,
+==89== And make her bear the penance of her tongue?
 
 **BAP.**
-Gentlemen, content ye; I am resolv’d.
-Go in, Bianca.
+==90== Gentlemen, content ye; I am resolv’d.
+==91== Go in, Bianca.
 *(Exit Bianca.)*
-And for I know she taketh most delight
-In music, instruments, and poetry,
-Schoolmasters will I keep within my house,
-Fit to instruct her youth. If you, Hortensio,
-Or, *Signior* Gremio, you, know any such,
-Prefer them hither; for to cunning men
-I will be very kind, and liberal
-To mine own children in good bringing-up,
-And so farewell. Katherina, you may stay,
-For I have more to commune with Bianca.
+==92== And for I know she taketh most delight
+==93== In music, instruments, and poetry,
+==94== Schoolmasters will I keep within my house,
+==95== Fit to instruct her youth. If you, Hortensio,
+==96== Or, *Signior* Gremio, you, know any such,
+==97== Prefer them hither; for to cunning men
+==98== I will be very kind, and liberal
+==99== To mine own children in good bringing-up,
+==100== And so farewell. Katherina, you may stay,
+==101== For I have more to commune with Bianca.
 
 *Exit.*
 
 **KATH.**
-Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though, belike, I knew not what to take and what to leave? Ha!
+==102== Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though, belike, I knew not what to take and what to leave? Ha!
 
 *Exit.*
 
 **GRE.**
-You may go to the devil’s dam; your gifts are so good, here’s none will hold you. Their love is not so great, Hortensio, but we may blow our nails together, and fast it fairly out. Our cake’s dough on both sides. Farewell; yet for the love I bear my sweet Bianca, if I can by any means light on a fit man to teach her that wherein she delights, I will wish him to her father.
+==103== You may go to the devil’s dam; your gifts are so good, here’s none will hold you. Their love is not so great, Hortensio, but we may blow our nails together, and fast it fairly out. Our cake’s dough on both sides. Farewell; yet for the love I bear my sweet Bianca, if I can by any means light on a fit man to teach her that wherein she delights, I will wish him to her father.
 
 **HOR.**
-So will I, *Signior* Gremio. But a word, I pray. Though the nature of our quarrel yet never brook’d parle, know now upon advice, it toucheth us both, that we may yet again have access to our fair mistress, and be happy rivals in Bianca’s love, to labor and effect one thing specially.
+==104== So will I, *Signior* Gremio. But a word, I pray. Though the nature of our quarrel yet never brook’d parle, know now upon advice, it toucheth us both, that we may yet again have access to our fair mistress, and be happy rivals in Bianca’s love, to labor and effect one thing specially.
 
 **GRE.**
-What’s that, I pray?
+==105== What’s that, I pray?
 
 **HOR.**
-Marry, sir, to get a husband for her sister.
+==106== Marry, sir, to get a husband for her sister.
 
 **GRE.**
-A husband! A devil.
+==107== A husband! A devil.
 
 **HOR.**
-I say, a husband.
+==108== I say, a husband.
 
 **GRE.**
-I say, a devil. Think’st thou, Hortensio, though her father be very rich, any man is so very a fool to be married to hell?
+==109== I say, a devil. Think’st thou, Hortensio, though her father be very rich, any man is so very a fool to be married to hell?
 
 **HOR.**
-Tush, Gremio; though it pass your patience and mine to endure her loud alarums, why, man, there be good fellows in the world, and a man could light on them, would take her with all faults, and money enough.
+==110== Tush, Gremio; though it pass your patience and mine to endure her loud alarums, why, man, there be good fellows in the world, and a man could light on them, would take her with all faults, and money enough.
 
 **GRE.**
-I cannot tell; but I had as lief take her dowry with this condition: to be whipt at the high cross every morning.
+==111== I cannot tell; but I had as lief take her dowry with this condition: to be whipt at the high cross every morning.
 
 **HOR.**
-Faith, as you say, there’s small choice in rotten apples. But come, since this bar in law makes us friends, it shall be so far forth friendly maintain’d till by helping Baptista’s eldest daughter to a husband we set his youngest free for a husband, and then have to’t afresh. Sweet Bianca, happy man be his dole! He that runs fastest gets the ring. How say you, *Signior* Gremio?
+==112== Faith, as you say, there’s small choice in rotten apples. But come, since this bar in law makes us friends, it shall be so far forth friendly maintain’d till by helping Baptista’s eldest daughter to a husband we set his youngest free for a husband, and then have to’t afresh. Sweet Bianca, happy man be his dole! He that runs fastest gets the ring. How say you, *Signior* Gremio?
 
 **GRE.**
-I am agreed, and would I had given him the best horse in Padua to begin his wooing that would thoroughly woo her, wed her, and bed her, and rid the house of her! Come on.
+==113== I am agreed, and would I had given him the best horse in Padua to begin his wooing that would thoroughly woo her, wed her, and bed her, and rid the house of her! Come on.
 
 *Exeunt ambo Gremio and Hortensio. Manent Tranio and Lucentio.*
 
 **TRA.**
-I pray, sir, tell me, is it possible
-That love should of a sudden take such hold?
+==114== I pray, sir, tell me, is it possible
+==115== That love should of a sudden take such hold?
 
 **LUC.**
-O Tranio, till I found it to be true,
-I never thought it possible or likely.
-But see, while idly I stood looking on,
-I found the effect of love in idleness,
-And now in plainness do confess to thee,
-That art to me as secret and as dear
-As Anna to the Queen of Carthage was:
-Tranio, I burn, I pine, I perish, Tranio,
-If I achieve not this young modest girl.
-Counsel me, Tranio, for I know thou canst;
-Assist me, Tranio, for I know thou wilt.
+==116== O Tranio, till I found it to be true,
+==117== I never thought it possible or likely.
+==118== But see, while idly I stood looking on,
+==119== I found the effect of love in idleness,
+==120== And now in plainness do confess to thee,
+==121== That art to me as secret and as dear
+==122== As Anna to the Queen of Carthage was:
+==123== Tranio, I burn, I pine, I perish, Tranio,
+==124== If I achieve not this young modest girl.
+==125== Counsel me, Tranio, for I know thou canst;
+==126== Assist me, Tranio, for I know thou wilt.
 
 **TRA.**
-Master, it is no time to chide you now,
-Affection is not rated from the heart.
-If love have touch’d you, nought remains but so,
-*“Redime te captum quam queas minimo.”*
+==127== Master, it is no time to chide you now,
+==128== Affection is not rated from the heart.
+==129== If love have touch’d you, nought remains but so,
+==130== *“Redime te captum quam queas minimo.”*
 
 **LUC.**
-Gramercies, lad. Go forward, this contents;
-The rest will comfort, for thy counsel’s sound.
+==131== Gramercies, lad. Go forward, this contents;
+==132== The rest will comfort, for thy counsel’s sound.
 
 **TRA.**
-Master, you look’d so longly on the maid,
-Perhaps you mark’d not what’s the pith of all.
+==133== Master, you look’d so longly on the maid,
+==134== Perhaps you mark’d not what’s the pith of all.
 
 **LUC.**
-O yes, I saw sweet beauty in her face,
-Such as the daughter of Agenor had,
-That made great Jove to humble him to her hand,
-When with his knees he kiss’d the Cretan strond.
+==135== O yes, I saw sweet beauty in her face,
+==136== Such as the daughter of Agenor had,
+==137== That made great Jove to humble him to her hand,
+==138== When with his knees he kiss’d the Cretan strond.
 
 **TRA.**
-Saw you no more? Mark’d you not how her sister
-Began to scold, and raise up such a storm
-That mortal ears might hardly endure the din?
+==139== Saw you no more? Mark’d you not how her sister
+==140== Began to scold, and raise up such a storm
+==141== That mortal ears might hardly endure the din?
 
 **LUC.**
-Tranio, I saw her coral lips to move,
-And with her breath she did perfume the air.
-Sacred and sweet was all I saw in her.
+==142== Tranio, I saw her coral lips to move,
+==143== And with her breath she did perfume the air.
+==144== Sacred and sweet was all I saw in her.
 
 **TRA.**
-Nay, then ’tis time to stir him from his trance.
-I pray, awake, sir; if you love the maid,
-Bend thoughts and wits to achieve her. Thus it stands:
-Her elder sister is so curst and shrewd
-That till the father rid his hands of her,
-Master, your love must live a maid at home,
-And therefore has he closely mew’d her up,
-Because she will not be annoy’d with suitors.
+==145== Nay, then ’tis time to stir him from his trance.
+==146== I pray, awake, sir; if you love the maid,
+==147== Bend thoughts and wits to achieve her. Thus it stands:
+==148== Her elder sister is so curst and shrewd
+==149== That till the father rid his hands of her,
+==150== Master, your love must live a maid at home,
+==151== And therefore has he closely mew’d her up,
+==152== Because she will not be annoy’d with suitors.
 
 **LUC.**
-Ah, Tranio, what a cruel father’s he?
-But art thou not advis’d, he took some care
-To get her cunning schoolmasters to instruct her?
+==153== Ah, Tranio, what a cruel father’s he?
+==154== But art thou not advis’d, he took some care
+==155== To get her cunning schoolmasters to instruct her?
 
 **TRA.**
-Ay, marry, am I, sir; and now ’tis plotted.
+==156== Ay, marry, am I, sir; and now ’tis plotted.
 
 **LUC.**
-I have it, Tranio.
+==157== I have it, Tranio.
 
 **TRA.**
-           Master, for my hand,
-Both our inventions meet and jump in one.
+==157==            Master, for my hand,
+==158== Both our inventions meet and jump in one.
 
 **LUC.**
-Tell me thine first.
+==159== Tell me thine first.
 
 **TRA.**
-           You will be schoolmaster,
-And undertake the teaching of the maid:
-That’s your device.
+==159==            You will be schoolmaster,
+==160== And undertake the teaching of the maid:
+==161== That’s your device.
 
 **LUC.**
-           It is; may it be done?
+==161==            It is; may it be done?
 
 **TRA.**
-Not possible; for who shall bear your part,
-And be in Padua here Vincentio’s son,
-Keep house and ply his book, welcome his friends,
-Visit his countrymen, and banquet them?
+==162== Not possible; for who shall bear your part,
+==163== And be in Padua here Vincentio’s son,
+==164== Keep house and ply his book, welcome his friends,
+==165== Visit his countrymen, and banquet them?
 
 **LUC.**
-*Basta*, content thee; for I have it full.
-We have not yet been seen in any house,
-Nor can we be distinguish’d by our faces
-For man or master. Then it follows thus:
-Thou shalt be master, Tranio, in my stead;
-Keep house and port and servants, as I should.
-I will some other be, some Florentine,
-Some Neapolitan, or meaner man of Pisa.
-’Tis hatch’d, and shall be so. Tranio, at once
-Uncase thee; take my color’d hat and cloak.
-When Biondello comes, he waits on thee,
-But I will charm him first to keep his tongue.
+==166== *Basta*, content thee; for I have it full.
+==167== We have not yet been seen in any house,
+==168== Nor can we be distinguish’d by our faces
+==169== For man or master. Then it follows thus:
+==170== Thou shalt be master, Tranio, in my stead;
+==171== Keep house and port and servants, as I should.
+==172== I will some other be, some Florentine,
+==173== Some Neapolitan, or meaner man of Pisa.
+==174== ’Tis hatch’d, and shall be so. Tranio, at once
+==175== Uncase thee; take my color’d hat and cloak.
+==176== When Biondello comes, he waits on thee,
+==177== But I will charm him first to keep his tongue.
 
 **TRA.**
-So had you need.
-In brief, sir, sith it your pleasure is,
-And I am tied to be obedient⁠—
-For so your father charg’d me at our parting;
-“Be serviceable to my son,” quoth he,
-Although I think ’twas in another sense⁠—
-I am content to be Lucentio,
-Because so well I love Lucentio.
+==178== So had you need.
+==179== In brief, sir, sith it your pleasure is,
+==180== And I am tied to be obedient⁠—
+==181== For so your father charg’d me at our parting;
+==182== “Be serviceable to my son,” quoth he,
+==183== Although I think ’twas in another sense⁠—
+==184== I am content to be Lucentio,
+==185== Because so well I love Lucentio.
 
 **LUC.**
-Tranio, be so, because Lucentio loves,
-And let me be a slave, t’ achieve that maid
-Whose sudden sight hath thrall’d my wounded eye.
+==186== Tranio, be so, because Lucentio loves,
+==187== And let me be a slave, t’ achieve that maid
+==188== Whose sudden sight hath thrall’d my wounded eye.
 *(Enter Biondello.)*
-Here comes the rogue. Sirrah, where have you been?
+==189== Here comes the rogue. Sirrah, where have you been?
 
 **BION.**
-Where have I been? Nay, how now, where are you? Master, has my fellow Tranio stol’n your clothes? Or you stol’n his? Or both? Pray what’s the news?
+==190== Where have I been? Nay, how now, where are you? Master, has my fellow Tranio stol’n your clothes? Or you stol’n his? Or both? Pray what’s the news?
 
 **LUC.**
-Sirrah, come hither, ’tis no time to jest,
-And therefore frame your manners to the time.
-Your fellow Tranio here, to save my life,
-Puts my apparel and my count’nance on,
-And I for my escape have put on his;
-For in a quarrel since I came ashore
-I kill’d a man, and fear I was descried.
-Wait you on him, I charge you, as becomes,
-While I make way from hence to save my life.
-You understand me?
+==191== Sirrah, come hither, ’tis no time to jest,
+==192== And therefore frame your manners to the time.
+==193== Your fellow Tranio here, to save my life,
+==194== Puts my apparel and my count’nance on,
+==195== And I for my escape have put on his;
+==196== For in a quarrel since I came ashore
+==197== I kill’d a man, and fear I was descried.
+==198== Wait you on him, I charge you, as becomes,
+==199== While I make way from hence to save my life.
+==200== You understand me?
 
 **BION.**
-           Ay, sir!⁠—
+==200==            Ay, sir!⁠—
 *(Aside.)*
-                  Ne’er a whit.
+==200==                   Ne’er a whit.
 
 **LUC.**
-And not a jot of Tranio in your mouth,
-Tranio is chang’d into Lucentio.
+==201== And not a jot of Tranio in your mouth,
+==202== Tranio is chang’d into Lucentio.
 
 **BION.**
-The better for him, would I were so too!
+==203== The better for him, would I were so too!
 
 **TRA.**
-So could I, faith, boy, to have the next wish after,
-That Lucentio indeed had Baptista’s youngest daughter.
-But, sirrah, not for my sake, but your master’s, I advise
-You use your manners discreetly in all kind of companies.
-When I am alone, why then I am Tranio;
-But in all places else your master Lucentio.
+==204== So could I, faith, boy, to have the next wish after,
+==205== That Lucentio indeed had Baptista’s youngest daughter.
+==206== But, sirrah, not for my sake, but your master’s, I advise
+==207== You use your manners discreetly in all kind of companies.
+==208== When I am alone, why then I am Tranio;
+==209== But in all places else your master Lucentio.
 
 **LUC.**
-Tranio, let’s go.
-One thing more rests, that thyself execute⁠—
-To make one among these wooers. If thou ask me why,
-Sufficeth my reasons are both good and weighty.
+==210== Tranio, let’s go.
+==211== One thing more rests, that thyself execute⁠—
+==212== To make one among these wooers. If thou ask me why,
+==213== Sufficeth my reasons are both good and weighty.
 
 *Exeunt.*
 
 *The Presenters above speaks.*
 
 **1. SERV.**
-My lord, you nod, you do not mind the play.
+==214== My lord, you nod, you do not mind the play.
 
 **SLY.**
-Yes, by Saint Anne, do I. A good matter, surely; comes there any more of it?
+==215== Yes, by Saint Anne, do I. A good matter, surely; comes there any more of it?
 
 **PAGE.**
-My lord, ’tis but begun.
+==216== My lord, ’tis but begun.
 
 **SLY.**
-’Tis a very excellent piece of work, madam lady; would ’twere done!
+==217== ’Tis a very excellent piece of work, madam lady; would ’twere done!
 
 *They sit and mark.*
 

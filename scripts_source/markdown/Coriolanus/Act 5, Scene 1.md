@@ -19,136 +19,136 @@ ID: coriolanus-5-1
 *Enter Menenius, Cominius, Sicinius and Brutus, with others.*
 
 **MEN.**
-No, I’ll not go. You hear what he hath said
-Which was sometime his general, who loved him
-In a most dear particular. He call’d me father;
-But what o’ that? Go you that banish’d him
-A mile before his tent, fall down, and knee
-The way into his mercy. Nay, if he coy’d
-To hear Cominius speak, I’ll keep at home.
+==1== No, I’ll not go. You hear what he hath said
+==2== Which was sometime his general, who loved him
+==3== In a most dear particular. He call’d me father;
+==4== But what o’ that? Go you that banish’d him
+==5== A mile before his tent, fall down, and knee
+==6== The way into his mercy. Nay, if he coy’d
+==7== To hear Cominius speak, I’ll keep at home.
 
 **COM.**
-He would not seem to know me.
+==8== He would not seem to know me.
 
 **MEN.**
-                  Do you hear?
+==8==                   Do you hear?
 
 **COM.**
-Yet one time he did call me by my name.
-I urg’d our old acquaintance, and the drops
-That we have bled together. Coriolanus
-He would not answer to; forbade all names;
-He was a kind of nothing, titleless,
-Till he had forg’d himself a name a’ th’ fire
-Of burning Rome.
+==9== Yet one time he did call me by my name.
+==10== I urg’d our old acquaintance, and the drops
+==11== That we have bled together. Coriolanus
+==12== He would not answer to; forbade all names;
+==13== He was a kind of nothing, titleless,
+==14== Till he had forg’d himself a name a’ th’ fire
+==15== Of burning Rome.
 
 **MEN.**
-        Why, so; you have made good work!
-A pair of tribunes that have wrack’d for Rome
-To make coals cheap! A noble memory!
+==15==         Why, so; you have made good work!
+==16== A pair of tribunes that have wrack’d for Rome
+==17== To make coals cheap! A noble memory!
 
 **COM.**
-I minded him how royal ’twas to pardon
-When it was less expected. He replied,
-It was a bare petition of a state
-To one whom they had punish’d.
+==18== I minded him how royal ’twas to pardon
+==19== When it was less expected. He replied,
+==20== It was a bare petition of a state
+==21== To one whom they had punish’d.
 
 **MEN.**
-                  Very well.
-Could he say less?
+==21==                   Very well.
+==22== Could he say less?
 
 **COM.**
-I offered to awaken his regard
-For ’s private friends. His answer to me was,
-He could not stay to pick them in a pile
-Of noisome musty chaff. He said ’twas folly,
-For one poor grain or two, to leave unburnt
-And still to nose th’ offense.
+==23== I offered to awaken his regard
+==24== For ’s private friends. His answer to me was,
+==25== He could not stay to pick them in a pile
+==26== Of noisome musty chaff. He said ’twas folly,
+==27== For one poor grain or two, to leave unburnt
+==28== And still to nose th’ offense.
 
 **MEN.**
-                For one poor grain or two?
-I am one of those; his mother, wife, his child,
-And this brave fellow too: we are the grains,
-You are the musty chaff, and you are smelt
-Above the moon. We must be burnt for you.
+==28==                 For one poor grain or two?
+==29== I am one of those; his mother, wife, his child,
+==30== And this brave fellow too: we are the grains,
+==31== You are the musty chaff, and you are smelt
+==32== Above the moon. We must be burnt for you.
 
 **SIC.**
-Nay, pray be patient. If you refuse your aid
-In this so never-needed help, yet do not
-Upbraid ’s with our distress. But sure if you
-Would be your country’s pleader, your good tongue,
-More than the instant army we can make,
-Might stop our countryman.
+==33== Nay, pray be patient. If you refuse your aid
+==34== In this so never-needed help, yet do not
+==35== Upbraid ’s with our distress. But sure if you
+==36== Would be your country’s pleader, your good tongue,
+==37== More than the instant army we can make,
+==38== Might stop our countryman.
 
 **MEN.**
-                No; I’ll not meddle.
+==38==                 No; I’ll not meddle.
 
 **SIC.**
-Pray you go to him.
+==39== Pray you go to him.
 
 **MEN.**
-           What should I do?
+==39==            What should I do?
 
 **BRU.**
-Only make trial what your love can do
-For Rome, towards Martius.
+==40== Only make trial what your love can do
+==41== For Rome, towards Martius.
 
 **MEN.**
-                Well, and say that Martius
-Return me, as Cominius is return’d,
-Unheard—what then?
-But as a discontented friend, grief-shot
-With his unkindness? Say’t be so?
+==41==                 Well, and say that Martius
+==42== Return me, as Cominius is return’d,
+==43== Unheard—what then?
+==44== But as a discontented friend, grief-shot
+==45== With his unkindness? Say’t be so?
 
 **SIC.**
-                  Yet your good will
-Must have that thanks from Rome, after the measure
-As you intended well.
+==45==                   Yet your good will
+==46== Must have that thanks from Rome, after the measure
+==47== As you intended well.
 
 **MEN.**
-              I’ll undertake’t.
-I think he’ll hear me. Yet, to bite his lip
-And hum at good Cominius much unhearts me.
-He was not taken well, he had not din’d:
-The veins unfill’d, our blood is cold, and then
-We pout upon the morning, are unapt
-To give or to forgive; but when we have stuff’d
-These pipes and these conveyances of our blood
-With wine and feeding, we have suppler souls
-Than in our priest-like fasts: therefore I’ll watch him
-Till he be dieted to my request,
-And then I’ll set upon him.
+==47==               I’ll undertake’t.
+==48== I think he’ll hear me. Yet, to bite his lip
+==49== And hum at good Cominius much unhearts me.
+==50== He was not taken well, he had not din’d:
+==51== The veins unfill’d, our blood is cold, and then
+==52== We pout upon the morning, are unapt
+==53== To give or to forgive; but when we have stuff’d
+==54== These pipes and these conveyances of our blood
+==55== With wine and feeding, we have suppler souls
+==56== Than in our priest-like fasts: therefore I’ll watch him
+==57== Till he be dieted to my request,
+==58== And then I’ll set upon him.
 
 **BRU.**
-You know the very road into his kindness,
-And cannot lose your way.
+==59== You know the very road into his kindness,
+==60== And cannot lose your way.
 
 **MEN.**
-              Good faith, I’ll prove him,
-Speed how it will. I shall ere long have knowledge
-Of my success.
+==60==               Good faith, I’ll prove him,
+==61== Speed how it will. I shall ere long have knowledge
+==62== Of my success.
 
 *Exit.*
 
 **COM.**
-        He’ll never hear him.
+==62==         He’ll never hear him.
 
 **SIC.**
-                     Not?
+==62==                      Not?
 
 **COM.**
-I tell you, he does sit in gold, his eye
-Red as ’twould burn Rome; and his injury
-The jailer to his pity. I kneel’d before him;
-’Twas very faintly he said, “Rise”; dismiss’d me
-Thus, with his speechless hand. What he would do
-He sent in writing after me; what he would not,
-Bound with an oath to yield to his conditions;
-So that all hope is vain,
-Unless his noble mother and his wife,
-Who, as I hear, mean to solicit him
-For mercy to his country. Therefore let’s hence,
-And with our fair entreaties haste them on.
+==63== I tell you, he does sit in gold, his eye
+==64== Red as ’twould burn Rome; and his injury
+==65== The jailer to his pity. I kneel’d before him;
+==66== ’Twas very faintly he said, “Rise”; dismiss’d me
+==67== Thus, with his speechless hand. What he would do
+==68== He sent in writing after me; what he would not,
+==69== Bound with an oath to yield to his conditions;
+==70== So that all hope is vain,
+==71== Unless his noble mother and his wife,
+==72== Who, as I hear, mean to solicit him
+==73== For mercy to his country. Therefore let’s hence,
+==74== And with our fair entreaties haste them on.
 
 *Exeunt.*
 

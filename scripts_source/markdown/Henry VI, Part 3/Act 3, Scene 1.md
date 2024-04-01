@@ -21,163 +21,163 @@ ID: henry-vi-part-iii-3-1
 *Enter two Gamekeepers with cross-bows in their hands.*
 
 **1. KEEP.**
-Under this thick-grown brake we’ll shroud ourselves,
-For through this laund anon the deer will come,
-And in this covert will we make our stand,
-Culling the principal of all the deer.
+==1== Under this thick-grown brake we’ll shroud ourselves,
+==2== For through this laund anon the deer will come,
+==3== And in this covert will we make our stand,
+==4== Culling the principal of all the deer.
 
 **2. KEEP.**
-I’ll stay above the hill, so both may shoot.
+==5== I’ll stay above the hill, so both may shoot.
 
 **1. KEEP.**
-That cannot be, the noise of thy crossbow
-Will scare the herd, and so my shoot is lost.
-Here stand we both and aim we at the best;
-And for the time shall not seem tedious,
-I’ll tell thee what befell me on a day
-In this self place where now we mean to stand.
+==6== That cannot be, the noise of thy crossbow
+==7== Will scare the herd, and so my shoot is lost.
+==8== Here stand we both and aim we at the best;
+==9== And for the time shall not seem tedious,
+==10== I’ll tell thee what befell me on a day
+==11== In this self place where now we mean to stand.
 
 **2. KEEP.**
-Here comes a man, let’s stay till he be past.
+==12== Here comes a man, let’s stay till he be past.
 
 *Enter the King Henry, disguised, with a prayer-book.*
 
 **KING.**
-From Scotland am I stol’n, even of pure love,
-To greet mine own land with my wishful sight.
-No, Harry, Harry, ’tis no land of thine;
-Thy place is fill’d, thy scepter wrung from thee,
-Thy balm wash’d off wherewith thou was anointed.
-No bending knee will call thee Caesar now,
-No humble suitors press to speak for right,
-No, not a man comes for redress of thee;
-For how can I help them and not myself?
+==13== From Scotland am I stol’n, even of pure love,
+==14== To greet mine own land with my wishful sight.
+==15== No, Harry, Harry, ’tis no land of thine;
+==16== Thy place is fill’d, thy scepter wrung from thee,
+==17== Thy balm wash’d off wherewith thou was anointed.
+==18== No bending knee will call thee Caesar now,
+==19== No humble suitors press to speak for right,
+==20== No, not a man comes for redress of thee;
+==21== For how can I help them and not myself?
 
 **1. KEEP.**
-Ay, here’s a deer whose skin’s a keeper’s fee:
-This is the quondam king; let’s seize upon him.
+==22== Ay, here’s a deer whose skin’s a keeper’s fee:
+==23== This is the quondam king; let’s seize upon him.
 
 **KING.**
-Let me embrace thee, sour adversities,
-For wise men say it is the wisest course.
+==24== Let me embrace thee, sour adversities,
+==25== For wise men say it is the wisest course.
 
 **2. KEEP.**
-Why linger we? Let us lay hands upon him.
+==26== Why linger we? Let us lay hands upon him.
 
 **1. KEEP.**
-Forbear awhile, we’ll hear a little more.
+==27== Forbear awhile, we’ll hear a little more.
 
 **KING.**
-My queen and son are gone to France for aid;
-And, as I hear, the great commanding Warwick
-Is thither gone to crave the French king’s sister
-To wife for Edward. If this news be true,
-Poor queen and son, your labor is but lost;
-For Warwick is a subtle orator,
-And Lewis a prince soon won with moving words.
-By this account then, Margaret may win him,
-For she’s a woman to be pitied much.
-Her sighs will make a batt’ry in his breast,
-Her tears will pierce into a marble heart;
-The tiger will be mild whiles she doth mourn;
-And Nero will be tainted with remorse
-To hear and see her plaints, her brinish tears.
-Ay, but she’s come to beg; Warwick, to give:
-She, on his left side, craving aid for Henry;
-He, on his right, asking a wife for Edward.
-She weeps, and says her Henry is depos’d;
-He smiles, and says his Edward is install’d;
-That she, poor wretch, for grief can speak no more;
-Whiles Warwick tells his title, smooths the wrong,
-Inferreth arguments of mighty strength,
-And in conclusion wins the King from her
-With promise of his sister and what else,
-To strengthen and support King Edward’s place.
-O Margaret, thus ’twill be, and thou, poor soul,
-Art then forsaken, as thou went’st forlorn!
+==28== My queen and son are gone to France for aid;
+==29== And, as I hear, the great commanding Warwick
+==30== Is thither gone to crave the French king’s sister
+==31== To wife for Edward. If this news be true,
+==32== Poor queen and son, your labor is but lost;
+==33== For Warwick is a subtle orator,
+==34== And Lewis a prince soon won with moving words.
+==35== By this account then, Margaret may win him,
+==36== For she’s a woman to be pitied much.
+==37== Her sighs will make a batt’ry in his breast,
+==38== Her tears will pierce into a marble heart;
+==39== The tiger will be mild whiles she doth mourn;
+==40== And Nero will be tainted with remorse
+==41== To hear and see her plaints, her brinish tears.
+==42== Ay, but she’s come to beg; Warwick, to give:
+==43== She, on his left side, craving aid for Henry;
+==44== He, on his right, asking a wife for Edward.
+==45== She weeps, and says her Henry is depos’d;
+==46== He smiles, and says his Edward is install’d;
+==47== That she, poor wretch, for grief can speak no more;
+==48== Whiles Warwick tells his title, smooths the wrong,
+==49== Inferreth arguments of mighty strength,
+==50== And in conclusion wins the King from her
+==51== With promise of his sister and what else,
+==52== To strengthen and support King Edward’s place.
+==53== O Margaret, thus ’twill be, and thou, poor soul,
+==54== Art then forsaken, as thou went’st forlorn!
 
 **2. KEEP.**
-Say, what art thou talk’st of kings and queens?
+==55== Say, what art thou talk’st of kings and queens?
 
 **KING.**
-More than I seem, and less than I was born to;
-A man at least, for less I should not be;
-And men may talk of kings, and why not I?
+==56== More than I seem, and less than I was born to;
+==57== A man at least, for less I should not be;
+==58== And men may talk of kings, and why not I?
 
 **2. KEEP.**
-Ay, but thou talk’st as if thou wert a king.
+==59== Ay, but thou talk’st as if thou wert a king.
 
 **KING.**
-Why, so I am—in mind, and that’s enough.
+==60== Why, so I am—in mind, and that’s enough.
 
 **2. KEEP.**
-But if thou be a king, where is thy crown?
+==61== But if thou be a king, where is thy crown?
 
 **KING.**
-My crown is in my heart, not on my head;
-Not deck’d with diamonds and Indian stones,
-Nor to be seen. My crown is call’d content,
-A crown it is that seldom kings enjoy.
+==62== My crown is in my heart, not on my head;
+==63== Not deck’d with diamonds and Indian stones,
+==64== Nor to be seen. My crown is call’d content,
+==65== A crown it is that seldom kings enjoy.
 
 **2. KEEP.**
-Well, if you be a king crown’d with content,
-Your crown content and you must be contented
-To go along with us; for, as we think,
-You are the king King Edward hath depos’d;
-And we his subjects, sworn in all allegiance,
-Will apprehend you as his enemy.
+==66== Well, if you be a king crown’d with content,
+==67== Your crown content and you must be contented
+==68== To go along with us; for, as we think,
+==69== You are the king King Edward hath depos’d;
+==70== And we his subjects, sworn in all allegiance,
+==71== Will apprehend you as his enemy.
 
 **KING.**
-But did you never swear and break an oath?
+==72== But did you never swear and break an oath?
 
 **2. KEEP.**
-No, never such an oath, nor will not now.
+==73== No, never such an oath, nor will not now.
 
 **KING.**
-Where did you dwell when I was King of England?
+==74== Where did you dwell when I was King of England?
 
 **2. KEEP.**
-Here in this country where we now remain.
+==75== Here in this country where we now remain.
 
 **KING.**
-I was anointed king at nine months old,
-My father and my grandfather were kings;
-And you were sworn true subjects unto me;
-And tell me then, have you not broke your oaths?
+==76== I was anointed king at nine months old,
+==77== My father and my grandfather were kings;
+==78== And you were sworn true subjects unto me;
+==79== And tell me then, have you not broke your oaths?
 
 **1. KEEP.**
-No,
-For we were subjects but while you were king.
+==80== No,
+==81== For we were subjects but while you were king.
 
 **KING.**
-Why? Am I dead? Do I not breathe a man?
-Ah, simple men, you know not what you swear!
-Look, as I blow this feather from my face,
-And as the air blows it to me again,
-Obeying with my wind when I do blow,
-And yielding to another when it blows,
-Commanded always by the greater gust,
-Such is the lightness of you common men.
-But do not break your oaths, for of that sin
-My mild entreaty shall not make you guilty.
-Go where you will, the King shall be commanded;
-And be you kings: command, and I’ll obey.
+==82== Why? Am I dead? Do I not breathe a man?
+==83== Ah, simple men, you know not what you swear!
+==84== Look, as I blow this feather from my face,
+==85== And as the air blows it to me again,
+==86== Obeying with my wind when I do blow,
+==87== And yielding to another when it blows,
+==88== Commanded always by the greater gust,
+==89== Such is the lightness of you common men.
+==90== But do not break your oaths, for of that sin
+==91== My mild entreaty shall not make you guilty.
+==92== Go where you will, the King shall be commanded;
+==93== And be you kings: command, and I’ll obey.
 
 **1. KEEP.**
-We are true subjects to the King, King Edward.
+==94== We are true subjects to the King, King Edward.
 
 **KING.**
-So would you be again to Henry,
-If he were seated as King Edward is.
+==95== So would you be again to Henry,
+==96== If he were seated as King Edward is.
 
 **1. KEEP.**
-We charge you, in God’s name and the King’s,
-To go with us unto the officers.
+==97== We charge you, in God’s name and the King’s,
+==98== To go with us unto the officers.
 
 **KING.**
-In God’s name lead; your king’s name be obey’d,
-And what God will, that let your king perform;
-And what he will, I humbly yield unto.
+==99== In God’s name lead; your king’s name be obey’d,
+==100== And what God will, that let your king perform;
+==101== And what he will, I humbly yield unto.
 
 *Exeunt.*
 

@@ -19,77 +19,77 @@ ID: cymbeline-2-2
 *Enter Imogen in her bed, and a Lady. A trunk in one corner.*
 
 **IMO.**
-Who’s there? My woman? Helen?
+==1== Who’s there? My woman? Helen?
 
 **HEL.**
-                  Please you, madam.
+==1==                   Please you, madam.
 
 **IMO.**
-What hour is it?
+==2== What hour is it?
 
 **HEL.**
-        Almost midnight, madam.
+==2==         Almost midnight, madam.
 
 **IMO.**
-I have read three hours then. Mine eyes are weak.
-Fold down the leaf where I have left. To bed.
-Take not away the taper, leave it burning;
-And if thou canst awake by four o’ th’ clock,
-I prithee call me. Sleep hath seiz’d me wholly.
+==3== I have read three hours then. Mine eyes are weak.
+==4== Fold down the leaf where I have left. To bed.
+==5== Take not away the taper, leave it burning;
+==6== And if thou canst awake by four o’ th’ clock,
+==7== I prithee call me. Sleep hath seiz’d me wholly.
 *(Exit Helen.)*
-To your protection I commend me, gods,
-From fairies and the tempters of the night
-Guard me, beseech ye.
+==8== To your protection I commend me, gods,
+==9== From fairies and the tempters of the night
+==10== Guard me, beseech ye.
 
 *Imogen sleeps.*
 
 *Jachimo from the trunk.*
 
 **JACH.**
-The crickets sing, and man’s o’erlabor’d sense
-Repairs itself by rest. Our Tarquin thus
-Did softly press the rushes ere he waken’d
-The chastity he wounded. Cytherea,
-How bravely thou becom’st thy bed! Fresh lily,
-And whiter than the sheets! That I might touch!
-But kiss, one kiss! Rubies unparagon’d,
-How dearly they do’t! ’Tis her breathing that
-Perfumes the chamber thus. The flame o’ th’ taper
-Bows toward her, and would under-peep her lids,
-To see th’ enclosed lights, now canopied
-Under these windows, white and azure lac’d
-With blue of heaven’s own tinct. But my design!
-To note the chamber, I will write all down:
+==11== The crickets sing, and man’s o’erlabor’d sense
+==12== Repairs itself by rest. Our Tarquin thus
+==13== Did softly press the rushes ere he waken’d
+==14== The chastity he wounded. Cytherea,
+==15== How bravely thou becom’st thy bed! Fresh lily,
+==16== And whiter than the sheets! That I might touch!
+==17== But kiss, one kiss! Rubies unparagon’d,
+==18== How dearly they do’t! ’Tis her breathing that
+==19== Perfumes the chamber thus. The flame o’ th’ taper
+==20== Bows toward her, and would under-peep her lids,
+==21== To see th’ enclosed lights, now canopied
+==22== Under these windows, white and azure lac’d
+==23== With blue of heaven’s own tinct. But my design!
+==24== To note the chamber, I will write all down:
 *(Takes out his tables.)*
-Such and such pictures; there the window; such
-Th’ adornment of her bed; the arras, figures,
-Why, such and such; and the contents o’ th’ story.
-Ah, but some natural notes about her body,
-Above ten thousand meaner moveables
-Would testify, t’ enrich mine inventory.
-O sleep, thou ape of death, lie dull upon her,
-And be her sense but as a monument,
-Thus in a chapel lying! Come off, come off;
+==25== Such and such pictures; there the window; such
+==26== Th’ adornment of her bed; the arras, figures,
+==27== Why, such and such; and the contents o’ th’ story.
+==28== Ah, but some natural notes about her body,
+==29== Above ten thousand meaner moveables
+==30== Would testify, t’ enrich mine inventory.
+==31== O sleep, thou ape of death, lie dull upon her,
+==32== And be her sense but as a monument,
+==33== Thus in a chapel lying! Come off, come off;
 *(Taking off her bracelet.)*
-As slippery as the Gordian knot was hard!
-’Tis mine, and this will witness outwardly,
-As strongly as the conscience does within,
-To th’ madding of her lord. On her left breast
-A mole cinque-spotted, like the crimson drops
-I’ th’ bottom of a cowslip. Here’s a voucher,
-Stronger than ever law could make; this secret
-Will force him think I have pick’d the lock and ta’en
-The treasure of her honor. No more: to what end?
-Why should I write this down that’s riveted,
-Screw’d to my memory? She hath been reading late
-The tale of Tereus; here the leaf’s turn’d down
-Where Philomele gave up. I have enough;
-To th’ trunk again, and shut the spring of it.
-Swift, swift, you dragons of the night, that dawning
-May bare the raven’s eye! I lodge in fear;
-Though this a heavenly angel, hell is here.
+==34== As slippery as the Gordian knot was hard!
+==35== ’Tis mine, and this will witness outwardly,
+==36== As strongly as the conscience does within,
+==37== To th’ madding of her lord. On her left breast
+==38== A mole cinque-spotted, like the crimson drops
+==39== I’ th’ bottom of a cowslip. Here’s a voucher,
+==40== Stronger than ever law could make; this secret
+==41== Will force him think I have pick’d the lock and ta’en
+==42== The treasure of her honor. No more: to what end?
+==43== Why should I write this down that’s riveted,
+==44== Screw’d to my memory? She hath been reading late
+==45== The tale of Tereus; here the leaf’s turn’d down
+==46== Where Philomele gave up. I have enough;
+==47== To th’ trunk again, and shut the spring of it.
+==48== Swift, swift, you dragons of the night, that dawning
+==49== May bare the raven’s eye! I lodge in fear;
+==50== Though this a heavenly angel, hell is here.
 *(Clock strikes.)*
-One, two, three: time, time!
+==51== One, two, three: time, time!
 
 *Exit into the trunk.*
 

@@ -22,211 +22,211 @@ ID: hamlet-2-1
 *Enter old Polonius with his man, Reynaldo.*
 
 **POL.**
-Give him this money and these notes, Reynaldo.
+==1== Give him this money and these notes, Reynaldo.
 
 **REY.**
-I will, my lord.
+==2== I will, my lord.
 
 **POL.**
-You shall do marvell’s wisely, good Reynaldo,
-Before you visit him, to make inquire
-Of his behavior.
+==3== You shall do marvell’s wisely, good Reynaldo,
+==4== Before you visit him, to make inquire
+==5== Of his behavior.
 
 **REY.**
-        My lord, I did intend it.
+==5==         My lord, I did intend it.
 
 **POL.**
-Marry, well said, very well said. Look you, sir,
-Inquire me first what Danskers are in Paris,
-And how, and who, what means, and where they keep,
-What company, at what expense; and finding
-By this encompassment and drift of question
-That they do know my son, come you more nearer
-Than your particular demands will touch it.
-Take you as ’twere some distant knowledge of him,
-As thus, “I know his father and his friends,
-And in part him.” Do you mark this, Reynaldo?
+==6== Marry, well said, very well said. Look you, sir,
+==7== Inquire me first what Danskers are in Paris,
+==8== And how, and who, what means, and where they keep,
+==9== What company, at what expense; and finding
+==10== By this encompassment and drift of question
+==11== That they do know my son, come you more nearer
+==12== Than your particular demands will touch it.
+==13== Take you as ’twere some distant knowledge of him,
+==14== As thus, “I know his father and his friends,
+==15== And in part him.” Do you mark this, Reynaldo?
 
 **REY.**
-Ay, very well, my lord.
+==16== Ay, very well, my lord.
 
 **POL.**
-“And in part him—but,” you may say, “not well.
-But if’t be he I mean, he’s very wild,
-Addicted so and so,” and there put on him
-What forgeries you please: marry, none so rank
-As may dishonor him, take heed of that,
-But, sir, such wanton, wild, and usual slips
-As are companions noted and most known
-To youth and liberty.
+==17== “And in part him—but,” you may say, “not well.
+==18== But if’t be he I mean, he’s very wild,
+==19== Addicted so and so,” and there put on him
+==20== What forgeries you please: marry, none so rank
+==21== As may dishonor him, take heed of that,
+==22== But, sir, such wanton, wild, and usual slips
+==23== As are companions noted and most known
+==24== To youth and liberty.
 
 **REY.**
-           As gaming, my lord.
+==24==            As gaming, my lord.
 
 **POL.**
-Ay, or drinking, fencing, swearing, quarreling,
-Drabbing—you may go so far.
+==25== Ay, or drinking, fencing, swearing, quarreling,
+==26== Drabbing—you may go so far.
 
 **REY.**
-My lord, that would dishonor him.
+==27== My lord, that would dishonor him.
 
 **POL.**
-Faith, as you may season it in the charge:
-You must not put another scandal on him,
-That he is open to incontinency⁠—
-That’s not my meaning. But breathe his faults so quaintly
-That they may seem the taints of liberty,
-The flash and outbreak of a fiery mind,
-A savageness in unreclaimed blood,
-Of general assault.
+==28== Faith, as you may season it in the charge:
+==29== You must not put another scandal on him,
+==30== That he is open to incontinency⁠—
+==31== That’s not my meaning. But breathe his faults so quaintly
+==32== That they may seem the taints of liberty,
+==33== The flash and outbreak of a fiery mind,
+==34== A savageness in unreclaimed blood,
+==35== Of general assault.
 
 **REY.**
-           But, my good lord⁠—
+==35==            But, my good lord⁠—
 
 **POL.**
-Wherefore should you do this?
+==36== Wherefore should you do this?
 
 **REY.**
-                Ay, my lord,
-I would know that.
+==36==                 Ay, my lord,
+==37== I would know that.
 
 **POL.**
-           Marry, sir, here’s my drift,
-And I believe it is a fetch of wit:
-You laying these slight sallies on my son,
-As ’twere a thing a little soil’d wi’ th’ working,
-Mark you,
-Your party in converse, him you would sound,
-Having ever seen in the prenominate crimes
-The youth you breathe of guilty, be assur’d
-He closes with you in this consequence:
-“Good sir,” or so, or “friend,” or “gentleman,”
-According to the phrase or the addition
-Of man and country.
+==37==            Marry, sir, here’s my drift,
+==38== And I believe it is a fetch of wit:
+==39== You laying these slight sallies on my son,
+==40== As ’twere a thing a little soil’d wi’ th’ working,
+==41== Mark you,
+==42== Your party in converse, him you would sound,
+==43== Having ever seen in the prenominate crimes
+==44== The youth you breathe of guilty, be assur’d
+==45== He closes with you in this consequence:
+==46== “Good sir,” or so, or “friend,” or “gentleman,”
+==47== According to the phrase or the addition
+==48== Of man and country.
 
 **REY.**
-           Very good, my lord.
+==48==            Very good, my lord.
 
 **POL.**
-And then, sir, does ’a this—’a does—what was I
-About to say?
-By the mass, I was about to say something.
-Where did I leave?
+==49== And then, sir, does ’a this—’a does—what was I
+==50== About to say?
+==51== By the mass, I was about to say something.
+==52== Where did I leave?
 
 **REY.**
-           At “closes in the consequence.”
+==52==            At “closes in the consequence.”
 
 **POL.**
-At “closes in the consequence,” ay, marry.
-He closes thus: “I know the gentleman.
-I saw him yesterday, or th’ other day,
-Or then, or then, with such or such, and as you say,
-There was ’a gaming, there o’ertook in ’s rouse,
-There falling out at tennis”; or, perchance,
-“I saw him enter such a house of sale,”
-*Videlicet*, a brothel, or so forth. See you now,
-Your bait of falsehood take this carp of truth,
-And thus do we of wisdom and of reach,
-With windlasses and with assays of bias,
-By indirections find directions out;
-So by my former lecture and advice
-Shall you my son. You have me, have you not?
+==53== At “closes in the consequence,” ay, marry.
+==54== He closes thus: “I know the gentleman.
+==55== I saw him yesterday, or th’ other day,
+==56== Or then, or then, with such or such, and as you say,
+==57== There was ’a gaming, there o’ertook in ’s rouse,
+==58== There falling out at tennis”; or, perchance,
+==59== “I saw him enter such a house of sale,”
+==60== *Videlicet*, a brothel, or so forth. See you now,
+==61== Your bait of falsehood take this carp of truth,
+==62== And thus do we of wisdom and of reach,
+==63== With windlasses and with assays of bias,
+==64== By indirections find directions out;
+==65== So by my former lecture and advice
+==66== Shall you my son. You have me, have you not?
 
 **REY.**
-My lord, I have.
+==67== My lord, I have.
 
 **POL.**
-           God buy ye, fare ye well.
+==67==            God buy ye, fare ye well.
 
 **REY.**
-Good my lord.
+==68== Good my lord.
 
 **POL.**
-Observe his inclination in yourself.
+==69== Observe his inclination in yourself.
 
 **REY.**
-I shall, my lord.
+==70== I shall, my lord.
 
 **POL.**
-And let him ply his music.
+==71== And let him ply his music.
 
 **REY.**
-              Well, my lord.
+==71==               Well, my lord.
 
 **POL.**
-Farewell.
+==72== Farewell.
 *(Exit Reynaldo.)*
 *(Enter Ophelia.)*
-How now, Ophelia, what’s the matter?
+==73== How now, Ophelia, what’s the matter?
 
 **OPH.**
-O my lord, my lord, I have been so affrighted!
+==74== O my lord, my lord, I have been so affrighted!
 
 **POL.**
-With what, i’ th’ name of God?
+==75== With what, i’ th’ name of God?
 
 **OPH.**
-My lord, as I was sewing in my closet,
-Lord Hamlet, with his doublet all unbrac’d,
-No hat upon his head, his stockins fouled,
-Ungart’red, and down-gyved to his ankle,
-Pale as his shirt, his knees knocking each other,
-And with a look so piteous in purport
-As if he had been loosed out of hell
-To speak of horrors—he comes before me.
+==76== My lord, as I was sewing in my closet,
+==77== Lord Hamlet, with his doublet all unbrac’d,
+==78== No hat upon his head, his stockins fouled,
+==79== Ungart’red, and down-gyved to his ankle,
+==80== Pale as his shirt, his knees knocking each other,
+==81== And with a look so piteous in purport
+==82== As if he had been loosed out of hell
+==83== To speak of horrors—he comes before me.
 
 **POL.**
-Mad for thy love?
+==84== Mad for thy love?
 
 **OPH.**
-           My lord, I do not know,
-But truly I do fear it.
+==84==            My lord, I do not know,
+==85== But truly I do fear it.
 
 **POL.**
-           What said he?
+==85==            What said he?
 
 **OPH.**
-He took me by the wrist, and held me hard,
-Then goes he to the length of all his arm,
-And with his other hand thus o’er his brow,
-He falls to such perusal of my face
-As ’a would draw it. Long stay’d he so.
-At last, a little shaking of mine arm,
-And thrice his head thus waving up and down,
-He rais’d a sigh so piteous and profound
-As it did seem to shatter all his bulk
-And end his being. That done, he lets me go,
-And with his head over his shoulder turn’d,
-He seem’d to find his way without his eyes,
-For out a’ doors he went without their helps,
-And to the last bended their light on me.
+==86== He took me by the wrist, and held me hard,
+==87== Then goes he to the length of all his arm,
+==88== And with his other hand thus o’er his brow,
+==89== He falls to such perusal of my face
+==90== As ’a would draw it. Long stay’d he so.
+==91== At last, a little shaking of mine arm,
+==92== And thrice his head thus waving up and down,
+==93== He rais’d a sigh so piteous and profound
+==94== As it did seem to shatter all his bulk
+==95== And end his being. That done, he lets me go,
+==96== And with his head over his shoulder turn’d,
+==97== He seem’d to find his way without his eyes,
+==98== For out a’ doors he went without their helps,
+==99== And to the last bended their light on me.
 
 **POL.**
-Come, go with me. I will go seek the king.
-This is the very ecstasy of love,
-Whose violent property fordoes itself,
-And leads the will to desperate undertakings
-As oft as any passions under heaven
-That does afflict our natures. I am sorry⁠—
-What, have you given him any hard words of late?
+==100== Come, go with me. I will go seek the king.
+==101== This is the very ecstasy of love,
+==102== Whose violent property fordoes itself,
+==103== And leads the will to desperate undertakings
+==104== As oft as any passions under heaven
+==105== That does afflict our natures. I am sorry⁠—
+==106== What, have you given him any hard words of late?
 
 **OPH.**
-No, my good lord, but as you did command
-I did repel his letters, and denied
-His access to me.
+==107== No, my good lord, but as you did command
+==108== I did repel his letters, and denied
+==109== His access to me.
 
 **POL.**
-           That hath made him mad.
-I am sorry that with better heed and judgment
-I had not coted him. I fear’d he did but trifle
-And meant to wrack thee, but beshrew my jealousy!
-By heaven, it is as proper to our age
-To cast beyond ourselves in our opinions,
-As it is common for the younger sort
-To lack discretion. Come, go we to the king.
-This must be known, which, being kept close, might move
-More grief to hide, than hate to utter love.
-Come.
+==109==            That hath made him mad.
+==110== I am sorry that with better heed and judgment
+==111== I had not coted him. I fear’d he did but trifle
+==112== And meant to wrack thee, but beshrew my jealousy!
+==113== By heaven, it is as proper to our age
+==114== To cast beyond ourselves in our opinions,
+==115== As it is common for the younger sort
+==116== To lack discretion. Come, go we to the king.
+==117== This must be known, which, being kept close, might move
+==118== More grief to hide, than hate to utter love.
+==119== Come.
 
 *Exeunt.*
 

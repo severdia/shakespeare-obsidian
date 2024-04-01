@@ -19,82 +19,82 @@ ID: cymbeline-1-3
 *Enter Imogen and Pisanio.*
 
 **IMO.**
-I would thou grew’st unto the shores o’ th’ haven,
-And questionedst every sail. If he should write
-And I not have it, ’twere a paper lost
-As offer’d mercy is. What was the last
-That he spake to thee?
+==1== I would thou grew’st unto the shores o’ th’ haven,
+==2== And questionedst every sail. If he should write
+==3== And I not have it, ’twere a paper lost
+==4== As offer’d mercy is. What was the last
+==5== That he spake to thee?
 
 **PIS.**
-           It was his queen, his queen!
+==5==            It was his queen, his queen!
 
 **IMO.**
-Then wav’d his handkerchief?
+==6== Then wav’d his handkerchief?
 
 **PIS.**
-                And kiss’d it, madam.
+==6==                 And kiss’d it, madam.
 
 **IMO.**
-Senseless linen, happier therein than I!
-And that was all?
+==7== Senseless linen, happier therein than I!
+==8== And that was all?
 
 **PIS.**
-           No, madam; for so long
-As he could make me with this eye or ear
-Distinguish him from others, he did keep
-The deck, with glove or hat or handkerchief
-Still waving, as the fits and stirs of ’s mind
-Could best express how slow his soul sail’d on,
-How swift his ship.
+==8==            No, madam; for so long
+==9== As he could make me with this eye or ear
+==10== Distinguish him from others, he did keep
+==11== The deck, with glove or hat or handkerchief
+==12== Still waving, as the fits and stirs of ’s mind
+==13== Could best express how slow his soul sail’d on,
+==14== How swift his ship.
 
 **IMO.**
-           Thou shouldst have made him
-As little as a crow, or less, ere left
-To after-eye him.
+==14==            Thou shouldst have made him
+==15== As little as a crow, or less, ere left
+==16== To after-eye him.
 
 **PIS.**
-           Madam, so I did.
+==16==            Madam, so I did.
 
 **IMO.**
-I would have broke mine eye-strings, crack’d them, but
-To look upon him, till the diminution
-Of space had pointed him sharp as my needle;
-Nay, followed him till he had melted from
-The smallness of a gnat to air, and then
-Have turn’d mine eye and wept. But, good Pisanio,
-When shall we hear from him?
+==17== I would have broke mine eye-strings, crack’d them, but
+==18== To look upon him, till the diminution
+==19== Of space had pointed him sharp as my needle;
+==20== Nay, followed him till he had melted from
+==21== The smallness of a gnat to air, and then
+==22== Have turn’d mine eye and wept. But, good Pisanio,
+==23== When shall we hear from him?
 
 **PIS.**
-                Be assur’d, madam,
-With his next vantage.
+==23==                 Be assur’d, madam,
+==24== With his next vantage.
 
 **IMO.**
-I did not take my leave of him, but had
-Most pretty things to say. Ere I could tell him
-How I would think on him at certain hours
-Such thoughts and such; or I could make him swear
-The shes of Italy should not betray
-Mine interest and his honor; or have charg’d him,
-At the sixth hour of morn, at noon, at midnight,
-T’ encounter me with orisons, for then
-I am in heaven for him; or ere I could
-Give him that parting kiss which I had set
-Betwixt two charming words, comes in my father,
-And like the tyrannous breathing of the north
-Shakes all our buds from growing.
+==25== I did not take my leave of him, but had
+==26== Most pretty things to say. Ere I could tell him
+==27== How I would think on him at certain hours
+==28== Such thoughts and such; or I could make him swear
+==29== The shes of Italy should not betray
+==30== Mine interest and his honor; or have charg’d him,
+==31== At the sixth hour of morn, at noon, at midnight,
+==32== T’ encounter me with orisons, for then
+==33== I am in heaven for him; or ere I could
+==34== Give him that parting kiss which I had set
+==35== Betwixt two charming words, comes in my father,
+==36== And like the tyrannous breathing of the north
+==37== Shakes all our buds from growing.
 
 *Enter Helen.*
 
 **HEL.**
-                  The Queen, madam,
-Desires your Highness’ company.
+==37==                   The Queen, madam,
+==38== Desires your Highness’ company.
 
 **IMO.**
-Those things I bid you do, get them dispatch’d,
-I will attend the Queen.
+==39== Those things I bid you do, get them dispatch’d,
+==40== I will attend the Queen.
 
 **PIS.**
-              Madam, I shall.
+==40==               Madam, I shall.
 
 *Exeunt.*
 

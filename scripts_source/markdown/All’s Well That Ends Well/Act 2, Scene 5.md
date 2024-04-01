@@ -20,172 +20,172 @@ ID: alls-well-that-ends-well-2-5
 *Enter Lafew and Bertram.*
 
 **LAF.**
-But I hope your lordship thinks not him a soldier.
+==1== But I hope your lordship thinks not him a soldier.
 
 **BER.**
-Yes, my lord, and of very valiant approof.
+==2== Yes, my lord, and of very valiant approof.
 
 **LAF.**
-You have it from his own deliverance.
+==3== You have it from his own deliverance.
 
 **BER.**
-And by other warranted testimony.
+==4== And by other warranted testimony.
 
 **LAF.**
-Then my dial goes not true. I took this lark for a bunting.
+==5== Then my dial goes not true. I took this lark for a bunting.
 
 **BER.**
-I do assure you, my lord, he is very great in knowledge, and accordingly valiant.
+==6== I do assure you, my lord, he is very great in knowledge, and accordingly valiant.
 
 **LAF.**
-I have then sinn’d against his experience, and transgress’d against his valor, and my state that way is dangerous, since I cannot yet find in my heart to repent. Here he comes. I pray you make us friends, I will pursue the amity.
+==7== I have then sinn’d against his experience, and transgress’d against his valor, and my state that way is dangerous, since I cannot yet find in my heart to repent. Here he comes. I pray you make us friends, I will pursue the amity.
 
 *Enter Parolles.*
 
 **PAR.**
 *(To Bertram.)*
-These things shall be done, sir.
+==8== These things shall be done, sir.
 
 **LAF.**
-Pray you, sir, who’s his tailor?
+==9== Pray you, sir, who’s his tailor?
 
 **PAR.**
-Sir!
+==10== Sir!
 
 **LAF.**
-O, I know him well, I, sir, he, sir, ’s a good workman, a very good tailor.
+==11== O, I know him well, I, sir, he, sir, ’s a good workman, a very good tailor.
 
 **BER.**
 *(Aside to Parolles.)*
-Is she gone to the King?
+==12== Is she gone to the King?
 
 **PAR.**
-She is.
+==13== She is.
 
 **BER.**
-Will she away tonight?
+==14== Will she away tonight?
 
 **PAR.**
-As you’ll have her.
+==15== As you’ll have her.
 
 **BER.**
-I have writ my letters, casketed my treasure,
-Given order for our horses, and tonight,
-When I should take possession of the bride,
-End ere I do begin.
+==16== I have writ my letters, casketed my treasure,
+==17== Given order for our horses, and tonight,
+==18== When I should take possession of the bride,
+==19== End ere I do begin.
 
 **LAF.**
-A good traveler is something at the latter end of a dinner, but one that lies three thirds, and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten. God save you, captain.
+==20== A good traveler is something at the latter end of a dinner, but one that lies three thirds, and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten. God save you, captain.
 
 **BER.**
-Is there any unkindness between my lord and you, *monsieur*?
+==21== Is there any unkindness between my lord and you, *monsieur*?
 
 **PAR.**
-I know not how I have deserv’d to run into my lord’s displeasure.
+==22== I know not how I have deserv’d to run into my lord’s displeasure.
 
 **LAF.**
-You have made shift to run into’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence.
+==23== You have made shift to run into’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence.
 
 **BER.**
-It may be you have mistaken him, my lord.
+==24== It may be you have mistaken him, my lord.
 
 **LAF.**
-And shall do so ever, though I took him at ’s prayers. Fare you well, my lord, and believe this of me: there can be no kernel in this light nut; the soul of this man is his clothes. Trust him not in matter of heavy consequence; I have kept of them tame, and know their natures. Farewell, *monsieur*, I have spoken better of you than you have or will to deserve at my hand, but we must do good against evil.
+==25== And shall do so ever, though I took him at ’s prayers. Fare you well, my lord, and believe this of me: there can be no kernel in this light nut; the soul of this man is his clothes. Trust him not in matter of heavy consequence; I have kept of them tame, and know their natures. Farewell, *monsieur*, I have spoken better of you than you have or will to deserve at my hand, but we must do good against evil.
 
 *Exit.*
 
 **PAR.**
-An idle lord, I swear.
+==26== An idle lord, I swear.
 
 **BER.**
-I think so.
+==27== I think so.
 
 **PAR.**
-Why, do you not know him?
+==28== Why, do you not know him?
 
 **BER.**
-Yes, I do know him well, and common speech
-Gives him a worthy pass. Here comes my clog.
+==29== Yes, I do know him well, and common speech
+==30== Gives him a worthy pass. Here comes my clog.
 
 *Enter Helena.*
 
 **HEL.**
-I have, sir, as I was commanded from you,
-Spoke with the King, and have procur’d his leave
-For present parting; only he desires
-Some private speech with you.
+==31== I have, sir, as I was commanded from you,
+==32== Spoke with the King, and have procur’d his leave
+==33== For present parting; only he desires
+==34== Some private speech with you.
 
 **BER.**
-                I shall obey his will.
-You must not marvel, Helen, at my course,
-Which holds not color with the time, nor does
-The ministration and required office
-On my particular. Prepar’d I was not
-For such a business; therefore am I found
-So much unsettled. This drives me to entreat you
-That presently you take your way for home,
-And rather muse than ask why I entreat you,
-For my respects are better than they seem,
-And my appointments have in them a need
-Greater than shows itself at the first view
-To you that know them not. This to my mother.
+==34==                 I shall obey his will.
+==35== You must not marvel, Helen, at my course,
+==36== Which holds not color with the time, nor does
+==37== The ministration and required office
+==38== On my particular. Prepar’d I was not
+==39== For such a business; therefore am I found
+==40== So much unsettled. This drives me to entreat you
+==41== That presently you take your way for home,
+==42== And rather muse than ask why I entreat you,
+==43== For my respects are better than they seem,
+==44== And my appointments have in them a need
+==45== Greater than shows itself at the first view
+==46== To you that know them not. This to my mother.
 *(Giving a letter.)*
-’Twill be two days ere I shall see you, so
-I leave you to your wisdom.
+==47== ’Twill be two days ere I shall see you, so
+==48== I leave you to your wisdom.
 
 **HEL.**
-              Sir, I can nothing say,
-But that I am your most obedient servant.
+==48==               Sir, I can nothing say,
+==49== But that I am your most obedient servant.
 
 **BER.**
-Come, come, no more of that.
+==50== Come, come, no more of that.
 
 **HEL.**
-                And ever shall
-With true observance seek to eke out that
-Wherein toward me my homely stars have fail’d
-To equal my great fortune.
+==50==                 And ever shall
+==51== With true observance seek to eke out that
+==52== Wherein toward me my homely stars have fail’d
+==53== To equal my great fortune.
 
 **BER.**
-              Let that go.
-My haste is very great. Farewell; hie home.
+==53==               Let that go.
+==54== My haste is very great. Farewell; hie home.
 
 **HEL.**
-Pray, sir, your pardon.
+==55== Pray, sir, your pardon.
 
 **BER.**
-           Well, what would you say?
+==55==            Well, what would you say?
 
 **HEL.**
-I am not worthy of the wealth I owe,
-Nor dare I say ’tis mine; and yet it is;
-But like a timorous thief, most fain would steal
-What law does vouch mine own.
+==56== I am not worthy of the wealth I owe,
+==57== Nor dare I say ’tis mine; and yet it is;
+==58== But like a timorous thief, most fain would steal
+==59== What law does vouch mine own.
 
 **BER.**
-                What would you have?
+==59==                 What would you have?
 
 **HEL.**
-Something, and scarce so much; nothing indeed.
-I would not tell you what I would, my lord.
-Faith, yes:
-Strangers and foes do sunder, and not kiss.
+==60== Something, and scarce so much; nothing indeed.
+==61== I would not tell you what I would, my lord.
+==62== Faith, yes:
+==63== Strangers and foes do sunder, and not kiss.
 
 **BER.**
-I pray you stay not, but in haste to horse.
+==64== I pray you stay not, but in haste to horse.
 
 **HEL.**
-I shall not break your bidding, good my lord.
+==65== I shall not break your bidding, good my lord.
 
 **BER.**
-Where are my other men, *monsieur*?—Farewell.
+==66== Where are my other men, *monsieur*?—Farewell.
 *(Exit Helena.)*
-Go thou toward home, where I will never come
-Whilst I can shake my sword or hear the drum.
-Away, and for our flight.
+==67== Go thou toward home, where I will never come
+==68== Whilst I can shake my sword or hear the drum.
+==69== Away, and for our flight.
 
 **PAR.**
-Bravely, *coraggio*!
+==70== Bravely, *coraggio*!
 
 *Exeunt.*
 

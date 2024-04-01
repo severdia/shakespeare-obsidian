@@ -20,433 +20,433 @@ ID: timon-of-athens-5-1
 *Enter Poet and Painter; Timon watching them from his cave.*
 
 **PAIN.**
-As I took note of the place, it cannot be far
-Where he abides.
+==1== As I took note of the place, it cannot be far
+==2== Where he abides.
 
 **POET.**
-           What’s to be thought of him?
-Does the rumor hold for true that he’s
-So full of gold?
+==2==            What’s to be thought of him?
+==3== Does the rumor hold for true that he’s
+==4== So full of gold?
 
 **PAIN.**
-        Certain. Alcibiades reports it;
-Phrynia and Timandra had gold of him.
-He likewise enrich’d poor straggling soldiers with
-Great quantity. ’Tis said he gave unto
-His steward a mighty sum.
+==4==         Certain. Alcibiades reports it;
+==5== Phrynia and Timandra had gold of him.
+==6== He likewise enrich’d poor straggling soldiers with
+==7== Great quantity. ’Tis said he gave unto
+==8== His steward a mighty sum.
 
 **POET.**
-              Then this breaking of his
-Has been but a try for his friends?
+==8==               Then this breaking of his
+==9== Has been but a try for his friends?
 
 **PAIN.**
-                  Nothing else.
-You shall see him a palm in Athens again, and flourish
-With the highest. Therefore, ’tis not amiss
-We tender our loves to him in this suppos’d
-Distress of his; it will show honestly in us,
-And is very likely to load our purposes
-With what they travail for, if it be
-A just and true report that goes of his having.
+==9==                   Nothing else.
+==10== You shall see him a palm in Athens again, and flourish
+==11== With the highest. Therefore, ’tis not amiss
+==12== We tender our loves to him in this suppos’d
+==13== Distress of his; it will show honestly in us,
+==14== And is very likely to load our purposes
+==15== With what they travail for, if it be
+==16== A just and true report that goes of his having.
 
 **POET.**
-What have you now to present unto him?
+==17== What have you now to present unto him?
 
 **PAIN.**
-Nothing at this time but my visitation;
-Only I will promise him an excellent piece.
+==18== Nothing at this time but my visitation;
+==19== Only I will promise him an excellent piece.
 
 **POET.**
-I must serve him so too: tell him of an intent
-That’s coming toward him.
+==20== I must serve him so too: tell him of an intent
+==21== That’s coming toward him.
 
 **PAIN.**
-              Good as the best.
-Promising is the very air o’ th’ time;
-It opens the eyes of expectation.
-Performance is ever the duller for his act,
-And but in the plainer and simpler kind of people
-The deed of saying is quite out of use.
-To promise is most courtly and fashionable;
-Performance is a kind of will or testament
-Which argues a great sickness in his judgment
-That makes it.
+==21==               Good as the best.
+==22== Promising is the very air o’ th’ time;
+==23== It opens the eyes of expectation.
+==24== Performance is ever the duller for his act,
+==25== And but in the plainer and simpler kind of people
+==26== The deed of saying is quite out of use.
+==27== To promise is most courtly and fashionable;
+==28== Performance is a kind of will or testament
+==29== Which argues a great sickness in his judgment
+==30== That makes it.
 
 *Enter Timon from his cave.*
 
 **TIM.**
 *(Aside.)*
-Excellent workman! Thou canst not paint a man
-So bad as is thyself.
+==31== Excellent workman! Thou canst not paint a man
+==32== So bad as is thyself.
 
 **POET.**
-           I am thinking
-What I shall say I have provided for him.
-It must be a personating of himself;
-A satire against the softness of prosperity,
-With a discovery of the infinite flatteries
-That follow youth and opulency.
+==32==            I am thinking
+==33== What I shall say I have provided for him.
+==34== It must be a personating of himself;
+==35== A satire against the softness of prosperity,
+==36== With a discovery of the infinite flatteries
+==37== That follow youth and opulency.
 
 **TIM.**
 *(Aside.)*
-                  Must thou needs
-Stand for a villain in thine own work?
-Wilt thou whip thine own faults in other men?
-Do so, I have gold for thee.
+==37==                   Must thou needs
+==38== Stand for a villain in thine own work?
+==39== Wilt thou whip thine own faults in other men?
+==40== Do so, I have gold for thee.
 
 **POET.**
-              Nay, let’s seek him:
-Then do we sin against our own estate,
-When we may profit meet, and come too late.
+==40==               Nay, let’s seek him:
+==41== Then do we sin against our own estate,
+==42== When we may profit meet, and come too late.
 
 **PAIN.**
-True:
-When the day serves, before black-corner’d night,
-Find what thou want’st by free and offer’d light.
-Come.
+==43== True:
+==44== When the day serves, before black-corner’d night,
+==45== Find what thou want’st by free and offer’d light.
+==46== Come.
 
 **TIM.**
 *(Aside.)*
-I’ll meet you at the turn. What a god’s gold
-That he is worshipp’d in a baser temple
-Than where swine feed!
-’Tis thou that rig’st the bark and plough’st the foam,
-Settlest admired reverence in a slave.
-To thee be worship, and thy saints for aye
-Be crown’d with plagues, that thee alone obey!
-Fit I meet them.
+==47== I’ll meet you at the turn. What a god’s gold
+==48== That he is worshipp’d in a baser temple
+==49== Than where swine feed!
+==50== ’Tis thou that rig’st the bark and plough’st the foam,
+==51== Settlest admired reverence in a slave.
+==52== To thee be worship, and thy saints for aye
+==53== Be crown’d with plagues, that thee alone obey!
+==54== Fit I meet them.
 
 *Coming forward.*
 
 **POET.**
-Hail, worthy Timon!
+==55== Hail, worthy Timon!
 
 **PAIN.**
-           Our late noble master!
+==55==            Our late noble master!
 
 **TIM.**
-Have I once liv’d to see two honest men?
+==56== Have I once liv’d to see two honest men?
 
 **POET.**
-Sir,
-Having often of your open bounty tasted,
-Hearing you were retir’d, your friends fall’n off,
-Whose thankless natures (O abhorred spirits!) 
-Not all the whips of heaven are large enough⁠—
-What, to you,
-Whose star-like nobleness gave life and influence
-To their whole being! I am rapt and cannot cover
-The monstrous bulk of this ingratitude
-With any size of words.
+==57== Sir,
+==58== Having often of your open bounty tasted,
+==59== Hearing you were retir’d, your friends fall’n off,
+==60== Whose thankless natures (O abhorred spirits!) 
+==61== Not all the whips of heaven are large enough⁠—
+==62== What, to you,
+==63== Whose star-like nobleness gave life and influence
+==64== To their whole being! I am rapt and cannot cover
+==65== The monstrous bulk of this ingratitude
+==66== With any size of words.
 
 **TIM.**
-Let it go naked, men may see’t the better.
-You that are honest, by being what you are
-Make them best seen and known.
+==67== Let it go naked, men may see’t the better.
+==68== You that are honest, by being what you are
+==69== Make them best seen and known.
 
 **PAIN.**
-                  He and myself
-Have travail’d in the great show’r of your gifts,
-And sweetly felt it.
+==69==                   He and myself
+==70== Have travail’d in the great show’r of your gifts,
+==71== And sweetly felt it.
 
 **TIM.**
-           Ay, you are honest men.
+==71==            Ay, you are honest men.
 
 **PAIN.**
-We are hither come to offer you our service.
+==72== We are hither come to offer you our service.
 
 **TIM.**
-Most honest men! Why, how shall I requite you?
-Can you eat roots and drink cold water? No?
+==73== Most honest men! Why, how shall I requite you?
+==74== Can you eat roots and drink cold water? No?
 
 **BOTH POET. AND PAIN.**
-What we can do, we’ll do, to do you service.
+==75== What we can do, we’ll do, to do you service.
 
 **TIM.**
-Y’ are honest men; y’ have heard that I have gold,
-I am sure you have. Speak truth, y’ are honest men.
+==76== Y’ are honest men; y’ have heard that I have gold,
+==77== I am sure you have. Speak truth, y’ are honest men.
 
 **PAIN.**
-So it is said, my noble lord, but therefore
-Came not my friend nor I.
+==78== So it is said, my noble lord, but therefore
+==79== Came not my friend nor I.
 
 **TIM.**
-Good honest men! Thou draw’st a counterfeit
-Best in all Athens; th’ art indeed the best,
-Thou counterfeit’st most lively.
+==80== Good honest men! Thou draw’st a counterfeit
+==81== Best in all Athens; th’ art indeed the best,
+==82== Thou counterfeit’st most lively.
 
 **PAIN.**
-                  So, so, my lord.
+==82==                   So, so, my lord.
 
 **TIM.**
-E’en so, sir, as I say.—And, for thy fiction,
-Why, thy verse swells with stuff so fine and smooth
-That thou art even natural in thine art.
-But for all this, my honest-natur’d friends,
-I must needs say you have a little fault;
-Marry, ’tis not monstrous in you, neither wish I
-You take much pains to mend.
+==83== E’en so, sir, as I say.—And, for thy fiction,
+==84== Why, thy verse swells with stuff so fine and smooth
+==85== That thou art even natural in thine art.
+==86== But for all this, my honest-natur’d friends,
+==87== I must needs say you have a little fault;
+==88== Marry, ’tis not monstrous in you, neither wish I
+==89== You take much pains to mend.
 
 **BOTH POET. AND PAIN.**
-                Beseech your honor
-To make it known to us.
+==89==                 Beseech your honor
+==90== To make it known to us.
 
 **TIM.**
-              You’ll take it ill.
+==90==               You’ll take it ill.
 
 **BOTH POET. AND PAIN.**
-Most thankfully, my lord.
+==91== Most thankfully, my lord.
 
 **TIM.**
-              Will you indeed?
+==91==               Will you indeed?
 
 **BOTH POET. AND PAIN.**
-Doubt it not, worthy lord.
+==92== Doubt it not, worthy lord.
 
 **TIM.**
-There’s never a one of you but trusts a knave
-That mightily deceives you.
+==93== There’s never a one of you but trusts a knave
+==94== That mightily deceives you.
 
 **BOTH POET. AND PAIN.**
-              Do we, my lord?
+==94==               Do we, my lord?
 
 **TIM.**
-Ay, and you hear him cog, see him dissemble,
-Know his gross patchery, love him, feed him,
-Keep in your bosom; yet remain assur’d
-That he’s a made-up villain.
+==95== Ay, and you hear him cog, see him dissemble,
+==96== Know his gross patchery, love him, feed him,
+==97== Keep in your bosom; yet remain assur’d
+==98== That he’s a made-up villain.
 
 **PAIN.**
-I know none such, my lord.
+==99== I know none such, my lord.
 
 **POET.**
-              Nor I.
+==99==               Nor I.
 
 **TIM.**
-Look you, I love you well, I’ll give you gold,
-Rid me these villains from your companies;
-Hang them, or stab them, drown them in a draught,
-Confound them by some course, and come to me,
-I’ll give you gold enough.
+==100== Look you, I love you well, I’ll give you gold,
+==101== Rid me these villains from your companies;
+==102== Hang them, or stab them, drown them in a draught,
+==103== Confound them by some course, and come to me,
+==104== I’ll give you gold enough.
 
 **BOTH POET. AND PAIN.**
-Name them, my lord, let’s know them.
+==105== Name them, my lord, let’s know them.
 
 **TIM.**
-You that way and you this; but two in company;
-Each man apart, all single and alone,
-Yet an arch-villain keeps him company.
+==106== You that way and you this; but two in company;
+==107== Each man apart, all single and alone,
+==108== Yet an arch-villain keeps him company.
 *(To one.)*
-If where thou art, two villains shall not be,
-Come not near him.
+==109== If where thou art, two villains shall not be,
+==110== Come not near him.
 *(To the other.)*
-If thou wouldst not reside
-But where one villain is, then him abandon.⁠—
-Hence, pack! There’s gold; you came for gold, ye slaves.
+==111== If thou wouldst not reside
+==112== But where one villain is, then him abandon.⁠—
+==113== Hence, pack! There’s gold; you came for gold, ye slaves.
 *(To one.)*
-You have work for me; there’s payment, hence!
+==114== You have work for me; there’s payment, hence!
 *(To the other.)*
-You are an alcumist, make gold of that.
-Out, rascal dogs!
+==115== You are an alcumist, make gold of that.
+==116== Out, rascal dogs!
 
 *Exeunt both, driven out by Timon, who retires to his cave.*
 
 *Enter Steward Flavius and two Senators.*
 
 **FLAV.**
-It is vain that you would speak with Timon;
-For he is set so only to himself,
-That nothing but himself which looks like man
-Is friendly with him.
+==117== It is vain that you would speak with Timon;
+==118== For he is set so only to himself,
+==119== That nothing but himself which looks like man
+==120== Is friendly with him.
 
 **1. SEN.**
-           Bring us to his cave.
-It is our part and promise to th’ Athenians
-To speak with Timon.
+==120==            Bring us to his cave.
+==121== It is our part and promise to th’ Athenians
+==122== To speak with Timon.
 
 **2. SEN.**
-              At all times alike
-Men are not still the same; ’twas time and griefs
-That fram’d him thus. Time with his fairer hand,
-Offering the fortunes of his former days,
-The former man may make him. Bring us to him,
-And chance it as it may.
+==122==               At all times alike
+==123== Men are not still the same; ’twas time and griefs
+==124== That fram’d him thus. Time with his fairer hand,
+==125== Offering the fortunes of his former days,
+==126== The former man may make him. Bring us to him,
+==127== And chance it as it may.
 
 **FLAV.**
-              Here is his cave.
-Peace and content be here! Lord Timon! Timon,
-Look out and speak to friends. Th’ Athenians
-By two of their most reverend Senate greet thee.
-Speak to them, noble Timon.
+==127==               Here is his cave.
+==128== Peace and content be here! Lord Timon! Timon,
+==129== Look out and speak to friends. Th’ Athenians
+==130== By two of their most reverend Senate greet thee.
+==131== Speak to them, noble Timon.
 
 *Enter Timon out of his cave.*
 
 **TIM.**
-Thou sun that comforts, burn! Speak and be hang’d.
-For each true word, a blister, and each false
-Be as a cantherizing to the root o’ th’ tongue,
-Consuming it with speaking!
+==132== Thou sun that comforts, burn! Speak and be hang’d.
+==133== For each true word, a blister, and each false
+==134== Be as a cantherizing to the root o’ th’ tongue,
+==135== Consuming it with speaking!
 
 **1. SEN.**
-                Worthy Timon⁠—
+==135==                 Worthy Timon⁠—
 
 **TIM.**
-Of none but such as you, and you of Timon.
+==136== Of none but such as you, and you of Timon.
 
 **1. SEN.**
-The senators of Athens greet thee, Timon.
+==137== The senators of Athens greet thee, Timon.
 
 **TIM.**
-I thank them, and would send them back the plague,
-Could I but catch it for them.
+==138== I thank them, and would send them back the plague,
+==139== Could I but catch it for them.
 
 **1. SEN.**
-                O, forget
-What we are sorry for ourselves in thee.
-The senators with one consent of love
-Entreat thee back to Athens, who have thought
-On special dignities, which vacant lie,
-For thy best use and wearing.
+==139==                 O, forget
+==140== What we are sorry for ourselves in thee.
+==141== The senators with one consent of love
+==142== Entreat thee back to Athens, who have thought
+==143== On special dignities, which vacant lie,
+==144== For thy best use and wearing.
 
 **2. SEN.**
-                They confess
-Toward thee forgetfulness too general gross;
-Which now the public body, which doth seldom
-Play the recanter, feeling in itself
-A lack of Timon’s aid, hath sense withal
-Of it own fall, restraining aid to Timon,
-And send forth us to make their sorrowed render,
-Together with a recompense more fruitful
-Than their offense can weigh down by the dram;
-Ay, even such heaps and sums of love and wealth
-As shall to thee blot out what wrongs were theirs,
-And write in thee the figures of their love,
-Ever to read them thine.
+==144==                 They confess
+==145== Toward thee forgetfulness too general gross;
+==146== Which now the public body, which doth seldom
+==147== Play the recanter, feeling in itself
+==148== A lack of Timon’s aid, hath sense withal
+==149== Of it own fall, restraining aid to Timon,
+==150== And send forth us to make their sorrowed render,
+==151== Together with a recompense more fruitful
+==152== Than their offense can weigh down by the dram;
+==153== Ay, even such heaps and sums of love and wealth
+==154== As shall to thee blot out what wrongs were theirs,
+==155== And write in thee the figures of their love,
+==156== Ever to read them thine.
 
 **TIM.**
-              You witch me in it;
-Surprise me to the very brink of tears.
-Lend me a fool’s heart and a woman’s eyes,
-And I’ll beweep these comforts, worthy senators.
+==156==               You witch me in it;
+==157== Surprise me to the very brink of tears.
+==158== Lend me a fool’s heart and a woman’s eyes,
+==159== And I’ll beweep these comforts, worthy senators.
 
 **1. SEN.**
-Therefore so please thee to return with us,
-And of our Athens, thine and ours, to take
-The captainship, thou shalt be met with thanks,
-Allow’d with absolute power, and thy good name
-Live with authority; so soon we shall drive back
-Of Alcibiades th’ approaches wild,
-Who, like a boar too savage, doth root up
-His country’s peace.
+==160== Therefore so please thee to return with us,
+==161== And of our Athens, thine and ours, to take
+==162== The captainship, thou shalt be met with thanks,
+==163== Allow’d with absolute power, and thy good name
+==164== Live with authority; so soon we shall drive back
+==165== Of Alcibiades th’ approaches wild,
+==166== Who, like a boar too savage, doth root up
+==167== His country’s peace.
 
 **2. SEN.**
-           And shakes his threat’ning sword
-Against the walls of Athens.
+==167==            And shakes his threat’ning sword
+==168== Against the walls of Athens.
 
 **1. SEN.**
-              Therefore, Timon⁠—
+==168==               Therefore, Timon⁠—
 
 **TIM.**
-Well, sir, I will; therefore I will, sir, thus:
-If Alcibiades kill my countrymen,
-Let Alcibiades know this of Timon,
-That Timon cares not. But if he sack fair Athens,
-And take our goodly aged men by th’ beards,
-Giving our holy virgins to the stain
-Of contumelious, beastly, mad-brain’d war,
-Then let him know, and tell him Timon speaks it,
-In pity of our aged and our youth,
-I cannot choose but tell him that I care not,
-And let him take’t at worst—for their knives care not,
-While you have throats to answer. For myself,
-There’s not a whittle in th’ unruly camp
-But I do prize it at my love before
-The reverend’st throat in Athens. So I leave you
-To the protection of the prosperous gods,
-As thieves to keepers.
+==169== Well, sir, I will; therefore I will, sir, thus:
+==170== If Alcibiades kill my countrymen,
+==171== Let Alcibiades know this of Timon,
+==172== That Timon cares not. But if he sack fair Athens,
+==173== And take our goodly aged men by th’ beards,
+==174== Giving our holy virgins to the stain
+==175== Of contumelious, beastly, mad-brain’d war,
+==176== Then let him know, and tell him Timon speaks it,
+==177== In pity of our aged and our youth,
+==178== I cannot choose but tell him that I care not,
+==179== And let him take’t at worst—for their knives care not,
+==180== While you have throats to answer. For myself,
+==181== There’s not a whittle in th’ unruly camp
+==182== But I do prize it at my love before
+==183== The reverend’st throat in Athens. So I leave you
+==184== To the protection of the prosperous gods,
+==185== As thieves to keepers.
 
 **FLAV.**
-           Stay not, all’s in vain.
+==185==            Stay not, all’s in vain.
 
 **TIM.**
-Why, I was writing of my epitaph;
-It will be seen tomorrow. My long sickness
-Of health and living now begins to mend,
-And nothing brings me all things. Go, live still;
-Be Alcibiades your plague, you his,
-And last so long enough!
+==186== Why, I was writing of my epitaph;
+==187== It will be seen tomorrow. My long sickness
+==188== Of health and living now begins to mend,
+==189== And nothing brings me all things. Go, live still;
+==190== Be Alcibiades your plague, you his,
+==191== And last so long enough!
 
 **1. SEN.**
-              We speak in vain.
+==191==               We speak in vain.
 
 **TIM.**
-But yet I love my country, and am not
-One that rejoices in the common wrack,
-As common bruit doth put it.
+==192== But yet I love my country, and am not
+==193== One that rejoices in the common wrack,
+==194== As common bruit doth put it.
 
 **1. SEN.**
-                That’s well spoke.
+==194==                 That’s well spoke.
 
 **TIM.**
-Commend me to my loving countrymen⁠—
+==195== Commend me to my loving countrymen⁠—
 
 **1. SEN.**
-These words become your lips as they pass thorough them.
+==196== These words become your lips as they pass thorough them.
 
 **2. SEN.**
-And enter in our ears like great triumphers
-In their applauding gates.
+==197== And enter in our ears like great triumphers
+==198== In their applauding gates.
 
 **TIM.**
-              Commend me to them,
-And tell them that, to ease them of their griefs,
-Their fears of hostile strokes, their aches, losses,
-Their pangs of love, with other incident throes
-That nature’s fragile vessel doth sustain
-In life’s uncertain voyage, I will some kindness do them:
-I’ll teach them to prevent wild Alcibiades’ wrath.
+==198==               Commend me to them,
+==199== And tell them that, to ease them of their griefs,
+==200== Their fears of hostile strokes, their aches, losses,
+==201== Their pangs of love, with other incident throes
+==202== That nature’s fragile vessel doth sustain
+==203== In life’s uncertain voyage, I will some kindness do them:
+==204== I’ll teach them to prevent wild Alcibiades’ wrath.
 
 **1. SEN.**
-I like this well, he will return again.
+==205== I like this well, he will return again.
 
 **TIM.**
-I have a tree, which grows here in my close,
-That mine own use invites me to cut down,
-And shortly must I fell it. Tell my friends,
-Tell Athens, in the sequence of degree,
-From high to low throughout, that whoso please
-To stop affliction, let him take his haste,
-Come hither, ere my tree hath felt the axe,
-And hang himself. I pray you do my greeting.
+==206== I have a tree, which grows here in my close,
+==207== That mine own use invites me to cut down,
+==208== And shortly must I fell it. Tell my friends,
+==209== Tell Athens, in the sequence of degree,
+==210== From high to low throughout, that whoso please
+==211== To stop affliction, let him take his haste,
+==212== Come hither, ere my tree hath felt the axe,
+==213== And hang himself. I pray you do my greeting.
 
 **FLAV.**
-Trouble him no further, thus you still shall find him.
+==214== Trouble him no further, thus you still shall find him.
 
 **TIM.**
-Come not to me again, but say to Athens,
-Timon hath made his everlasting mansion
-Upon the beached verge of the salt flood,
-Who once a day with his embossed froth
-The turbulent surge shall cover; thither come,
-And let my grave-stone be your oracle.
-Lips, let four words go by and language end!
-What is amiss, plague and infection mend!
-Graves only be men’s works, and death their gain!
-Sun, hide thy beams, Timon hath done his reign.
+==215== Come not to me again, but say to Athens,
+==216== Timon hath made his everlasting mansion
+==217== Upon the beached verge of the salt flood,
+==218== Who once a day with his embossed froth
+==219== The turbulent surge shall cover; thither come,
+==220== And let my grave-stone be your oracle.
+==221== Lips, let four words go by and language end!
+==222== What is amiss, plague and infection mend!
+==223== Graves only be men’s works, and death their gain!
+==224== Sun, hide thy beams, Timon hath done his reign.
 
 *Exit Timon.*
 
 **1. SEN.**
-His discontents are unremovably
-Coupled to nature.
+==225== His discontents are unremovably
+==226== Coupled to nature.
 
 **2. SEN.**
-Our hope in him is dead. Let us return,
-And strain what other means is left unto us
-In our dear peril.
+==227== Our hope in him is dead. Let us return,
+==228== And strain what other means is left unto us
+==229== In our dear peril.
 
 **1. SEN.**
-           It requires swift foot.
+==229==            It requires swift foot.
 
 *Exeunt.*
 

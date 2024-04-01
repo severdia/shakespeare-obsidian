@@ -22,311 +22,311 @@ ID: titus-andronicus-5-2
 *Enter Tamora and her two sons, Demetrius and Chiron, disguised.*
 
 **TAM.**
-Thus, in this strange and sad habiliment,
-I will encounter with Andronicus,
-And say I am Revenge, sent from below
-To join with him and right his heinous wrongs.
-Knock at his study, where they say he keeps
-To ruminate strange plots of dire revenge;
-Tell him Revenge is come to join with him,
-And work confusion on his enemies.
+==1== Thus, in this strange and sad habiliment,
+==2== I will encounter with Andronicus,
+==3== And say I am Revenge, sent from below
+==4== To join with him and right his heinous wrongs.
+==5== Knock at his study, where they say he keeps
+==6== To ruminate strange plots of dire revenge;
+==7== Tell him Revenge is come to join with him,
+==8== And work confusion on his enemies.
 
 *They knock, and Titus above opens his study door.*
 
 **TIT.**
-Who doth molest my contemplation?
-Is it your trick to make me ope the door
-That so my sad decrees may fly away,
-And all my study be to no effect?
-You are deceiv’d, for what I mean to do
-See here in bloody lines I have set down:
-And what is written shall be executed.
+==9== Who doth molest my contemplation?
+==10== Is it your trick to make me ope the door
+==11== That so my sad decrees may fly away,
+==12== And all my study be to no effect?
+==13== You are deceiv’d, for what I mean to do
+==14== See here in bloody lines I have set down:
+==15== And what is written shall be executed.
 
 **TAM.**
-Titus, I am come to talk with thee.
+==16== Titus, I am come to talk with thee.
 
 **TIT.**
-No, not a word, how can I grace my talk,
-Wanting a hand to give’t that accord?
-Thou hast the odds of me, therefore no more.
+==17== No, not a word, how can I grace my talk,
+==18== Wanting a hand to give’t that accord?
+==19== Thou hast the odds of me, therefore no more.
 
 **TAM.**
-If thou didst know me, thou wouldst talk with me.
+==20== If thou didst know me, thou wouldst talk with me.
 
 **TIT.**
-I am not mad, I know thee well enough.
-Witness this wretched stump, witness these crimson lines.
-Witness these trenches made by grief and care,
-Witness the tiring day and heavy night,
-Witness all sorrow, that I know thee well
-For our proud Empress, mighty Tamora.
-Is not thy coming for my other hand?
+==21== I am not mad, I know thee well enough.
+==22== Witness this wretched stump, witness these crimson lines.
+==23== Witness these trenches made by grief and care,
+==24== Witness the tiring day and heavy night,
+==25== Witness all sorrow, that I know thee well
+==26== For our proud Empress, mighty Tamora.
+==27== Is not thy coming for my other hand?
 
 **TAM.**
-Know, thou sad man, I am not Tamora;
-She is thy enemy, and I thy friend.
-I am Revenge, sent from th’ infernal kingdom
-To ease the gnawing vulture of thy mind,
-By working wreakful vengeance on thy foes.
-Come down and welcome me to this world’s light;
-Confer with me of murder and of death.
-There’s not a hollow cave or lurking-place,
-No vast obscurity or misty vale,
-Where bloody murder or detested rape
-Can couch for fear, but I will find them out,
-And in their ears tell them my dreadful name,
-Revenge, which makes the foul offender quake.
+==28== Know, thou sad man, I am not Tamora;
+==29== She is thy enemy, and I thy friend.
+==30== I am Revenge, sent from th’ infernal kingdom
+==31== To ease the gnawing vulture of thy mind,
+==32== By working wreakful vengeance on thy foes.
+==33== Come down and welcome me to this world’s light;
+==34== Confer with me of murder and of death.
+==35== There’s not a hollow cave or lurking-place,
+==36== No vast obscurity or misty vale,
+==37== Where bloody murder or detested rape
+==38== Can couch for fear, but I will find them out,
+==39== And in their ears tell them my dreadful name,
+==40== Revenge, which makes the foul offender quake.
 
 **TIT.**
-Art thou Revenge? And art thou sent to me,
-To be a torment to mine enemies?
+==41== Art thou Revenge? And art thou sent to me,
+==42== To be a torment to mine enemies?
 
 **TAM.**
-I am, therefore come down and welcome me.
+==43== I am, therefore come down and welcome me.
 
 **TIT.**
-Do me some service ere I come to thee.
-Lo by thy side where Rape and Murder stands;
-Now give some surance that thou art Revenge⁠—
-Stab them, or tear them on thy chariot-wheels,
-And then I’ll come and be thy wagoner,
-And whirl along with thee about the globes.
-Provide thee two proper palfreys, black as jet,
-To hale thy vengeful wagon swift away,
-And find out murderers in their guilty caves;
-And when thy car is loaden with their heads,
-I will dismount, and by thy wagon-wheel
-Trot like a servile footman all day long,
-Even from Hyperion’s rising in the east,
-Until his very downfall in the sea;
-And day by day I’ll do this heavy task,
-So thou destroy Rapine and Murder there.
+==44== Do me some service ere I come to thee.
+==45== Lo by thy side where Rape and Murder stands;
+==46== Now give some surance that thou art Revenge⁠—
+==47== Stab them, or tear them on thy chariot-wheels,
+==48== And then I’ll come and be thy wagoner,
+==49== And whirl along with thee about the globes.
+==50== Provide thee two proper palfreys, black as jet,
+==51== To hale thy vengeful wagon swift away,
+==52== And find out murderers in their guilty caves;
+==53== And when thy car is loaden with their heads,
+==54== I will dismount, and by thy wagon-wheel
+==55== Trot like a servile footman all day long,
+==56== Even from Hyperion’s rising in the east,
+==57== Until his very downfall in the sea;
+==58== And day by day I’ll do this heavy task,
+==59== So thou destroy Rapine and Murder there.
 
 **TAM.**
-These are my ministers, and come with me.
+==60== These are my ministers, and come with me.
 
 **TIT.**
-Are they thy ministers? What are they call’d?
+==61== Are they thy ministers? What are they call’d?
 
 **TAM.**
-Rape and Murder, therefore called so
-’Cause they take vengeance of such kind of men.
+==62== Rape and Murder, therefore called so
+==63== ’Cause they take vengeance of such kind of men.
 
 **TIT.**
-Good Lord, how like the Empress’ sons they are!
-And you, the Empress! But we wordly men
-Have miserable, mad, mistaking eyes.
-O sweet Revenge, now do I come to thee,
-And if one arm’s embracement will content thee,
-I will embrace thee in it by and by.
+==64== Good Lord, how like the Empress’ sons they are!
+==65== And you, the Empress! But we wordly men
+==66== Have miserable, mad, mistaking eyes.
+==67== O sweet Revenge, now do I come to thee,
+==68== And if one arm’s embracement will content thee,
+==69== I will embrace thee in it by and by.
 
 *Exit above.*
 
 **TAM.**
-This closing with him fits his lunacy.
-What e’er I forge to feed his brain-sick humors,
-Do you uphold and maintain in your speeches,
-For now he firmly takes me for Revenge,
-And being credulous in this mad thought,
-I’ll make him send for Lucius his son;
-And whilst I at a banquet hold him sure,
-I’ll find some cunning practice out of hand,
-To scatter and disperse the giddy Goths,
-Or at the least make them his enemies.
-See here he comes, and I must ply my theme.
+==70== This closing with him fits his lunacy.
+==71== What e’er I forge to feed his brain-sick humors,
+==72== Do you uphold and maintain in your speeches,
+==73== For now he firmly takes me for Revenge,
+==74== And being credulous in this mad thought,
+==75== I’ll make him send for Lucius his son;
+==76== And whilst I at a banquet hold him sure,
+==77== I’ll find some cunning practice out of hand,
+==78== To scatter and disperse the giddy Goths,
+==79== Or at the least make them his enemies.
+==80== See here he comes, and I must ply my theme.
 
 *Enter Titus below.*
 
 **TIT.**
-Long have I been forlorn, and all for thee.
-Welcome, dread Fury, to my woeful house;
-Rapine and Murder, you are welcome too.
-How like the Empress and her sons you are!
-Well are you fitted, had you but a Moor.
-Could not all hell afford you such a devil?
-For well I wot the Empress never wags
-But in her company there is a Moor;
-And would you represent our queen aright,
-It were convenient you had such a devil.
-But welcome as you are: what shall we do?
+==81== Long have I been forlorn, and all for thee.
+==82== Welcome, dread Fury, to my woeful house;
+==83== Rapine and Murder, you are welcome too.
+==84== How like the Empress and her sons you are!
+==85== Well are you fitted, had you but a Moor.
+==86== Could not all hell afford you such a devil?
+==87== For well I wot the Empress never wags
+==88== But in her company there is a Moor;
+==89== And would you represent our queen aright,
+==90== It were convenient you had such a devil.
+==91== But welcome as you are: what shall we do?
 
 **TAM.**
-What wouldst thou have us do, Andronicus?
+==92== What wouldst thou have us do, Andronicus?
 
 **DEM.**
-Show me a murderer, I’ll deal with him.
+==93== Show me a murderer, I’ll deal with him.
 
 **CHI.**
-Show me a villain that hath done a rape,
-And I am sent to be reveng’d on him.
+==94== Show me a villain that hath done a rape,
+==95== And I am sent to be reveng’d on him.
 
 **TAM.**
-Show me a thousand that hath done thee wrong,
-And I will be revenged on them all.
+==96== Show me a thousand that hath done thee wrong,
+==97== And I will be revenged on them all.
 
 **TIT.**
-Look round about the wicked streets of Rome,
-And when thou find’st a man that’s like thyself,
-Good Murder, stab him, he’s a murderer.
-Go thou with him, and when it is thy hap
-To find another that is like to thee,
-Good Rapine, stab him, he is a ravisher.
-Go thou with them, and in the Emperor’s court
-There is a queen, attended by a Moor;
-Well shalt thou know her by thine own proportion,
-For up and down she doth resemble thee.
-I pray thee do on them some violent death,
-They have been violent to me and mine.
+==98== Look round about the wicked streets of Rome,
+==99== And when thou find’st a man that’s like thyself,
+==100== Good Murder, stab him, he’s a murderer.
+==101== Go thou with him, and when it is thy hap
+==102== To find another that is like to thee,
+==103== Good Rapine, stab him, he is a ravisher.
+==104== Go thou with them, and in the Emperor’s court
+==105== There is a queen, attended by a Moor;
+==106== Well shalt thou know her by thine own proportion,
+==107== For up and down she doth resemble thee.
+==108== I pray thee do on them some violent death,
+==109== They have been violent to me and mine.
 
 **TAM.**
-Well hast thou lesson’d us, this shall we do.
-But would it please thee, good Andronicus,
-To send for Lucius, thy thrice-valiant son,
-Who leads towards Rome a band of warlike Goths,
-And bid him come and banquet at thy house,
-When he is here, even at thy solemn feast,
-I will bring in the Empress and her sons,
-The Emperor himself and all thy foes,
-And at thy mercy shall they stoop and kneel,
-And on them shalt thou ease thy angry heart.
-What says Andronicus to this device?
+==110== Well hast thou lesson’d us, this shall we do.
+==111== But would it please thee, good Andronicus,
+==112== To send for Lucius, thy thrice-valiant son,
+==113== Who leads towards Rome a band of warlike Goths,
+==114== And bid him come and banquet at thy house,
+==115== When he is here, even at thy solemn feast,
+==116== I will bring in the Empress and her sons,
+==117== The Emperor himself and all thy foes,
+==118== And at thy mercy shall they stoop and kneel,
+==119== And on them shalt thou ease thy angry heart.
+==120== What says Andronicus to this device?
 
 **TIT.**
-Marcus, my brother! ’Tis sad Titus calls.
+==121== Marcus, my brother! ’Tis sad Titus calls.
 *(Enter Marcus.)*
-Go, gentle Marcus, to thy nephew Lucius;
-Thou shalt inquire him out among the Goths:
-Bid him repair to me, and bring with him
-Some of the chiefest princes of the Goths.
-Bid him encamp his soldiers where they are.
-Tell him the Emperor and the Empress too
-Feast at my house, and he shall feast with them.
-This do thou for my love, and so let him,
-As he regards his aged father’s life.
+==122== Go, gentle Marcus, to thy nephew Lucius;
+==123== Thou shalt inquire him out among the Goths:
+==124== Bid him repair to me, and bring with him
+==125== Some of the chiefest princes of the Goths.
+==126== Bid him encamp his soldiers where they are.
+==127== Tell him the Emperor and the Empress too
+==128== Feast at my house, and he shall feast with them.
+==129== This do thou for my love, and so let him,
+==130== As he regards his aged father’s life.
 
 **MARC.**
-This will I do, and soon return again.
+==131== This will I do, and soon return again.
 
 *Exit.*
 
 **TAM.**
-Now will I hence about thy business,
-And take my ministers along with me.
+==132== Now will I hence about thy business,
+==133== And take my ministers along with me.
 
 **TIT.**
-Nay, nay, let Rape and Murder stay with me,
-Or else I’ll call my brother back again,
-And cleave to no revenge but Lucius.
+==134== Nay, nay, let Rape and Murder stay with me,
+==135== Or else I’ll call my brother back again,
+==136== And cleave to no revenge but Lucius.
 
 **TAM.**
 *(Aside to her sons)*
-What say you, boys, will you abide with him,
-Whiles I go tell my lord the Emperor
-How I have govern’d our determin’d jest?
-Yield to his humor, smooth and speak him fair,
-And tarry with him till I turn again.
+==137== What say you, boys, will you abide with him,
+==138== Whiles I go tell my lord the Emperor
+==139== How I have govern’d our determin’d jest?
+==140== Yield to his humor, smooth and speak him fair,
+==141== And tarry with him till I turn again.
 
 **TIT.**
 *(Aside.)*
-I knew them all though they suppos’d me mad,
-And will o’erreach them in their own devices,
-A pair of cursed hell-hounds and their dame.
+==142== I knew them all though they suppos’d me mad,
+==143== And will o’erreach them in their own devices,
+==144== A pair of cursed hell-hounds and their dame.
 
 **DEM.**
-Madam, depart at pleasure, leave us here.
+==145== Madam, depart at pleasure, leave us here.
 
 **TAM.**
-Farewell, Andronicus, Revenge now goes
-To lay a complot to betray thy foes.
+==146== Farewell, Andronicus, Revenge now goes
+==147== To lay a complot to betray thy foes.
 
 **TIT.**
-I know thou dost, and, sweet Revenge, farewell.
+==148== I know thou dost, and, sweet Revenge, farewell.
 
 *Exit Tamora.*
 
 **CHI.**
-Tell us, old man, how shall we be employ’d?
+==149== Tell us, old man, how shall we be employ’d?
 
 **TIT.**
-Tut, I have work enough for you to do.
-Publius, come hither! Caius and Valentine!
+==150== Tut, I have work enough for you to do.
+==151== Publius, come hither! Caius and Valentine!
 
 *Enter Publius, Caius, and Valentine.*
 
 **PUB.**
-What is your will?
+==152== What is your will?
 
 **TIT.**
-Know you these two?
+==153== Know you these two?
 
 **PUB.**
-The Empress’ sons I take them, Chiron, Demetrius.
+==154== The Empress’ sons I take them, Chiron, Demetrius.
 
 **TIT.**
-Fie, Publius, fie, thou art too much deceiv’d.
-The one is Murder, and Rape is the other’s name,
-And therefore bind them, gentle Publius.
-Caius and Valentine, lay hands on them.
-Oft have you heard me wish for such an hour,
-And now I find it, therefore bind them sure,
-And stop their mouths if they begin to cry.
+==155== Fie, Publius, fie, thou art too much deceiv’d.
+==156== The one is Murder, and Rape is the other’s name,
+==157== And therefore bind them, gentle Publius.
+==158== Caius and Valentine, lay hands on them.
+==159== Oft have you heard me wish for such an hour,
+==160== And now I find it, therefore bind them sure,
+==161== And stop their mouths if they begin to cry.
 
 *Exit Titus.*
 
 *Publius, etc., lay hold on Chiron and Demetrius.*
 
 **CHI.**
-Villains, forbear, we are the Empress’ sons.
+==162== Villains, forbear, we are the Empress’ sons.
 
 **PUB.**
-And therefore do we what we are commanded.
-Stop close their mouths, let them not speak a word.
-Is he sure bound? Look that you bind them fast.
+==163== And therefore do we what we are commanded.
+==164== Stop close their mouths, let them not speak a word.
+==165== Is he sure bound? Look that you bind them fast.
 
 *Enter Titus Andronicus with a knife and Lavinia with a basin.*
 
 **TIT.**
-Come, come, Lavinia, look, thy foes are bound.
-Sirs, stop their mouths, let them not speak to me,
-But let them hear what fearful words I utter.
-O villains, Chiron and Demetrius!
-Here stands the spring whom you have stain’d with mud,
-This goodly summer with your winter mix’d.
-You kill’d her husband, and for that vild fault
-Two of her brothers were condemn’d to death,
-My hand cut off and made a merry jest;
-Both her sweet hands, her tongue, and that more dear
-Than hands or tongue, her spotless chastity,
-Inhuman traitors, you constrain’d and forc’d.
-What would you say if I should let you speak?
-Villains, for shame you could not beg for grace.
-Hark, wretches, how I mean to martyr you.
-This one hand yet is left to cut your throats,
-Whiles that Lavinia ’tween her stumps doth hold
-The basin that receives your guilty blood.
-You know your mother means to feast with me,
-And calls herself Revenge, and thinks me mad.
-Hark, villains, I will grind your bones to dust,
-And with your blood and it I’ll make a paste,
-And of the paste a coffin I will rear,
-And make two pasties of your shameful heads,
-And bid that strumpet, your unhallowed dam,
-Like to the earth swallow her own increase.
-This is the feast that I have bid her to,
-And this the banquet she shall surfeit on,
-For worse than Philomel you us’d my daughter,
-And worse than Progne I will be reveng’d.
-And now prepare your throats. Lavinia, come,
-Receive the blood, and when that they are dead,
-Let me go grind their bones to powder small,
-And with this hateful liquor temper it,
-And in that paste let their vile heads be bak’d.
-Come, come, be every one officious
-To make this banquet, which I wish may prove
-More stern and bloody than the Centaurs’ feast.
+==166== Come, come, Lavinia, look, thy foes are bound.
+==167== Sirs, stop their mouths, let them not speak to me,
+==168== But let them hear what fearful words I utter.
+==169== O villains, Chiron and Demetrius!
+==170== Here stands the spring whom you have stain’d with mud,
+==171== This goodly summer with your winter mix’d.
+==172== You kill’d her husband, and for that vild fault
+==173== Two of her brothers were condemn’d to death,
+==174== My hand cut off and made a merry jest;
+==175== Both her sweet hands, her tongue, and that more dear
+==176== Than hands or tongue, her spotless chastity,
+==177== Inhuman traitors, you constrain’d and forc’d.
+==178== What would you say if I should let you speak?
+==179== Villains, for shame you could not beg for grace.
+==180== Hark, wretches, how I mean to martyr you.
+==181== This one hand yet is left to cut your throats,
+==182== Whiles that Lavinia ’tween her stumps doth hold
+==183== The basin that receives your guilty blood.
+==184== You know your mother means to feast with me,
+==185== And calls herself Revenge, and thinks me mad.
+==186== Hark, villains, I will grind your bones to dust,
+==187== And with your blood and it I’ll make a paste,
+==188== And of the paste a coffin I will rear,
+==189== And make two pasties of your shameful heads,
+==190== And bid that strumpet, your unhallowed dam,
+==191== Like to the earth swallow her own increase.
+==192== This is the feast that I have bid her to,
+==193== And this the banquet she shall surfeit on,
+==194== For worse than Philomel you us’d my daughter,
+==195== And worse than Progne I will be reveng’d.
+==196== And now prepare your throats. Lavinia, come,
+==197== Receive the blood, and when that they are dead,
+==198== Let me go grind their bones to powder small,
+==199== And with this hateful liquor temper it,
+==200== And in that paste let their vile heads be bak’d.
+==201== Come, come, be every one officious
+==202== To make this banquet, which I wish may prove
+==203== More stern and bloody than the Centaurs’ feast.
 *(He cuts their throats.)*
-So now bring them in, for I’ll play the cook,
-And see them ready against their mother comes.
+==204== So now bring them in, for I’ll play the cook,
+==205== And see them ready against their mother comes.
 
 *Exeunt bearing the dead bodies.*
 

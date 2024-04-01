@@ -20,182 +20,182 @@ ID: macbeth-4-2
 *Enter Macduff’s Wife, her Son, and Rosse.*
 
 **L. MACD.**
-What had he done, to make him fly the land?
+==1== What had he done, to make him fly the land?
 
 **ROSSE.**
-You must have patience, madam.
+==2== You must have patience, madam.
 
 **L. MACD.**
-                  He had none;
-His flight was madness. When our actions do not,
-Our fears do make us traitors.
+==2==                   He had none;
+==3== His flight was madness. When our actions do not,
+==4== Our fears do make us traitors.
 
 **ROSSE.**
-                You know not
-Whether it was his wisdom or his fear.
+==4==                 You know not
+==5== Whether it was his wisdom or his fear.
 
 **L. MACD.**
-Wisdom? To leave his wife, to leave his babes,
-His mansion and his titles, in a place
-From whence himself does fly? He loves us not,
-He wants the natural touch; for the poor wren,
-The most diminutive of birds, will fight,
-Her young ones in her nest, against the owl.
-All is the fear, and nothing is the love;
-As little is the wisdom, where the flight
-So runs against all reason.
+==6== Wisdom? To leave his wife, to leave his babes,
+==7== His mansion and his titles, in a place
+==8== From whence himself does fly? He loves us not,
+==9== He wants the natural touch; for the poor wren,
+==10== The most diminutive of birds, will fight,
+==11== Her young ones in her nest, against the owl.
+==12== All is the fear, and nothing is the love;
+==13== As little is the wisdom, where the flight
+==14== So runs against all reason.
 
 **ROSSE.**
-              My dearest coz,
-I pray you school yourself. But for your husband,
-He is noble, wise, judicious, and best knows
-The fits o’ th’ season. I dare not speak much further,
-But cruel are the times when we are traitors,
-And do not know ourselves; when we hold rumor
-From what we fear, yet know not what we fear,
-But float upon a wild and violent sea
-Each way, and move. I take my leave of you;
-’Shall not be long but I’ll be here again.
-Things at the worst will cease, or else climb upward
-To what they were before. My pretty cousin,
-Blessing upon you!
+==14==               My dearest coz,
+==15== I pray you school yourself. But for your husband,
+==16== He is noble, wise, judicious, and best knows
+==17== The fits o’ th’ season. I dare not speak much further,
+==18== But cruel are the times when we are traitors,
+==19== And do not know ourselves; when we hold rumor
+==20== From what we fear, yet know not what we fear,
+==21== But float upon a wild and violent sea
+==22== Each way, and move. I take my leave of you;
+==23== ’Shall not be long but I’ll be here again.
+==24== Things at the worst will cease, or else climb upward
+==25== To what they were before. My pretty cousin,
+==26== Blessing upon you!
 
 **L. MACD.**
-Father’d he is, and yet he’s fatherless.
+==27== Father’d he is, and yet he’s fatherless.
 
 **ROSSE.**
-I am so much a fool, should I stay longer,
-It would be my disgrace and your discomfort.
-I take my leave at once.
+==28== I am so much a fool, should I stay longer,
+==29== It would be my disgrace and your discomfort.
+==30== I take my leave at once.
 
 *Exit Rosse.*
 
 **L. MACD.**
-              Sirrah, your father’s dead,
-And what will you do now? How will you live?
+==30==               Sirrah, your father’s dead,
+==31== And what will you do now? How will you live?
 
 **SON.**
-As birds do, mother.
+==32== As birds do, mother.
 
 **L. MACD.**
-           What, with worms and flies?
+==32==            What, with worms and flies?
 
 **SON.**
-With what I get, I mean, and so do they.
+==33== With what I get, I mean, and so do they.
 
 **L. MACD.**
-Poor bird, thou’dst never fear the net nor lime,
-The pitfall nor the gin.
+==34== Poor bird, thou’dst never fear the net nor lime,
+==35== The pitfall nor the gin.
 
 **SON.**
-Why should I, mother? Poor birds they are not set for.
-My father is not dead, for all your saying.
+==36== Why should I, mother? Poor birds they are not set for.
+==37== My father is not dead, for all your saying.
 
 **L. MACD.**
-Yes, he is dead. How wilt thou do for a father?
+==38== Yes, he is dead. How wilt thou do for a father?
 
 **SON.**
-Nay, how will you do for a husband?
+==39== Nay, how will you do for a husband?
 
 **L. MACD.**
-Why, I can buy me twenty at any market.
+==40== Why, I can buy me twenty at any market.
 
 **SON.**
-Then you’ll buy ’em to sell again.
+==41== Then you’ll buy ’em to sell again.
 
 **L. MACD.**
-Thou speak’st with all thy wit, and yet, i’ faith,
-With wit enough for thee.
+==42== Thou speak’st with all thy wit, and yet, i’ faith,
+==43== With wit enough for thee.
 
 **SON.**
-Was my father a traitor, mother?
+==44== Was my father a traitor, mother?
 
 **L. MACD.**
-Ay, that he was.
+==45== Ay, that he was.
 
 **SON.**
-What is a traitor?
+==46== What is a traitor?
 
 **L. MACD.**
-Why, one that swears and lies.
+==47== Why, one that swears and lies.
 
 **SON.**
-And be all traitors that do so?
+==48== And be all traitors that do so?
 
 **L. MACD.**
-Every one that does so is a traitor, and must be hang’d.
+==49== Every one that does so is a traitor, and must be hang’d.
 
 **SON.**
-And must they all be hang’d that swear and lie?
+==50== And must they all be hang’d that swear and lie?
 
 **L. MACD.**
-Every one.
+==51== Every one.
 
 **SON.**
-Who must hang them?
+==52== Who must hang them?
 
 **L. MACD.**
-Why, the honest men.
+==53== Why, the honest men.
 
 **SON.**
-Then the liars and swearers are fools; for there are liars and swearers enow to beat the honest men and hang up them.
+==54== Then the liars and swearers are fools; for there are liars and swearers enow to beat the honest men and hang up them.
 
 **L. MACD.**
-Now God help thee, poor monkey! But how wilt thou do for a father?
+==55== Now God help thee, poor monkey! But how wilt thou do for a father?
 
 **SON.**
-If he were dead, you’ld weep for him; if you would not, it were a good sign that I should quickly have a new father.
+==56== If he were dead, you’ld weep for him; if you would not, it were a good sign that I should quickly have a new father.
 
 **L. MACD.**
-Poor prattler, how thou talk’st!
+==57== Poor prattler, how thou talk’st!
 
 *Enter a Messenger.*
 
 **MESS.**
-Bless you, fair dame! I am not to you known,
-Though in your state of honor I am perfect.
-I doubt some danger does approach you nearly.
-If you will take a homely man’s advice,
-Be not found here; hence with your little ones.
-To fright you thus, methinks I am too savage;
-To do worse to you were fell cruelty,
-Which is too nigh your person. Heaven preserve you!
-I dare abide no longer.
+==58== Bless you, fair dame! I am not to you known,
+==59== Though in your state of honor I am perfect.
+==60== I doubt some danger does approach you nearly.
+==61== If you will take a homely man’s advice,
+==62== Be not found here; hence with your little ones.
+==63== To fright you thus, methinks I am too savage;
+==64== To do worse to you were fell cruelty,
+==65== Which is too nigh your person. Heaven preserve you!
+==66== I dare abide no longer.
 
 *Exit Messenger.*
 
 **L. MACD.**
-              Whither should I fly?
-I have done no harm. But I remember now
-I am in this earthly world—where to do harm
-Is often laudable, to do good sometime
-Accounted dangerous folly. Why then, alas,
-Do I put up that womanly defense,
-To say I have done no harm?
+==66==               Whither should I fly?
+==67== I have done no harm. But I remember now
+==68== I am in this earthly world—where to do harm
+==69== Is often laudable, to do good sometime
+==70== Accounted dangerous folly. Why then, alas,
+==71== Do I put up that womanly defense,
+==72== To say I have done no harm?
 *(Enter Murderers.)*
-                What are these faces?
+==72==                 What are these faces?
 
 **1. MUR.**
-Where is your husband?
+==73== Where is your husband?
 
 **L. MACD.**
-I hope, in no place so unsanctified
-Where such as thou mayst find him.
+==74== I hope, in no place so unsanctified
+==75== Where such as thou mayst find him.
 
 **1. MUR.**
-                     He’s a traitor.
+==75==                      He’s a traitor.
 
 **SON.**
-Thou li’st, thou shag-ear’d villain!
+==76== Thou li’st, thou shag-ear’d villain!
 
 **1. MUR.**
-                  What, you egg!
+==76==                   What, you egg!
 *(Stabbing him.)*
-Young fry of treachery!
+==77== Young fry of treachery!
 
 **SON.**
-              He has kill’d me, mother:
-Run away, I pray you!
+==77==               He has kill’d me, mother:
+==78== Run away, I pray you!
 
 *Dies.*
 

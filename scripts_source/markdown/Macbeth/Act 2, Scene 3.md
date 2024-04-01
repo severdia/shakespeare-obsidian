@@ -20,284 +20,284 @@ ID: macbeth-2-3
 *Enter a Porter. Knocking within.*
 
 **PORT.**
-Here’s a knocking indeed! If a man were porter of Hell Gate, he should have old turning the key.
+==1== Here’s a knocking indeed! If a man were porter of Hell Gate, he should have old turning the key.
 *(Knock.)*
-Knock, knock, knock! Who’s there, i’ th’ name of Beelzebub? Here’s a farmer, that hang’d himself on th’ expectation of plenty. Come in time! Have napkins enow about you, here you’ll sweat for’t.
+==2== Knock, knock, knock! Who’s there, i’ th’ name of Beelzebub? Here’s a farmer, that hang’d himself on th’ expectation of plenty. Come in time! Have napkins enow about you, here you’ll sweat for’t.
 *(Knock.)*
-Knock, knock! Who’s there, in th’ other devil’s name? Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven. O, come in, equivocator.
+==3== Knock, knock! Who’s there, in th’ other devil’s name? Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven. O, come in, equivocator.
 *(Knock.)*
-Knock, knock, knock! Who’s there? Faith, here’s an English tailor come hither for stealing out of a French hose. Come in, tailor, here you may roast your goose.
+==4== Knock, knock, knock! Who’s there? Faith, here’s an English tailor come hither for stealing out of a French hose. Come in, tailor, here you may roast your goose.
 *(Knock.)*
-Knock, knock! Never at quiet! What are you? But this place is too cold for hell. I’ll devil—porter it no further. I had thought to have let in some of all professions that go the primrose way to th’ everlasting bonfire.
+==5== Knock, knock! Never at quiet! What are you? But this place is too cold for hell. I’ll devil—porter it no further. I had thought to have let in some of all professions that go the primrose way to th’ everlasting bonfire.
 *(Knock.)*
-Anon, anon!
+==6== Anon, anon!
 *(Opens the gate.)*
-I pray you remember the porter.
+==7== I pray you remember the porter.
 
 *Enter Macduff and Lennox.*
 
 **MACD.**
-Was it so late, friend, ere you went to bed,
-That you do lie so late?
+==8== Was it so late, friend, ere you went to bed,
+==9== That you do lie so late?
 
 **PORT.**
-Faith, sir, we were carousing till the second cock; and drink, sir, is a great provoker of three things.
+==10== Faith, sir, we were carousing till the second cock; and drink, sir, is a great provoker of three things.
 
 **MACD.**
-What three things does drink especially provoke?
+==11== What three things does drink especially provoke?
 
 **PORT.**
-Marry, sir, nose-painting, sleep, and urine. Lechery, sir, it provokes, and unprovokes: it provokes the desire, but it takes away the performance. Therefore much drink may be said to be an equivocator with lechery: it makes him, and it mars him; it sets him on, and it takes him off; it persuades him, and disheartens him; makes him stand to, and not stand to; in conclusion, equivocates him in a sleep, and giving him the lie, leaves him.
+==12== Marry, sir, nose-painting, sleep, and urine. Lechery, sir, it provokes, and unprovokes: it provokes the desire, but it takes away the performance. Therefore much drink may be said to be an equivocator with lechery: it makes him, and it mars him; it sets him on, and it takes him off; it persuades him, and disheartens him; makes him stand to, and not stand to; in conclusion, equivocates him in a sleep, and giving him the lie, leaves him.
 
 **MACD.**
-I believe drink gave thee the lie last night.
+==13== I believe drink gave thee the lie last night.
 
 **PORT.**
-That it did, sir, i’ the very throat on me; but I requited him for his lie, and (I think) being too strong for him, though he took up my legs sometime, yet I made a shift to cast him.
+==14== That it did, sir, i’ the very throat on me; but I requited him for his lie, and (I think) being too strong for him, though he took up my legs sometime, yet I made a shift to cast him.
 
 **MACD.**
-Is thy master stirring?
+==15== Is thy master stirring?
 *(Enter Macbeth.)*
-Our knocking has awak’d him; here he comes.
+==16== Our knocking has awak’d him; here he comes.
 
 **LEN.**
-Good morrow, noble sir.
+==17== Good morrow, noble sir.
 
 **MACB.**
-              Good morrow, both.
+==17==               Good morrow, both.
 
 **MACD.**
-Is the King stirring, worthy thane?
+==18== Is the King stirring, worthy thane?
 
 **MACB.**
-                  Not yet.
+==18==                   Not yet.
 
 **MACD.**
-He did command me to call timely on him,
-I have almost slipp’d the hour.
+==19== He did command me to call timely on him,
+==20== I have almost slipp’d the hour.
 
 **MACB.**
-                I’ll bring you to him.
+==20==                 I’ll bring you to him.
 
 **MACD.**
-I know this is a joyful trouble to you;
-But yet ’tis one.
+==21== I know this is a joyful trouble to you;
+==22== But yet ’tis one.
 
 **MACB.**
-The labor we delight in physics pain.
-This is the door.
+==23== The labor we delight in physics pain.
+==24== This is the door.
 
 **MACD.**
-           I’ll make so bold to call,
-For ’tis my limited service.
+==24==            I’ll make so bold to call,
+==25== For ’tis my limited service.
 
 *Exit Macduff.*
 
 **LEN.**
-Goes the King hence today?
+==26== Goes the King hence today?
 
 **MACB.**
-                He does; he did appoint so.
+==26==                 He does; he did appoint so.
 
 **LEN.**
-The night has been unruly. Where we lay,
-Our chimneys were blown down, and (as they say) 
-Lamentings heard i’ th’ air; strange screams of death,
-And prophesying, with accents terrible,
-Of dire combustion and confus’d events
-New hatch’d to th’ woeful time. The obscure bird
-Clamor’d the livelong night. Some say, the earth
-Was feverous, and did shake.
+==27== The night has been unruly. Where we lay,
+==28== Our chimneys were blown down, and (as they say) 
+==29== Lamentings heard i’ th’ air; strange screams of death,
+==30== And prophesying, with accents terrible,
+==31== Of dire combustion and confus’d events
+==32== New hatch’d to th’ woeful time. The obscure bird
+==33== Clamor’d the livelong night. Some say, the earth
+==34== Was feverous, and did shake.
 
 **MACB.**
-                ’Twas a rough night.
+==34==                 ’Twas a rough night.
 
 **LEN.**
-My young remembrance cannot parallel
-A fellow to it.
+==35== My young remembrance cannot parallel
+==36== A fellow to it.
 
 *Enter Macduff.*
 
 **MACD.**
-O horror, horror, horror! Tongue nor heart
-Cannot conceive nor name thee!
+==37== O horror, horror, horror! Tongue nor heart
+==38== Cannot conceive nor name thee!
 
 **MACB. AND LEN.**
-                  What’s the matter?
+==38==                   What’s the matter?
 
 **MACD.**
-Confusion now hath made his masterpiece!
-Most sacrilegious murder hath broke ope
-The Lord’s anointed temple, and stole thence
-The life o’ th’ building!
+==39== Confusion now hath made his masterpiece!
+==40== Most sacrilegious murder hath broke ope
+==41== The Lord’s anointed temple, and stole thence
+==42== The life o’ th’ building!
 
 **MACB.**
-              What is’t you say—the life?
+==42==               What is’t you say—the life?
 
 **LEN.**
-Mean you his Majesty?
+==43== Mean you his Majesty?
 
 **MACD.**
-Approach the chamber, and destroy your sight
-With a new Gorgon. Do not bid me speak;
-See, and then speak yourselves.
+==44== Approach the chamber, and destroy your sight
+==45== With a new Gorgon. Do not bid me speak;
+==46== See, and then speak yourselves.
 *(Exeunt Macbeth and Lennox.)*
-                  Awake, awake!
-Ring the alarum-bell! Murder and treason!
-Banquo and Donalbain! Malcolm, awake!
-Shake off this downy sleep, death’s counterfeit,
-And look on death itself! Up, up, and see
-The great doom’s image! Malcolm! Banquo!
-As from your graves rise up, and walk like sprites,
-To countenance this horror! Ring the bell.
+==46==                   Awake, awake!
+==47== Ring the alarum-bell! Murder and treason!
+==48== Banquo and Donalbain! Malcolm, awake!
+==49== Shake off this downy sleep, death’s counterfeit,
+==50== And look on death itself! Up, up, and see
+==51== The great doom’s image! Malcolm! Banquo!
+==52== As from your graves rise up, and walk like sprites,
+==53== To countenance this horror! Ring the bell.
 
 *Bell rings.*
 
 *Enter Lady Macbeth.*
 
 **L. MACB.**
-What’s the business,
-That such a hideous trumpet calls to parley
-The sleepers of the house? Speak, speak!
+==54== What’s the business,
+==55== That such a hideous trumpet calls to parley
+==56== The sleepers of the house? Speak, speak!
 
 **MACD.**
-                     O gentle lady,
-’Tis not for you to hear what I can speak:
-The repetition in a woman’s ear
-Would murder as it fell.
+==56==                      O gentle lady,
+==57== ’Tis not for you to hear what I can speak:
+==58== The repetition in a woman’s ear
+==59== Would murder as it fell.
 *(Enter Banquo.)*
-              O Banquo, Banquo,
-Our royal master’s murder’d!
+==59==               O Banquo, Banquo,
+==60== Our royal master’s murder’d!
 
 **L. MACB.**
-                Woe, alas!
-What, in our house?
+==60==                 Woe, alas!
+==61== What, in our house?
 
 **BAN.**
-           Too cruel any where.
-Dear Duff, I prithee contradict thyself,
-And say, it is not so.
+==61==            Too cruel any where.
+==62== Dear Duff, I prithee contradict thyself,
+==63== And say, it is not so.
 
 *Enter Macbeth, Lennox, Rosse.*
 
 **MACB.**
-Had I but died an hour before this chance,
-I had liv’d a blessed time; for from this instant
-There’s nothing serious in mortality:
-All is but toys: renown and grace is dead,
-The wine of life is drawn, and the mere lees
-Is left this vault to brag of.
+==64== Had I but died an hour before this chance,
+==65== I had liv’d a blessed time; for from this instant
+==66== There’s nothing serious in mortality:
+==67== All is but toys: renown and grace is dead,
+==68== The wine of life is drawn, and the mere lees
+==69== Is left this vault to brag of.
 
 *Enter Malcolm and Donalbain.*
 
 **DON.**
-What is amiss?
+==70== What is amiss?
 
 **MACB.**
-        You are, and do not know’t.
-The spring, the head, the fountain of your blood
-Is stopp’d, the very source of it is stopp’d.
+==70==         You are, and do not know’t.
+==71== The spring, the head, the fountain of your blood
+==72== Is stopp’d, the very source of it is stopp’d.
 
 **MACD.**
-Your royal father’s murder’d.
+==73== Your royal father’s murder’d.
 
 **MAL.**
-                O, by whom?
+==73==                 O, by whom?
 
 **LEN.**
-Those of his chamber, as it seem’d, had done’t.
-Their hands and faces were all badg’d with blood;
-So were their daggers, which unwip’d we found
-Upon their pillows. They star’d and were distracted;
-No man’s life was to be trusted with them.
+==74== Those of his chamber, as it seem’d, had done’t.
+==75== Their hands and faces were all badg’d with blood;
+==76== So were their daggers, which unwip’d we found
+==77== Upon their pillows. They star’d and were distracted;
+==78== No man’s life was to be trusted with them.
 
 **MACB.**
-O, yet I do repent me of my fury,
-That I did kill them.
+==79== O, yet I do repent me of my fury,
+==80== That I did kill them.
 
 **MACD.**
-           Wherefore did you so?
+==80==            Wherefore did you so?
 
 **MACB.**
-Who can be wise, amaz’d, temp’rate, and furious,
-Loyal, and neutral, in a moment? No man.
-Th’ expedition of my violent love
-Outrun the pauser, reason. Here lay Duncan,
-His silver skin lac’d with his golden blood,
-And his gash’d stabs look’d like a breach in nature
-For ruin’s wasteful entrance; there, the murderers,
-Steep’d in the colors of their trade, their daggers
-Unmannerly breech’d with gore. Who could refrain,
-That had a heart to love, and in that heart
-Courage to make ’s love known?
+==81== Who can be wise, amaz’d, temp’rate, and furious,
+==82== Loyal, and neutral, in a moment? No man.
+==83== Th’ expedition of my violent love
+==84== Outrun the pauser, reason. Here lay Duncan,
+==85== His silver skin lac’d with his golden blood,
+==86== And his gash’d stabs look’d like a breach in nature
+==87== For ruin’s wasteful entrance; there, the murderers,
+==88== Steep’d in the colors of their trade, their daggers
+==89== Unmannerly breech’d with gore. Who could refrain,
+==90== That had a heart to love, and in that heart
+==91== Courage to make ’s love known?
 
 **L. MACB.**
-                  Help me hence, ho!
+==91==                   Help me hence, ho!
 
 **MACD.**
-Look to the lady.
+==92== Look to the lady.
 
 **MAL.**
 *(Aside to Donalbain)*
-           Why do we hold our tongues,
-That most may claim this argument for ours?
+==92==            Why do we hold our tongues,
+==93== That most may claim this argument for ours?
 
 **DON.**
 *(Aside to Malcolm)*
-What should be spoken here, where our fate,
-Hid in an auger-hole, may rush and seize us?
-Let’s away,
-Our tears are not yet brew’d.
+==94== What should be spoken here, where our fate,
+==95== Hid in an auger-hole, may rush and seize us?
+==96== Let’s away,
+==97== Our tears are not yet brew’d.
 
 **MAL.**
 *(Aside to Donalbain)*
-                Nor our strong sorrow
-Upon the foot of motion.
+==97==                 Nor our strong sorrow
+==98== Upon the foot of motion.
 
 **BAN.**
-              Look to the lady.
+==98==               Look to the lady.
 *(Lady Macbeth is carried out.)*
-And when we have our naked frailties hid,
-That suffer in exposure, let us meet
-And question this most bloody piece of work,
-To know it further. Fears and scruples shake us.
-In the great hand of God I stand, and thence
-Against the undivulg’d pretense I fight
-Of treasonous malice.
+==99== And when we have our naked frailties hid,
+==100== That suffer in exposure, let us meet
+==101== And question this most bloody piece of work,
+==102== To know it further. Fears and scruples shake us.
+==103== In the great hand of God I stand, and thence
+==104== Against the undivulg’d pretense I fight
+==105== Of treasonous malice.
 
 **MACD.**
-           And so do I.
+==105==            And so do I.
 
 **ALL.**
-                  So all.
+==105==                   So all.
 
 **MACB.**
-Let’s briefly put on manly readiness,
-And meet i’ th’ hall together.
+==106== Let’s briefly put on manly readiness,
+==107== And meet i’ th’ hall together.
 
 **ALL.**
-                Well contented.
+==107==                 Well contented.
 
 *Exeunt all but Malcolm and Donalbain.*
 
 **MAL.**
-What will you do? Let’s not consort with them;
-To show an unfelt sorrow is an office
-Which the false man does easy. I’ll to England.
+==108== What will you do? Let’s not consort with them;
+==109== To show an unfelt sorrow is an office
+==110== Which the false man does easy. I’ll to England.
 
 **DON.**
-To Ireland, I; our separated fortune
-Shall keep us both the safer. Where we are,
-There’s daggers in men’s smiles; the near in blood,
-The nearer bloody.
+==111== To Ireland, I; our separated fortune
+==112== Shall keep us both the safer. Where we are,
+==113== There’s daggers in men’s smiles; the near in blood,
+==114== The nearer bloody.
 
 **MAL.**
-           This murderous shaft that’s shot
-Hath not yet lighted, and our safest way
-Is to avoid the aim. Therefore to horse,
-And let us not be dainty of leave-taking,
-But shift away. There’s warrant in that theft
-Which steals itself, when there’s no mercy left.
+==114==            This murderous shaft that’s shot
+==115== Hath not yet lighted, and our safest way
+==116== Is to avoid the aim. Therefore to horse,
+==117== And let us not be dainty of leave-taking,
+==118== But shift away. There’s warrant in that theft
+==119== Which steals itself, when there’s no mercy left.
 
 *Exeunt.*
 

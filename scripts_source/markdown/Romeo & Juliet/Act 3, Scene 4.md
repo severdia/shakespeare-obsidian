@@ -22,58 +22,58 @@ ID: romeo-and-juliet-3-4
 *Enter old Capulet, his Wife, and Paris.*
 
 **CAP.**
-Things have fall’n out, sir, so unluckily
-That we have had no time to move our daughter.
-Look you, she lov’d her kinsman Tybalt dearly,
-And so did I. Well, we were born to die.
-’Tis very late, she’ll not come down tonight.
-I promise you, but for your company,
-I would have been a-bed an hour ago.
+==1== Things have fall’n out, sir, so unluckily
+==2== That we have had no time to move our daughter.
+==3== Look you, she lov’d her kinsman Tybalt dearly,
+==4== And so did I. Well, we were born to die.
+==5== ’Tis very late, she’ll not come down tonight.
+==6== I promise you, but for your company,
+==7== I would have been a-bed an hour ago.
 
 **PAR.**
-These times of woe afford no times to woo.
-Madam, good night, commend me to your daughter.
+==8== These times of woe afford no times to woo.
+==9== Madam, good night, commend me to your daughter.
 
 **L. CAP.**
-I will, and know her mind early tomorrow;
-Tonight she’s mewed up to her heaviness.
+==10== I will, and know her mind early tomorrow;
+==11== Tonight she’s mewed up to her heaviness.
 
 *Paris offers to go in, and Capulet calls him again.*
 
 **CAP.**
-Sir Paris, I will make a desperate tender
-Of my child’s love. I think she will be rul’d
-In all respects by me; nay more, I doubt it not.
-Wife, go you to her ere you go to bed,
-Acquaint her here of my son Paris’ love,
-And bid her—mark you me?—on We’n’sday next⁠—
-But soft, what day is this?
+==12== Sir Paris, I will make a desperate tender
+==13== Of my child’s love. I think she will be rul’d
+==14== In all respects by me; nay more, I doubt it not.
+==15== Wife, go you to her ere you go to bed,
+==16== Acquaint her here of my son Paris’ love,
+==17== And bid her—mark you me?—on We’n’sday next⁠—
+==18== But soft, what day is this?
 
 **PAR.**
-              Monday, my lord.
+==18==               Monday, my lord.
 
 **CAP.**
-Monday! Ha, ha! Well, We’n’sday is too soon,
-A’ Thursday let it be—a’ Thursday, tell her,
-She shall be married to this noble earl.
-Will you be ready? Do you like this haste?
-We’ll keep no great ado—a friend or two,
-For hark you, Tybalt being slain so late,
-It may be thought we held him carelessly,
-Being our kinsman, if we revel much:
-Therefore we’ll have some half a dozen friends,
-And there an end. But what say you to Thursday?
+==19== Monday! Ha, ha! Well, We’n’sday is too soon,
+==20== A’ Thursday let it be—a’ Thursday, tell her,
+==21== She shall be married to this noble earl.
+==22== Will you be ready? Do you like this haste?
+==23== We’ll keep no great ado—a friend or two,
+==24== For hark you, Tybalt being slain so late,
+==25== It may be thought we held him carelessly,
+==26== Being our kinsman, if we revel much:
+==27== Therefore we’ll have some half a dozen friends,
+==28== And there an end. But what say you to Thursday?
 
 **PAR.**
-My lord, I would that Thursday were tomorrow.
+==29== My lord, I would that Thursday were tomorrow.
 
 **CAP.**
-Well, get you gone, a’ Thursday be it then.⁠—
-Go you to Juliet ere you go to bed,
-Prepare her, wife, against this wedding-day.
-Farewell, my lord. Light to my chamber ho!
-Afore me, it is so very late that we
-May call it early by and by. Good night.
+==30== Well, get you gone, a’ Thursday be it then.⁠—
+==31== Go you to Juliet ere you go to bed,
+==32== Prepare her, wife, against this wedding-day.
+==33== Farewell, my lord. Light to my chamber ho!
+==34== Afore me, it is so very late that we
+==35== May call it early by and by. Good night.
 
 *Exeunt.*
 

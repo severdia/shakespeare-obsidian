@@ -19,51 +19,51 @@ ID: antony-and-cleopatra-4-5
 *Trumpets sound. Enter Antony and Eros, Scarus meeting them.*
 
 **SCAR.**
-The gods make this a happy day to Antony!
+==1== The gods make this a happy day to Antony!
 
 **ANT.**
-Would thou and those thy scars had once prevail’d
-To make me fight at land!
+==2== Would thou and those thy scars had once prevail’d
+==3== To make me fight at land!
 
 **SCAR.**
-              Hadst thou done so,
-The kings that have revolted, and the soldier
-That has this morning left thee, would have still
-Followed thy heels.
+==3==               Hadst thou done so,
+==4== The kings that have revolted, and the soldier
+==5== That has this morning left thee, would have still
+==6== Followed thy heels.
 
 **ANT.**
-           Who’s gone this morning?
+==6==            Who’s gone this morning?
 
 **SCAR.**
-                       Who?
-One ever near thee. Call for Enobarbus,
-He shall not hear thee, or from Caesar’s camp
-Say “I am none of thine.”
+==6==                        Who?
+==7== One ever near thee. Call for Enobarbus,
+==8== He shall not hear thee, or from Caesar’s camp
+==9== Say “I am none of thine.”
 
 **ANT.**
-              What sayest thou?
+==9==               What sayest thou?
 
 **SCAR.**
-                         Sir,
-He is with Caesar.
+==9==                          Sir,
+==10== He is with Caesar.
 
 **EROS.**
-           Sir, his chests and treasure
-He has not with him.
+==10==            Sir, his chests and treasure
+==11== He has not with him.
 
 **ANT.**
-           Is he gone?
+==11==            Is he gone?
 
 **SCAR.**
-                  Most certain.
+==11==                   Most certain.
 
 **ANT.**
-Go, Eros, send his treasure after; do it,
-Detain no jot, I charge thee. Write to him
-(I will subscribe) gentle *adieus* and greetings;
-Say that I wish he never find more cause
-To change a master. O, my fortunes have
-Corrupted honest men! Dispatch. Enobarbus!
+==12== Go, Eros, send his treasure after; do it,
+==13== Detain no jot, I charge thee. Write to him
+==14== (I will subscribe) gentle *adieus* and greetings;
+==15== Say that I wish he never find more cause
+==16== To change a master. O, my fortunes have
+==17== Corrupted honest men! Dispatch. Enobarbus!
 
 *Exeunt.*
 

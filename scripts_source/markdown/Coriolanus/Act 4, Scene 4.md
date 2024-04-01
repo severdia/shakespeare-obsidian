@@ -19,50 +19,50 @@ ID: coriolanus-4-4
 *Enter Coriolanus in mean apparel, disguis’d and muffled.*
 
 **COR.**
-A goodly city is this Antium. City,
-’Tis I that made thy widows; many an heir
-Of these fair edifices ’fore my wars
-Have I heard groan and drop. Then know me not,
-Lest that thy wives with spits and boys with stones
-In puny battle slay me.
+==1== A goodly city is this Antium. City,
+==2== ’Tis I that made thy widows; many an heir
+==3== Of these fair edifices ’fore my wars
+==4== Have I heard groan and drop. Then know me not,
+==5== Lest that thy wives with spits and boys with stones
+==6== In puny battle slay me.
 *(Enter a Citizen of Antium.)*
-              ’Save you, sir.
+==6==               ’Save you, sir.
 
 **CIT. ANT.**
-And you.
+==7== And you.
 
 **COR.**
-    Direct me, if it be your will,
-Where great Aufidius lies. Is he in Antium?
+==7==     Direct me, if it be your will,
+==8== Where great Aufidius lies. Is he in Antium?
 
 **CIT. ANT.**
-He is, and feasts the nobles of the state
-At his house this night.
+==9== He is, and feasts the nobles of the state
+==10== At his house this night.
 
 **COR.**
-           Which is his house, beseech you?
+==10==            Which is his house, beseech you?
 
 **CIT. ANT.**
-This here before you.
+==11== This here before you.
 
 **COR.**
-           Thank you, sir, farewell.
+==11==            Thank you, sir, farewell.
 *(Exit Citizen of Antium.)*
-O world, thy slippery turns! Friends now fast sworn,
-Whose double bosoms seems to wear one heart,
-Whose hours, whose bed, whose meal and exercise
-Are still together, who twin, as ’twere, in love
-Unseparable, shall within this hour,
-On a dissension of a doit, break out
-To bitterest enmity; so, fellest foes,
-Whose passions and whose plots have broke their sleep
-To take the one the other, by some chance,
-Some trick not worth an egg, shall grow dear friends
-And interjoin their issues. So with me,
-My birthplace hate I, and my love’s upon
-This enemy town. I’ll enter. If he slay me,
-He does fair justice; if he give me way,
-I’ll do his country service.
+==12== O world, thy slippery turns! Friends now fast sworn,
+==13== Whose double bosoms seems to wear one heart,
+==14== Whose hours, whose bed, whose meal and exercise
+==15== Are still together, who twin, as ’twere, in love
+==16== Unseparable, shall within this hour,
+==17== On a dissension of a doit, break out
+==18== To bitterest enmity; so, fellest foes,
+==19== Whose passions and whose plots have broke their sleep
+==20== To take the one the other, by some chance,
+==21== Some trick not worth an egg, shall grow dear friends
+==22== And interjoin their issues. So with me,
+==23== My birthplace hate I, and my love’s upon
+==24== This enemy town. I’ll enter. If he slay me,
+==25== He does fair justice; if he give me way,
+==26== I’ll do his country service.
 
 *Exit.*
 

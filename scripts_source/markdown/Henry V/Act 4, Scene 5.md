@@ -21,50 +21,50 @@ ID: henry-v-4-5
 *Enter Constable, Orléans, Bourbon, Dauphin, and Rambures.*
 
 **CON.**
-*O diable!*
+==1== *O diable!*
 
 **ORL.**
-*O Seigneur! Le jour est perdu, tout est perdu!*
+==2== *O Seigneur! Le jour est perdu, tout est perdu!*
 
 **DAU.**
-*Mort Dieu, ma vie!* All is confounded, all!
-Reproach and everlasting shame
-Sits mocking in our plumes.
+==3== *Mort Dieu, ma vie!* All is confounded, all!
+==4== Reproach and everlasting shame
+==5== Sits mocking in our plumes.
 *(A short alarum.)*
-                *O méchante fortune!*
-Do not run away.
+==5==                 *O méchante fortune!*
+==6== Do not run away.
 
 **CON.**
-           Why, all our ranks are broke.
+==6==            Why, all our ranks are broke.
 
 **DAU.**
-O perdurable shame! Let’s stab ourselves.
-Be these the wretches that we play’d at dice for?
+==7== O perdurable shame! Let’s stab ourselves.
+==8== Be these the wretches that we play’d at dice for?
 
 **ORL.**
-Is this the king we sent to for his ransom?
+==9== Is this the king we sent to for his ransom?
 
 **BOUR.**
-Shame and eternal shame, nothing but shame!
-Let us die! In once more! Back again!
-And he that will not follow Bourbon now,
-Let him go hence, and with his cap in hand
-Like a base pander hold the chamber-door
-Whilst by a slave, no gentler than my dog,
-His fairest daughter is contaminated.
+==10== Shame and eternal shame, nothing but shame!
+==11== Let us die! In once more! Back again!
+==12== And he that will not follow Bourbon now,
+==13== Let him go hence, and with his cap in hand
+==14== Like a base pander hold the chamber-door
+==15== Whilst by a slave, no gentler than my dog,
+==16== His fairest daughter is contaminated.
 
 **CON.**
-Disorder, that hath spoil’d us, friend us now!
-Let us on heaps go offer up our lives.
+==17== Disorder, that hath spoil’d us, friend us now!
+==18== Let us on heaps go offer up our lives.
 
 **ORL.**
-We are enow yet living in the field
-To smother up the English in our throngs,
-If any order might be thought upon.
+==19== We are enow yet living in the field
+==20== To smother up the English in our throngs,
+==21== If any order might be thought upon.
 
 **BOUR.**
-The devil take order now! I’ll to the throng:
-Let life be short, else shame will be too long.
+==22== The devil take order now! I’ll to the throng:
+==23== Let life be short, else shame will be too long.
 
 *Exeunt.*
 

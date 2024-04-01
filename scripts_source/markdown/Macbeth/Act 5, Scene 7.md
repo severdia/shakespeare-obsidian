@@ -20,77 +20,77 @@ ID: macbeth-5-7
 *Enter Macbeth.*
 
 **K. MACB.**
-They have tied me to a stake; I cannot fly,
-But bear-like I must fight the course. What’s he
-That was not born of woman? Such a one
-Am I to fear, or none.
+==1== They have tied me to a stake; I cannot fly,
+==2== But bear-like I must fight the course. What’s he
+==3== That was not born of woman? Such a one
+==4== Am I to fear, or none.
 
 *Enter Young Siward.*
 
 **Y. SIW.**
-What is thy name?
+==5== What is thy name?
 
 **K. MACB.**
-           Thou’lt be afraid to hear it.
+==5==            Thou’lt be afraid to hear it.
 
 **Y. SIW.**
-No; though thou call’st thyself a hotter name
-Than any is in hell.
+==6== No; though thou call’st thyself a hotter name
+==7== Than any is in hell.
 
 **K. MACB.**
-           My name’s Macbeth.
+==7==            My name’s Macbeth.
 
 **Y. SIW.**
-The devil himself could not pronounce a title
-More hateful to mine ear.
+==8== The devil himself could not pronounce a title
+==9== More hateful to mine ear.
 
 **K. MACB.**
-              No; nor more fearful.
+==9==               No; nor more fearful.
 
 **Y. SIW.**
-Thou liest, abhorred tyrant, with my sword
-I’ll prove the lie thou speak’st.
+==10== Thou liest, abhorred tyrant, with my sword
+==11== I’ll prove the lie thou speak’st.
 
 *Fight, and Young Siward slain.*
 
 **K. MACB.**
-                Thou wast born of woman.
-But swords I smile at, weapons laugh to scorn,
-Brandish’d by man that’s of a woman born.
+==11==                 Thou wast born of woman.
+==12== But swords I smile at, weapons laugh to scorn,
+==13== Brandish’d by man that’s of a woman born.
 
 *Exit.*
 
 *Alarums. Enter Macduff.*
 
 **MACD.**
-That way the noise is. Tyrant, show thy face!
-If thou beest slain and with no stroke of mine,
-My wife and children’s ghosts will haunt me still.
-I cannot strike at wretched kerns, whose arms
-Are hir’d to bear their staves; either thou, Macbeth,
-Or else my sword with an unbattered edge
-I sheathe again undeeded. There thou shouldst be;
-By this great clatter, one of greatest note
-Seems bruited. Let me find him, Fortune!
-And more I beg not.
+==14== That way the noise is. Tyrant, show thy face!
+==15== If thou beest slain and with no stroke of mine,
+==16== My wife and children’s ghosts will haunt me still.
+==17== I cannot strike at wretched kerns, whose arms
+==18== Are hir’d to bear their staves; either thou, Macbeth,
+==19== Or else my sword with an unbattered edge
+==20== I sheathe again undeeded. There thou shouldst be;
+==21== By this great clatter, one of greatest note
+==22== Seems bruited. Let me find him, Fortune!
+==23== And more I beg not.
 
 *Exit. Alarums.*
 
 *Enter Malcolm and Siward.*
 
 **SIW.**
-This way, my lord, the castle’s gently rend’red:
-The tyrant’s people on both sides do fight,
-The noble thanes do bravely in the war,
-The day almost itself professes yours,
-And little is to do.
+==24== This way, my lord, the castle’s gently rend’red:
+==25== The tyrant’s people on both sides do fight,
+==26== The noble thanes do bravely in the war,
+==27== The day almost itself professes yours,
+==28== And little is to do.
 
 **MAL.**
-           We have met with foes
-That strike beside us.
+==28==            We have met with foes
+==29== That strike beside us.
 
 **SIW.**
-           Enter, sir, the castle.
+==29==            Enter, sir, the castle.
 
 *Exeunt. Alarum.*
 

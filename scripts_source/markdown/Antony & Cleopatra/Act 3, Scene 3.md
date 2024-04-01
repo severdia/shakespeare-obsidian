@@ -19,151 +19,151 @@ ID: antony-and-cleopatra-3-3
 *Enter Cleopatra, Charmian, Iras, and Alexas.*
 
 **CLEO.**
-Where is the fellow?
+==1== Where is the fellow?
 
 **ALEX.**
-           Half afeard to come.
+==1==            Half afeard to come.
 
 **CLEO.**
-Go to, go to. Come hither, sir.
+==2== Go to, go to. Come hither, sir.
 
 *Enter the Egyptian Messenger as before.*
 
 **ALEX.**
-                  Good Majesty!
-Herod of Jewry dare not look upon you
-But when you are well pleas’d.
+==2==                   Good Majesty!
+==3== Herod of Jewry dare not look upon you
+==4== But when you are well pleas’d.
 
 **CLEO.**
-                That Herod’s head
-I’ll have; but how, when Antony is gone,
-Through whom I might command it? Come thou near.
+==4==                 That Herod’s head
+==5== I’ll have; but how, when Antony is gone,
+==6== Through whom I might command it? Come thou near.
 
 **EGYPT. MESS.**
-Most gracious Majesty!
+==7== Most gracious Majesty!
 
 **CLEO.**
-           Didst thou behold Octavia?
+==7==            Didst thou behold Octavia?
 
 **EGYPT. MESS.**
-Ay, dread Queen.
+==8== Ay, dread Queen.
 
 **CLEO.**
-           Where?
+==8==            Where?
 
 **EGYPT. MESS.**
-                Madam, in Rome;
-I look’d her in the face, and saw her led
-Between her brother and Mark Antony.
+==8==                 Madam, in Rome;
+==9== I look’d her in the face, and saw her led
+==10== Between her brother and Mark Antony.
 
 **CLEO.**
-Is she as tall as me?
+==11== Is she as tall as me?
 
 **EGYPT. MESS.**
-           She is not, madam.
+==11==            She is not, madam.
 
 **CLEO.**
-Didst hear her speak? Is she shrill-tongu’d or low?
+==12== Didst hear her speak? Is she shrill-tongu’d or low?
 
 **EGYPT. MESS.**
-Madam, I heard her speak; she is low-voic’d.
+==13== Madam, I heard her speak; she is low-voic’d.
 
 **CLEO.**
-That’s not so good. He cannot like her long.
+==14== That’s not so good. He cannot like her long.
 
 **CHAR.**
-Like her? O Isis! ’Tis impossible.
+==15== Like her? O Isis! ’Tis impossible.
 
 **CLEO.**
-I think so, Charmian: dull of tongue, and dwarfish.
-What majesty is in her gait? Remember,
-If e’er thou look’st on majesty.
+==16== I think so, Charmian: dull of tongue, and dwarfish.
+==17== What majesty is in her gait? Remember,
+==18== If e’er thou look’st on majesty.
 
 **EGYPT. MESS.**
-                  She creeps;
-Her motion and her station are as one;
-She shows a body rather than a life,
-A statue, than a breather.
+==18==                   She creeps;
+==19== Her motion and her station are as one;
+==20== She shows a body rather than a life,
+==21== A statue, than a breather.
 
 **CLEO.**
-              Is this certain?
+==21==               Is this certain?
 
 **EGYPT. MESS.**
-Or I have no observance.
+==22== Or I have no observance.
 
 **CHAR.**
-              Three in Egypt
-Cannot make better note.
+==22==               Three in Egypt
+==23== Cannot make better note.
 
 **CLEO.**
-              He’s very knowing,
-I do perceive’t. There’s nothing in her yet.
-The fellow has good judgment.
+==23==               He’s very knowing,
+==24== I do perceive’t. There’s nothing in her yet.
+==25== The fellow has good judgment.
 
 **CHAR.**
-                  Excellent.
+==25==                   Excellent.
 
 **CLEO.**
-Guess at her years, I prithee.
+==26== Guess at her years, I prithee.
 
 **EGYPT. MESS.**
-                Madam,
-She was a widow⁠—
+==26==                 Madam,
+==27== She was a widow⁠—
 
 **CLEO.**
-           Widow? Charmian, hark.
+==27==            Widow? Charmian, hark.
 
 **EGYPT. MESS.**
-And I do think she’s thirty.
+==28== And I do think she’s thirty.
 
 **CLEO.**
-Bear’st thou her face in mind? Is’t long or round?
+==29== Bear’st thou her face in mind? Is’t long or round?
 
 **EGYPT. MESS.**
-Round, even to faultiness.
+==30== Round, even to faultiness.
 
 **CLEO.**
-For the most part, too, they are foolish that are so.
-Her hair, what color?
+==31== For the most part, too, they are foolish that are so.
+==32== Her hair, what color?
 
 **EGYPT. MESS.**
-Brown, madam; and her forehead
-As low as she would wish it.
+==33== Brown, madam; and her forehead
+==34== As low as she would wish it.
 
 **CLEO.**
-                There’s gold for thee,
-Thou must not take my former sharpness ill.
-I will employ thee back again; I find thee
-Most fit for business. Go, make thee ready,
-Our letters are prepar’d.
+==34==                 There’s gold for thee,
+==35== Thou must not take my former sharpness ill.
+==36== I will employ thee back again; I find thee
+==37== Most fit for business. Go, make thee ready,
+==38== Our letters are prepar’d.
 
 *Exit Egyptian Messenger.*
 
 **CHAR.**
-              A proper man.
+==38==               A proper man.
 
 **CLEO.**
-Indeed he is so; I repent me much
-That so I harried him. Why, methinks, by him,
-This creature’s no such thing.
+==39== Indeed he is so; I repent me much
+==40== That so I harried him. Why, methinks, by him,
+==41== This creature’s no such thing.
 
 **CHAR.**
-                Nothing, madam.
+==41==                 Nothing, madam.
 
 **CLEO.**
-The man hath seen some majesty, and should know.
+==42== The man hath seen some majesty, and should know.
 
 **CHAR.**
-Hath he seen majesty? Isis else defend!
-And serving you so long!
+==43== Hath he seen majesty? Isis else defend!
+==44== And serving you so long!
 
 **CLEO.**
-I have one thing more to ask him yet, good Charmian⁠—
-But ’tis no matter, thou shalt bring him to me
-Where I will write. All may be well enough.
+==45== I have one thing more to ask him yet, good Charmian⁠—
+==46== But ’tis no matter, thou shalt bring him to me
+==47== Where I will write. All may be well enough.
 
 **CHAR.**
-I warrant you, madam.
+==48== I warrant you, madam.
 
 *Exeunt.*
 

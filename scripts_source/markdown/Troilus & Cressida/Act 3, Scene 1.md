@@ -21,276 +21,276 @@ ID: troilus-and-cressida-3-1
 *Music sounds within. Enter Pandarus and Paris’s Servant.*
 
 **PAN.**
-Friend, you! Pray you a word. Do you not follow the young Lord Paris?
+==1== Friend, you! Pray you a word. Do you not follow the young Lord Paris?
 
 **PAR. SERV.**
-Ay, sir, when he goes before me.
+==2== Ay, sir, when he goes before me.
 
 **PAN.**
-You depend upon him, I mean.
+==3== You depend upon him, I mean.
 
 **PAR. SERV.**
-Sir, I do depend upon the Lord.
+==4== Sir, I do depend upon the Lord.
 
 **PAN.**
-You depend upon a notable gentleman; I must needs praise him.
+==5== You depend upon a notable gentleman; I must needs praise him.
 
 **PAR. SERV.**
-The Lord be prais’d!
+==6== The Lord be prais’d!
 
 **PAN.**
-You know me, do you not?
+==7== You know me, do you not?
 
 **PAR. SERV.**
-Faith, sir, superficially.
+==8== Faith, sir, superficially.
 
 **PAN.**
-Friend, know me better, I am the Lord Pandarus.
+==9== Friend, know me better, I am the Lord Pandarus.
 
 **PAR. SERV.**
-I hope I shall know your honor better!
+==10== I hope I shall know your honor better!
 
 **PAN.**
-I do desire it.
+==11== I do desire it.
 
 **PAR. SERV.**
-You are in the state of grace.
+==12== You are in the state of grace.
 
 **PAN.**
-Grace? Not so, friend, honor and lordship are my titles. What music is this?
+==13== Grace? Not so, friend, honor and lordship are my titles. What music is this?
 
 **PAR. SERV.**
-I do but partly know, sir, it is music in parts.
+==14== I do but partly know, sir, it is music in parts.
 
 **PAN.**
-Know you the musicians?
+==15== Know you the musicians?
 
 **PAR. SERV.**
-Wholly, sir.
+==16== Wholly, sir.
 
 **PAN.**
-Who play they to?
+==17== Who play they to?
 
 **PAR. SERV.**
-To the hearers, sir.
+==18== To the hearers, sir.
 
 **PAN.**
-At whose pleasure, friend?
+==19== At whose pleasure, friend?
 
 **PAR. SERV.**
-At mine, sir, and theirs that love music.
+==20== At mine, sir, and theirs that love music.
 
 **PAN.**
-Command, I mean, friend.
+==21== Command, I mean, friend.
 
 **PAR. SERV.**
-Who shall I command, sir?
+==22== Who shall I command, sir?
 
 **PAN.**
-Friend, we understand not one another; I am too courtly and thou too cunning. At whose request do these men play?
+==23== Friend, we understand not one another; I am too courtly and thou too cunning. At whose request do these men play?
 
 **PAR. SERV.**
-That’s to’t indeed, sir. Marry, sir, at the request of Paris my lord, who is there in person; with him, the mortal Venus, the heart-blood of beauty, love’s invisible soul.
+==24== That’s to’t indeed, sir. Marry, sir, at the request of Paris my lord, who is there in person; with him, the mortal Venus, the heart-blood of beauty, love’s invisible soul.
 
 **PAN.**
-Who? My cousin Cressida?
+==25== Who? My cousin Cressida?
 
 **PAR. SERV.**
-No, sir, Helen. Could not you find out that by her attributes?
+==26== No, sir, Helen. Could not you find out that by her attributes?
 
 **PAN.**
-It should seem, fellow, thou hast not seen the Lady Cressid. I come to speak with Paris from the Prince Troilus. I will make a complimental assault upon him, for my business seethes.
+==27== It should seem, fellow, thou hast not seen the Lady Cressid. I come to speak with Paris from the Prince Troilus. I will make a complimental assault upon him, for my business seethes.
 
 **PAR. SERV.**
-Sodden business! There’s a stew’d phrase indeed!
+==28== Sodden business! There’s a stew’d phrase indeed!
 
 *Enter Paris and Helen attended.*
 
 **PAN.**
-Fair be to you, my lord, and to all this fair company! Fair desires, in all fair measure, fairly guide them! Especially to you, fair queen, fair thoughts be your fair pillow!
+==29== Fair be to you, my lord, and to all this fair company! Fair desires, in all fair measure, fairly guide them! Especially to you, fair queen, fair thoughts be your fair pillow!
 
 **HELEN.**
-Dear lord, you are full of fair words.
+==30== Dear lord, you are full of fair words.
 
 **PAN.**
-You speak your fair pleasure, sweet queen. Fair prince, here is good broken music.
+==31== You speak your fair pleasure, sweet queen. Fair prince, here is good broken music.
 
 **PAR.**
-You have broke it, cousin; and by my life you shall make it whole again—you shall piece it out with a piece of your performance. Nell, he is full of harmony.
+==32== You have broke it, cousin; and by my life you shall make it whole again—you shall piece it out with a piece of your performance. Nell, he is full of harmony.
 
 **PAN.**
-Truly, lady, no.
+==33== Truly, lady, no.
 
 **HELEN.**
-O sir⁠—
+==34== O sir⁠—
 
 **PAN.**
-Rude, in sooth, in good sooth, very rude.
+==35== Rude, in sooth, in good sooth, very rude.
 
 **PAR.**
-Well said, my lord, well, you say so in fits.
+==36== Well said, my lord, well, you say so in fits.
 
 **PAN.**
-I have business to my lord, dear queen. My lord, will you vouchsafe me a word?
+==37== I have business to my lord, dear queen. My lord, will you vouchsafe me a word?
 
 **HELEN.**
-Nay, this shall not hedge us out, we’ll hear you sing, certainly.
+==38== Nay, this shall not hedge us out, we’ll hear you sing, certainly.
 
 **PAN.**
-Well, sweet queen, you are pleasant with me. But marry thus, my lord: my dear lord and most esteem’d friend, your brother Troilus⁠—
+==39== Well, sweet queen, you are pleasant with me. But marry thus, my lord: my dear lord and most esteem’d friend, your brother Troilus⁠—
 
 **HELEN.**
-My Lord Pandarus, honey-sweet lord⁠—
+==40== My Lord Pandarus, honey-sweet lord⁠—
 
 **PAN.**
-Go to, sweet queen, go to—commends himself most affectionately to you⁠—
+==41== Go to, sweet queen, go to—commends himself most affectionately to you⁠—
 
 **HELEN.**
-You shall not bob us out of our melody. If you do, our melancholy upon your head!
+==42== You shall not bob us out of our melody. If you do, our melancholy upon your head!
 
 **PAN.**
-Sweet queen, sweet queen, that’s a sweet queen—i’ faith⁠—
+==43== Sweet queen, sweet queen, that’s a sweet queen—i’ faith⁠—
 
 **HELEN.**
-And to make a sweet lady sad is a sour offense.
+==44== And to make a sweet lady sad is a sour offense.
 
 **PAN.**
-Nay, that shall not serve your turn, that shall it not, in truth la! Nay, I care not for such words, no, no. And, my lord, he desires you, that if the King call for him at supper, you will make his excuse.
+==45== Nay, that shall not serve your turn, that shall it not, in truth la! Nay, I care not for such words, no, no. And, my lord, he desires you, that if the King call for him at supper, you will make his excuse.
 
 **HELEN.**
-My Lord Pandarus⁠—
+==46== My Lord Pandarus⁠—
 
 **PAN.**
-What says my sweet queen, my very very sweet queen?
+==47== What says my sweet queen, my very very sweet queen?
 
 **PAR.**
-What exploit’s in hand? Where sups he tonight?
+==48== What exploit’s in hand? Where sups he tonight?
 
 **HELEN.**
-Nay, but, my lord⁠—
+==49== Nay, but, my lord⁠—
 
 **PAN.**
-What says my sweet queen? My cousin will fall out with you.
+==50== What says my sweet queen? My cousin will fall out with you.
 
 **HELEN.**
-You must not know where he sups.
+==51== You must not know where he sups.
 
 **PAR.**
-I’ll lay my life, with my disposer Cressida.
+==52== I’ll lay my life, with my disposer Cressida.
 
 **PAN.**
-No, no! No such matter, you are wide. Come, your disposer is sick.
+==53== No, no! No such matter, you are wide. Come, your disposer is sick.
 
 **PAR.**
-Well, I’ll make ’s excuse.
+==54== Well, I’ll make ’s excuse.
 
 **PAN.**
-Ay, good my lord. Why should you say Cressida? No, your poor disposer’s sick.
+==55== Ay, good my lord. Why should you say Cressida? No, your poor disposer’s sick.
 
 **PAR.**
-I spy!
+==56== I spy!
 
 **PAN.**
-You spy? What do you spy?—Come, give me an instrument.—Now, sweet queen.
+==57== You spy? What do you spy?—Come, give me an instrument.—Now, sweet queen.
 
 **HELEN.**
-Why, this is kindly done.
+==58== Why, this is kindly done.
 
 **PAN.**
-My niece is horribly in love with a thing you have, sweet queen.
+==59== My niece is horribly in love with a thing you have, sweet queen.
 
 **HELEN.**
-She shall have it, my lord, if it be not my Lord Paris.
+==60== She shall have it, my lord, if it be not my Lord Paris.
 
 **PAN.**
-He? No! She’ll none of him. They two are twain.
+==61== He? No! She’ll none of him. They two are twain.
 
 **HELEN.**
-Falling in, after falling out, may make them three.
+==62== Falling in, after falling out, may make them three.
 
 **PAN.**
-Come, come, I’ll hear no more of this, I’ll sing you a song now.
+==63== Come, come, I’ll hear no more of this, I’ll sing you a song now.
 
 **HELEN.**
-Ay, ay, prithee now. By my troth, sweet lord, thou hast a fine forehead.
+==64== Ay, ay, prithee now. By my troth, sweet lord, thou hast a fine forehead.
 
 **PAN.**
-Ay, you may, you may.
+==65== Ay, you may, you may.
 
 **HELEN.**
-Let thy song be love. This love will undo us all. O Cupid, Cupid, Cupid!
+==66== Let thy song be love. This love will undo us all. O Cupid, Cupid, Cupid!
 
 **PAN.**
-Love? Ay, that it shall, i’ faith.
+==67== Love? Ay, that it shall, i’ faith.
 
 **PAR.**
-Ay, good now, love, love, nothing but love.
+==68== Ay, good now, love, love, nothing but love.
 
 **PAN.**
-In good troth, it begins so.
+==69== In good troth, it begins so.
 *(Sings.)*
-*“Love, love, nothing but love, still love, still more!*
-*For O, love’s bow*
-*Shoots buck and doe.*
-*The shaft confounds*
-*Not that it wounds,*
-*But tickles still the sore.*
-*These lovers cry, O ho, they die!*
-*Yet that which seems the wound to kill,*
-*Doth turn O ho! To ha, ha, he!*
-*So dying love lives still.*
-*O ho! A while, but ha, ha, ha!*
-*O ho! Groans out for ha, ha, ha!—hey ho!”*
+==70== *“Love, love, nothing but love, still love, still more!*
+==71== *For O, love’s bow*
+==72== *Shoots buck and doe.*
+==73== *The shaft confounds*
+==74== *Not that it wounds,*
+==75== *But tickles still the sore.*
+==76== *These lovers cry, O ho, they die!*
+==77== *Yet that which seems the wound to kill,*
+==78== *Doth turn O ho! To ha, ha, he!*
+==79== *So dying love lives still.*
+==80== *O ho! A while, but ha, ha, ha!*
+==81== *O ho! Groans out for ha, ha, ha!—hey ho!”*
 
 **HELEN.**
-In love, i’ faith, to the very tip of the nose.
+==82== In love, i’ faith, to the very tip of the nose.
 
 **PAR.**
-He eats nothing but doves, love, and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love.
+==83== He eats nothing but doves, love, and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love.
 
 **PAN.**
-Is this the generation of love—hot blood, hot thoughts, and hot deeds? Why, they are vipers. Is love a generation of vipers? Sweet lord, who’s a-field today?
+==84== Is this the generation of love—hot blood, hot thoughts, and hot deeds? Why, they are vipers. Is love a generation of vipers? Sweet lord, who’s a-field today?
 
 **PAR.**
-Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy. I would fain have arm’d today, but my Nell would not have it so. How chance my brother Troilus went not?
+==85== Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy. I would fain have arm’d today, but my Nell would not have it so. How chance my brother Troilus went not?
 
 **HELEN.**
-He hangs the lip at something. You know all, Lord Pandarus.
+==86== He hangs the lip at something. You know all, Lord Pandarus.
 
 **PAN.**
-Not I, honey-sweet queen. I long to hear how they sped today. You’ll remember your brother’s excuse?
+==87== Not I, honey-sweet queen. I long to hear how they sped today. You’ll remember your brother’s excuse?
 
 **PAR.**
-To a hair.
+==88== To a hair.
 
 **PAN.**
-Farewell, sweet queen.
+==89== Farewell, sweet queen.
 
 **HELEN.**
-Commend me to your niece.
+==90== Commend me to your niece.
 
 **PAN.**
-I will, sweet queen.
+==91== I will, sweet queen.
 
 *Exit. Sound a retreat.*
 
 **PAR.**
-They’re come from the field. Let us to Priam’s hall
-To greet the warriors. Sweet Helen, I must woo you
-To help unarm our Hector. His stubborn buckles,
-With these your white enchanting fingers touch’d,
-Shall more obey than to the edge of steel,
-Or force of Greekish sinews. You shall do more
-Than all the island kings—disarm great Hector.
+==92== They’re come from the field. Let us to Priam’s hall
+==93== To greet the warriors. Sweet Helen, I must woo you
+==94== To help unarm our Hector. His stubborn buckles,
+==95== With these your white enchanting fingers touch’d,
+==96== Shall more obey than to the edge of steel,
+==97== Or force of Greekish sinews. You shall do more
+==98== Than all the island kings—disarm great Hector.
 
 **HELEN.**
-’Twill make us proud to be his servant, Paris!
-Yea, what he shall receive of us in duty
-Gives us more palm in beauty than we have,
-Yea, overshines ourself.
+==99== ’Twill make us proud to be his servant, Paris!
+==100== Yea, what he shall receive of us in duty
+==101== Gives us more palm in beauty than we have,
+==102== Yea, overshines ourself.
 
 **PAR.**
-Sweet, above thought I love thee!
+==103== Sweet, above thought I love thee!
 
 *Exeunt.*
 

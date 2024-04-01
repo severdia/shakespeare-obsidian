@@ -19,37 +19,37 @@ ID: king-john-5-3
 *Alarums. Enter King John and Hubert.*
 
 **K. JOHN.**
-How goes the day with us? O, tell me, Hubert.
+==1== How goes the day with us? O, tell me, Hubert.
 
 **HUB.**
-Badly, I fear. How fares your Majesty?
+==2== Badly, I fear. How fares your Majesty?
 
 **K. JOHN.**
-This fever, that hath troubled me so long,
-Lies heavy on me. O, my heart is sick!
+==3== This fever, that hath troubled me so long,
+==4== Lies heavy on me. O, my heart is sick!
 
 *Enter a Messenger.*
 
 **MESS.**
-My lord, your valiant kinsman, Faulconbridge,
-Desires your Majesty to leave the field,
-And send him word by me which way you go.
+==5== My lord, your valiant kinsman, Faulconbridge,
+==6== Desires your Majesty to leave the field,
+==7== And send him word by me which way you go.
 
 **K. JOHN.**
-Tell him toward Swinstead, to the abbey there.
+==8== Tell him toward Swinstead, to the abbey there.
 
 **MESS.**
-Be of good comfort; for the great supply,
-That was expected by the Dauphin here,
-Are wrack’d three nights ago on Goodwin Sands;
-This news was brought to Richard but even now.
-The French fight coldly, and retire themselves.
+==9== Be of good comfort; for the great supply,
+==10== That was expected by the Dauphin here,
+==11== Are wrack’d three nights ago on Goodwin Sands;
+==12== This news was brought to Richard but even now.
+==13== The French fight coldly, and retire themselves.
 
 **K. JOHN.**
-Ay me, this tyrant fever burns me up,
-And will not let me welcome this good news.
-Set on toward Swinstead. To my litter straight,
-Weakness possesseth me, and I am faint.
+==14== Ay me, this tyrant fever burns me up,
+==15== And will not let me welcome this good news.
+==16== Set on toward Swinstead. To my litter straight,
+==17== Weakness possesseth me, and I am faint.
 
 *Exeunt.*
 

@@ -19,304 +19,304 @@ ID: coriolanus-3-3
 *Enter Sicinius and Brutus.*
 
 **BRU.**
-In this point charge him home, that he affects
-Tyrannical power. If he evade us there,
-Enforce him with his envy to the people,
-And that the spoil got on the Antiates
-Was ne’er distributed.
+==1== In this point charge him home, that he affects
+==2== Tyrannical power. If he evade us there,
+==3== Enforce him with his envy to the people,
+==4== And that the spoil got on the Antiates
+==5== Was ne’er distributed.
 *(Enter First Aedile.)*
-           What, will he come?
+==5==            What, will he come?
 
 **1. AED.**
-He’s coming.
+==6== He’s coming.
 
 **BRU.**
-        How accompanied?
+==6==         How accompanied?
 
 **1. AED.**
-With old Menenius and those senators
-That always favor’d him.
+==7== With old Menenius and those senators
+==8== That always favor’d him.
 
 **SIC.**
-              Have you a catalogue
-Of all the voices that we have procur’d,
-Set down by th’ poll?
+==8==               Have you a catalogue
+==9== Of all the voices that we have procur’d,
+==10== Set down by th’ poll?
 
 **1. AED.**
-           I have; ’tis ready.
+==10==            I have; ’tis ready.
 
 **SIC.**
-Have you collected them by tribes?
+==11== Have you collected them by tribes?
 
 **1. AED.**
-                  I have.
+==11==                   I have.
 
 **SIC.**
-Assemble presently the people hither;
-And when they hear me say, “It shall be so
-I’ th’ right and strength a’ th’ commons,” be it either
-For death, for fine, or banishment, then let them,
-If I say fine, cry “Fine!”; if death, cry “Death!”;
-Insisting on the old prerogative
-And power i’ th’ truth a’ th’ cause.
+==12== Assemble presently the people hither;
+==13== And when they hear me say, “It shall be so
+==14== I’ th’ right and strength a’ th’ commons,” be it either
+==15== For death, for fine, or banishment, then let them,
+==16== If I say fine, cry “Fine!”; if death, cry “Death!”;
+==17== Insisting on the old prerogative
+==18== And power i’ th’ truth a’ th’ cause.
 
 **1. AED.**
-                  I shall inform them.
+==18==                   I shall inform them.
 
 **BRU.**
-And when such time they have begun to cry,
-Let them not cease, but with a din confus’d
-Enforce the present execution
-Of what we chance to sentence.
+==19== And when such time they have begun to cry,
+==20== Let them not cease, but with a din confus’d
+==21== Enforce the present execution
+==22== Of what we chance to sentence.
 
 **1. AED.**
-                  Very well.
+==22==                   Very well.
 
 **SIC.**
-Make them be strong, and ready for this hint
-When we shall hap to give’t them.
+==23== Make them be strong, and ready for this hint
+==24== When we shall hap to give’t them.
 
 **BRU.**
-                  Go about it.
+==24==                   Go about it.
 *(Exit First Aedile.)*
-Put him to choler straight, he hath been us’d
-Ever to conquer, and to have his worth
-Of contradiction. Being once chaf’d, he cannot
-Be rein’d again to temperance; then he speaks
-What’s in his heart, and that is there which looks
-With us to break his neck.
+==25== Put him to choler straight, he hath been us’d
+==26== Ever to conquer, and to have his worth
+==27== Of contradiction. Being once chaf’d, he cannot
+==28== Be rein’d again to temperance; then he speaks
+==29== What’s in his heart, and that is there which looks
+==30== With us to break his neck.
 
 *Enter Coriolanus, Menenius, and Cominius, with others, Senators and Patricians.*
 
 **SIC.**
-              Well, here he comes.
+==30==               Well, here he comes.
 
 **MEN.**
-Calmly, I do beseech you.
+==31== Calmly, I do beseech you.
 
 **COR.**
-Ay, as an hostler, that for th’ poorest piece
-Will bear the knave by th’ volume. Th’ honor’d gods
-Keep Rome in safety, and the chairs of justice
-Supplied with worthy men! Plant love among ’s!
-Throng our large temples with the shows of peace,
-And not our streets with war!
+==32== Ay, as an hostler, that for th’ poorest piece
+==33== Will bear the knave by th’ volume. Th’ honor’d gods
+==34== Keep Rome in safety, and the chairs of justice
+==35== Supplied with worthy men! Plant love among ’s!
+==36== Throng our large temples with the shows of peace,
+==37== And not our streets with war!
 
 **1. ROM. SEN.**
-                Amen, amen.
+==37==                 Amen, amen.
 
 **MEN.**
-A noble wish.
+==38== A noble wish.
 
 *Enter the First Aedile with the Plebeians.*
 
 **SIC.**
-Draw near, ye people.
+==39== Draw near, ye people.
 
 **1. AED.**
-List to your tribunes. Audience! Peace, I say!
+==40== List to your tribunes. Audience! Peace, I say!
 
 **COR.**
-First hear me speak.
+==41== First hear me speak.
 
 **ALL PLEBEIANS.**
-           Well, say. Peace ho!
+==41==            Well, say. Peace ho!
 
 **COR.**
-Shall I be charg’d no further than this present?
-Must all determine here?
+==42== Shall I be charg’d no further than this present?
+==43== Must all determine here?
 
 **SIC.**
-              I do demand
-If you submit you to the people’s voices,
-Allow their officers, and are content
-To suffer lawful censure for such faults
-As shall be prov’d upon you.
+==43==               I do demand
+==44== If you submit you to the people’s voices,
+==45== Allow their officers, and are content
+==46== To suffer lawful censure for such faults
+==47== As shall be prov’d upon you.
 
 **COR.**
-                I am content.
+==47==                 I am content.
 
 **MEN.**
-Lo, citizens, he says he is content.
-The warlike service he has done, consider; think
-Upon the wounds his body bears, which show
-Like graves i’ th’ holy churchyard.
+==48== Lo, citizens, he says he is content.
+==49== The warlike service he has done, consider; think
+==50== Upon the wounds his body bears, which show
+==51== Like graves i’ th’ holy churchyard.
 
 **COR.**
-                  Scratches with briers,
-Scars to move laughter only.
+==51==                   Scratches with briers,
+==52== Scars to move laughter only.
 
 **MEN.**
-                Consider further:
-That when he speaks not like a citizen,
-You find him like a soldier; do not take
-His rougher accents for malicious sounds,
-But as I say, such as become a soldier
-Rather than envy you.
+==52==                 Consider further:
+==53== That when he speaks not like a citizen,
+==54== You find him like a soldier; do not take
+==55== His rougher accents for malicious sounds,
+==56== But as I say, such as become a soldier
+==57== Rather than envy you.
 
 **COM.**
-           Well, well, no more.
+==57==            Well, well, no more.
 
 **COR.**
-What is the matter
-That being pass’d for consul with full voice,
-I am so dishonor’d that the very hour
-You take it off again?
+==58== What is the matter
+==59== That being pass’d for consul with full voice,
+==60== I am so dishonor’d that the very hour
+==61== You take it off again?
 
 **SIC.**
-           Answer to us.
+==61==            Answer to us.
 
 **COR.**
-Say then; ’tis true, I ought so.
+==62== Say then; ’tis true, I ought so.
 
 **SIC.**
-We charge you, that you have contriv’d to take
-From Rome all season’d office, and to wind
-Yourself into a power tyrannical,
-For which you are a traitor to the people.
+==63== We charge you, that you have contriv’d to take
+==64== From Rome all season’d office, and to wind
+==65== Yourself into a power tyrannical,
+==66== For which you are a traitor to the people.
 
 **COR.**
-How? Traitor?
+==67== How? Traitor?
 
 **MEN.**
-        Nay, temperately; your promise.
+==67==         Nay, temperately; your promise.
 
 **COR.**
-The fires i’ th’ lowest hell fold in the people!
-Call me their traitor, thou injurious tribune!
-Within thine eyes sate twenty thousand deaths,
-In thy hands clutch’d as many millions, in
-Thy lying tongue both numbers, I would say
-“Thou liest” unto thee with a voice as free
-As I do pray the gods.
+==68== The fires i’ th’ lowest hell fold in the people!
+==69== Call me their traitor, thou injurious tribune!
+==70== Within thine eyes sate twenty thousand deaths,
+==71== In thy hands clutch’d as many millions, in
+==72== Thy lying tongue both numbers, I would say
+==73== “Thou liest” unto thee with a voice as free
+==74== As I do pray the gods.
 
 **SIC.**
-           Mark you this, people?
+==74==            Mark you this, people?
 
 **ALL PLEBEIANS.**
-To th’ rock, to th’ rock with him!
+==75== To th’ rock, to th’ rock with him!
 
 **SIC.**
-                  Peace!
-We need not put new matter to his charge.
-What you have seen him do, and heard him speak,
-Beating your officers, cursing yourselves,
-Opposing laws with strokes, and here defying
-Those whose great power must try him—even this
-So criminal, and in such capital kind,
-Deserves th’ extremest death.
+==75==                   Peace!
+==76== We need not put new matter to his charge.
+==77== What you have seen him do, and heard him speak,
+==78== Beating your officers, cursing yourselves,
+==79== Opposing laws with strokes, and here defying
+==80== Those whose great power must try him—even this
+==81== So criminal, and in such capital kind,
+==82== Deserves th’ extremest death.
 
 **BRU.**
-                But since he hath
-Serv’d well for Rome⁠—
+==82==                 But since he hath
+==83== Serv’d well for Rome⁠—
 
 **COR.**
-           What do you prate of service?
+==83==            What do you prate of service?
 
 **BRU.**
-I talk of that, that know it.
+==84== I talk of that, that know it.
 
 **COR.**
-You?
+==85== You?
 
 **MEN.**
-Is this the promise that you made your mother?
+==86== Is this the promise that you made your mother?
 
 **COM.**
-Know, I pray you⁠—
+==87== Know, I pray you⁠—
 
 **COR.**
-           I’ll know no further.
-Let them pronounce the steep Tarpeian death,
-Vagabond exile, fleaing, pent to linger
-But with a grain a day, I would not buy
-Their mercy at the price of one fair word,
-Nor check my courage for what they can give,
-To have’t with saying “Good morrow.”
+==87==            I’ll know no further.
+==88== Let them pronounce the steep Tarpeian death,
+==89== Vagabond exile, fleaing, pent to linger
+==90== But with a grain a day, I would not buy
+==91== Their mercy at the price of one fair word,
+==92== Nor check my courage for what they can give,
+==93== To have’t with saying “Good morrow.”
 
 **SIC.**
-                     For that he has
-(As much as in him lies) from time to time
-Envied against the people, seeking means
-To pluck away their power, as now at last
-Given hostile strokes, and that not in the presence
-Of dreaded justice, but on the ministers
-That doth distribute it—in the name a’ th’ people,
-And in the power of us the tribunes, we,
-Even from this instant, banish him our city,
-In peril of precipitation
-From off the rock Tarpeian, never more
-To enter our Rome gates. I’ th’ people’s name,
-I say it shall be so.
+==93==                      For that he has
+==94== (As much as in him lies) from time to time
+==95== Envied against the people, seeking means
+==96== To pluck away their power, as now at last
+==97== Given hostile strokes, and that not in the presence
+==98== Of dreaded justice, but on the ministers
+==99== That doth distribute it—in the name a’ th’ people,
+==100== And in the power of us the tribunes, we,
+==101== Even from this instant, banish him our city,
+==102== In peril of precipitation
+==103== From off the rock Tarpeian, never more
+==104== To enter our Rome gates. I’ th’ people’s name,
+==105== I say it shall be so.
 
 **ALL PLEBEIANS.**
-It shall be so, it shall be so. Let him away!
-He’s banish’d, and it shall be so.
+==106== It shall be so, it shall be so. Let him away!
+==107== He’s banish’d, and it shall be so.
 
 **COM.**
-Hear me, my masters, and my common friends⁠—
+==108== Hear me, my masters, and my common friends⁠—
 
 **SIC.**
-He’s sentenc’d; no more hearing.
+==109== He’s sentenc’d; no more hearing.
 
 **COM.**
-                  Let me speak.
-I have been consul, and can show for Rome
-Her enemies’ marks upon me. I do love
-My country’s good with a respect more tender,
-More holy and profound, than mine own life,
-My dear wive’s estimate, her womb’s increase
-And treasure of my loins; then if I would
-Speak that⁠—
+==109==                   Let me speak.
+==110== I have been consul, and can show for Rome
+==111== Her enemies’ marks upon me. I do love
+==112== My country’s good with a respect more tender,
+==113== More holy and profound, than mine own life,
+==114== My dear wive’s estimate, her womb’s increase
+==115== And treasure of my loins; then if I would
+==116== Speak that⁠—
 
 **SIC.**
-        We know your drift. Speak what?
+==116==         We know your drift. Speak what?
 
 **BRU.**
-There’s no more to be said, but he is banish’d
-As enemy to the people and his country.
-It shall be so.
+==117== There’s no more to be said, but he is banish’d
+==118== As enemy to the people and his country.
+==119== It shall be so.
 
 **ALL PLEBEIANS.**
-        It shall be so, it shall be so.
+==119==         It shall be so, it shall be so.
 
 **COR.**
-You common cry of curs, whose breath I hate
-As reek a’ th’ rotten fens, whose loves I prize
-As the dead carcasses of unburied men
-That do corrupt my air—I banish you!
-And here remain with your uncertainty!
-Let every feeble rumor shake your hearts!
-Your enemies, with nodding of their plumes,
-Fan you into despair! Have the power still
-To banish your defenders, till at length
-Your ignorance (which finds not till it feels,
-Making but reservation of yourselves,
-Still your own foes) deliver you as most
-Abated captives to some nation
-That won you without blows! Despising,
-For you, the city, thus I turn my back;
-There is a world elsewhere.
+==120== You common cry of curs, whose breath I hate
+==121== As reek a’ th’ rotten fens, whose loves I prize
+==122== As the dead carcasses of unburied men
+==123== That do corrupt my air—I banish you!
+==124== And here remain with your uncertainty!
+==125== Let every feeble rumor shake your hearts!
+==126== Your enemies, with nodding of their plumes,
+==127== Fan you into despair! Have the power still
+==128== To banish your defenders, till at length
+==129== Your ignorance (which finds not till it feels,
+==130== Making but reservation of yourselves,
+==131== Still your own foes) deliver you as most
+==132== Abated captives to some nation
+==133== That won you without blows! Despising,
+==134== For you, the city, thus I turn my back;
+==135== There is a world elsewhere.
 
 *Exeunt Coriolanus, Cominius, cum aliis (Menenius, Senators, and Patricians).*
 
 **1. AED.**
-The people’s enemy is gone, is gone!
+==136== The people’s enemy is gone, is gone!
 
 **ALL PLEBEIANS.**
-Our enemy is banish’d, he is gone! Hoo! Hoo!
+==137== Our enemy is banish’d, he is gone! Hoo! Hoo!
 
 *They all shout and throw up their caps.*
 
 **SIC.**
-Go see him out at gates, and follow him,
-As he hath follow’d you, with all despite;
-Give him deserv’d vexation. Let a guard
-Attend us through the city.
+==138== Go see him out at gates, and follow him,
+==139== As he hath follow’d you, with all despite;
+==140== Give him deserv’d vexation. Let a guard
+==141== Attend us through the city.
 
 **ALL PLEBEIANS.**
-Come, come, let’s see him out at gates, come.
-The gods preserve our noble tribunes! Come.
+==142== Come, come, let’s see him out at gates, come.
+==143== The gods preserve our noble tribunes! Come.
 
 *Exeunt.*
 

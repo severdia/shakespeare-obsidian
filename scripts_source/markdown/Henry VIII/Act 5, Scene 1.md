@@ -20,340 +20,340 @@ ID: henry-viii-5-1
 *Enter Gardiner, Bishop of Winchester, Gardiner’s Page with a torch before him, met by Sir Thomas Lovell.*
 
 **BISH. WIN.**
-It’s one a’ clock, boy, is’t not?
+==1== It’s one a’ clock, boy, is’t not?
 
 **GARD. PAGE.**
-                It hath struck.
+==1==                 It hath struck.
 
 **BISH. WIN.**
-These should be hours for necessities,
-Not for delights; times to repair our nature
-With comforting repose, and not for us
-To waste these times. Good hour of night, Sir Thomas!
-Whither so late?
+==2== These should be hours for necessities,
+==3== Not for delights; times to repair our nature
+==4== With comforting repose, and not for us
+==5== To waste these times. Good hour of night, Sir Thomas!
+==6== Whither so late?
 
 **LOV.**
-        Came you from the King, my lord?
+==6==         Came you from the King, my lord?
 
 **BISH. WIN.**
-I did, Sir Thomas, and left him at primero
-With the Duke of Suffolk.
+==7== I did, Sir Thomas, and left him at primero
+==8== With the Duke of Suffolk.
 
 **LOV.**
-              I must to him too,
-Before he go to bed. I’ll take my leave.
+==8==               I must to him too,
+==9== Before he go to bed. I’ll take my leave.
 
 **BISH. WIN.**
-Not yet, Sir Thomas Lovell. What’s the matter?
-It seems you are in haste. And if there be
-No great offense belongs to’t, give your friend
-Some touch of your late business. Affairs that walk
-(As they say spirits do) at midnight, have
-In them a wilder nature than the business
-That seeks dispatch by day.
+==10== Not yet, Sir Thomas Lovell. What’s the matter?
+==11== It seems you are in haste. And if there be
+==12== No great offense belongs to’t, give your friend
+==13== Some touch of your late business. Affairs that walk
+==14== (As they say spirits do) at midnight, have
+==15== In them a wilder nature than the business
+==16== That seeks dispatch by day.
 
 **LOV.**
-              My lord, I love you;
-And durst commend a secret to your ear
-Much weightier than this work. The Queen’s in labor,
-They say in great extremity, and fear’d
-She’ll with the labor end.
+==16==               My lord, I love you;
+==17== And durst commend a secret to your ear
+==18== Much weightier than this work. The Queen’s in labor,
+==19== They say in great extremity, and fear’d
+==20== She’ll with the labor end.
 
 **BISH. WIN.**
-              The fruit she goes with
-I pray for heartily, that it may find
-Good time, and live; but for the stock, Sir Thomas,
-I wish it grubb’d up now.
+==20==               The fruit she goes with
+==21== I pray for heartily, that it may find
+==22== Good time, and live; but for the stock, Sir Thomas,
+==23== I wish it grubb’d up now.
 
 **LOV.**
-              Methinks I could
-Cry the amen, and yet my conscience says
-She’s a good creature, and, sweet lady, does
-Deserve our better wishes.
+==23==               Methinks I could
+==24== Cry the amen, and yet my conscience says
+==25== She’s a good creature, and, sweet lady, does
+==26== Deserve our better wishes.
 
 **BISH. WIN.**
-              But, sir, sir,
-Hear me, Sir Thomas, y’ are a gentleman
-Of mine own way; I know you wise, religious,
-And, let me tell you, it will ne’er be well⁠—
-’Twill not, Sir Thomas Lovell, take’t of me⁠—
-Till Cranmer, Cromwell, her two hands, and she
-Sleep in their graves.
+==26==               But, sir, sir,
+==27== Hear me, Sir Thomas, y’ are a gentleman
+==28== Of mine own way; I know you wise, religious,
+==29== And, let me tell you, it will ne’er be well⁠—
+==30== ’Twill not, Sir Thomas Lovell, take’t of me⁠—
+==31== Till Cranmer, Cromwell, her two hands, and she
+==32== Sleep in their graves.
 
 **LOV.**
-           Now, sir, you speak of two
-The most remark’d i’ th’ kingdom. As for Cromwell,
-Beside that of the Jewel House, is made Master
-O’ th’ Rolls, and the King’s secretary; further, sir,
-Stands in the gap and trade of more preferments,
-With which the time will load him. Th’ Archbishop
-Is the King’s hand and tongue, and who dare speak
-One syllable against him?
+==32==            Now, sir, you speak of two
+==33== The most remark’d i’ th’ kingdom. As for Cromwell,
+==34== Beside that of the Jewel House, is made Master
+==35== O’ th’ Rolls, and the King’s secretary; further, sir,
+==36== Stands in the gap and trade of more preferments,
+==37== With which the time will load him. Th’ Archbishop
+==38== Is the King’s hand and tongue, and who dare speak
+==39== One syllable against him?
 
 **BISH. WIN.**
-              Yes, yes, Sir Thomas,
-There are that dare, and I myself have ventur’d
-To speak my mind of him; and indeed this day,
-Sir (I may tell it you), I think I have
-Incens’d the lords o’ th’ Council that he is
-(For so I know he is, they know he is) 
-A most arch-heretic, a pestilence
-That does infect the land; with which they moved
-Have broken with the King, who hath so far
-Given ear to our complaint, of his great grace
-And princely care foreseeing those fell mischiefs
-Our reasons laid before him, ’hath commanded
-Tomorrow morning to the Council-board
-He be convented. He’s a rank weed, Sir Thomas,
-And we must root him out. From your affairs
-I hinder you too long. Good night, Sir Thomas.
+==39==               Yes, yes, Sir Thomas,
+==40== There are that dare, and I myself have ventur’d
+==41== To speak my mind of him; and indeed this day,
+==42== Sir (I may tell it you), I think I have
+==43== Incens’d the lords o’ th’ Council that he is
+==44== (For so I know he is, they know he is) 
+==45== A most arch-heretic, a pestilence
+==46== That does infect the land; with which they moved
+==47== Have broken with the King, who hath so far
+==48== Given ear to our complaint, of his great grace
+==49== And princely care foreseeing those fell mischiefs
+==50== Our reasons laid before him, ’hath commanded
+==51== Tomorrow morning to the Council-board
+==52== He be convented. He’s a rank weed, Sir Thomas,
+==53== And we must root him out. From your affairs
+==54== I hinder you too long. Good night, Sir Thomas.
 
 **LOV.**
-Many good-nights, my lord! I rest your servant.
+==55== Many good-nights, my lord! I rest your servant.
 
 *Exeunt the Bishop of Winchester, and Gardiner’s Page.*
 
 *Enter King and Suffolk.*
 
 **KING.**
-Charles, I will play no more tonight,
-My mind’s not on’t, you are too hard for me.
+==56== Charles, I will play no more tonight,
+==57== My mind’s not on’t, you are too hard for me.
 
 **SUF.**
-Sir, I did never win of you before.
+==58== Sir, I did never win of you before.
 
 **KING.**
-But little, Charles,
-Nor shall not, when my fancy’s on my play.
-Now, Lovell, from the Queen what is the news?
+==59== But little, Charles,
+==60== Nor shall not, when my fancy’s on my play.
+==61== Now, Lovell, from the Queen what is the news?
 
 **LOV.**
-I could not personally deliver to her
-What you commanded me, but by her woman
-I sent your message, who return’d her thanks
-In the great’st humbleness, and desir’d your Highness
-Most heartily to pray for her.
+==62== I could not personally deliver to her
+==63== What you commanded me, but by her woman
+==64== I sent your message, who return’d her thanks
+==65== In the great’st humbleness, and desir’d your Highness
+==66== Most heartily to pray for her.
 
 **KING.**
-                What say’st thou? Ha?
-To pray for her? What, is she crying out?
+==66==                 What say’st thou? Ha?
+==67== To pray for her? What, is she crying out?
 
 **LOV.**
-So said her woman, and that her suff’rance made
-Almost each pang a death.
+==68== So said her woman, and that her suff’rance made
+==69== Almost each pang a death.
 
 **KING.**
-              Alas, good lady!
+==69==               Alas, good lady!
 
 **SUF.**
-God safely quit her of her burden, and
-With gentle travail, to the gladding of
-Your Highness with an heir!
+==70== God safely quit her of her burden, and
+==71== With gentle travail, to the gladding of
+==72== Your Highness with an heir!
 
 **KING.**
-              ’Tis midnight, Charles,
-Prithee to bed, and in thy pray’rs remember
-Th’ estate of my poor queen. Leave me alone,
-For I must think of that which company
-Would not be friendly to.
+==72==               ’Tis midnight, Charles,
+==73== Prithee to bed, and in thy pray’rs remember
+==74== Th’ estate of my poor queen. Leave me alone,
+==75== For I must think of that which company
+==76== Would not be friendly to.
 
 **SUF.**
-              I wish your Highness
-A quiet night, and my good mistress will
-Remember in my prayers.
+==76==               I wish your Highness
+==77== A quiet night, and my good mistress will
+==78== Remember in my prayers.
 
 **KING.**
-              Charles, good night.
+==78==               Charles, good night.
 *(Exit Suffolk.)*
 *(Enter Sir Anthony Denny.)*
-Well, sir, what follows?
+==79== Well, sir, what follows?
 
 **DEN.**
-Sir, I have brought my lord the Archbishop,
-As you commanded me.
+==80== Sir, I have brought my lord the Archbishop,
+==81== As you commanded me.
 
 **KING.**
-              Ha? Canterbury?
+==81==               Ha? Canterbury?
 
 **DEN.**
-Ay, my good lord.
+==82== Ay, my good lord.
 
 **KING.**
-           ’Tis true; where is he, Denny?
+==82==            ’Tis true; where is he, Denny?
 
 **DEN.**
-He attends your Highness’ pleasure.
+==83== He attends your Highness’ pleasure.
 
 **KING.**
-                  Bring him to us.
+==83==                   Bring him to us.
 
 *Exit Denny.*
 
 **LOV.**
 *(Aside.)*
-This is about that which the Bishop spake.
-I am happily come hither.
+==84== This is about that which the Bishop spake.
+==85== I am happily come hither.
 
 *Enter Cranmer and Denny.*
 
 **KING.**
-Avoid the gallery.
+==86== Avoid the gallery.
 *(Lovell seems to stay.)*
-Ha? I have said. Be gone.
-What?
+==87== Ha? I have said. Be gone.
+==88== What?
 
 *Exeunt Lovell and Denny.*
 
 **CRAN.**
 *(Aside.)*
-    I am fearful; wherefore frowns he thus?
-’Tis his aspect of terror. All’s not well.
+==88==     I am fearful; wherefore frowns he thus?
+==89== ’Tis his aspect of terror. All’s not well.
 
 **KING.**
-How now, my lord? You do desire to know
-Wherefore I sent for you.
+==90== How now, my lord? You do desire to know
+==91== Wherefore I sent for you.
 
 **CRAN.**
 *(Kneeling.)*
-              It is my duty
-T’ attend your Highness’ pleasure.
+==91==               It is my duty
+==92== T’ attend your Highness’ pleasure.
 
 **KING.**
-                  Pray you arise,
-My good and gracious Lord of Canterbury.
-Come, you and I must walk a turn together;
-I have news to tell you. Come, come, give me your hand.
-Ah, my good lord, I grieve at what I speak,
-And am right sorry to repeat what follows.
-I have, and most unwillingly, of late
-Heard many grievous—I do say, my lord,
-Grievous—complaints of you; which, being consider’d,
-Have mov’d us and our Council, that you shall
-This morning come before us, where I know
-You cannot with such freedom purge yourself,
-But that till further trial, in those charges
-Which will require your answer, you must take
-Your patience to you, and be well contented
-To make your house our Tow’r. You, a brother of us
-It fits we thus proceed, or else no witness
-Would come against you.
+==92==                   Pray you arise,
+==93== My good and gracious Lord of Canterbury.
+==94== Come, you and I must walk a turn together;
+==95== I have news to tell you. Come, come, give me your hand.
+==96== Ah, my good lord, I grieve at what I speak,
+==97== And am right sorry to repeat what follows.
+==98== I have, and most unwillingly, of late
+==99== Heard many grievous—I do say, my lord,
+==100== Grievous—complaints of you; which, being consider’d,
+==101== Have mov’d us and our Council, that you shall
+==102== This morning come before us, where I know
+==103== You cannot with such freedom purge yourself,
+==104== But that till further trial, in those charges
+==105== Which will require your answer, you must take
+==106== Your patience to you, and be well contented
+==107== To make your house our Tow’r. You, a brother of us
+==108== It fits we thus proceed, or else no witness
+==109== Would come against you.
 
 **CRAN.**
 *(Kneeling.)*
-              I humbly thank your Highness,
-And am right glad to catch this good occasion
-Most throughly to be winnowed, where my chaff
-And corn shall fly asunder; for I know
-There’s none stands under more calumnious tongues
-Than I myself, poor man.
+==109==               I humbly thank your Highness,
+==110== And am right glad to catch this good occasion
+==111== Most throughly to be winnowed, where my chaff
+==112== And corn shall fly asunder; for I know
+==113== There’s none stands under more calumnious tongues
+==114== Than I myself, poor man.
 
 **KING.**
-           Stand up, good Canterbury!
-Thy truth and thy integrity is rooted
-In us, thy friend. Give me thy hand, stand up;
-Prithee let’s walk. Now, by my holidame,
-What manner of man are you? My lord, I look’d
-You would have given me your petition, that
-I should have ta’en some pains to bring together
-Yourself and your accusers, and to have heard you
-Without indurance further.
+==114==            Stand up, good Canterbury!
+==115== Thy truth and thy integrity is rooted
+==116== In us, thy friend. Give me thy hand, stand up;
+==117== Prithee let’s walk. Now, by my holidame,
+==118== What manner of man are you? My lord, I look’d
+==119== You would have given me your petition, that
+==120== I should have ta’en some pains to bring together
+==121== Yourself and your accusers, and to have heard you
+==122== Without indurance further.
 
 **CRAN.**
-                Most dread liege,
-The good I stand on is my truth and honesty.
-If they shall fail, I, with mine enemies,
-Will triumph o’er my person, which I weigh not,
-Being of those virtues vacant. I fear nothing
-What can be said against me.
+==122==                 Most dread liege,
+==123== The good I stand on is my truth and honesty.
+==124== If they shall fail, I, with mine enemies,
+==125== Will triumph o’er my person, which I weigh not,
+==126== Being of those virtues vacant. I fear nothing
+==127== What can be said against me.
 
 **KING.**
-                  Know you not
-How your state stands i’ th’ world, with the whole world?
-Your enemies are many, and not small; their practices
-Must bear the same proportion, and not ever
-The justice and the truth o’ th’ question carries
-The due o’ th’ verdict with it. At what ease
-Might corrupt minds procure knaves as corrupt
-To swear against you? Such things have been done.
-You are potently oppos’d, and with a malice
-Of as great size. Ween you of better luck,
-I mean in perjur’d witness, than your Master,
-Whose minister you are, whiles here he liv’d
-Upon this naughty earth? Go to, go to!
-You take a precipit for no leap of danger,
-And woo your own destruction.
+==127==                   Know you not
+==128== How your state stands i’ th’ world, with the whole world?
+==129== Your enemies are many, and not small; their practices
+==130== Must bear the same proportion, and not ever
+==131== The justice and the truth o’ th’ question carries
+==132== The due o’ th’ verdict with it. At what ease
+==133== Might corrupt minds procure knaves as corrupt
+==134== To swear against you? Such things have been done.
+==135== You are potently oppos’d, and with a malice
+==136== Of as great size. Ween you of better luck,
+==137== I mean in perjur’d witness, than your Master,
+==138== Whose minister you are, whiles here he liv’d
+==139== Upon this naughty earth? Go to, go to!
+==140== You take a precipit for no leap of danger,
+==141== And woo your own destruction.
 
 **CRAN.**
-                  God and your Majesty
-Protect mine innocence, or I fall into
-The trap is laid for me!
+==141==                   God and your Majesty
+==142== Protect mine innocence, or I fall into
+==143== The trap is laid for me!
 
 **KING.**
-              Be of good cheer,
-They shall no more prevail than we give way to.
-Keep comfort to you, and this morning see
-You do appear before them. If they shall chance,
-In charging you with matters, to commit you,
-The best persuasions to the contrary
-Fail not to use, and with what vehemency
-Th’ occasion shall instruct you. If entreaties
-Will render you no remedy, this ring
-Deliver them, and your appeal to us
-There make before them. Look, the good man weeps!
-He’s honest, on mine honor. God’s blest Mother!
-I swear he is true-hearted, and a soul
-None better in my kingdom. Get you gone,
-And do as I have bid you.
+==143==               Be of good cheer,
+==144== They shall no more prevail than we give way to.
+==145== Keep comfort to you, and this morning see
+==146== You do appear before them. If they shall chance,
+==147== In charging you with matters, to commit you,
+==148== The best persuasions to the contrary
+==149== Fail not to use, and with what vehemency
+==150== Th’ occasion shall instruct you. If entreaties
+==151== Will render you no remedy, this ring
+==152== Deliver them, and your appeal to us
+==153== There make before them. Look, the good man weeps!
+==154== He’s honest, on mine honor. God’s blest Mother!
+==155== I swear he is true-hearted, and a soul
+==156== None better in my kingdom. Get you gone,
+==157== And do as I have bid you.
 *(Exit Cranmer.)*
-              He has strangled
-His language in his tears.
+==157==               He has strangled
+==158== His language in his tears.
 
 *Enter Old Lady.*
 
 **GENT.**
 *(Within.)*
-Come back! What mean you?
+==159== Come back! What mean you?
 
 **OLD L.**
-I’ll not come back, the tidings that I bring
-Will make my boldness manners. Now good angels
-Fly o’er thy royal head, and shade thy person
-Under their blessed wings!
+==160== I’ll not come back, the tidings that I bring
+==161== Will make my boldness manners. Now good angels
+==162== Fly o’er thy royal head, and shade thy person
+==163== Under their blessed wings!
 
 **KING.**
-              Now by thy looks
-I guess thy message. Is the Queen deliver’d?
-Say ay, and of a boy.
+==163==               Now by thy looks
+==164== I guess thy message. Is the Queen deliver’d?
+==165== Say ay, and of a boy.
 
 **OLD L.**
-           Ay, ay, my liege,
-And of a lovely boy. The God of heaven
-Both now and ever bless her! ’Tis a girl
-Promises boys hereafter. Sir, your queen
-Desires your visitation, and to be
-Acquainted with this stranger. ’Tis as like you
-As cherry is to cherry.
+==165==            Ay, ay, my liege,
+==166== And of a lovely boy. The God of heaven
+==167== Both now and ever bless her! ’Tis a girl
+==168== Promises boys hereafter. Sir, your queen
+==169== Desires your visitation, and to be
+==170== Acquainted with this stranger. ’Tis as like you
+==171== As cherry is to cherry.
 
 **KING.**
-              Lovell!
+==171==               Lovell!
 
 *Enter Lovell.*
 
 **LOV.**
-                  Sir?
+==171==                   Sir?
 
 **KING.**
-Give her an hundred marks. I’ll to the Queen.
+==172== Give her an hundred marks. I’ll to the Queen.
 
 *Exit King.*
 
 **OLD L.**
-An hundred marks? By this light, I’ll ha’ more.
-An ordinary groom is for such payment.
-I will have more or scold it out of him.
-Said I for this, the girl was like to him?
-I’ll have more, or else unsay’t; and now,
-While ’tis hot, I’ll put it to the issue.
+==173== An hundred marks? By this light, I’ll ha’ more.
+==174== An ordinary groom is for such payment.
+==175== I will have more or scold it out of him.
+==176== Said I for this, the girl was like to him?
+==177== I’ll have more, or else unsay’t; and now,
+==178== While ’tis hot, I’ll put it to the issue.
 
 *Exit Lady with Lovell.*
 

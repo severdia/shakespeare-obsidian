@@ -21,7 +21,7 @@ ID: othello-2-2
 *Enter Othello’s Herald with a proclamation; people following.*
 
 **HER.**
-It is Othello’s pleasure, our noble and valiant general, that upon certain tidings now arriv’d, importing the mere perdition of the Turkish fleet, every man put himself into triumph; some to dance, some to make bonfires, each man to what sport and revels his addiction leads him; for besides these beneficial news, it is the celebration of his nuptial. So much was his pleasure should be proclaim’d. All offices are open, and there is full liberty of feasting from this present hour of five till the bell have told eleven. Heaven bless the isle of Cyprus and our noble general Othello!
+==1== It is Othello’s pleasure, our noble and valiant general, that upon certain tidings now arriv’d, importing the mere perdition of the Turkish fleet, every man put himself into triumph; some to dance, some to make bonfires, each man to what sport and revels his addiction leads him; for besides these beneficial news, it is the celebration of his nuptial. So much was his pleasure should be proclaim’d. All offices are open, and there is full liberty of feasting from this present hour of five till the bell have told eleven. Heaven bless the isle of Cyprus and our noble general Othello!
 
 *Exeunt.*
 

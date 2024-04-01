@@ -24,215 +24,215 @@ ID: pericles-2-3
 *Enter the King Simonides, Thaisa, Marshal, Lords, Ladies, Attendants, and Knights, from tilting.*
 
 **SIM.**
-Knights,
-To say you’re welcome were superfluous.
-To place upon the volume of your deeds,
-As in a title-page, your worth in arms,
-Were more than you expect, or more than’s fit,
-Since every worth in show commends itself.
-Prepare for mirth, for mirth becomes a feast.
-You are princes and my guests.
+==1== Knights,
+==2== To say you’re welcome were superfluous.
+==3== To place upon the volume of your deeds,
+==4== As in a title-page, your worth in arms,
+==5== Were more than you expect, or more than’s fit,
+==6== Since every worth in show commends itself.
+==7== Prepare for mirth, for mirth becomes a feast.
+==8== You are princes and my guests.
 
 **THAI.**
-But you, my knight and guest,
-To whom this wreath of victory I give,
-And crown you king of this day’s happiness.
+==9== But you, my knight and guest,
+==10== To whom this wreath of victory I give,
+==11== And crown you king of this day’s happiness.
 
 **PER.**
-’Tis more by fortune, lady, than my merit.
+==12== ’Tis more by fortune, lady, than my merit.
 
 **SIM.**
-Call it by what you will, the day is your,
-And here, I hope, is none that envies it.
-In framing an artist, art hath thus decreed,
-To make some good, but others to exceed,
-And you are her labor’d scholar. Come, queen a’ th’ feast⁠—
-For, daughter, so you are—here take your place.
+==13== Call it by what you will, the day is your,
+==14== And here, I hope, is none that envies it.
+==15== In framing an artist, art hath thus decreed,
+==16== To make some good, but others to exceed,
+==17== And you are her labor’d scholar. Come, queen a’ th’ feast⁠—
+==18== For, daughter, so you are—here take your place.
 *(To the Marshal.)*
-Marshal, the rest, as they deserve their grace.
+==19== Marshal, the rest, as they deserve their grace.
 
 **ALL KNIGHTS.**
-We are honor’d much by good Simonides.
+==20== We are honor’d much by good Simonides.
 
 **SIM.**
-Your presence glads our days. Honor we love,
-For who hates honor hates the gods above.
+==21== Your presence glads our days. Honor we love,
+==22== For who hates honor hates the gods above.
 
 **MARSHAL.**
-Sir, yonder is your place.
+==23== Sir, yonder is your place.
 
 **PER.**
-              Some other is more fit.
+==23==               Some other is more fit.
 
 **1. KNIGHT.**
-Contend not, sir, for we are gentlemen
-Have neither in our hearts nor outward eyes
-Envied the great, nor shall the low despise.
+==24== Contend not, sir, for we are gentlemen
+==25== Have neither in our hearts nor outward eyes
+==26== Envied the great, nor shall the low despise.
 
 **PER.**
-You are right courteous knights.
+==27== You are right courteous knights.
 
 **SIM.**
-                  Sit, sir, sit.
+==27==                   Sit, sir, sit.
 *(Aside.)*
-By Jove, I wonder, that is king of thoughts,
-These cates resist me, he not thought upon.
+==28== By Jove, I wonder, that is king of thoughts,
+==29== These cates resist me, he not thought upon.
 
 **THAI.**
 *(Aside.)*
-By Juno, that is queen of marriage,
-All viands that I eat do seem unsavory,
-Wishing him my meat.
+==30== By Juno, that is queen of marriage,
+==31== All viands that I eat do seem unsavory,
+==32== Wishing him my meat.
 *(To Simonides.)*
-              Sure he’s a gallant gentleman.
+==32==               Sure he’s a gallant gentleman.
 
 **SIM.**
 *(To Thaisa.)*
-He’s but a country gentleman:
-H’as done no more than other knights have done,
-H’as broken a staff or so; so let it pass.
+==33== He’s but a country gentleman:
+==34== H’as done no more than other knights have done,
+==35== H’as broken a staff or so; so let it pass.
 
 **THAI.**
 *(Aside.)*
-To me he seems like diamond to glass.
+==36== To me he seems like diamond to glass.
 
 **PER.**
 *(Aside.)*
-Yon king’s to me like to my father’s picture,
-Which tells me in that glory once he was;
-Had princes sit like stars about his throne,
-And he the sun for them to reverence;
-None that beheld him but, like lesser lights,
-Did vail their crowns to his supremacy;
-Where now his son’s like a glow-worm in the night,
-The which hath fire in darkness, none in light:
-Whereby I see that Time’s the king of men,
-He’s both their parent, and he is their grave,
-And gives them what he will, not what they crave.
+==37== Yon king’s to me like to my father’s picture,
+==38== Which tells me in that glory once he was;
+==39== Had princes sit like stars about his throne,
+==40== And he the sun for them to reverence;
+==41== None that beheld him but, like lesser lights,
+==42== Did vail their crowns to his supremacy;
+==43== Where now his son’s like a glow-worm in the night,
+==44== The which hath fire in darkness, none in light:
+==45== Whereby I see that Time’s the king of men,
+==46== He’s both their parent, and he is their grave,
+==47== And gives them what he will, not what they crave.
 
 **SIM.**
-What, are you merry, knights?
+==48== What, are you merry, knights?
 
 **ALL KNIGHTS.**
-Who can be other in this royal presence?
+==49== Who can be other in this royal presence?
 
 **SIM.**
-Here, with a cup that’s stor’d unto the brim⁠—
-As do you love, fill to your mistress’ lips⁠—
-We drink this health to you.
+==50== Here, with a cup that’s stor’d unto the brim⁠—
+==51== As do you love, fill to your mistress’ lips⁠—
+==52== We drink this health to you.
 
 **ALL KNIGHTS.**
-                We thank your Grace.
+==52==                 We thank your Grace.
 
 **SIM.**
-Yet pause awhile,
-Yon knight doth sit too melancholy,
-As if the entertainment in our court
-Had not a show might countervail his worth.
-Note it not you, Thaisa?
+==53== Yet pause awhile,
+==54== Yon knight doth sit too melancholy,
+==55== As if the entertainment in our court
+==56== Had not a show might countervail his worth.
+==57== Note it not you, Thaisa?
 
 **THAI.**
-              What is’t
-To me, my father?
+==57==               What is’t
+==58== To me, my father?
 
 **SIM.**
-           O, attend, my daughter:
-Princes in this should live like gods above,
-Who freely give to every one that come
-To honor them;
-And princes not doing so are like to gnats,
-Which make a sound, but kill’d are wond’red at.
-Therefore to make his entrance more sweet,
-Here, say we drink this standing-bowl of wine to him.
+==58==            O, attend, my daughter:
+==59== Princes in this should live like gods above,
+==60== Who freely give to every one that come
+==61== To honor them;
+==62== And princes not doing so are like to gnats,
+==63== Which make a sound, but kill’d are wond’red at.
+==64== Therefore to make his entrance more sweet,
+==65== Here, say we drink this standing-bowl of wine to him.
 
 **THAI.**
-Alas, my father, it befits not me
-Unto a stranger knight to be so bold.
-He may my proffer take for an offense,
-Since men take women’s gifts for impudence.
+==66== Alas, my father, it befits not me
+==67== Unto a stranger knight to be so bold.
+==68== He may my proffer take for an offense,
+==69== Since men take women’s gifts for impudence.
 
 **SIM.**
-How?
-Do as I bid you, or you’ll move me else.
+==70== How?
+==71== Do as I bid you, or you’ll move me else.
 
 **THAI.**
 *(Aside.)*
-Now by the gods, he could not please me better.
+==72== Now by the gods, he could not please me better.
 
 **SIM.**
-And furthermore tell him, we desire to know of him
-Of whence he is, his name, and parentage.
+==73== And furthermore tell him, we desire to know of him
+==74== Of whence he is, his name, and parentage.
 
 **THAI.**
-The King my father, sir, has drunk to you⁠—
+==75== The King my father, sir, has drunk to you⁠—
 
 **PER.**
-I thank him.
+==76== I thank him.
 
 **THAI.**
-Wishing it so much blood unto your life.
+==77== Wishing it so much blood unto your life.
 
 **PER.**
-I thank both him and you, and pledge him freely.
+==78== I thank both him and you, and pledge him freely.
 
 **THAI.**
-And further, he desires to know of you
-Of whence you are, your name, and parentage.
+==79== And further, he desires to know of you
+==80== Of whence you are, your name, and parentage.
 
 **PER.**
-A gentleman of Tyre, my name, Pericles,
-My education been in arts and arms;
-Who, looking for adventures in the world,
-Was by the rough seas reft of ships and men,
-And after shipwrack driven upon this shore.
+==81== A gentleman of Tyre, my name, Pericles,
+==82== My education been in arts and arms;
+==83== Who, looking for adventures in the world,
+==84== Was by the rough seas reft of ships and men,
+==85== And after shipwrack driven upon this shore.
 
 **THAI.**
-He thanks your Grace; names himself Pericles,
-A gentleman of Tyre,
-Who only by misfortune of the seas
-Bereft of ships and men, cast on this shore.
+==86== He thanks your Grace; names himself Pericles,
+==87== A gentleman of Tyre,
+==88== Who only by misfortune of the seas
+==89== Bereft of ships and men, cast on this shore.
 
 **SIM.**
-Now by the gods, I pity his misfortune,
-And will awake him from his melancholy.
-Come, gentlemen, we sit too long on trifles,
-And waste the time, which looks for other revels.
-Even in your armors, as you are address’d,
-Will well become a soldier’s dance.
-I will not have excuse with saying this,
-Loud music is too harsh for ladies’ heads,
-Since they love men in arms as well as beds.
+==90== Now by the gods, I pity his misfortune,
+==91== And will awake him from his melancholy.
+==92== Come, gentlemen, we sit too long on trifles,
+==93== And waste the time, which looks for other revels.
+==94== Even in your armors, as you are address’d,
+==95== Will well become a soldier’s dance.
+==96== I will not have excuse with saying this,
+==97== Loud music is too harsh for ladies’ heads,
+==98== Since they love men in arms as well as beds.
 *(They dance.)*
-So, this was well ask’d, ’twas so well perform’d.
-Come, sir, here’s a lady that wants breathing too,
-And I have heard you knights of Tyre
-Are excellent in making ladies trip,
-And that their measures are as excellent.
+==99== So, this was well ask’d, ’twas so well perform’d.
+==100== Come, sir, here’s a lady that wants breathing too,
+==101== And I have heard you knights of Tyre
+==102== Are excellent in making ladies trip,
+==103== And that their measures are as excellent.
 
 **PER.**
-In those that practice them they are, my lord.
+==104== In those that practice them they are, my lord.
 
 **SIM.**
-O, that’s as much as you would be denied
-Of your fair courtesy.
+==105== O, that’s as much as you would be denied
+==106== Of your fair courtesy.
 *(They Knights and Ladies dance.)*
-           Unclasp, unclasp:
-Thanks, gentlemen, to all, all have done well;
+==106==            Unclasp, unclasp:
+==107== Thanks, gentlemen, to all, all have done well;
 *(To Pericles.)*
-But you the best.—Pages and lights, to conduct
-These knights unto their several lodgings!
+==108== But you the best.—Pages and lights, to conduct
+==109== These knights unto their several lodgings!
 *(To Pericles.)*
-                       Yours, sir,
-We have given order be next our own.
+==109==                        Yours, sir,
+==110== We have given order be next our own.
 
 **PER.**
-I am at your Grace’s pleasure.
+==111== I am at your Grace’s pleasure.
 
 **SIM.**
-Princes, it is too late to talk of love,
-And that’s the mark I know you level at.
-Therefore each one betake him to his rest;
-Tomorrow all for speeding do their best.
+==112== Princes, it is too late to talk of love,
+==113== And that’s the mark I know you level at.
+==114== Therefore each one betake him to his rest;
+==115== Tomorrow all for speeding do their best.
 
 *Exeunt.*
 

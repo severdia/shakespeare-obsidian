@@ -21,149 +21,149 @@ ID: merry-wives-of-windsor-4-1
 *Enter Mistress Page, Mistress Quickly, William.*
 
 **MRS. PAGE.**
-Is he at Master Ford’s already, think’st thou?
+==1== Is he at Master Ford’s already, think’st thou?
 
 **QUICK.**
-Sure he is by this—or will be presently. But truly he is very courageous mad about his throwing into the water. Mistress Ford desires you to come suddenly.
+==2== Sure he is by this—or will be presently. But truly he is very courageous mad about his throwing into the water. Mistress Ford desires you to come suddenly.
 
 **MRS. PAGE.**
-I’ll be with her by and by; I’ll but bring my young man here to school.
+==3== I’ll be with her by and by; I’ll but bring my young man here to school.
 *(Enter Evans.)*
-Look where his master comes; ’tis a playing-day, I see. How now, Sir Hugh, no school today?
+==4== Look where his master comes; ’tis a playing-day, I see. How now, Sir Hugh, no school today?
 
 **EVANS.**
-No; Master Slender is let the boys leave to play.
+==5== No; Master Slender is let the boys leave to play.
 
 **QUICK.**
-Blessing of his heart!
+==6== Blessing of his heart!
 
 **MRS. PAGE.**
-Sir Hugh, my husband says my son profits nothing in the world at his book. I pray you ask him some questions in his accidence.
+==7== Sir Hugh, my husband says my son profits nothing in the world at his book. I pray you ask him some questions in his accidence.
 
 **EVANS.**
-Come hither, William; hold up your head; come.
+==8== Come hither, William; hold up your head; come.
 
 **MRS. PAGE.**
-Come on, sirrah; hold up your head. Answer your master, be not afraid.
+==9== Come on, sirrah; hold up your head. Answer your master, be not afraid.
 
 **EVANS.**
-William, how many numbers is in nouns?
+==10== William, how many numbers is in nouns?
 
 **WILL.**
-Two.
+==11== Two.
 
 **QUICK.**
-Truly, I thought there had been one number more, because they say, “’Od’s nouns.”
+==12== Truly, I thought there had been one number more, because they say, “’Od’s nouns.”
 
 **EVANS.**
-Peace your tattlings! What is “fair,” William?
+==13== Peace your tattlings! What is “fair,” William?
 
 **WILL.**
-*Pulcher.*
+==14== *Pulcher.*
 
 **QUICK.**
-Poulcats? There are fairer things than poulcats sure.
+==15== Poulcats? There are fairer things than poulcats sure.
 
 **EVANS.**
-You are a very simplicity oman; I pray you peace. What is *lapis*, William?
+==16== You are a very simplicity oman; I pray you peace. What is *lapis*, William?
 
 **WILL.**
-A stone.
+==17== A stone.
 
 **EVANS.**
-And what is ‘a stone,’ William?
+==18== And what is ‘a stone,’ William?
 
 **WILL.**
-A pebble.
+==19== A pebble.
 
 **EVANS.**
-No; it is *lapis*. I pray you remember in your prain.
+==20== No; it is *lapis*. I pray you remember in your prain.
 
 **WILL.**
-*Lapis.*
+==21== *Lapis.*
 
 **EVANS.**
-That is a good William. What is he, William, that does lend articles?
+==22== That is a good William. What is he, William, that does lend articles?
 
 **WILL.**
-Articles are borrow’d of the pronoun, and be thus declin’d, *Singulariter, nominativo, hic, haec, hoc.*
+==23== Articles are borrow’d of the pronoun, and be thus declin’d, *Singulariter, nominativo, hic, haec, hoc.*
 
 **EVANS.**
-*Nominativo*, *hig, hag, hog*; pray you mark; *genitivo, hujus*. Well, what is your accusative case?
+==24== *Nominativo*, *hig, hag, hog*; pray you mark; *genitivo, hujus*. Well, what is your accusative case?
 
 **WILL.**
-*Accusativo, hinc.*
+==25== *Accusativo, hinc.*
 
 **EVANS.**
-I pray you have your remembrance, child. *Accusativo, hung, hang, hog.*
+==26== I pray you have your remembrance, child. *Accusativo, hung, hang, hog.*
 
 **QUICK.**
-*“Hang-hog”* is Latin for bacon, I warrant you.
+==27== *“Hang-hog”* is Latin for bacon, I warrant you.
 
 **EVANS.**
-Leave your *prabbles*, oman. What is the *focative* case, William?
+==28== Leave your *prabbles*, oman. What is the *focative* case, William?
 
 **WILL.**
-O—vocativo, O.
+==29== O—vocativo, O.
 
 **EVANS.**
-Remember, William, focative is *caret*.
+==30== Remember, William, focative is *caret*.
 
 **QUICK.**
-And that’s a good root.
+==31== And that’s a good root.
 
 **EVANS.**
-Oman, forbear.
+==32== Oman, forbear.
 
 **MRS. PAGE.**
-Peace!
+==33== Peace!
 
 **EVANS.**
-What is your genitive case plural, William?
+==34== What is your genitive case plural, William?
 
 **WILL.**
-Genitive case?
+==35== Genitive case?
 
 **EVANS.**
-Ay.
+==36== Ay.
 
 **WILL.**
-*Genitivo, horum, harum, horum.*
+==37== *Genitivo, horum, harum, horum.*
 
 **QUICK.**
-Vengeance of Jinny’s case! Fie on her! Never name her, child, if she be a whore.
+==38== Vengeance of Jinny’s case! Fie on her! Never name her, child, if she be a whore.
 
 **EVANS.**
-For shame, oman.
+==39== For shame, oman.
 
 **QUICK.**
-You do ill to teach the child such words. He teaches him to “hic” and to “hac,” which they’ll do fast enough of themselves, and to call “horum,”—fie upon you!
+==40== You do ill to teach the child such words. He teaches him to “hic” and to “hac,” which they’ll do fast enough of themselves, and to call “horum,”—fie upon you!
 
 **EVANS.**
-Oman, art thou lunatics? Hast thou no understandings for thy cases and the numbers of the genders? Thou art as foolish Christian creatures as I would desires.
+==41== Oman, art thou lunatics? Hast thou no understandings for thy cases and the numbers of the genders? Thou art as foolish Christian creatures as I would desires.
 
 **MRS. PAGE.**
-Prithee hold thy peace.
+==42== Prithee hold thy peace.
 
 **EVANS.**
-Show me now, William, some declensions of your pronouns.
+==43== Show me now, William, some declensions of your pronouns.
 
 **WILL.**
-Forsooth, I have forgot.
+==44== Forsooth, I have forgot.
 
 **EVANS.**
-It is *qui, quae, quod*: if you forget your qui’s, your *quae’s*, and your *quod’s*, you must be *preeches*. Go your ways and play, go.
+==45== It is *qui, quae, quod*: if you forget your qui’s, your *quae’s*, and your *quod’s*, you must be *preeches*. Go your ways and play, go.
 
 **MRS. PAGE.**
-He is a better scholar than I thought he was.
+==46== He is a better scholar than I thought he was.
 
 **EVANS.**
-He is a good *sprag* memory. Farewell, Mistress Page.
+==47== He is a good *sprag* memory. Farewell, Mistress Page.
 
 **MRS. PAGE.**
-*Adieu*, good Sir Hugh.
+==48== *Adieu*, good Sir Hugh.
 *(Exit Evans.)*
-Get you home, boy. Come, we stay too long.
+==49== Get you home, boy. Come, we stay too long.
 
 *Exeunt.*
 

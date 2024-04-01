@@ -21,195 +21,195 @@ ID: othello-4-3
 *Enter Othello, Lodovico, Desdemona, Emilia, and Attendants.*
 
 **LOD.**
-I do beseech you, sir, trouble yourself no further.
+==1== I do beseech you, sir, trouble yourself no further.
 
 **OTH.**
-O, pardon me; ’twill do me good to walk.
+==2== O, pardon me; ’twill do me good to walk.
 
 **LOD.**
-Madam, good night; I humbly thank your ladyship.
+==3== Madam, good night; I humbly thank your ladyship.
 
 **DES.**
-Your honor is most welcome.
+==4== Your honor is most welcome.
 
 **OTH.**
-                Will you walk, sir?
-O, Desdemona!
+==4==                 Will you walk, sir?
+==5== O, Desdemona!
 
 **DES.**
-My lord?
+==6== My lord?
 
 **OTH.**
-Get you to bed on th’ instant, I will be return’d forthwith. Dismiss your attendant there. Look’t be done.
+==7== Get you to bed on th’ instant, I will be return’d forthwith. Dismiss your attendant there. Look’t be done.
 
 **DES.**
-I will, my lord.
+==8== I will, my lord.
 
 *Exeunt Othello, Lodovico, and Attendants.*
 
 **EMIL.**
-How goes it now? He looks gentler than he did.
+==9== How goes it now? He looks gentler than he did.
 
 **DES.**
-He says he will return incontinent,
-And hath commanded me to go to bed,
-And bid me to dismiss you.
+==10== He says he will return incontinent,
+==11== And hath commanded me to go to bed,
+==12== And bid me to dismiss you.
 
 **EMIL.**
-              Dismiss me?
+==12==               Dismiss me?
 
 **DES.**
-It was his bidding; therefore, good Emilia,
-Give me my nightly wearing, and *adieu*.
-We must not now displease him.
+==13== It was his bidding; therefore, good Emilia,
+==14== Give me my nightly wearing, and *adieu*.
+==15== We must not now displease him.
 
 **EMIL.**
-I would you had never seen him!
+==16== I would you had never seen him!
 
 **DES.**
-So would not I. My love doth so approve him,
-That even his stubbornness, his checks, his frowns⁠—
-Prithee unpin me—have grace and favor in them.
+==17== So would not I. My love doth so approve him,
+==18== That even his stubbornness, his checks, his frowns⁠—
+==19== Prithee unpin me—have grace and favor in them.
 
 **EMIL.**
-I have laid those sheets you bade me on the bed.
+==20== I have laid those sheets you bade me on the bed.
 
 **DES.**
-All’s one. Good faith, how foolish are our minds!
-If I do die before thee, prithee shroud me
-In one of these same sheets.
+==21== All’s one. Good faith, how foolish are our minds!
+==22== If I do die before thee, prithee shroud me
+==23== In one of these same sheets.
 
 **EMIL.**
-                Come, come; you talk.
+==23==                 Come, come; you talk.
 
 **DES.**
-My mother had a maid call’d Barbary;
-She was in love, and he she lov’d prov’d mad,
-And did forsake her. She had a song of “Willow,”
-An old thing ’twas, but it express’d her fortune,
-And she died singing it. That song tonight
-Will not go from my mind; I have much to do
-But to go hang my head all at one side
-And sing it like poor Barbary. Prithee dispatch.
+==24== My mother had a maid call’d Barbary;
+==25== She was in love, and he she lov’d prov’d mad,
+==26== And did forsake her. She had a song of “Willow,”
+==27== An old thing ’twas, but it express’d her fortune,
+==28== And she died singing it. That song tonight
+==29== Will not go from my mind; I have much to do
+==30== But to go hang my head all at one side
+==31== And sing it like poor Barbary. Prithee dispatch.
 
 **EMIL.**
-Shall I go fetch your night-gown?
+==32== Shall I go fetch your night-gown?
 
 **DES.**
-                  No, unpin me here.
-This Lodovico is a proper man.
+==32==                   No, unpin me here.
+==33== This Lodovico is a proper man.
 
 **EMIL.**
-A very handsome man.
+==34== A very handsome man.
 
 **DES.**
-He speaks well.
+==35== He speaks well.
 
 **EMIL.**
-I know a lady in Venice would have walk’d barefoot to Palestine for a touch of his nether lip.
+==36== I know a lady in Venice would have walk’d barefoot to Palestine for a touch of his nether lip.
 
 **DES.**
 *(Singing.)*
-*“The poor soul sat sighing by a sycamore tree,*
-*Sing all a green willow;*
-*Her hand on her bosom, her head on her knee,*
-*Sing willow, willow, willow.*
-*The fresh streams ran by her, and murmur’d her moans,*
-*Sing willow, willow, willow;*
-*Her salt tears fell from her, and soft’ned the stones,*
-*Sing willow”⁠—*
-Lay by these⁠—
+==37== *“The poor soul sat sighing by a sycamore tree,*
+==38== *Sing all a green willow;*
+==39== *Her hand on her bosom, her head on her knee,*
+==40== *Sing willow, willow, willow.*
+==41== *The fresh streams ran by her, and murmur’d her moans,*
+==42== *Sing willow, willow, willow;*
+==43== *Her salt tears fell from her, and soft’ned the stones,*
+==44== *Sing willow”⁠—*
+==45== Lay by these⁠—
 *(Singing.)*
-*“— willow, willow”⁠—*
-Prithee hie thee; he’ll come anon⁠—
+==46== *“— willow, willow”⁠—*
+==47== Prithee hie thee; he’ll come anon⁠—
 *(Singing.)*
-*“Sing all a green willow must be my garland.*
-*Let nobody blame him, his scorn I approve”⁠—*
-Nay, that’s not next. Hark, who is’t that knocks?
+==48== *“Sing all a green willow must be my garland.*
+==49== *Let nobody blame him, his scorn I approve”⁠—*
+==50== Nay, that’s not next. Hark, who is’t that knocks?
 
 **EMIL.**
-It’s the wind.
+==51== It’s the wind.
 
 **DES.**
 *(Singing.)*
-*“I call’d my love false love; but what said he then?*
-*Sing willow, willow, willow;*
-*If I court more women, you’ll couch with more men.”⁠—*
-So get thee gone, good night. Mine eyes do itch;
-Doth that bode weeping?
+==52== *“I call’d my love false love; but what said he then?*
+==53== *Sing willow, willow, willow;*
+==54== *If I court more women, you’ll couch with more men.”⁠—*
+==55== So get thee gone, good night. Mine eyes do itch;
+==56== Doth that bode weeping?
 
 **EMIL.**
-              ’Tis neither here nor there.
+==56==               ’Tis neither here nor there.
 
 **DES.**
-I have heard it said so. O, these men, these men!
-Dost thou in conscience think—tell me, Emilia⁠—
-That there be women do abuse their husbands
-In such gross kind?
+==57== I have heard it said so. O, these men, these men!
+==58== Dost thou in conscience think—tell me, Emilia⁠—
+==59== That there be women do abuse their husbands
+==60== In such gross kind?
 
 **EMIL.**
-           There be some such, no question.
+==60==            There be some such, no question.
 
 **DES.**
-Wouldst thou do such a deed for all the world?
+==61== Wouldst thou do such a deed for all the world?
 
 **EMIL.**
-Why, would not you?
+==62== Why, would not you?
 
 **DES.**
-           No, by this heavenly light!
+==62==            No, by this heavenly light!
 
 **EMIL.**
-Nor I neither by this heavenly light;
-I might do’t as well i’ th’ dark.
+==63== Nor I neither by this heavenly light;
+==64== I might do’t as well i’ th’ dark.
 
 **DES.**
-Wouldst thou do such a deed for all the world?
+==65== Wouldst thou do such a deed for all the world?
 
 **EMIL.**
-The world’s a huge thing; it is a great price
-For a small vice.
+==66== The world’s a huge thing; it is a great price
+==67== For a small vice.
 
 **DES.**
-Good troth, I think thou wouldst not.
+==68== Good troth, I think thou wouldst not.
 
 **EMIL.**
-By my troth, I think I should, and undo’t when I had done’t. Marry, I would not do such a thing for a joint-ring, nor for measures of lawn, nor for gowns, petticoats, nor caps, nor any petty exhibition; but, for all the whole world—’ud’s pity, who would not make her husband a cuckold to make him a monarch? I should venture purgatory for’t.
+==69== By my troth, I think I should, and undo’t when I had done’t. Marry, I would not do such a thing for a joint-ring, nor for measures of lawn, nor for gowns, petticoats, nor caps, nor any petty exhibition; but, for all the whole world—’ud’s pity, who would not make her husband a cuckold to make him a monarch? I should venture purgatory for’t.
 
 **DES.**
-Beshrew me, if I would do such a wrong
-For the whole world.
+==70== Beshrew me, if I would do such a wrong
+==71== For the whole world.
 
 **EMIL.**
-Why, the wrong is but a wrong i’ th’ world; and having the world for your labor, ’tis a wrong in your own world, and you might quickly make it right.
+==72== Why, the wrong is but a wrong i’ th’ world; and having the world for your labor, ’tis a wrong in your own world, and you might quickly make it right.
 
 **DES.**
-I do not think there is any such woman.
+==73== I do not think there is any such woman.
 
 **EMIL.**
-Yes, a dozen; and as many to th’ vantage as would store the world they play’d for.
-But I do think it is their husbands’ faults
-If wives do fall. Say that they slack their duties,
-And pour our treasures into foreign laps;
-Or else break out in peevish jealousies,
-Throwing restraint upon us; or say they strike us,
-Or scant our former having in despite:
-Why, we have galls; and though we have some grace,
-Yet have we some revenge. Let husbands know
-Their wives have sense like them; they see, and smell,
-And have their palates both for sweet and sour,
-As husbands have. What is it that they do
-When they change us for others? Is it sport?
-I think it is. And doth affection breed it?
-I think it doth. Is’t frailty that thus errs?
-It is so too. And have not we affections,
-Desires for sport, and frailty, as men have?
-Then let them use us well; else let them know,
-The ills we do, their ills instruct us so.
+==74== Yes, a dozen; and as many to th’ vantage as would store the world they play’d for.
+==75== But I do think it is their husbands’ faults
+==76== If wives do fall. Say that they slack their duties,
+==77== And pour our treasures into foreign laps;
+==78== Or else break out in peevish jealousies,
+==79== Throwing restraint upon us; or say they strike us,
+==80== Or scant our former having in despite:
+==81== Why, we have galls; and though we have some grace,
+==82== Yet have we some revenge. Let husbands know
+==83== Their wives have sense like them; they see, and smell,
+==84== And have their palates both for sweet and sour,
+==85== As husbands have. What is it that they do
+==86== When they change us for others? Is it sport?
+==87== I think it is. And doth affection breed it?
+==88== I think it doth. Is’t frailty that thus errs?
+==89== It is so too. And have not we affections,
+==90== Desires for sport, and frailty, as men have?
+==91== Then let them use us well; else let them know,
+==92== The ills we do, their ills instruct us so.
 
 **DES.**
-Good night, good night. God me such uses send,
-Not to pick bad from bad, but by bad mend.
+==93== Good night, good night. God me such uses send,
+==94== Not to pick bad from bad, but by bad mend.
 
 *Exeunt.*
 

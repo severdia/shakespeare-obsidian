@@ -21,70 +21,70 @@ ID: henry-vi-part-iii-5-7
 *Flourish. Enter King Edward, Queen Elizabeth, Clarence, Richard of Gloucester, Hastings, Nurse with the young Prince, and Attendants.*
 
 **K. EDW.**
-Once more we sit in England’s royal throne,
-Repurchas’d with the blood of enemies.
-What valiant foemen, like to autumn’s corn,
-Have we mow’d down in tops of all their pride!
-Three Dukes of Somerset, threefold renown’d
-For hardy and undoubted champions;
-Two Cliffords, as the father and the son,
-And two Northumberlands—two braver men
-Ne’er spurr’d their coursers at the trumpet’s sound;
-With them, the two brave bears, Warwick and Montague,
-That in their chains fetter’d the kingly lion,
-And made the forest tremble when they roar’d.
-Thus have we swept suspicion from our seat,
-And made our footstool of security.
-Come hither, Bess, and let me kiss my boy.
-Young Ned, for thee, thine uncles and myself
-Have in our armors watch’d the winter’s night,
-Went all afoot in summer’s scalding heat,
-That thou mightst repossess the crown in peace,
-And of our labors thou shalt reap the gain.
+==1== Once more we sit in England’s royal throne,
+==2== Repurchas’d with the blood of enemies.
+==3== What valiant foemen, like to autumn’s corn,
+==4== Have we mow’d down in tops of all their pride!
+==5== Three Dukes of Somerset, threefold renown’d
+==6== For hardy and undoubted champions;
+==7== Two Cliffords, as the father and the son,
+==8== And two Northumberlands—two braver men
+==9== Ne’er spurr’d their coursers at the trumpet’s sound;
+==10== With them, the two brave bears, Warwick and Montague,
+==11== That in their chains fetter’d the kingly lion,
+==12== And made the forest tremble when they roar’d.
+==13== Thus have we swept suspicion from our seat,
+==14== And made our footstool of security.
+==15== Come hither, Bess, and let me kiss my boy.
+==16== Young Ned, for thee, thine uncles and myself
+==17== Have in our armors watch’d the winter’s night,
+==18== Went all afoot in summer’s scalding heat,
+==19== That thou mightst repossess the crown in peace,
+==20== And of our labors thou shalt reap the gain.
 
 **GLOU.**
 *(Aside.)*
-I’ll blast his harvest, and your head were laid,
-For yet I am not look’d on in the world.
-This shoulder was ordain’d so thick to heave,
-And heave it shall some weight, or break my back:
-Work thou the way—and that shall execute.
+==21== I’ll blast his harvest, and your head were laid,
+==22== For yet I am not look’d on in the world.
+==23== This shoulder was ordain’d so thick to heave,
+==24== And heave it shall some weight, or break my back:
+==25== Work thou the way—and that shall execute.
 
 **K. EDW.**
-Clarence and Gloucester, love my lovely queen,
-And kiss your princely nephew, brothers both.
+==26== Clarence and Gloucester, love my lovely queen,
+==27== And kiss your princely nephew, brothers both.
 
 **CLAR.**
-The duty that I owe unto your Majesty
-I seal upon the lips of this sweet babe.
+==28== The duty that I owe unto your Majesty
+==29== I seal upon the lips of this sweet babe.
 
 **Q. ELIZ.**
-Thanks, noble Clarence, worthy brother, thanks.
+==30== Thanks, noble Clarence, worthy brother, thanks.
 
 **GLOU.**
-And that I love the tree from whence thou sprang’st,
-Witness the loving kiss I give the fruit.
+==31== And that I love the tree from whence thou sprang’st,
+==32== Witness the loving kiss I give the fruit.
 *(Aside.)*
-To say the truth, so Judas kiss’d his master,
-And cried “All hail!” when as he meant all harm.
+==33== To say the truth, so Judas kiss’d his master,
+==34== And cried “All hail!” when as he meant all harm.
 
 **K. EDW.**
-Now am I seated as my soul delights,
-Having my country’s peace and brothers’ loves.
+==35== Now am I seated as my soul delights,
+==36== Having my country’s peace and brothers’ loves.
 
 **CLAR.**
-What will your Grace have done with Margaret?
-Reignier, her father, to the King of France
-Hath pawn’d the Sicils and Jerusalem,
-And hither have they sent it for her ransom.
+==37== What will your Grace have done with Margaret?
+==38== Reignier, her father, to the King of France
+==39== Hath pawn’d the Sicils and Jerusalem,
+==40== And hither have they sent it for her ransom.
 
 **K. EDW.**
-Away with her, and waft her hence to France.
-And now what rests but that we spend the time
-With stately triumphs, mirthful comic shows,
-Such as befits the pleasure of the court?
-Sound drums and trumpets! Farewell sour annoy!
-For here I hope begins our lasting joy.
+==41== Away with her, and waft her hence to France.
+==42== And now what rests but that we spend the time
+==43== With stately triumphs, mirthful comic shows,
+==44== Such as befits the pleasure of the court?
+==45== Sound drums and trumpets! Farewell sour annoy!
+==46== For here I hope begins our lasting joy.
 
 *Exeunt omnes.*
 

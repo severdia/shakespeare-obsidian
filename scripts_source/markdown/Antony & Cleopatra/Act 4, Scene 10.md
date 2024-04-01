@@ -19,20 +19,20 @@ ID: antony-and-cleopatra-4-10
 *Enter Antony and Scarus with their army.*
 
 **ANT.**
-Their preparation is today by sea,
-We please them not by land.
+==1== Their preparation is today by sea,
+==2== We please them not by land.
 
 **SCAR.**
-                For both, my lord.
+==2==                 For both, my lord.
 
 **ANT.**
-I would they’ld fight i’ th’ fire or i’ th’ air;
-We’ld fight there too. But this it is: our foot
-Upon the hills adjoining to the city
-Shall stay with us—order for sea is given,
-They have put forth the haven⁠—
-Where their appointment we may best discover,
-And look on their endeavor.
+==3== I would they’ld fight i’ th’ fire or i’ th’ air;
+==4== We’ld fight there too. But this it is: our foot
+==5== Upon the hills adjoining to the city
+==6== Shall stay with us—order for sea is given,
+==7== They have put forth the haven⁠—
+==8== Where their appointment we may best discover,
+==9== And look on their endeavor.
 
 *Exeunt.*
 

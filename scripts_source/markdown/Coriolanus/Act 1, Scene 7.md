@@ -19,18 +19,18 @@ ID: coriolanus-1-7
 *Titus Lartius, having set a guard upon Corioli, going with Drum and Trumpet toward Cominius and Caius Martius, enters with a Lieutenant, other Roman Soldiers, and a Scout.*
 
 **LART.**
-So, let the ports be guarded; keep your duties,
-As I have set them down. If I do send, dispatch
-Those centuries to our aid; the rest will serve
-For a short holding. If we lose the field,
-We cannot keep the town.
+==1== So, let the ports be guarded; keep your duties,
+==2== As I have set them down. If I do send, dispatch
+==3== Those centuries to our aid; the rest will serve
+==4== For a short holding. If we lose the field,
+==5== We cannot keep the town.
 
 **LIEU. LART.**
-              Fear not our care, sir.
+==5==               Fear not our care, sir.
 
 **LART.**
-Hence; and shut your gates upon ’s.
-Our guider, come, to th’ Roman camp conduct us.
+==6== Hence; and shut your gates upon ’s.
+==7== Our guider, come, to th’ Roman camp conduct us.
 
 *Exeunt.*
 

@@ -21,545 +21,545 @@ ID: othello-2-3
 *Enter Othello, Desdemona, Cassio, and Attendants.*
 
 **OTH.**
-Good Michael, look you to the guard tonight.
-Let’s teach ourselves that honorable stop,
-Not to outsport discretion.
+==1== Good Michael, look you to the guard tonight.
+==2== Let’s teach ourselves that honorable stop,
+==3== Not to outsport discretion.
 
 **CAS.**
-Iago hath direction what to do;
-But notwithstanding with my personal eye
-Will I look to’t.
+==4== Iago hath direction what to do;
+==5== But notwithstanding with my personal eye
+==6== Will I look to’t.
 
 **OTH.**
-           Iago is most honest.
-Michael, good night. Tomorrow with your earliest
-Let me have speech with you.
+==6==            Iago is most honest.
+==7== Michael, good night. Tomorrow with your earliest
+==8== Let me have speech with you.
 *(To Desdemona.)*
-                Come, my dear love,
-The purchase made, the fruits are to ensue;
-That profit’s yet to come ’tween me and you.⁠—
-Good night.
+==8==                 Come, my dear love,
+==9== The purchase made, the fruits are to ensue;
+==10== That profit’s yet to come ’tween me and you.⁠—
+==11== Good night.
 
 *Exit with Desdemona and Attendants.*
 
 *Enter Iago.*
 
 **CAS.**
-Welcome, Iago; we must to the watch.
+==12== Welcome, Iago; we must to the watch.
 
 **IAGO.**
-Not this hour, lieutenant; ’tis not yet ten o’ th’ clock. Our general cast us thus early for the love of his Desdemona; who let us not therefore blame. He hath not yet made wanton the night with her; and she is sport for Jove.
+==13== Not this hour, lieutenant; ’tis not yet ten o’ th’ clock. Our general cast us thus early for the love of his Desdemona; who let us not therefore blame. He hath not yet made wanton the night with her; and she is sport for Jove.
 
 **CAS.**
-She’s a most exquisite lady.
+==14== She’s a most exquisite lady.
 
 **IAGO.**
-And I’ll warrant her, full of game.
+==15== And I’ll warrant her, full of game.
 
 **CAS.**
-Indeed she’s a most fresh and delicate creature.
+==16== Indeed she’s a most fresh and delicate creature.
 
 **IAGO.**
-What an eye she has! Methinks it sounds a parley to provocation.
+==17== What an eye she has! Methinks it sounds a parley to provocation.
 
 **CAS.**
-An inviting eye; and yet methinks right modest.
+==18== An inviting eye; and yet methinks right modest.
 
 **IAGO.**
-And when she speaks, is it not an alarum to love?
+==19== And when she speaks, is it not an alarum to love?
 
 **CAS.**
-She is indeed perfection.
+==20== She is indeed perfection.
 
 **IAGO.**
-Well—happiness to their sheets! Come, lieutenant, I have a stoup of wine, and here without are a brace of Cyprus gallants that would fain have a measure to the health of black Othello.
+==21== Well—happiness to their sheets! Come, lieutenant, I have a stoup of wine, and here without are a brace of Cyprus gallants that would fain have a measure to the health of black Othello.
 
 **CAS.**
-Not tonight, good Iago, I have very poor and unhappy brains for drinking. I could well wish courtesy would invent some other custom of entertainment.
+==22== Not tonight, good Iago, I have very poor and unhappy brains for drinking. I could well wish courtesy would invent some other custom of entertainment.
 
 **IAGO.**
-O, they are our friends—but one cup, I’ll drink for you.
+==23== O, they are our friends—but one cup, I’ll drink for you.
 
 **CAS.**
-I have drunk but one cup tonight—and that was craftily qualified too—and behold what innovation it makes here. I am infortunate in the infirmity, and dare not task my weakness with any more.
+==24== I have drunk but one cup tonight—and that was craftily qualified too—and behold what innovation it makes here. I am infortunate in the infirmity, and dare not task my weakness with any more.
 
 **IAGO.**
-What, man? ’Tis a night of revels, the gallants desire it.
+==25== What, man? ’Tis a night of revels, the gallants desire it.
 
 **CAS.**
-Where are they?
+==26== Where are they?
 
 **IAGO.**
-Here, at the door; I pray you call them in.
+==27== Here, at the door; I pray you call them in.
 
 **CAS.**
-I’ll do’t, but it dislikes me.
+==28== I’ll do’t, but it dislikes me.
 
 *Exit.*
 
 **IAGO.**
-If I can fasten but one cup upon him,
-With that which he hath drunk tonight already,
-He’ll be as full of quarrel and offense
-As my young mistress’ dog. Now, my sick fool Roderigo,
-Whom love hath turn’d almost the wrong side out,
-To Desdemona hath tonight carous’d
-Potations pottle-deep; and he’s to watch.
-Three else of Cyprus, noble swelling spirits
-That hold their honors in a wary distance,
-The very elements of this warlike isle,
-Have I tonight fluster’d with flowing cups,
-And they watch too. Now ’mongst this flock of drunkards
-Am I to put our Cassio in some action
-That may offend the isle. But here they come.
+==29== If I can fasten but one cup upon him,
+==30== With that which he hath drunk tonight already,
+==31== He’ll be as full of quarrel and offense
+==32== As my young mistress’ dog. Now, my sick fool Roderigo,
+==33== Whom love hath turn’d almost the wrong side out,
+==34== To Desdemona hath tonight carous’d
+==35== Potations pottle-deep; and he’s to watch.
+==36== Three else of Cyprus, noble swelling spirits
+==37== That hold their honors in a wary distance,
+==38== The very elements of this warlike isle,
+==39== Have I tonight fluster’d with flowing cups,
+==40== And they watch too. Now ’mongst this flock of drunkards
+==41== Am I to put our Cassio in some action
+==42== That may offend the isle. But here they come.
 *(Enter Cassio, Montano, and Gentlemen; Servants follow with wine.)*
-If consequence do but approve my dream,
-My boat sails freely, both with wind and stream.
+==43== If consequence do but approve my dream,
+==44== My boat sails freely, both with wind and stream.
 
 **CAS.**
-’Fore God, they have given me a rouse already.
+==45== ’Fore God, they have given me a rouse already.
 
 **MON.**
-Good faith, a little one; not past a pint, as I am a soldier.
+==46== Good faith, a little one; not past a pint, as I am a soldier.
 
 **IAGO.**
-Some wine ho!
+==47== Some wine ho!
 *(Sings.)*
-*“And let me the canakin clink, clink;*
-*And let me the canakin clink.*
-*A soldier’s a man;*
-*O, man’s life’s but a span;*
-*Why then let a soldier drink.”*
-Some wine, boys!
+==48== *“And let me the canakin clink, clink;*
+==49== *And let me the canakin clink.*
+==50== *A soldier’s a man;*
+==51== *O, man’s life’s but a span;*
+==52== *Why then let a soldier drink.”*
+==53== Some wine, boys!
 
 **CAS.**
-’Fore God, an excellent song.
+==54== ’Fore God, an excellent song.
 
 **IAGO.**
-I learn’d it in England, where indeed they are most potent in potting; your Dane, your German, and your swag-bellied Hollander—Drink ho!—are nothing to your English.
+==55== I learn’d it in England, where indeed they are most potent in potting; your Dane, your German, and your swag-bellied Hollander—Drink ho!—are nothing to your English.
 
 **CAS.**
-Is your Englishman so exquisite in his drinking?
+==56== Is your Englishman so exquisite in his drinking?
 
 **IAGO.**
-Why, he drinks you, with facility, your Dane dead drunk; he sweats not to overthrow your Almain; he gives your Hollander a vomit ere the next pottle can be fill’d.
+==57== Why, he drinks you, with facility, your Dane dead drunk; he sweats not to overthrow your Almain; he gives your Hollander a vomit ere the next pottle can be fill’d.
 
 **CAS.**
-To the health of our general!
+==58== To the health of our general!
 
 **MON.**
-I am for it, lieutenant; and I’ll do you justice.
+==59== I am for it, lieutenant; and I’ll do you justice.
 
 **IAGO.**
-O sweet England!
+==60== O sweet England!
 *(Sings.)*
-*“King Stephen was and—a worthy peer,*
-*His breeches cost him but a crown;*
-*He held them sixpence all too dear,*
-*With that he call’d the tailor lown;*
-*He was a wight of high renown,*
-*And thou art but of low degree.*
-*’Tis pride that pulls the country down,*
-*Then take thy auld cloak about thee.”*
-Some wine ho!
+==61== *“King Stephen was and—a worthy peer,*
+==62== *His breeches cost him but a crown;*
+==63== *He held them sixpence all too dear,*
+==64== *With that he call’d the tailor lown;*
+==65== *He was a wight of high renown,*
+==66== *And thou art but of low degree.*
+==67== *’Tis pride that pulls the country down,*
+==68== *Then take thy auld cloak about thee.”*
+==69== Some wine ho!
 
 **CAS.**
-’Fore God, this is a more exquisite song than the other.
+==70== ’Fore God, this is a more exquisite song than the other.
 
 **IAGO.**
-Will you hear’t again?
+==71== Will you hear’t again?
 
 **CAS.**
-No; for I hold him to be unworthy of his place that does those things. Well, God’s above all; and there be souls must be sav’d, and there be souls must not be sav’d.
+==72== No; for I hold him to be unworthy of his place that does those things. Well, God’s above all; and there be souls must be sav’d, and there be souls must not be sav’d.
 
 **IAGO.**
-It’s true, good lieutenant.
+==73== It’s true, good lieutenant.
 
 **CAS.**
-For mine own part—no offense to the general, nor any man of quality—I hope to be sav’d.
+==74== For mine own part—no offense to the general, nor any man of quality—I hope to be sav’d.
 
 **IAGO.**
-And so do I too, lieutenant.
+==75== And so do I too, lieutenant.
 
 **CAS.**
-Ay; but by your leave, not before me; the lieutenant is to be sav’d before the ancient. Let’s have no more of this; let’s to our affairs.—God forgive us our sins!—Gentlemen, let’s look to our business. Do not think, gentlemen, I am drunk: this is my ancient, this is my right hand, and this is my left hand. I am not drunk now; I can stand well enough, and I speak well enough.
+==76== Ay; but by your leave, not before me; the lieutenant is to be sav’d before the ancient. Let’s have no more of this; let’s to our affairs.—God forgive us our sins!—Gentlemen, let’s look to our business. Do not think, gentlemen, I am drunk: this is my ancient, this is my right hand, and this is my left hand. I am not drunk now; I can stand well enough, and I speak well enough.
 
 **ALL.**
-Excellent well.
+==77== Excellent well.
 
 **CAS.**
-Why, very well then; you must not think then that I am drunk.
+==78== Why, very well then; you must not think then that I am drunk.
 
 *Exit.*
 
 **MON.**
-To th’ platform, masters, come, let’s set the watch.
+==79== To th’ platform, masters, come, let’s set the watch.
 
 *The Gentlemen follow Cassio off.*
 
 **IAGO.**
-You see this fellow that is gone before:
-He’s a soldier fit to stand by Caesar
-And give direction; and do but see his vice,
-’Tis to his virtue a just equinox,
-The one as long as th’ other. ’Tis pity of him.
-I fear the trust Othello puts him in,
-On some odd time of his infirmity,
-Will shake this island.
+==80== You see this fellow that is gone before:
+==81== He’s a soldier fit to stand by Caesar
+==82== And give direction; and do but see his vice,
+==83== ’Tis to his virtue a just equinox,
+==84== The one as long as th’ other. ’Tis pity of him.
+==85== I fear the trust Othello puts him in,
+==86== On some odd time of his infirmity,
+==87== Will shake this island.
 
 **MON.**
-              But is he often thus?
+==87==               But is he often thus?
 
 **IAGO.**
-’Tis evermore the prologue to his sleep.
-He’ll watch the horologe a double set
-If drink rock not his cradle.
+==88== ’Tis evermore the prologue to his sleep.
+==89== He’ll watch the horologe a double set
+==90== If drink rock not his cradle.
 
 **MON.**
-                It were well
-The general were put in mind of it.
-Perhaps he sees it not, or his good nature
-Prizes the virtue that appears in Cassio,
-And looks not on his evils. Is not this true?
+==90==                 It were well
+==91== The general were put in mind of it.
+==92== Perhaps he sees it not, or his good nature
+==93== Prizes the virtue that appears in Cassio,
+==94== And looks not on his evils. Is not this true?
 
 *Enter Roderigo.*
 
 **IAGO.**
 *(Aside to him.)*
-How now, Roderigo?
-I pray you, after the lieutenant, go.
+==95== How now, Roderigo?
+==96== I pray you, after the lieutenant, go.
 
 *Exit Roderigo.*
 
 **MON.**
-And ’tis great pity that the noble Moor
-Should hazard such a place as his own second
-With one of an ingraft infirmity;
-It were an honest action to say
-So to the Moor.
+==97== And ’tis great pity that the noble Moor
+==98== Should hazard such a place as his own second
+==99== With one of an ingraft infirmity;
+==100== It were an honest action to say
+==101== So to the Moor.
 
 **IAGO.**
-        Not I, for this fair island.
-I do love Cassio well; and would do much
-To cure him of this evil.
+==101==         Not I, for this fair island.
+==102== I do love Cassio well; and would do much
+==103== To cure him of this evil.
 *(Cry within:)*
-“Help! Help!”
-              But hark, what noise?
+==104== “Help! Help!”
+==104==               But hark, what noise?
 
 *Enter Cassio pursuing Roderigo.*
 
 **CAS.**
-’Zounds, you rogue! You rascal!
+==105== ’Zounds, you rogue! You rascal!
 
 **MON.**
-What’s the matter, lieutenant?
+==106== What’s the matter, lieutenant?
 
 **CAS.**
-A knave teach me my duty? I’ll beat the knave into a twiggen bottle.
+==107== A knave teach me my duty? I’ll beat the knave into a twiggen bottle.
 
 **ROD.**
-Beat me?
+==108== Beat me?
 
 **CAS.**
-Dost thou prate, rogue?
+==109== Dost thou prate, rogue?
 
 *Striking Roderigo.*
 
 **MON.**
-Nay, good lieutenant; I pray you, sir, hold your hand.
+==110== Nay, good lieutenant; I pray you, sir, hold your hand.
 
 *Staying him.*
 
 **CAS.**
-Let me go, sir, or I’ll knock you o’er the mazzard.
+==111== Let me go, sir, or I’ll knock you o’er the mazzard.
 
 **MON.**
-Come, come—you’re drunk.
+==112== Come, come—you’re drunk.
 
 **CAS.**
-Drunk?
+==113== Drunk?
 
 *They fight.*
 
 **IAGO.**
 *(Aside to Roderigo.)*
-Away, I say; go out and cry a mutiny.
+==114== Away, I say; go out and cry a mutiny.
 *(Exit Roderigo.)*
-Nay, good lieutenant—God’s will, gentlemen⁠—
-Help ho!—lieutenant—sir—Montano—sir⁠—
-Help, masters!—Here’s a goodly watch indeed!
+==115== Nay, good lieutenant—God’s will, gentlemen⁠—
+==116== Help ho!—lieutenant—sir—Montano—sir⁠—
+==117== Help, masters!—Here’s a goodly watch indeed!
 *(A bell rung.)*
-Who’s that which rings the bell? *Diablo*, ho!
-The town will rise. God’s will, lieutenant, hold!
-You’ll be asham’d forever.
+==118== Who’s that which rings the bell? *Diablo*, ho!
+==119== The town will rise. God’s will, lieutenant, hold!
+==120== You’ll be asham’d forever.
 
 *Enter Othello and Gentlemen with weapons.*
 
 **OTH.**
-What is the matter here?
+==121== What is the matter here?
 
 **MON.**
-              ’Zounds, I bleed still,
-I am hurt to th’ death. He dies.
+==121==               ’Zounds, I bleed still,
+==122== I am hurt to th’ death. He dies.
 
 *Assailing Cassio again.*
 
 **OTH.**
-                Hold, for your lives!
+==122==                 Hold, for your lives!
 
 **IAGO.**
-Hold ho! Lieutenant—sir—Montano—gentlemen⁠—
-Have you forgot all place of sense and duty?
-Hold! The general speaks to you; hold, for shame!
+==123== Hold ho! Lieutenant—sir—Montano—gentlemen⁠—
+==124== Have you forgot all place of sense and duty?
+==125== Hold! The general speaks to you; hold, for shame!
 
 **OTH.**
-Why, how now ho? From whence ariseth this?
-Are we turn’d Turks, and to ourselves do that
-Which heaven hath forbid the Ottomites?
-For Christian shame, put by this barbarous brawl.
-He that stirs next to carve for his own rage
-Holds his soul light; he dies upon his motion.
-Silence that dreadful bell, it frights the isle
-From her propriety. What is the matter, masters?
-Honest Iago, that looks dead with grieving,
-Speak: who began this? On thy love, I charge thee!
+==126== Why, how now ho? From whence ariseth this?
+==127== Are we turn’d Turks, and to ourselves do that
+==128== Which heaven hath forbid the Ottomites?
+==129== For Christian shame, put by this barbarous brawl.
+==130== He that stirs next to carve for his own rage
+==131== Holds his soul light; he dies upon his motion.
+==132== Silence that dreadful bell, it frights the isle
+==133== From her propriety. What is the matter, masters?
+==134== Honest Iago, that looks dead with grieving,
+==135== Speak: who began this? On thy love, I charge thee!
 
 **IAGO.**
-I do not know. Friends all, but now, even now;
-In quarter, and in terms like bride and groom
-Devesting them for bed; and then, but now
-(As if some planet had unwitted men),
-Swords out, and tilting one at other’s breast,
-In opposition bloody. I cannot speak
-Any beginning to this peevish odds;
-And would in action glorious I had lost
-Those legs that brought me to a part of it.
+==136== I do not know. Friends all, but now, even now;
+==137== In quarter, and in terms like bride and groom
+==138== Devesting them for bed; and then, but now
+==139== (As if some planet had unwitted men),
+==140== Swords out, and tilting one at other’s breast,
+==141== In opposition bloody. I cannot speak
+==142== Any beginning to this peevish odds;
+==143== And would in action glorious I had lost
+==144== Those legs that brought me to a part of it.
 
 **OTH.**
-How comes it, Michael, you are thus forgot?
+==145== How comes it, Michael, you are thus forgot?
 
 **CAS.**
-I pray you pardon me, I cannot speak.
+==146== I pray you pardon me, I cannot speak.
 
 **OTH.**
-Worthy Montano, you were wont to be civil;
-The gravity and stillness of your youth
-The world hath noted, and your name is great
-In mouths of wisest censure. What’s the matter
-That you unlace your reputation thus,
-And spend your rich opinion for the name
-Of a night-brawler? Give me answer to it.
+==147== Worthy Montano, you were wont to be civil;
+==148== The gravity and stillness of your youth
+==149== The world hath noted, and your name is great
+==150== In mouths of wisest censure. What’s the matter
+==151== That you unlace your reputation thus,
+==152== And spend your rich opinion for the name
+==153== Of a night-brawler? Give me answer to it.
 
 **MON.**
-Worthy Othello, I am hurt to danger.
-Your officer, Iago, can inform you⁠—
-While I spare speech, which something now offends me⁠—
-Of all that I do know, nor know I aught
-By me that’s said or done amiss this night,
-Unless self-charity be sometimes a vice,
-And to defend ourselves it be a sin
-When violence assails us.
+==154== Worthy Othello, I am hurt to danger.
+==155== Your officer, Iago, can inform you⁠—
+==156== While I spare speech, which something now offends me⁠—
+==157== Of all that I do know, nor know I aught
+==158== By me that’s said or done amiss this night,
+==159== Unless self-charity be sometimes a vice,
+==160== And to defend ourselves it be a sin
+==161== When violence assails us.
 
 **OTH.**
-              Now by heaven,
-My blood begins my safer guides to rule,
-And passion, having my best judgment collied,
-Assays to lead the way. ’Zounds, if I stir,
-Or do but lift this arm, the best of you
-Shall sink in my rebuke. Give me to know
-How this foul rout began; who set it on;
-And he that is approv’d in this offense,
-Though he had twinn’d with me, both at a birth,
-Shall lose me. What, in a town of war,
-Yet wild, the people’s hearts brimful of fear,
-To manage private and domestic quarrel?
-In night, and on the court and guard of safety?
-’Tis monstrous. Iago, who began’t?
+==161==               Now by heaven,
+==162== My blood begins my safer guides to rule,
+==163== And passion, having my best judgment collied,
+==164== Assays to lead the way. ’Zounds, if I stir,
+==165== Or do but lift this arm, the best of you
+==166== Shall sink in my rebuke. Give me to know
+==167== How this foul rout began; who set it on;
+==168== And he that is approv’d in this offense,
+==169== Though he had twinn’d with me, both at a birth,
+==170== Shall lose me. What, in a town of war,
+==171== Yet wild, the people’s hearts brimful of fear,
+==172== To manage private and domestic quarrel?
+==173== In night, and on the court and guard of safety?
+==174== ’Tis monstrous. Iago, who began’t?
 
 **MON.**
-If partially affin’d, or leagu’d in office,
-Thou dost deliver more or less than truth,
-Thou art no soldier.
+==175== If partially affin’d, or leagu’d in office,
+==176== Thou dost deliver more or less than truth,
+==177== Thou art no soldier.
 
 **IAGO.**
-           Touch me not so near;
-I had rather have this tongue cut from my mouth
-Than it should do offense to Michael Cassio;
-Yet I persuade myself, to speak the truth
-Shall nothing wrong him. Thus it is, general:
-Montano and myself being in speech,
-There comes a fellow crying out for help,
-And Cassio following him with determin’d sword
-To execute upon him. Sir, this gentleman
-Steps in to Cassio and entreats his pause;
-Myself the crying fellow did pursue,
-Lest by his clamor (as it so fell out) 
-The town might fall in fright. He, swift of foot,
-Outran my purpose; and I return’d the rather
-For that I heard the clink and fall of swords,
-And Cassio high in oath; which till tonight
-I ne’er might say before. When I came back
-(For this was brief), I found them close together
-At blow and thrust, even as again they were
-When you yourself did part them.
-More of this matter cannot I report.
-But men are men; the best sometimes forget.
-Though Cassio did some little wrong to him,
-As men in rage strike those that wish them best,
-Yet surely Cassio, I believe, receiv’d
-From him that fled some strange indignity
-Which patience could not pass.
+==177==            Touch me not so near;
+==178== I had rather have this tongue cut from my mouth
+==179== Than it should do offense to Michael Cassio;
+==180== Yet I persuade myself, to speak the truth
+==181== Shall nothing wrong him. Thus it is, general:
+==182== Montano and myself being in speech,
+==183== There comes a fellow crying out for help,
+==184== And Cassio following him with determin’d sword
+==185== To execute upon him. Sir, this gentleman
+==186== Steps in to Cassio and entreats his pause;
+==187== Myself the crying fellow did pursue,
+==188== Lest by his clamor (as it so fell out) 
+==189== The town might fall in fright. He, swift of foot,
+==190== Outran my purpose; and I return’d the rather
+==191== For that I heard the clink and fall of swords,
+==192== And Cassio high in oath; which till tonight
+==193== I ne’er might say before. When I came back
+==194== (For this was brief), I found them close together
+==195== At blow and thrust, even as again they were
+==196== When you yourself did part them.
+==197== More of this matter cannot I report.
+==198== But men are men; the best sometimes forget.
+==199== Though Cassio did some little wrong to him,
+==200== As men in rage strike those that wish them best,
+==201== Yet surely Cassio, I believe, receiv’d
+==202== From him that fled some strange indignity
+==203== Which patience could not pass.
 
 **OTH.**
-                  I know, Iago,
-Thy honesty and love doth mince this matter,
-Making it light to Cassio. Cassio, I love thee,
-But never more be officer of mine.
+==203==                   I know, Iago,
+==204== Thy honesty and love doth mince this matter,
+==205== Making it light to Cassio. Cassio, I love thee,
+==206== But never more be officer of mine.
 *(Enter Desdemona attended.)*
-Look if my gentle love be not rais’d up!
-I’ll make thee an example.
+==207== Look if my gentle love be not rais’d up!
+==208== I’ll make thee an example.
 
 **DES.**
-What is the matter, dear?
+==209== What is the matter, dear?
 
 **OTH.**
-              All’s well now, sweeting;
-Come away to bed.
+==209==               All’s well now, sweeting;
+==210== Come away to bed.
 *(To Montano.)*
-           Sir, for your hurts,
-Myself will be your surgeon.—Lead him off.
+==210==            Sir, for your hurts,
+==211== Myself will be your surgeon.—Lead him off.
 *(Some lead Montano off.)*
-Iago, look with care about the town,
-And silence those whom this vild brawl distracted.
-Come, Desdemona, ’tis the soldiers’ life
-To have their balmy slumbers wak’d with strife.
+==212== Iago, look with care about the town,
+==213== And silence those whom this vild brawl distracted.
+==214== Come, Desdemona, ’tis the soldiers’ life
+==215== To have their balmy slumbers wak’d with strife.
 
 *Exit with Desdemona, Gentlemen, and Attendants.*
 
 **IAGO.**
-What, are you hurt, lieutenant?
+==216== What, are you hurt, lieutenant?
 
 **CAS.**
-Ay, past all surgery.
+==217== Ay, past all surgery.
 
 **IAGO.**
-Marry, God forbid!
+==218== Marry, God forbid!
 
 **CAS.**
-Reputation, reputation, reputation! O, I have lost my reputation! I have lost the immortal part of myself, and what remains is bestial. My reputation, Iago, my reputation!
+==219== Reputation, reputation, reputation! O, I have lost my reputation! I have lost the immortal part of myself, and what remains is bestial. My reputation, Iago, my reputation!
 
 **IAGO.**
-As I am an honest man, I had thought you had receiv’d some bodily wound; there is more sense in that than in reputation. Reputation is an idle and most false imposition; oft got without merit, and lost without deserving. You have lost no reputation at all, unless you repute yourself such a loser. What, man, there are more ways to recover the general again. You are but now cast in his mood, a punishment more in policy than in malice, even so as one would beat his offenseless dog to affright an imperious lion. Sue to him again, and he’s yours.
+==220== As I am an honest man, I had thought you had receiv’d some bodily wound; there is more sense in that than in reputation. Reputation is an idle and most false imposition; oft got without merit, and lost without deserving. You have lost no reputation at all, unless you repute yourself such a loser. What, man, there are more ways to recover the general again. You are but now cast in his mood, a punishment more in policy than in malice, even so as one would beat his offenseless dog to affright an imperious lion. Sue to him again, and he’s yours.
 
 **CAS.**
-I will rather sue to be despis’d than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer. Drunk? And speak parrot? And squabble? Swagger? Swear? And discourse fustian with one’s own shadow? O thou invisible spirit of wine, if thou hast no name to be known by, let us call thee devil!
+==221== I will rather sue to be despis’d than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer. Drunk? And speak parrot? And squabble? Swagger? Swear? And discourse fustian with one’s own shadow? O thou invisible spirit of wine, if thou hast no name to be known by, let us call thee devil!
 
 **IAGO.**
-What was he that you follow’d with your sword? What had he done to you?
+==222== What was he that you follow’d with your sword? What had he done to you?
 
 **CAS.**
-I know not.
+==223== I know not.
 
 **IAGO.**
-Is’t possible?
+==224== Is’t possible?
 
 **CAS.**
-I remember a mass of things, but nothing distinctly; a quarrel, but nothing wherefore. O God, that men should put an enemy in their mouths to steal away their brains! That we should, with joy, pleasance, revel, and applause, transform ourselves into beasts!
+==225== I remember a mass of things, but nothing distinctly; a quarrel, but nothing wherefore. O God, that men should put an enemy in their mouths to steal away their brains! That we should, with joy, pleasance, revel, and applause, transform ourselves into beasts!
 
 **IAGO.**
-Why, but you are now well enough. How came you thus recover’d?
+==226== Why, but you are now well enough. How came you thus recover’d?
 
 **CAS.**
-It hath pleas’d the devil drunkenness to give place to the devil wrath: one unperfectness shows me another, to make me frankly despise myself.
+==227== It hath pleas’d the devil drunkenness to give place to the devil wrath: one unperfectness shows me another, to make me frankly despise myself.
 
 **IAGO.**
-Come, you are too severe a moraler. As the time, the place, and the condition of this country stands, I could heartily wish this had not befall’n; but since it is as it is, mend it for your own good.
+==228== Come, you are too severe a moraler. As the time, the place, and the condition of this country stands, I could heartily wish this had not befall’n; but since it is as it is, mend it for your own good.
 
 **CAS.**
-I will ask him for my place again, he shall tell me I am a drunkard! Had I as many mouths as Hydra, such an answer would stop them all. To be now a sensible man, by and by a fool, and presently a beast! O strange! Every inordinate cup is unbless’d, and the ingredient is a devil.
+==229== I will ask him for my place again, he shall tell me I am a drunkard! Had I as many mouths as Hydra, such an answer would stop them all. To be now a sensible man, by and by a fool, and presently a beast! O strange! Every inordinate cup is unbless’d, and the ingredient is a devil.
 
 **IAGO.**
-Come, come; good wine is a good familiar creature, if it be well us’d; exclaim no more against it. And, good lieutenant, I think you think I love you.
+==230== Come, come; good wine is a good familiar creature, if it be well us’d; exclaim no more against it. And, good lieutenant, I think you think I love you.
 
 **CAS.**
-I have well approv’d it, sir. I drunk!
+==231== I have well approv’d it, sir. I drunk!
 
 **IAGO.**
-You, or any man living, may be drunk at a time, man. I’ll tell you what you shall do. Our general’s wife is now the general—I may say so in this respect, for that he hath devoted and given up himself to the contemplation, mark, and denotement of her parts and graces. Confess yourself freely to her; importune her help to put you in your place again. She is of so free, so kind, so apt, so bless’d a disposition, she holds it a vice in her goodness not to do more than she is requested. This broken joint between you and her husband entreat her to splinter; and my fortunes against any lay worth naming, this crack of your love shall grow stronger than it was before.
+==232== You, or any man living, may be drunk at a time, man. I’ll tell you what you shall do. Our general’s wife is now the general—I may say so in this respect, for that he hath devoted and given up himself to the contemplation, mark, and denotement of her parts and graces. Confess yourself freely to her; importune her help to put you in your place again. She is of so free, so kind, so apt, so bless’d a disposition, she holds it a vice in her goodness not to do more than she is requested. This broken joint between you and her husband entreat her to splinter; and my fortunes against any lay worth naming, this crack of your love shall grow stronger than it was before.
 
 **CAS.**
-You advise me well.
+==233== You advise me well.
 
 **IAGO.**
-I protest, in the sincerity of love and honest kindness.
+==234== I protest, in the sincerity of love and honest kindness.
 
 **CAS.**
-I think it freely; and betimes in the morning I will beseech the virtuous Desdemona to undertake for me. I am desperate of my fortunes if they check me here.
+==235== I think it freely; and betimes in the morning I will beseech the virtuous Desdemona to undertake for me. I am desperate of my fortunes if they check me here.
 
 **IAGO.**
-You are in the right. Good night, lieutenant, I must to the watch.
+==236== You are in the right. Good night, lieutenant, I must to the watch.
 
 **CAS.**
-Good night, honest Iago.
+==237== Good night, honest Iago.
 
 *Exit Cassio.*
 
 **IAGO.**
-And what’s he then that says I play the villain,
-When this advice is free I give, and honest,
-Probal to thinking, and indeed the course
-To win the Moor again? For ’tis most easy
-Th’ inclining Desdemona to subdue
-In any honest suit; she’s fram’d as fruitful
-As the free elements. And then for her
-To win the Moor, were’t to renounce his baptism,
-All seals and symbols of redeemed sin,
-His soul is so enfetter’d to her love,
-That she may make, unmake, do what she list,
-Even as her appetite shall play the god
-With his weak function. How am I then a villain,
-To counsel Cassio to this parallel course,
-Directly to his good? Divinity of hell!
-When devils will the blackest sins put on,
-They do suggest at first with heavenly shows,
-As I do now; for whiles this honest fool
-Plies Desdemona to repair his fortune,
-And she for him pleads strongly to the Moor,
-I’ll pour this pestilence into his ear⁠—
-That she repeals him for her body’s lust,
-And by how much she strives to do him good,
-She shall undo her credit with the Moor.
-So will I turn her virtue into pitch,
-And out of her own goodness make the net
-That shall enmesh them all.
+==238== And what’s he then that says I play the villain,
+==239== When this advice is free I give, and honest,
+==240== Probal to thinking, and indeed the course
+==241== To win the Moor again? For ’tis most easy
+==242== Th’ inclining Desdemona to subdue
+==243== In any honest suit; she’s fram’d as fruitful
+==244== As the free elements. And then for her
+==245== To win the Moor, were’t to renounce his baptism,
+==246== All seals and symbols of redeemed sin,
+==247== His soul is so enfetter’d to her love,
+==248== That she may make, unmake, do what she list,
+==249== Even as her appetite shall play the god
+==250== With his weak function. How am I then a villain,
+==251== To counsel Cassio to this parallel course,
+==252== Directly to his good? Divinity of hell!
+==253== When devils will the blackest sins put on,
+==254== They do suggest at first with heavenly shows,
+==255== As I do now; for whiles this honest fool
+==256== Plies Desdemona to repair his fortune,
+==257== And she for him pleads strongly to the Moor,
+==258== I’ll pour this pestilence into his ear⁠—
+==259== That she repeals him for her body’s lust,
+==260== And by how much she strives to do him good,
+==261== She shall undo her credit with the Moor.
+==262== So will I turn her virtue into pitch,
+==263== And out of her own goodness make the net
+==264== That shall enmesh them all.
 *(Enter Roderigo.)*
-How now, Roderigo?
+==265== How now, Roderigo?
 
 **ROD.**
-I do follow here in the chase, not like a hound that hunts, but one that fills up the cry. My money is almost spent; I have been tonight exceedingly well cudgell’d; and I think the issue will be, I shall have so much experience for my pains; and so, with no money at all and a little more wit, return again to Venice.
+==266== I do follow here in the chase, not like a hound that hunts, but one that fills up the cry. My money is almost spent; I have been tonight exceedingly well cudgell’d; and I think the issue will be, I shall have so much experience for my pains; and so, with no money at all and a little more wit, return again to Venice.
 
 **IAGO.**
-How poor are they that have not patience!
-What wound did ever heal but by degrees?
-Thou know’st we work by wit, and not by witchcraft,
-And wit depends on dilatory time.
-Does’t not go well? Cassio hath beaten thee,
-And thou by that small hurt hast cashier’d Cassio.
-Though other things grow fair against the sun,
-Yet fruits that blossom first will first be ripe.
-Content thyself a while. By the mass, ’tis morning;
-Pleasure and action make the hours seem short.
-Retire thee, go where thou art billeted.
-Away, I say, thou shalt know more hereafter.
-Nay, get thee gone.
+==267== How poor are they that have not patience!
+==268== What wound did ever heal but by degrees?
+==269== Thou know’st we work by wit, and not by witchcraft,
+==270== And wit depends on dilatory time.
+==271== Does’t not go well? Cassio hath beaten thee,
+==272== And thou by that small hurt hast cashier’d Cassio.
+==273== Though other things grow fair against the sun,
+==274== Yet fruits that blossom first will first be ripe.
+==275== Content thyself a while. By the mass, ’tis morning;
+==276== Pleasure and action make the hours seem short.
+==277== Retire thee, go where thou art billeted.
+==278== Away, I say, thou shalt know more hereafter.
+==279== Nay, get thee gone.
 *(Exit Roderigo.)*
-           Two things are to be done:
-My wife must move for Cassio to her mistress⁠—
-I’ll set her on⁠—
-Myself a while to draw the Moor apart,
-And bring him jump when he may Cassio find
-Soliciting his wife. Ay, that’s the way;
-Dull not device by coldness and delay.
+==279==            Two things are to be done:
+==280== My wife must move for Cassio to her mistress⁠—
+==281== I’ll set her on⁠—
+==282== Myself a while to draw the Moor apart,
+==283== And bring him jump when he may Cassio find
+==284== Soliciting his wife. Ay, that’s the way;
+==285== Dull not device by coldness and delay.
 
 *Exit.*
 

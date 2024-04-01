@@ -22,72 +22,72 @@ ID: pericles-3-3
 *Enter Pericles at Tharsus with Cleon and Dionyza and Lychorida with Marina in her arms.*
 
 **PER.**
-Most honor’d Cleon, I must needs be gone.
-My twelve months are expir’d, and Tyrus stands
-In a litigious peace. You and your lady
-Take from my heart all thankfulness! The gods
-Make up the rest upon you!
+==1== Most honor’d Cleon, I must needs be gone.
+==2== My twelve months are expir’d, and Tyrus stands
+==3== In a litigious peace. You and your lady
+==4== Take from my heart all thankfulness! The gods
+==5== Make up the rest upon you!
 
 **CLE.**
-Your shakes of fortune, though they haunt you mortally,
-Yet glance full wond’ringly on us.
+==6== Your shakes of fortune, though they haunt you mortally,
+==7== Yet glance full wond’ringly on us.
 
 **DION.**
-                  O your sweet queen!
-That the strict fates had pleas’d you had brought her hither
-To have blest mine eyes with her!
+==7==                   O your sweet queen!
+==8== That the strict fates had pleas’d you had brought her hither
+==9== To have blest mine eyes with her!
 
 **PER.**
-                  We cannot but obey
-The powers above us. Could I rage and roar
-As doth the sea she lies in, yet the end
-Must be as ’tis. My gentle babe Marina, whom,
-For she was born at sea, I have nam’d so, here
-I charge your charity withal; leaving her
-The infant of your care, beseeching you
-To give her princely training, that she may be
-Manner’d as she is born.
+==9==                   We cannot but obey
+==10== The powers above us. Could I rage and roar
+==11== As doth the sea she lies in, yet the end
+==12== Must be as ’tis. My gentle babe Marina, whom,
+==13== For she was born at sea, I have nam’d so, here
+==14== I charge your charity withal; leaving her
+==15== The infant of your care, beseeching you
+==16== To give her princely training, that she may be
+==17== Manner’d as she is born.
 
 **CLE.**
-              Fear not, my lord, but think
-Your Grace, that fed my country with your corn,
-For which the people’s prayers still fall upon you,
-Must in your child be thought on. If neglection
-Should therein make me vile, the common body,
-By you reliev’d, would force me to my duty;
-But if to that my nature need a spur,
-The gods revenge it upon me and mine
-To the end of generation!
+==17==               Fear not, my lord, but think
+==18== Your Grace, that fed my country with your corn,
+==19== For which the people’s prayers still fall upon you,
+==20== Must in your child be thought on. If neglection
+==21== Should therein make me vile, the common body,
+==22== By you reliev’d, would force me to my duty;
+==23== But if to that my nature need a spur,
+==24== The gods revenge it upon me and mine
+==25== To the end of generation!
 
 **PER.**
-              I believe you,
-Your honor and your goodness teach me to’t
-Without your vows. Till she be married, madam,
-By bright Diana, whom we honor, all
-Unscissor’d shall this hair of mine remain,
-Though I show ill in’t. So I take my leave.
-Good madam, make me blessed in your care
-In bringing up my child.
+==25==               I believe you,
+==26== Your honor and your goodness teach me to’t
+==27== Without your vows. Till she be married, madam,
+==28== By bright Diana, whom we honor, all
+==29== Unscissor’d shall this hair of mine remain,
+==30== Though I show ill in’t. So I take my leave.
+==31== Good madam, make me blessed in your care
+==32== In bringing up my child.
 
 **DION.**
-              I have one myself,
-Who shall not be more dear to my respect
-Than yours, my lord.
+==32==               I have one myself,
+==33== Who shall not be more dear to my respect
+==34== Than yours, my lord.
 
 **PER.**
-           Madam, my thanks and prayers.
+==34==            Madam, my thanks and prayers.
 
 **CLE.**
-We’ll bring your Grace e’en to the edge a’ th’ shore,
-Then give you up to the mask’d Neptune and
-The gentlest winds of heaven.
+==35== We’ll bring your Grace e’en to the edge a’ th’ shore,
+==36== Then give you up to the mask’d Neptune and
+==37== The gentlest winds of heaven.
 
 **PER.**
-                  I will embrace
-Your offer. Come, dearest madam. O, no tears,
-Lychorida, no tears.
-Look to your little mistress, on whose grace
-You may depend hereafter. Come, my lord.
+==37==                   I will embrace
+==38== Your offer. Come, dearest madam. O, no tears,
+==39== Lychorida, no tears.
+==40== Look to your little mistress, on whose grace
+==41== You may depend hereafter. Come, my lord.
 
 *Exeunt.*
 

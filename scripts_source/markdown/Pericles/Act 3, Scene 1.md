@@ -22,134 +22,134 @@ ID: pericles-3-1
 *Enter Pericles a-shipboard.*
 
 **PER.**
-The god of this great vast, rebuke these surges,
-Which wash both heaven and hell; and thou that hast
-Upon the winds command, bind them in brass,
-Having call’d them from the deep! O, still
-Thy deaf’ning, dreadful thunders, gently quench
-Thy nimble, sulfurous flashes!—O, how, Lychorida!
-How does my queen?—Thou storm, venomously
-Wilt thou spet all thyself? The seaman’s whistle
-Is as a whisper in the ears of death,
-Unheard.—Lychorida!—Lucina, O!
-Divinest patroness, and midwife gentle
-To those that cry by night, convey thy Deity
-Aboard our dancing boat, make swift the pangs
-Of my queen’s travails!—Now, Lychorida!
+==1== The god of this great vast, rebuke these surges,
+==2== Which wash both heaven and hell; and thou that hast
+==3== Upon the winds command, bind them in brass,
+==4== Having call’d them from the deep! O, still
+==5== Thy deaf’ning, dreadful thunders, gently quench
+==6== Thy nimble, sulfurous flashes!—O, how, Lychorida!
+==7== How does my queen?—Thou storm, venomously
+==8== Wilt thou spet all thyself? The seaman’s whistle
+==9== Is as a whisper in the ears of death,
+==10== Unheard.—Lychorida!—Lucina, O!
+==11== Divinest patroness, and midwife gentle
+==12== To those that cry by night, convey thy Deity
+==13== Aboard our dancing boat, make swift the pangs
+==14== Of my queen’s travails!—Now, Lychorida!
 
 *Enter Lychorida with an infant.*
 
 **LYC.**
-Here is a thing too young for such a place,
-Who, if it had conceit, would die, as I
-Am like to do. Take in your arms this piece
-Of your dead queen.
+==15== Here is a thing too young for such a place,
+==16== Who, if it had conceit, would die, as I
+==17== Am like to do. Take in your arms this piece
+==18== Of your dead queen.
 
 **PER.**
-           How? How, Lychorida?
+==18==            How? How, Lychorida?
 
 **LYC.**
-Patience, good sir, do not assist the storm.
-Here’s all that is left living of your queen:
-A little daughter. For the sake of it
-Be manly, and take comfort.
+==19== Patience, good sir, do not assist the storm.
+==20== Here’s all that is left living of your queen:
+==21== A little daughter. For the sake of it
+==22== Be manly, and take comfort.
 
 **PER.**
-                O you gods!
-Why do you make us love your goodly gifts
-And snatch them straight away? We here below
-Recall not what we give, and therein may
-Use honor with you.
+==22==                 O you gods!
+==23== Why do you make us love your goodly gifts
+==24== And snatch them straight away? We here below
+==25== Recall not what we give, and therein may
+==26== Use honor with you.
 
 **LYC.**
-           Patience, good sir,
-Even for this charge.
+==26==            Patience, good sir,
+==27== Even for this charge.
 
 **PER.**
-           Now, mild may be thy life!
-For a more blusterous birth had never babe.
-Quiet and gentle thy conditions! For
-Thou art the rudeliest welcome to this world
-That ever was prince’s child. Happy what follows!
-Thou hast as chiding a nativity
-As fire, air, water, earth, and heaven can make
-To herald thee from the womb. Even at the first
-Thy loss is more than can thy portage quit
-With all thou canst find here. Now the good gods
-Throw their best eyes upon’t!
+==27==            Now, mild may be thy life!
+==28== For a more blusterous birth had never babe.
+==29== Quiet and gentle thy conditions! For
+==30== Thou art the rudeliest welcome to this world
+==31== That ever was prince’s child. Happy what follows!
+==32== Thou hast as chiding a nativity
+==33== As fire, air, water, earth, and heaven can make
+==34== To herald thee from the womb. Even at the first
+==35== Thy loss is more than can thy portage quit
+==36== With all thou canst find here. Now the good gods
+==37== Throw their best eyes upon’t!
 
 *Enter two Sailors.*
 
 **1. SAIL.**
-What courage, sir? God save you!
+==38== What courage, sir? God save you!
 
 **PER.**
-Courage enough. I do not fear the flaw,
-It hath done to me the worst. Yet for the love
-Of this poor infant, this fresh new sea-farer,
-I would it would be quiet.
+==39== Courage enough. I do not fear the flaw,
+==40== It hath done to me the worst. Yet for the love
+==41== Of this poor infant, this fresh new sea-farer,
+==42== I would it would be quiet.
 
 **1. SAIL.**
-Slack the bolins there!—Thou wilt not, wilt thou? Blow, and split thyself.
+==43== Slack the bolins there!—Thou wilt not, wilt thou? Blow, and split thyself.
 
 **2. SAIL.**
-But sea-room, and the brine and cloudy billow kiss the moon, I care not.
+==44== But sea-room, and the brine and cloudy billow kiss the moon, I care not.
 
 **1. SAIL.**
-Sir, your queen must overboard. The sea works high, the wind is loud, and will not lie till the ship be clear’d of the dead.
+==45== Sir, your queen must overboard. The sea works high, the wind is loud, and will not lie till the ship be clear’d of the dead.
 
 **PER.**
-That’s your superstition.
+==46== That’s your superstition.
 
 **1. SAIL.**
-Pardon us, sir; with us at sea it hath been still observ’d, and we are strong in custom; therefore briefly yield ’er, for she must overboard straight.
+==47== Pardon us, sir; with us at sea it hath been still observ’d, and we are strong in custom; therefore briefly yield ’er, for she must overboard straight.
 
 **PER.**
-As you think meet. Most wretched queen!
+==48== As you think meet. Most wretched queen!
 
 **LYC.**
-Here she lies, sir.
+==49== Here she lies, sir.
 
 **PER.**
-A terrible child-bed hast thou had, my dear,
-No light, no fire. Th’ unfriendly elements
-Forgot thee utterly, nor have I time
-To give thee hallow’d to thy grave, but straight
-Must cast thee, scarcely coffin’d, in the ooze,
-Where, for a monument upon thy bones,
-The e’er-remaining lamps, the belching whale
-And humming water must o’erwhelm thy corpse,
-Lying with simple shells. O Lychorida,
-Bid Nestor bring me spices, ink and paper,
-My casket and my jewels; and bid Nicander
-Bring me the satin coffin. Lay the babe
-Upon the pillow. Hie thee, whiles I say
-A priestly farewell to her. Suddenly, woman.
+==50== A terrible child-bed hast thou had, my dear,
+==51== No light, no fire. Th’ unfriendly elements
+==52== Forgot thee utterly, nor have I time
+==53== To give thee hallow’d to thy grave, but straight
+==54== Must cast thee, scarcely coffin’d, in the ooze,
+==55== Where, for a monument upon thy bones,
+==56== The e’er-remaining lamps, the belching whale
+==57== And humming water must o’erwhelm thy corpse,
+==58== Lying with simple shells. O Lychorida,
+==59== Bid Nestor bring me spices, ink and paper,
+==60== My casket and my jewels; and bid Nicander
+==61== Bring me the satin coffin. Lay the babe
+==62== Upon the pillow. Hie thee, whiles I say
+==63== A priestly farewell to her. Suddenly, woman.
 
 *Exit Lychorida.*
 
 **2. SAIL.**
-Sir, we have a chest beneath the hatches, caulk’d and bitum’d ready.
+==64== Sir, we have a chest beneath the hatches, caulk’d and bitum’d ready.
 
 **PER.**
-I thank thee. Mariner, say, what coast is this?
+==65== I thank thee. Mariner, say, what coast is this?
 
 **2. SAIL.**
-We are near Tharsus.
+==66== We are near Tharsus.
 
 **PER.**
-Thither, gentle mariner,
-Alter thy course for Tyre. When canst thou reach it?
+==67== Thither, gentle mariner,
+==68== Alter thy course for Tyre. When canst thou reach it?
 
 **1. SAIL.**
-By break of day, if the wind cease.
+==69== By break of day, if the wind cease.
 
 **PER.**
-O, make for Tharsus!
-There will I visit Cleon, for the babe
-Cannot hold out to Tyrus. There I’ll leave it
-At careful nursing. Go thy ways, good mariner,
-I’ll bring the body presently.
+==70== O, make for Tharsus!
+==71== There will I visit Cleon, for the babe
+==72== Cannot hold out to Tyrus. There I’ll leave it
+==73== At careful nursing. Go thy ways, good mariner,
+==74== I’ll bring the body presently.
 
 *Exeunt.*
 

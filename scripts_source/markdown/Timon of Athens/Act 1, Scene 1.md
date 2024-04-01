@@ -20,641 +20,641 @@ ID: timon-of-athens-1-1
 *Enter Poet, Painter, Jeweler, Merchant, at several doors.*
 
 **POET.**
-Good day, sir.
+==1== Good day, sir.
 
 **PAIN.**
-        I am glad y’ are well.
+==1==         I am glad y’ are well.
 
 **POET.**
-I have not seen you long, how goes the world?
+==2== I have not seen you long, how goes the world?
 
 **PAIN.**
-It wears, sir, as it grows.
+==3== It wears, sir, as it grows.
 
 **POET.**
-              Ay, that’s well known;
-But what particular rarity? What strange,
-Which manifold record not matches? See,
-Magic of bounty! All these spirits thy power
-Hath conjur’d to attend. I know the merchant.
+==3==               Ay, that’s well known;
+==4== But what particular rarity? What strange,
+==5== Which manifold record not matches? See,
+==6== Magic of bounty! All these spirits thy power
+==7== Hath conjur’d to attend. I know the merchant.
 
 **PAIN.**
-I know them both; th’ other’s a jeweler.
+==8== I know them both; th’ other’s a jeweler.
 
 **MER.**
-O, ’tis a worthy lord.
+==9== O, ’tis a worthy lord.
 
 **JEW.**
-           Nay, that’s most fix’d.
+==9==            Nay, that’s most fix’d.
 
 **MER.**
-A most incomparable man, breath’d, as it were,
-To an untirable and continuate goodness;
-He passes.
+==10== A most incomparable man, breath’d, as it were,
+==11== To an untirable and continuate goodness;
+==12== He passes.
 
 **JEW.**
-I have a jewel here⁠—
+==13== I have a jewel here⁠—
 
 **MER.**
-O, pray let’s see’t. For the Lord Timon, sir?
+==14== O, pray let’s see’t. For the Lord Timon, sir?
 
 **JEW.**
-If he will touch the estimate. But for that⁠—
+==15== If he will touch the estimate. But for that⁠—
 
 **POET.**
 *(Reciting to himself.)*
-“When we for recompense have prais’d the vild,
-It stains the glory in that happy verse
-Which aptly sings the good.”
+==16== “When we for recompense have prais’d the vild,
+==17== It stains the glory in that happy verse
+==18== Which aptly sings the good.”
 
 **MER.**
 *(Looking on the jewel.)*
-                ’Tis a good form.
+==18==                 ’Tis a good form.
 
 **JEW.**
-And rich. Here is a water, look ye.
+==19== And rich. Here is a water, look ye.
 
 **PAIN.**
-You are rapt, sir, in some work, some dedication
-To the great lord.
+==20== You are rapt, sir, in some work, some dedication
+==21== To the great lord.
 
 **POET.**
-           A thing slipp’d idlely from me.
-Our poesy is as a gum, which oozes
-From whence ’tis nourish’d. The fire i’ th’ flint
-Shows not till it be struck; our gentle flame
-Provokes itself and like the current flies
-Each bound it chases. What have you there?
+==21==            A thing slipp’d idlely from me.
+==22== Our poesy is as a gum, which oozes
+==23== From whence ’tis nourish’d. The fire i’ th’ flint
+==24== Shows not till it be struck; our gentle flame
+==25== Provokes itself and like the current flies
+==26== Each bound it chases. What have you there?
 
 **PAIN.**
-A picture, sir. When comes your book forth?
+==27== A picture, sir. When comes your book forth?
 
 **POET.**
-Upon the heels of my presentment, sir.
-Let’s see your piece.
+==28== Upon the heels of my presentment, sir.
+==29== Let’s see your piece.
 
 **PAIN.**
-           ’Tis a good piece.
+==29==            ’Tis a good piece.
 
 **POET.**
-So ’tis. This comes off well and excellent.
+==30== So ’tis. This comes off well and excellent.
 
 **PAIN.**
-Indifferent.
+==31== Indifferent.
 
 **POET.**
-        Admirable! How this grace
-Speaks his own standing! What a mental power
-This eye shoots forth! How big imagination
-Moves in this lip! To th’ dumbness of the gesture
-One might interpret.
+==31==         Admirable! How this grace
+==32== Speaks his own standing! What a mental power
+==33== This eye shoots forth! How big imagination
+==34== Moves in this lip! To th’ dumbness of the gesture
+==35== One might interpret.
 
 **PAIN.**
-It is a pretty mocking of the life.
-Here is a touch; is’t good?
+==36== It is a pretty mocking of the life.
+==37== Here is a touch; is’t good?
 
 **POET.**
-              I will say of it,
-It tutors nature. Artificial strife
-Lives in these touches, livelier than life.
+==37==               I will say of it,
+==38== It tutors nature. Artificial strife
+==39== Lives in these touches, livelier than life.
 
 *Enter certain Senators and pass over.*
 
 **PAIN.**
-How this lord is followed!
+==40== How this lord is followed!
 
 **POET.**
-The senators of Athens, happy men!
+==41== The senators of Athens, happy men!
 
 **PAIN.**
-Look, more!
+==42== Look, more!
 
 **POET.**
-You see this confluence, this great flood of visitors.
-I have, in this rough work, shap’d out a man
-Whom this beneath world doth embrace and hug
-With amplest entertainment. My free drift
-Halts not particularly, but moves itself
-In a wide sea of wax; no levell’d malice
-Infects one comma in the course I hold,
-But flies an eagle flight, bold, and forth on,
-Leaving no tract behind.
+==43== You see this confluence, this great flood of visitors.
+==44== I have, in this rough work, shap’d out a man
+==45== Whom this beneath world doth embrace and hug
+==46== With amplest entertainment. My free drift
+==47== Halts not particularly, but moves itself
+==48== In a wide sea of wax; no levell’d malice
+==49== Infects one comma in the course I hold,
+==50== But flies an eagle flight, bold, and forth on,
+==51== Leaving no tract behind.
 
 **PAIN.**
-How shall I understand you?
+==52== How shall I understand you?
 
 **POET.**
-                I will unbolt to you.
-You see how all conditions, how all minds,
-As well of glib and slipp’ry creatures as
-Of grave and austere quality, tender down
-Their services to Lord Timon. His large fortune,
-Upon his good and gracious nature hanging,
-Subdues and properties to his love and tendance
-All sorts of hearts; yea, from the glass-fac’d flatterer
-To Apemantus, that few things loves better
-Than to abhor himself; even he drops down
-The knee before him, and returns in peace
-Most rich in Timon’s nod.
+==52==                 I will unbolt to you.
+==53== You see how all conditions, how all minds,
+==54== As well of glib and slipp’ry creatures as
+==55== Of grave and austere quality, tender down
+==56== Their services to Lord Timon. His large fortune,
+==57== Upon his good and gracious nature hanging,
+==58== Subdues and properties to his love and tendance
+==59== All sorts of hearts; yea, from the glass-fac’d flatterer
+==60== To Apemantus, that few things loves better
+==61== Than to abhor himself; even he drops down
+==62== The knee before him, and returns in peace
+==63== Most rich in Timon’s nod.
 
 **PAIN.**
-              I saw them speak together.
+==63==               I saw them speak together.
 
 **POET.**
-Sir, I have upon a high and pleasant hill
-Feign’d Fortune to be thron’d. The base o’ th’ mount
-Is rank’d with all deserts, all kind of natures,
-That labor on the bosom of this sphere
-To propagate their states. Amongst them all,
-Whose eyes are on this sovereign lady fix’d,
-One do I personate of Lord Timon’s frame,
-Whom Fortune with her ivory hand wafts to her,
-Whose present grace to present slaves and servants
-Translates his rivals.
+==64== Sir, I have upon a high and pleasant hill
+==65== Feign’d Fortune to be thron’d. The base o’ th’ mount
+==66== Is rank’d with all deserts, all kind of natures,
+==67== That labor on the bosom of this sphere
+==68== To propagate their states. Amongst them all,
+==69== Whose eyes are on this sovereign lady fix’d,
+==70== One do I personate of Lord Timon’s frame,
+==71== Whom Fortune with her ivory hand wafts to her,
+==72== Whose present grace to present slaves and servants
+==73== Translates his rivals.
 
 **PAIN.**
-           ’Tis conceiv’d to scope.
-This throne, this Fortune, and this hill, methinks,
-With one man beckon’d from the rest below,
-Bowing his head against the steepy mount
-To climb his happiness, would be well express’d
-In our condition.
+==73==            ’Tis conceiv’d to scope.
+==74== This throne, this Fortune, and this hill, methinks,
+==75== With one man beckon’d from the rest below,
+==76== Bowing his head against the steepy mount
+==77== To climb his happiness, would be well express’d
+==78== In our condition.
 
 **POET.**
-           Nay, sir, but hear me on:
-All those which were his fellows but of late⁠—
-Some better than his value—on the moment
-Follow his strides, his lobbies fill with tendance,
-Rain sacrificial whisperings in his ear,
-Make sacred even his stirrup, and through him
-Drink the free air.
+==78==            Nay, sir, but hear me on:
+==79== All those which were his fellows but of late⁠—
+==80== Some better than his value—on the moment
+==81== Follow his strides, his lobbies fill with tendance,
+==82== Rain sacrificial whisperings in his ear,
+==83== Make sacred even his stirrup, and through him
+==84== Drink the free air.
 
 **PAIN.**
-           Ay, marry, what of these?
+==84==            Ay, marry, what of these?
 
 **POET.**
-When Fortune in her shift and change of mood
-Spurns down her late beloved, all his dependents
-Which labor’d after him to the mountain’s top
-Even on their knees and hands, let him slip down,
-Not one accompanying his declining foot.
+==85== When Fortune in her shift and change of mood
+==86== Spurns down her late beloved, all his dependents
+==87== Which labor’d after him to the mountain’s top
+==88== Even on their knees and hands, let him slip down,
+==89== Not one accompanying his declining foot.
 
 **PAIN.**
-’Tis common:
-A thousand moral paintings I can show
-That shall demonstrate these quick blows of Fortune’s
-More pregnantly than words. Yet you do well
-To show Lord Timon that mean eyes have seen
-The foot above the head.
+==90== ’Tis common:
+==91== A thousand moral paintings I can show
+==92== That shall demonstrate these quick blows of Fortune’s
+==93== More pregnantly than words. Yet you do well
+==94== To show Lord Timon that mean eyes have seen
+==95== The foot above the head.
 
 *Trumpets sound. Enter Lord Timon, addressing himself courteously to every suitor, a Messenger from Ventidius talking with him; Lucilius and other Servants following.*
 
 **TIM.**
-              Imprison’d is he, say you?
+==95==               Imprison’d is he, say you?
 
 **MESS. VENT.**
-Ay, my good lord, five talents is his debt,
-His means most short, his creditors most strait.
-Your honorable letter he desires
-To those have shut him up, which failing,
-Periods his comfort.
+==96== Ay, my good lord, five talents is his debt,
+==97== His means most short, his creditors most strait.
+==98== Your honorable letter he desires
+==99== To those have shut him up, which failing,
+==100== Periods his comfort.
 
 **TIM.**
-           Noble Ventidius! Well;
-I am not of that feather to shake off
-My friend when he must need me. I do know him
-A gentleman that well deserves a help,
-Which he shall have. I’ll pay the debt and free him.
+==100==            Noble Ventidius! Well;
+==101== I am not of that feather to shake off
+==102== My friend when he must need me. I do know him
+==103== A gentleman that well deserves a help,
+==104== Which he shall have. I’ll pay the debt and free him.
 
 **MESS. VENT.**
-Your lordship ever binds him.
+==105== Your lordship ever binds him.
 
 **TIM.**
-Commend me to him. I will send his ransom,
-And being enfranchis’d, bid him come to me;
-’Tis not enough to help the feeble up,
-But to support him after. Fare you well.
+==106== Commend me to him. I will send his ransom,
+==107== And being enfranchis’d, bid him come to me;
+==108== ’Tis not enough to help the feeble up,
+==109== But to support him after. Fare you well.
 
 **MESS. VENT.**
-All happiness to your honor!
+==110== All happiness to your honor!
 
 *Exit.*
 
 *Enter an Old Athenian.*
 
 **OLD ATH.**
-Lord Timon, hear me speak.
+==111== Lord Timon, hear me speak.
 
 **TIM.**
-                Freely, good father.
+==111==                 Freely, good father.
 
 **OLD ATH.**
-Thou hast a servant nam’d Lucilius.
+==112== Thou hast a servant nam’d Lucilius.
 
 **TIM.**
-I have so. What of him?
+==113== I have so. What of him?
 
 **OLD ATH.**
-Most noble Timon, call the man before thee.
+==114== Most noble Timon, call the man before thee.
 
 **TIM.**
-Attends he here, or no? Lucilius!
+==115== Attends he here, or no? Lucilius!
 
 **LUCIL.**
-Here, at your lordship’s service.
+==116== Here, at your lordship’s service.
 
 **OLD ATH.**
-This fellow here, Lord Timon, this thy creature,
-By night frequents my house. I am a man
-That from my first have been inclin’d to thrift,
-And my estate deserves an heir more rais’d
-Than one which holds a trencher.
+==117== This fellow here, Lord Timon, this thy creature,
+==118== By night frequents my house. I am a man
+==119== That from my first have been inclin’d to thrift,
+==120== And my estate deserves an heir more rais’d
+==121== Than one which holds a trencher.
 
 **TIM.**
-                  Well; what further?
+==121==                   Well; what further?
 
 **OLD ATH.**
-One only daughter have I, no kin else,
-On whom I may confer what I have got.
-The maid is fair, a’ th’ youngest for a bride,
-And I have bred her at my dearest cost
-In qualities of the best. This man of thine
-Attempts her love. I prithee, noble lord,
-Join with me to forbid him her resort,
-Myself have spoke in vain.
+==122== One only daughter have I, no kin else,
+==123== On whom I may confer what I have got.
+==124== The maid is fair, a’ th’ youngest for a bride,
+==125== And I have bred her at my dearest cost
+==126== In qualities of the best. This man of thine
+==127== Attempts her love. I prithee, noble lord,
+==128== Join with me to forbid him her resort,
+==129== Myself have spoke in vain.
 
 **TIM.**
-              The man is honest.
+==129==               The man is honest.
 
 **OLD ATH.**
-Therefore he will be, Timon.
-His honesty rewards him in itself,
-It must not bear my daughter.
+==130== Therefore he will be, Timon.
+==131== His honesty rewards him in itself,
+==132== It must not bear my daughter.
 
 **TIM.**
-                Does she love him?
+==132==                 Does she love him?
 
 **OLD ATH.**
-She is young and apt.
-Our own precedent passions do instruct us
-What levity’s in youth.
+==133== She is young and apt.
+==134== Our own precedent passions do instruct us
+==135== What levity’s in youth.
 
 **TIM.**
 *(To Lucilius.)*
-              Love you the maid?
+==135==               Love you the maid?
 
 **LUCIL.**
-Ay, my good lord, and she accepts of it.
+==136== Ay, my good lord, and she accepts of it.
 
 **OLD ATH.**
-If in her marriage my consent be missing,
-I call the gods to witness, I will choose
-Mine heir from forth the beggars of the world,
-And dispossess her all.
+==137== If in her marriage my consent be missing,
+==138== I call the gods to witness, I will choose
+==139== Mine heir from forth the beggars of the world,
+==140== And dispossess her all.
 
 **TIM.**
-           How shall she be endowed,
-If she be mated with an equal husband?
+==140==            How shall she be endowed,
+==141== If she be mated with an equal husband?
 
 **OLD ATH.**
-Three talents on the present; in future, all.
+==142== Three talents on the present; in future, all.
 
 **TIM.**
-This gentleman of mine hath serv’d me long;
-To build his fortune I will strain a little,
-For ’tis a bond in men. Give him thy daughter;
-What you bestow, in him I’ll counterpoise,
-And make him weigh with her.
+==143== This gentleman of mine hath serv’d me long;
+==144== To build his fortune I will strain a little,
+==145== For ’tis a bond in men. Give him thy daughter;
+==146== What you bestow, in him I’ll counterpoise,
+==147== And make him weigh with her.
 
 **OLD ATH.**
-                Most noble lord,
-Pawn me to this your honor, she is his.
+==147==                 Most noble lord,
+==148== Pawn me to this your honor, she is his.
 
 **TIM.**
-My hand to thee, mine honor on my promise.
+==149== My hand to thee, mine honor on my promise.
 
 **LUCIL.**
-Humbly I thank your lordship. Never may
-That state or fortune fall into my keeping,
-Which is not owed to you!
+==150== Humbly I thank your lordship. Never may
+==151== That state or fortune fall into my keeping,
+==152== Which is not owed to you!
 
 *Exit with Old Athenian.*
 
 **POET.**
-Vouchsafe my labor, and long live your lordship!
+==153== Vouchsafe my labor, and long live your lordship!
 
 **TIM.**
-I thank you, you shall hear from me anon.
-Go not away. What have you there, my friend?
+==154== I thank you, you shall hear from me anon.
+==155== Go not away. What have you there, my friend?
 
 **PAIN.**
-A piece of painting, which I do beseech
-Your lordship to accept.
+==156== A piece of painting, which I do beseech
+==157== Your lordship to accept.
 
 **TIM.**
-              Painting is welcome.
-The painting is almost the natural man;
-For since dishonor traffics with man’s nature,
-He is but outside; these pencill’d figures are
-Even such as they give out. I like your work,
-And you shall find I like it. Wait attendance
-Till you hear further from me.
+==157==               Painting is welcome.
+==158== The painting is almost the natural man;
+==159== For since dishonor traffics with man’s nature,
+==160== He is but outside; these pencill’d figures are
+==161== Even such as they give out. I like your work,
+==162== And you shall find I like it. Wait attendance
+==163== Till you hear further from me.
 
 **PAIN.**
-                The gods preserve ye!
+==163==                 The gods preserve ye!
 
 **TIM.**
-Well fare you, gentleman; give me your hand,
-We must needs dine together.—Sir, your jewel
-Hath suffered under praise.
+==164== Well fare you, gentleman; give me your hand,
+==165== We must needs dine together.—Sir, your jewel
+==166== Hath suffered under praise.
 
 **JEW.**
-              What, my lord, dispraise?
+==166==               What, my lord, dispraise?
 
 **TIM.**
-A mere satiety of commendations;
-If I should pay you for’t as ’tis extoll’d,
-It would unclew me quite.
+==167== A mere satiety of commendations;
+==168== If I should pay you for’t as ’tis extoll’d,
+==169== It would unclew me quite.
 
 **JEW.**
-              My lord, ’tis rated
-As those which sell would give; but you well know,
-Things of like value differing in the owners
-Are prized by their masters. Believe’t, dear lord,
-You mend the jewel by the wearing it.
+==169==               My lord, ’tis rated
+==170== As those which sell would give; but you well know,
+==171== Things of like value differing in the owners
+==172== Are prized by their masters. Believe’t, dear lord,
+==173== You mend the jewel by the wearing it.
 
 **TIM.**
-Well mock’d.
+==174== Well mock’d.
 
 *Enter Apemantus.*
 
 **MER.**
-No, my good lord, he speaks the common tongue
-Which all men speak with him.
+==175== No, my good lord, he speaks the common tongue
+==176== Which all men speak with him.
 
 **TIM.**
-Look who comes here; will you be chid?
+==177== Look who comes here; will you be chid?
 
 **JEW.**
-We’ll bear, with your lordship.
+==178== We’ll bear, with your lordship.
 
 **MER.**
-                He’ll spare none.
+==178==                 He’ll spare none.
 
 **TIM.**
-Good morrow to thee, gentle Apemantus!
+==179== Good morrow to thee, gentle Apemantus!
 
 **APEM.**
-Till I be gentle, stay thou for thy good morrow⁠—
-When thou art Timon’s dog, and these knaves honest.
+==180== Till I be gentle, stay thou for thy good morrow⁠—
+==181== When thou art Timon’s dog, and these knaves honest.
 
 **TIM.**
-Why dost thou call them knaves? Thou know’st them not.
+==182== Why dost thou call them knaves? Thou know’st them not.
 
 **APEM.**
-Are they not Athenians?
+==183== Are they not Athenians?
 
 **TIM.**
-Yes.
+==184== Yes.
 
 **APEM.**
-Then I repent not.
+==185== Then I repent not.
 
 **JEW.**
-You know me, Apemantus?
+==186== You know me, Apemantus?
 
 **APEM.**
-Thou know’st I do, I call’d thee by thy name.
+==187== Thou know’st I do, I call’d thee by thy name.
 
 **TIM.**
-Thou art proud, Apemantus.
+==188== Thou art proud, Apemantus.
 
 **APEM.**
-Of nothing so much as that I am not like Timon.
+==189== Of nothing so much as that I am not like Timon.
 
 **TIM.**
-Whither art going?
+==190== Whither art going?
 
 **APEM.**
-To knock out an honest Athenian’s brains.
+==191== To knock out an honest Athenian’s brains.
 
 **TIM.**
-That’s a deed thou’t die for.
+==192== That’s a deed thou’t die for.
 
 **APEM.**
-Right, if doing nothing be death by th’ law.
+==193== Right, if doing nothing be death by th’ law.
 
 **TIM.**
-How lik’st thou this picture, Apemantus?
+==194== How lik’st thou this picture, Apemantus?
 
 **APEM.**
-The best, for the innocence.
+==195== The best, for the innocence.
 
 **TIM.**
-Wrought he not well that painted it?
+==196== Wrought he not well that painted it?
 
 **APEM.**
-He wrought better that made the painter, and yet he’s but a filthy piece of work.
+==197== He wrought better that made the painter, and yet he’s but a filthy piece of work.
 
 **PAIN.**
-Y’ are a dog.
+==198== Y’ are a dog.
 
 **APEM.**
-Thy mother’s of my generation; what’s she, if I be a dog?
+==199== Thy mother’s of my generation; what’s she, if I be a dog?
 
 **TIM.**
-Wilt dine with me, Apemantus?
+==200== Wilt dine with me, Apemantus?
 
 **APEM.**
-No; I eat not lords.
+==201== No; I eat not lords.
 
 **TIM.**
-And thou shouldst, thou’dst anger ladies.
+==202== And thou shouldst, thou’dst anger ladies.
 
 **APEM.**
-O, they eat lords; so they come by great bellies.
+==203== O, they eat lords; so they come by great bellies.
 
 **TIM.**
-That’s a lascivious apprehension.
+==204== That’s a lascivious apprehension.
 
 **APEM.**
-So thou apprehend’st it, take it for thy labor.
+==205== So thou apprehend’st it, take it for thy labor.
 
 **TIM.**
-How dost thou like this jewel, Apemantus?
+==206== How dost thou like this jewel, Apemantus?
 
 **APEM.**
-Not so well as plain-dealing, which will not cast a man a doit.
+==207== Not so well as plain-dealing, which will not cast a man a doit.
 
 **TIM.**
-What dost thou think ’tis worth?
+==208== What dost thou think ’tis worth?
 
 **APEM.**
-Not worth my thinking. How now, poet?
+==209== Not worth my thinking. How now, poet?
 
 **POET.**
-How now, philosopher?
+==210== How now, philosopher?
 
 **APEM.**
-Thou liest.
+==211== Thou liest.
 
 **POET.**
-Art not one?
+==212== Art not one?
 
 **APEM.**
-Yes.
+==213== Yes.
 
 **POET.**
-Then I lie not.
+==214== Then I lie not.
 
 **APEM.**
-Art not a poet?
+==215== Art not a poet?
 
 **POET.**
-Yes.
+==216== Yes.
 
 **APEM.**
-Then thou liest: look in thy last work, where thou hast feign’d him a worthy fellow.
+==217== Then thou liest: look in thy last work, where thou hast feign’d him a worthy fellow.
 
 **POET.**
-That’s not feign’d, he is so.
+==218== That’s not feign’d, he is so.
 
 **APEM.**
-Yes, he is worthy of thee, and to pay thee for thy labor. He that loves to be flatter’d is worthy o’ th’ flatterer. Heavens, that I were a lord!
+==219== Yes, he is worthy of thee, and to pay thee for thy labor. He that loves to be flatter’d is worthy o’ th’ flatterer. Heavens, that I were a lord!
 
 **TIM.**
-What wouldst do then, Apemantus?
+==220== What wouldst do then, Apemantus?
 
 **APEM.**
-E’en as Apemantus does now: hate a lord with my heart.
+==221== E’en as Apemantus does now: hate a lord with my heart.
 
 **TIM.**
-What, thyself?
+==222== What, thyself?
 
 **APEM.**
-Ay.
+==223== Ay.
 
 **TIM.**
-Wherefore?
+==224== Wherefore?
 
 **APEM.**
-That I had no angry wit to be a lord. Art not thou a merchant?
+==225== That I had no angry wit to be a lord. Art not thou a merchant?
 
 **MER.**
-Ay, Apemantus.
+==226== Ay, Apemantus.
 
 **APEM.**
-Traffic confound thee, if the gods will not!
+==227== Traffic confound thee, if the gods will not!
 
 **MER.**
-If traffic do it, the gods do it.
+==228== If traffic do it, the gods do it.
 
 **APEM.**
-Traffic’s thy god, and thy god confound thee!
+==229== Traffic’s thy god, and thy god confound thee!
 
 *Trumpet sounds. Enter a Messenger.*
 
 **TIM.**
-What trumpet’s that?
+==230== What trumpet’s that?
 
 **MESS.**
-’Tis Alcibiades, and some twenty horse,
-All of companionship.
+==231== ’Tis Alcibiades, and some twenty horse,
+==232== All of companionship.
 
 **TIM.**
-Pray entertain them, give them guide to us.
+==233== Pray entertain them, give them guide to us.
 *(Exeunt some Attendants.)*
-You must needs dine with me; go not you hence
-Till I have thank’d you. When dinner’s done,
-Show me this piece. I am joyful of your sights.
+==234== You must needs dine with me; go not you hence
+==235== Till I have thank’d you. When dinner’s done,
+==236== Show me this piece. I am joyful of your sights.
 *(Enter Alcibiades with the rest.)*
-Most welcome, sir!
+==237== Most welcome, sir!
 
 **APEM.**
-           So, so; there!
-Aches contract and starve your supple joints!
-That there should be small love amongest these sweet knaves,
-And all this courtesy! The strain of man’s bred out
-Into baboon and monkey.
+==237==            So, so; there!
+==238== Aches contract and starve your supple joints!
+==239== That there should be small love amongest these sweet knaves,
+==240== And all this courtesy! The strain of man’s bred out
+==241== Into baboon and monkey.
 
 **ALCIB.**
-Sir, you have sav’d my longing, and I feed
-Most hungerly on your sight.
+==242== Sir, you have sav’d my longing, and I feed
+==243== Most hungerly on your sight.
 
 **TIM.**
-                Right welcome, sir!
-Ere we depart, we’ll share a bounteous time
-In different pleasures. Pray you let us in.
+==243==                 Right welcome, sir!
+==244== Ere we depart, we’ll share a bounteous time
+==245== In different pleasures. Pray you let us in.
 
 *Exeunt all but Apemantus.*
 
 *Enter two Lords.*
 
 **1. LORD.**
-What time a’ day is’t, Apemantus?
+==246== What time a’ day is’t, Apemantus?
 
 **APEM.**
-Time to be honest.
+==247== Time to be honest.
 
 **1. LORD.**
-That time serves still.
+==248== That time serves still.
 
 **APEM.**
-The most accursed thou, that still omit’st it.
+==249== The most accursed thou, that still omit’st it.
 
 **2. LORD.**
-Thou art going to Lord Timon’s feast?
+==250== Thou art going to Lord Timon’s feast?
 
 **APEM.**
-Ay, to see meat fill knaves, and wine heat fools.
+==251== Ay, to see meat fill knaves, and wine heat fools.
 
 **2. LORD.**
-Fare thee well, fare thee well.
+==252== Fare thee well, fare thee well.
 
 **APEM.**
-Thou art a fool to bid me farewell twice.
+==253== Thou art a fool to bid me farewell twice.
 
 **2. LORD.**
-Why, Apemantus?
+==254== Why, Apemantus?
 
 **APEM.**
-Shouldst have kept one to thyself, for I mean to give thee none.
+==255== Shouldst have kept one to thyself, for I mean to give thee none.
 
 **1. LORD.**
-Hang thyself!
+==256== Hang thyself!
 
 **APEM.**
-No, I will do nothing at thy bidding; make thy requests to thy friend.
+==257== No, I will do nothing at thy bidding; make thy requests to thy friend.
 
 **2. LORD.**
-Away, unpeaceable dog, or I’ll spurn thee hence!
+==258== Away, unpeaceable dog, or I’ll spurn thee hence!
 
 **APEM.**
-I will fly, like a dog, the heels a’ th’ ass.
+==259== I will fly, like a dog, the heels a’ th’ ass.
 
 *Exit.*
 
 **1. LORD.**
-He’s opposite to humanity. Come, shall we in
-And taste Lord Timon’s bounty? He outgoes
-The very heart of kindness.
+==260== He’s opposite to humanity. Come, shall we in
+==261== And taste Lord Timon’s bounty? He outgoes
+==262== The very heart of kindness.
 
 **2. LORD.**
-He pours it out: Plutus, the god of gold,
-Is but his steward. No meed but he repays
-Sevenfold above itself; no gift to him
-But breeds the giver a return exceeding
-All use of quittance.
+==263== He pours it out: Plutus, the god of gold,
+==264== Is but his steward. No meed but he repays
+==265== Sevenfold above itself; no gift to him
+==266== But breeds the giver a return exceeding
+==267== All use of quittance.
 
 **1. LORD.**
-           The noblest mind he carries
-That ever govern’d man.
+==267==            The noblest mind he carries
+==268== That ever govern’d man.
 
 **2. LORD.**
-Long may he live in fortunes! Shall we in?
+==269== Long may he live in fortunes! Shall we in?
 
 **1. LORD.**
-I’ll keep you company.
+==270== I’ll keep you company.
 
 *Exeunt.*
 

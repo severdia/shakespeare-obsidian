@@ -20,33 +20,33 @@ ID: two-noble-kinsmen-3-4
 *Enter Jailer’s Daughter.*
 
 **DAUGH.**
-I am very cold, and all the stars are out too,
-The little stars and all, that look like aglets.
-The sun has seen my folly. Palamon!
-Alas, no; he’s in heaven. Where am I now?
-Yonder’s the sea, and there’s a ship. How’t tumbles!
-And there’s a rock lies watching under water;
-Now, now, it beats upon it—now, now, now!
-There’s a leak sprung, a sound one. How they cry!
-Open her before the wind! You’ll lose all else.
-Up with a course or two, and tack about, boys!
-Good night, good night, y’ are gone. I am very hungry:
-Would I could find a fine frog! He would tell me
-News from all parts o’ th’ world. Then would I make
-A carreck of a cockleshell, and sail
-By east and north-east to the King of Pigmies,
-For he tells fortunes rarely. Now my father,
-Twenty to one, is truss’d up in a trice
-Tomorrow morning; I’ll say never a word.
+==1== I am very cold, and all the stars are out too,
+==2== The little stars and all, that look like aglets.
+==3== The sun has seen my folly. Palamon!
+==4== Alas, no; he’s in heaven. Where am I now?
+==5== Yonder’s the sea, and there’s a ship. How’t tumbles!
+==6== And there’s a rock lies watching under water;
+==7== Now, now, it beats upon it—now, now, now!
+==8== There’s a leak sprung, a sound one. How they cry!
+==9== Open her before the wind! You’ll lose all else.
+==10== Up with a course or two, and tack about, boys!
+==11== Good night, good night, y’ are gone. I am very hungry:
+==12== Would I could find a fine frog! He would tell me
+==13== News from all parts o’ th’ world. Then would I make
+==14== A carreck of a cockleshell, and sail
+==15== By east and north-east to the King of Pigmies,
+==16== For he tells fortunes rarely. Now my father,
+==17== Twenty to one, is truss’d up in a trice
+==18== Tomorrow morning; I’ll say never a word.
 *(Sing.)*
-*“For I’ll cut my green coat a foot above my knee,*
-*And I’ll clip my yellow locks an inch below mine e’e.*
-*Hey, nonny, nonny, nonny.*
-*He s’ buy me a white cut, forth for to ride,*
-*And I’ll go seek him through the world that is so wide.*
-*Hey, nonny, nonny, nonny.”*
-O for a prick now, like a nightingale,
-To put my breast against! I shall sleep like a top else.
+==19== *“For I’ll cut my green coat a foot above my knee,*
+==20== *And I’ll clip my yellow locks an inch below mine e’e.*
+==21== *Hey, nonny, nonny, nonny.*
+==22== *He s’ buy me a white cut, forth for to ride,*
+==23== *And I’ll go seek him through the world that is so wide.*
+==24== *Hey, nonny, nonny, nonny.”*
+==25== O for a prick now, like a nightingale,
+==26== To put my breast against! I shall sleep like a top else.
 
 *Exit.*
 

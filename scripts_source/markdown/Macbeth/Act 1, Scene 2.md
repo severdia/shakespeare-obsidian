@@ -20,118 +20,118 @@ ID: macbeth-1-2
 *Alarum within. Enter King Duncan, Malcolm, Donalbain, Lennox, with Attendants, meeting a bleeding Sergeant.*
 
 **DUN.**
-What bloody man is that? He can report,
-As seemeth by his plight, of the revolt
-The newest state.
+==1== What bloody man is that? He can report,
+==2== As seemeth by his plight, of the revolt
+==3== The newest state.
 
 **MAL.**
-           This is the sergeant,
-Who like a good and hardy soldier fought
-’Gainst my captivity. Hail, brave friend!
-Say to the King the knowledge of the broil
-As thou didst leave it.
+==3==            This is the sergeant,
+==4== Who like a good and hardy soldier fought
+==5== ’Gainst my captivity. Hail, brave friend!
+==6== Say to the King the knowledge of the broil
+==7== As thou didst leave it.
 
 **SERG.**
-              Doubtful it stood,
-As two spent swimmers that do cling together
-And choke their art. The merciless Macdonwald
-(Worthy to be a rebel, for to that
-The multiplying villainies of nature
-Do swarm upon him) from the Western Isles
-Of kerns and gallowglasses is supplied,
-And Fortune, on his damned quarrel smiling,
-Show’d like a rebel’s whore. But all’s too weak;
-For brave Macbeth (well he deserves that name),
-Disdaining Fortune, with his brandish’d steel,
-Which smok’d with bloody execution,
-(Like Valor’s minion) carv’d out his passage
-Till he fac’d the slave;
-Which nev’r shook hands, nor bade farewell to him,
-Till he unseam’d him from the nave to th’ chops,
-And fix’d his head upon our battlements.
+==7==               Doubtful it stood,
+==8== As two spent swimmers that do cling together
+==9== And choke their art. The merciless Macdonwald
+==10== (Worthy to be a rebel, for to that
+==11== The multiplying villainies of nature
+==12== Do swarm upon him) from the Western Isles
+==13== Of kerns and gallowglasses is supplied,
+==14== And Fortune, on his damned quarrel smiling,
+==15== Show’d like a rebel’s whore. But all’s too weak;
+==16== For brave Macbeth (well he deserves that name),
+==17== Disdaining Fortune, with his brandish’d steel,
+==18== Which smok’d with bloody execution,
+==19== (Like Valor’s minion) carv’d out his passage
+==20== Till he fac’d the slave;
+==21== Which nev’r shook hands, nor bade farewell to him,
+==22== Till he unseam’d him from the nave to th’ chops,
+==23== And fix’d his head upon our battlements.
 
 **DUN.**
-O valiant cousin, worthy gentleman!
+==24== O valiant cousin, worthy gentleman!
 
 **SERG.**
-As whence the sun gins his reflection
-Shipwracking storms and direful thunders break,
-So from that spring whence comfort seem’d to come
-Discomfort swells. Mark, King of Scotland, mark!
-No sooner justice had, with valor arm’d,
-Compell’d these skipping kerns to trust their heels,
-But the Norweyan lord, surveying vantage,
-With furbish’d arms and new supplies of men,
-Began a fresh assault.
+==25== As whence the sun gins his reflection
+==26== Shipwracking storms and direful thunders break,
+==27== So from that spring whence comfort seem’d to come
+==28== Discomfort swells. Mark, King of Scotland, mark!
+==29== No sooner justice had, with valor arm’d,
+==30== Compell’d these skipping kerns to trust their heels,
+==31== But the Norweyan lord, surveying vantage,
+==32== With furbish’d arms and new supplies of men,
+==33== Began a fresh assault.
 
 **DUN.**
-                Dismay’d not this
-Our captains, Macbeth and Banquo?
+==33==                 Dismay’d not this
+==34== Our captains, Macbeth and Banquo?
 
 **SERG.**
-                       Yes,
-As sparrows eagles; or the hare the lion.
-If I say sooth, I must report they were
-As cannons overcharg’d with double cracks, so they
-Doubly redoubled strokes upon the foe.
-Except they meant to bathe in reeking wounds,
-Or memorize another Golgotha,
-I cannot tell⁠—
-But I am faint, my gashes cry for help.
+==34==                        Yes,
+==35== As sparrows eagles; or the hare the lion.
+==36== If I say sooth, I must report they were
+==37== As cannons overcharg’d with double cracks, so they
+==38== Doubly redoubled strokes upon the foe.
+==39== Except they meant to bathe in reeking wounds,
+==40== Or memorize another Golgotha,
+==41== I cannot tell⁠—
+==42== But I am faint, my gashes cry for help.
 
 **DUN.**
-So well thy words become thee as thy wounds,
-They smack of honor both. Go get him surgeons.
+==43== So well thy words become thee as thy wounds,
+==44== They smack of honor both. Go get him surgeons.
 *(Exit Sergeant, attended.)*
 *(Enter Rosse and Angus.)*
-Who comes here?
+==45== Who comes here?
 
 **MAL.**
-           The worthy Thane of Rosse.
+==45==            The worthy Thane of Rosse.
 
 **LEN.**
-What a haste looks through his eyes! So should he look
-That seems to speak things strange.
+==46== What a haste looks through his eyes! So should he look
+==47== That seems to speak things strange.
 
 **ROSSE.**
-                  God save the King!
+==47==                   God save the King!
 
 **DUN.**
-Whence cam’st thou, worthy thane?
+==48== Whence cam’st thou, worthy thane?
 
 **ROSSE.**
-                  From Fife, great King,
-Where the Norweyan banners flout the sky
-And fan our people cold.
-Norway himself, with terrible numbers,
-Assisted by that most disloyal traitor,
-The Thane of Cawdor, began a dismal conflict,
-Till that Bellona’s bridegroom, lapp’d in proof,
-Confronted him with self-comparisons,
-Point against point, rebellious arm ’gainst arm,
-Curbing his lavish spirit; and to conclude,
-The victory fell on us.
+==48==                   From Fife, great King,
+==49== Where the Norweyan banners flout the sky
+==50== And fan our people cold.
+==51== Norway himself, with terrible numbers,
+==52== Assisted by that most disloyal traitor,
+==53== The Thane of Cawdor, began a dismal conflict,
+==54== Till that Bellona’s bridegroom, lapp’d in proof,
+==55== Confronted him with self-comparisons,
+==56== Point against point, rebellious arm ’gainst arm,
+==57== Curbing his lavish spirit; and to conclude,
+==58== The victory fell on us.
 
 **DUN.**
-           Great happiness!
+==58==            Great happiness!
 
 **ROSSE.**
-                     That now
-Sweno, the Norways’ king, craves composition;
-Nor would we deign him burial of his men
-Till he disbursed at Saint Colme’s inch
-Ten thousand dollars to our general use.
+==58==                      That now
+==59== Sweno, the Norways’ king, craves composition;
+==60== Nor would we deign him burial of his men
+==61== Till he disbursed at Saint Colme’s inch
+==62== Ten thousand dollars to our general use.
 
 **DUN.**
-No more that Thane of Cawdor shall deceive
-Our bosom interest. Go pronounce his present death,
-And with his former title greet Macbeth.
+==63== No more that Thane of Cawdor shall deceive
+==64== Our bosom interest. Go pronounce his present death,
+==65== And with his former title greet Macbeth.
 
 **ROSSE.**
-I’ll see it done.
+==66== I’ll see it done.
 
 **DUN.**
-What he hath lost, noble Macbeth hath won.
+==67== What he hath lost, noble Macbeth hath won.
 
 *Exeunt.*
 

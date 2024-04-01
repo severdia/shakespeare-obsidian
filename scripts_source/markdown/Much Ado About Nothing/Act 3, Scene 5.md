@@ -21,95 +21,95 @@ ID: much-ado-about-nothing-3-5
 *Enter Leonato and the Constable Dogberry and the Headborough Verges.*
 
 **LEON.**
-What would you with me, honest neighbor?
+==1== What would you with me, honest neighbor?
 
 **DOG.**
-Marry, sir, I would have some confidence with you that decerns you nearly.
+==2== Marry, sir, I would have some confidence with you that decerns you nearly.
 
 **LEON.**
-Brief, I pray you, for you see it is a busy time with me.
+==3== Brief, I pray you, for you see it is a busy time with me.
 
 **DOG.**
-Marry, this it is, sir.
+==4== Marry, this it is, sir.
 
 **VERG.**
-Yes, in truth it is, sir.
+==5== Yes, in truth it is, sir.
 
 **LEON.**
-What is it, my good friends?
+==6== What is it, my good friends?
 
 **DOG.**
-Goodman Verges, sir, speaks a little off the matter; an old man, sir, and his wits are not so blunt as, God help, I would desire they were, but in faith, honest as the skin between his brows.
+==7== Goodman Verges, sir, speaks a little off the matter; an old man, sir, and his wits are not so blunt as, God help, I would desire they were, but in faith, honest as the skin between his brows.
 
 **VERG.**
-Yes, I thank God I am as honest as any man living, that is an old man, and no honester than I.
+==8== Yes, I thank God I am as honest as any man living, that is an old man, and no honester than I.
 
 **DOG.**
-Comparisons are odorous—*palabras*, neighbor Verges.
+==9== Comparisons are odorous—*palabras*, neighbor Verges.
 
 **LEON.**
-Neighbors, you are tedious.
+==10== Neighbors, you are tedious.
 
 **DOG.**
-It pleases your worship to say so, but we are the poor Duke’s officers; but truly, for mine own part, if I were as tedious as a king, I could find in my heart to bestow it all of your worship.
+==11== It pleases your worship to say so, but we are the poor Duke’s officers; but truly, for mine own part, if I were as tedious as a king, I could find in my heart to bestow it all of your worship.
 
 **LEON.**
-All thy tediousness on me, ah?
+==12== All thy tediousness on me, ah?
 
 **DOG.**
-Yea, and ’twere a thousand pound more than ’tis, for I hear as good exclamation on your worship as of any man in the city, and though I be but a poor man, I am glad to hear it.
+==13== Yea, and ’twere a thousand pound more than ’tis, for I hear as good exclamation on your worship as of any man in the city, and though I be but a poor man, I am glad to hear it.
 
 **VERG.**
-And so am I.
+==14== And so am I.
 
 **LEON.**
-I would fain know what you have to say.
+==15== I would fain know what you have to say.
 
 **VERG.**
-Marry, sir, our watch tonight, excepting your worship’s presence, ha’ ta’en a couple of as arrant knaves as any in Messina.
+==16== Marry, sir, our watch tonight, excepting your worship’s presence, ha’ ta’en a couple of as arrant knaves as any in Messina.
 
 **DOG.**
-A good old man, sir, he will be talking; as they say, “When the age is in, the wit is out.” God help us, it is a world to see! Well said, i’ faith, neighbor Verges. Well, God’s a good man; and two men ride of a horse, one must ride behind. An honest soul, i’ faith, sir, by my troth he is, as ever broke bread; but God is to be worshipp’d; all men are not alike, alas, good neighbor!
+==17== A good old man, sir, he will be talking; as they say, “When the age is in, the wit is out.” God help us, it is a world to see! Well said, i’ faith, neighbor Verges. Well, God’s a good man; and two men ride of a horse, one must ride behind. An honest soul, i’ faith, sir, by my troth he is, as ever broke bread; but God is to be worshipp’d; all men are not alike, alas, good neighbor!
 
 **LEON.**
-Indeed, neighbor, he comes too short of you.
+==18== Indeed, neighbor, he comes too short of you.
 
 **DOG.**
-Gifts that God gives.
+==19== Gifts that God gives.
 
 **LEON.**
-I must leave you.
+==20== I must leave you.
 
 **DOG.**
-One word, sir. Our watch, sir, have indeed comprehended two aspicious persons, and we would have them this morning examin’d before your worship.
+==21== One word, sir. Our watch, sir, have indeed comprehended two aspicious persons, and we would have them this morning examin’d before your worship.
 
 **LEON.**
-Take their examination yourself, and bring it me. I am now in great haste, as it may appear unto you.
+==22== Take their examination yourself, and bring it me. I am now in great haste, as it may appear unto you.
 
 **DOG.**
-It shall be suffigance.
+==23== It shall be suffigance.
 
 **LEON.**
-Drink some wine ere you go; fare you well.
+==24== Drink some wine ere you go; fare you well.
 
 *Enter a Messenger.*
 
 **MESS.**
-My lord, they stay for you to give your daughter to her husband.
+==25== My lord, they stay for you to give your daughter to her husband.
 
 **LEON.**
-I’ll wait upon them, I am ready.
+==26== I’ll wait upon them, I am ready.
 
 *Exeunt Leonato and Messenger.*
 
 **DOG.**
-Go, good partner, go, get you to Francis Seacole, bid him bring his pen and inkhorn to the jail. We are now to examination these men.
+==27== Go, good partner, go, get you to Francis Seacole, bid him bring his pen and inkhorn to the jail. We are now to examination these men.
 
 **VERG.**
-And we must do it wisely.
+==28== And we must do it wisely.
 
 **DOG.**
-We will spare for no wit, I warrant you. Here’s that shall drive some of them to a non-come; only get the learned writer to set down our excommunication, and meet me at the jail.
+==29== We will spare for no wit, I warrant you. Here’s that shall drive some of them to a non-come; only get the learned writer to set down our excommunication, and meet me at the jail.
 
 *Exeunt.*
 

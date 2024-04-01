@@ -21,120 +21,120 @@ ID: merchant-of-venice-3-4
 *Enter Portia, Nerissa, Lorenzo, Jessica, and Balthazar, a man of Portia’s.*
 
 **LOR.**
-Madam, although I speak it in your presence,
-You have a noble and a true conceit
-Of godlike amity, which appears most strongly
-In bearing thus the absence of your lord.
-But if you knew to whom you show this honor,
-How true a gentleman you send relief,
-How dear a lover of my lord your husband,
-I know you would be prouder of the work
-Than customary bounty can enforce you.
+==1== Madam, although I speak it in your presence,
+==2== You have a noble and a true conceit
+==3== Of godlike amity, which appears most strongly
+==4== In bearing thus the absence of your lord.
+==5== But if you knew to whom you show this honor,
+==6== How true a gentleman you send relief,
+==7== How dear a lover of my lord your husband,
+==8== I know you would be prouder of the work
+==9== Than customary bounty can enforce you.
 
 **POR.**
-I never did repent for doing good,
-Nor shall not now: for in companions
-That do converse and waste the time together,
-Whose souls do bear an egall yoke of love,
-There must be needs a like proportion
-Of lineaments, of manners, and of spirit;
-Which makes me think that this Antonio,
-Being the bosom lover of my lord,
-Must needs be like my lord. If it be so,
-How little is the cost I have bestowed
-In purchasing the semblance of my soul,
-From out the state of hellish cruelty.
-This comes too near the praising of myself,
-Therefore no more of it. Hear other things:
-Lorenzo, I commit into your hands
-The husbandry and manage of my house
-Until my lord’s return. For mine own part,
-I have toward heaven breath’d a secret vow
-To live in prayer and contemplation,
-Only attended by Nerissa here,
-Until her husband and my lord’s return.
-There is a monast’ry two miles off,
-And there we will abide. I do desire you
-Not to deny this imposition,
-The which my love and some necessity
-Now lays upon you.
+==10== I never did repent for doing good,
+==11== Nor shall not now: for in companions
+==12== That do converse and waste the time together,
+==13== Whose souls do bear an egall yoke of love,
+==14== There must be needs a like proportion
+==15== Of lineaments, of manners, and of spirit;
+==16== Which makes me think that this Antonio,
+==17== Being the bosom lover of my lord,
+==18== Must needs be like my lord. If it be so,
+==19== How little is the cost I have bestowed
+==20== In purchasing the semblance of my soul,
+==21== From out the state of hellish cruelty.
+==22== This comes too near the praising of myself,
+==23== Therefore no more of it. Hear other things:
+==24== Lorenzo, I commit into your hands
+==25== The husbandry and manage of my house
+==26== Until my lord’s return. For mine own part,
+==27== I have toward heaven breath’d a secret vow
+==28== To live in prayer and contemplation,
+==29== Only attended by Nerissa here,
+==30== Until her husband and my lord’s return.
+==31== There is a monast’ry two miles off,
+==32== And there we will abide. I do desire you
+==33== Not to deny this imposition,
+==34== The which my love and some necessity
+==35== Now lays upon you.
 
 **LOR.**
-           Madam, with all my heart,
-I shall obey you in all fair commands.
+==35==            Madam, with all my heart,
+==36== I shall obey you in all fair commands.
 
 **POR.**
-My people do already know my mind,
-And will acknowledge you and Jessica
-In place of Lord Bassanio and myself.
-So fare you well till we shall meet again.
+==37== My people do already know my mind,
+==38== And will acknowledge you and Jessica
+==39== In place of Lord Bassanio and myself.
+==40== So fare you well till we shall meet again.
 
 **LOR.**
-Fair thoughts and happy hours attend on you!
+==41== Fair thoughts and happy hours attend on you!
 
 **JES.**
-I wish your ladyship all heart’s content.
+==42== I wish your ladyship all heart’s content.
 
 **POR.**
-I thank you for your wish, and am well pleas’d
-To wish it back on you. Fare you well, Jessica.
+==43== I thank you for your wish, and am well pleas’d
+==44== To wish it back on you. Fare you well, Jessica.
 *(Exeunt Jessica and Lorenzo.)*
-Now, Balthazar,
-As I have ever found thee honest-true,
-So let me find thee still. Take this same letter,
-And use thou all th’ endeavor of a man
-In speed to Padua. See thou render this
-Into my cousin’s hands, Doctor Bellario,
-And look what notes and garments he doth give thee,
-Bring them, I pray thee, with imagin’d speed
-Unto the traject, to the common ferry
-Which trades to Venice. Waste no time in words,
-But get thee gone. I shall be there before thee.
+==45== Now, Balthazar,
+==46== As I have ever found thee honest-true,
+==47== So let me find thee still. Take this same letter,
+==48== And use thou all th’ endeavor of a man
+==49== In speed to Padua. See thou render this
+==50== Into my cousin’s hands, Doctor Bellario,
+==51== And look what notes and garments he doth give thee,
+==52== Bring them, I pray thee, with imagin’d speed
+==53== Unto the traject, to the common ferry
+==54== Which trades to Venice. Waste no time in words,
+==55== But get thee gone. I shall be there before thee.
 
 **BALTH.**
-Madam, I go with all convenient speed.
+==56== Madam, I go with all convenient speed.
 
 *Exit.*
 
 **POR.**
-Come on, Nerissa, I have work in hand
-That you yet know not of. We’ll see our husbands
-Before they think of us.
+==57== Come on, Nerissa, I have work in hand
+==58== That you yet know not of. We’ll see our husbands
+==59== Before they think of us.
 
 **NER.**
-              Shall they see us?
+==59==               Shall they see us?
 
 **POR.**
-They shall, Nerissa; but in such a habit
-That they shall think we are accomplished
-With that we lack. I’ll hold thee any wager,
-When we are both accoutered like young men,
-I’ll prove the prettier fellow of the two,
-And wear my dagger with the braver grace,
-And speak between the change of man and boy
-With a reed voice, and turn two mincing steps
-Into a manly stride; and speak of frays
-Like a fine bragging youth, and tell quaint lies,
-How honorable ladies sought my love,
-Which I denying, they fell sick and died.
-I could not do withal. Then I’ll repent,
-And wish, for all that, that I had not kill’d them;
-And twenty of these puny lies I’ll tell,
-That men shall swear I have discontinued school
-Above a twelvemonth. I have within my mind
-A thousand raw tricks of these bragging Jacks,
-Which I will practice.
+==60== They shall, Nerissa; but in such a habit
+==61== That they shall think we are accomplished
+==62== With that we lack. I’ll hold thee any wager,
+==63== When we are both accoutered like young men,
+==64== I’ll prove the prettier fellow of the two,
+==65== And wear my dagger with the braver grace,
+==66== And speak between the change of man and boy
+==67== With a reed voice, and turn two mincing steps
+==68== Into a manly stride; and speak of frays
+==69== Like a fine bragging youth, and tell quaint lies,
+==70== How honorable ladies sought my love,
+==71== Which I denying, they fell sick and died.
+==72== I could not do withal. Then I’ll repent,
+==73== And wish, for all that, that I had not kill’d them;
+==74== And twenty of these puny lies I’ll tell,
+==75== That men shall swear I have discontinued school
+==76== Above a twelvemonth. I have within my mind
+==77== A thousand raw tricks of these bragging Jacks,
+==78== Which I will practice.
 
 **NER.**
-           Why, shall we turn to men?
+==78==            Why, shall we turn to men?
 
 **POR.**
-Fie, what a question’s that,
-If thou wert near a lewd interpreter!
-But come, I’ll tell thee all my whole device
-When I am in my coach, which stays for us
-At the park-gate; and therefore haste away,
-For we must measure twenty miles today.
+==79== Fie, what a question’s that,
+==80== If thou wert near a lewd interpreter!
+==81== But come, I’ll tell thee all my whole device
+==82== When I am in my coach, which stays for us
+==83== At the park-gate; and therefore haste away,
+==84== For we must measure twenty miles today.
 
 *Exeunt.*
 

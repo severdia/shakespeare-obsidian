@@ -22,99 +22,99 @@ ID: king-lear-1-5
 *Enter Lear, Kent disguised as Caius, and Fool.*
 
 **LEAR.**
-Go you before to Gloucester with these letters. Acquaint my daughter no further with any thing you know than comes from her demand out of the letter. If your diligence be not speedy, I shall be there afore you.
+==1== Go you before to Gloucester with these letters. Acquaint my daughter no further with any thing you know than comes from her demand out of the letter. If your diligence be not speedy, I shall be there afore you.
 
 **KENT.**
-I will not sleep, my lord, till I have deliver’d your letter.
+==2== I will not sleep, my lord, till I have deliver’d your letter.
 
 *Exit.*
 
 **FOOL.**
-If a man’s brains were in ’s heels, were’t not in danger of kibes?
+==3== If a man’s brains were in ’s heels, were’t not in danger of kibes?
 
 **LEAR.**
-Ay, boy.
+==4== Ay, boy.
 
 **FOOL.**
-Then I prithee be merry, thy wit shall not go slip-shod.
+==5== Then I prithee be merry, thy wit shall not go slip-shod.
 
 **LEAR.**
-Ha, ha, ha!
+==6== Ha, ha, ha!
 
 **FOOL.**
-Shalt see thy other daughter will use thee kindly, for though she’s as like this as a crab’s like an apple, yet I can tell what I can tell.
+==7== Shalt see thy other daughter will use thee kindly, for though she’s as like this as a crab’s like an apple, yet I can tell what I can tell.
 
 **LEAR.**
-What canst tell, boy?
+==8== What canst tell, boy?
 
 **FOOL.**
-She will taste as like this as a crab does to a crab. Thou canst tell why one’s nose stands i’ th’ middle on ’s face?
+==9== She will taste as like this as a crab does to a crab. Thou canst tell why one’s nose stands i’ th’ middle on ’s face?
 
 **LEAR.**
-No.
+==10== No.
 
 **FOOL.**
-Why, to keep one’s eyes of either side ’s nose, that what a man cannot smell out, he may spy into.
+==11== Why, to keep one’s eyes of either side ’s nose, that what a man cannot smell out, he may spy into.
 
 **LEAR.**
-I did her wrong.
+==12== I did her wrong.
 
 **FOOL.**
-Canst tell how an oyster makes his shell?
+==13== Canst tell how an oyster makes his shell?
 
 **LEAR.**
-No.
+==14== No.
 
 **FOOL.**
-Nor I neither; but I can tell why a snail has a house.
+==15== Nor I neither; but I can tell why a snail has a house.
 
 **LEAR.**
-Why?
+==16== Why?
 
 **FOOL.**
-Why, to put ’s head in, not to give it away to his daughters, and leave his horns without a case.
+==17== Why, to put ’s head in, not to give it away to his daughters, and leave his horns without a case.
 
 **LEAR.**
-I will forget my nature. So kind a father! Be my horses ready?
+==18== I will forget my nature. So kind a father! Be my horses ready?
 
 **FOOL.**
-Thy asses are gone about ’em. The reason why the seven stars are no more than seven is a pretty reason.
+==19== Thy asses are gone about ’em. The reason why the seven stars are no more than seven is a pretty reason.
 
 **LEAR.**
-Because they are not eight.
+==20== Because they are not eight.
 
 **FOOL.**
-Yes indeed, thou wouldst make a good Fool.
+==21== Yes indeed, thou wouldst make a good Fool.
 
 **LEAR.**
-To take’t again perforce! Monster ingratitude!
+==22== To take’t again perforce! Monster ingratitude!
 
 **FOOL.**
-If thou wert my Fool, nuncle, I’ld have thee beaten for being old before thy time.
+==23== If thou wert my Fool, nuncle, I’ld have thee beaten for being old before thy time.
 
 **LEAR.**
-How’s that?
+==24== How’s that?
 
 **FOOL.**
-Thou shouldst not have been old till thou hadst been wise.
+==25== Thou shouldst not have been old till thou hadst been wise.
 
 **LEAR.**
-O, let me not be mad, not mad, sweet heaven!
-Keep me in temper, I would not be mad!
+==26== O, let me not be mad, not mad, sweet heaven!
+==27== Keep me in temper, I would not be mad!
 *(Enter First Gentleman.)*
-How now, are the horses ready?
+==28== How now, are the horses ready?
 
 **1. GENT.**
-Ready, my lord.
+==29== Ready, my lord.
 
 **LEAR.**
-Come, boy.
+==30== Come, boy.
 
 *Exeunt Lear and First Gentleman.*
 
 **FOOL.**
-She that’s a maid now, and laughs at my departure,
-Shall not be a maid long, unless things be cut shorter.
+==31== She that’s a maid now, and laughs at my departure,
+==32== Shall not be a maid long, unless things be cut shorter.
 
 *Exit.*
 

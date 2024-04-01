@@ -20,97 +20,97 @@ ID: alls-well-that-ends-well-2-4
 *Enter Helena and Clown.*
 
 **HEL.**
-My mother greets me kindly. Is she well?
+==1== My mother greets me kindly. Is she well?
 
 **CLO.**
-She is not well, but yet she has her health. She’s very merry, but yet she is not well; but thanks be given, she’s very well, and wants nothing i’ th’ world; but yet she is not well.
+==2== She is not well, but yet she has her health. She’s very merry, but yet she is not well; but thanks be given, she’s very well, and wants nothing i’ th’ world; but yet she is not well.
 
 **HEL.**
-If she be very well, what does she ail that she’s not very well?
+==3== If she be very well, what does she ail that she’s not very well?
 
 **CLO.**
-Truly, she’s very well indeed, but for two things.
+==4== Truly, she’s very well indeed, but for two things.
 
 **HEL.**
-What two things?
+==5== What two things?
 
 **CLO.**
-One, that she’s not in heaven, whither God send her quickly! The other, that she’s in earth, from whence God send her quickly!
+==6== One, that she’s not in heaven, whither God send her quickly! The other, that she’s in earth, from whence God send her quickly!
 
 *Enter Parolles.*
 
 **PAR.**
-Bless you, my fortunate lady!
+==7== Bless you, my fortunate lady!
 
 **HEL.**
-I hope, sir, I have your good will to have mine own good fortunes.
+==8== I hope, sir, I have your good will to have mine own good fortunes.
 
 **PAR.**
-You had my prayers to lead them on, and to keep them on, have them still. O, my knave, how does my old lady?
+==9== You had my prayers to lead them on, and to keep them on, have them still. O, my knave, how does my old lady?
 
 **CLO.**
-So that you had her wrinkles and I her money, I would she did as you say.
+==10== So that you had her wrinkles and I her money, I would she did as you say.
 
 **PAR.**
-Why, I say nothing.
+==11== Why, I say nothing.
 
 **CLO.**
-Marry, you are the wiser man; for many a man’s tongue shakes out his master’s undoing. To say nothing, to do nothing, to know nothing, and to have nothing, is to be a great part of your title, which is within a very little of nothing.
+==12== Marry, you are the wiser man; for many a man’s tongue shakes out his master’s undoing. To say nothing, to do nothing, to know nothing, and to have nothing, is to be a great part of your title, which is within a very little of nothing.
 
 **PAR.**
-Away, th’ art a knave.
+==13== Away, th’ art a knave.
 
 **CLO.**
-You should have said, sir, “Before a knave th’ art a knave,” that’s “Before me th’ art a knave.” This had been truth, sir.
+==14== You should have said, sir, “Before a knave th’ art a knave,” that’s “Before me th’ art a knave.” This had been truth, sir.
 
 **PAR.**
-Go to, thou art a witty fool, I have found thee.
+==15== Go to, thou art a witty fool, I have found thee.
 
 **CLO.**
-Did you find me in yourself, sir,
+==16== Did you find me in yourself, sir,
 *(Parolles nods.)*
-or were you taught to find me?
+==17== or were you taught to find me?
 *(Parolles shakes his head.)*
-The search, sir, was profitable, and much fool may you find in you, even to the world’s pleasure and the increase of laughter.
+==18== The search, sir, was profitable, and much fool may you find in you, even to the world’s pleasure and the increase of laughter.
 
 **PAR.**
-A good knave, i’ faith, and well fed.
-Madam, my lord will go away tonight,
-A very serious business calls on him.
-The great prerogative and rite of love,
-Which, as your due, time claims, he does acknowledge,
-But puts it off to a compell’d restraint;
-Whose want, and whose delay, is strew’d with sweets,
-Which they distill now in the curbed time,
-To make the coming hour o’erflow with joy,
-And pleasure drown the brim.
+==19== A good knave, i’ faith, and well fed.
+==20== Madam, my lord will go away tonight,
+==21== A very serious business calls on him.
+==22== The great prerogative and rite of love,
+==23== Which, as your due, time claims, he does acknowledge,
+==24== But puts it off to a compell’d restraint;
+==25== Whose want, and whose delay, is strew’d with sweets,
+==26== Which they distill now in the curbed time,
+==27== To make the coming hour o’erflow with joy,
+==28== And pleasure drown the brim.
 
 **HEL.**
-                What’s his will else?
+==28==                 What’s his will else?
 
 **PAR.**
-That you will take your instant leave a’ th’ King,
-And make this haste as your own good proceeding,
-Strength’ned with what apology you think
-May make it probable need.
+==29== That you will take your instant leave a’ th’ King,
+==30== And make this haste as your own good proceeding,
+==31== Strength’ned with what apology you think
+==32== May make it probable need.
 
 **HEL.**
-              What more commands he?
+==32==               What more commands he?
 
 **PAR.**
-That having this obtain’d, you presently
-Attend his further pleasure.
+==33== That having this obtain’d, you presently
+==34== Attend his further pleasure.
 
 **HEL.**
-In every thing I wait upon his will.
+==35== In every thing I wait upon his will.
 
 **PAR.**
-I shall report it so.
+==36== I shall report it so.
 
 *Exit Parolles.*
 
 **HEL.**
-           I pray you. Come, sirrah.
+==36==            I pray you. Come, sirrah.
 
 *Exeunt.*
 

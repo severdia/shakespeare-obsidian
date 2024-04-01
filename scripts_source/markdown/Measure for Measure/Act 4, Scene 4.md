@@ -20,44 +20,44 @@ ID: measure-for-measure-4-4
 *Enter Angelo and Escalus.*
 
 **ESCAL.**
-Every letter he hath writ hath disvouch’d other.
+==1== Every letter he hath writ hath disvouch’d other.
 
 **ANG.**
-In most uneven and distracted manner. His actions show much like to madness, pray heaven his wisdom be not tainted! And why meet him at the gates, and redeliver our authorities there?
+==2== In most uneven and distracted manner. His actions show much like to madness, pray heaven his wisdom be not tainted! And why meet him at the gates, and redeliver our authorities there?
 
 **ESCAL.**
-I guess not.
+==3== I guess not.
 
 **ANG.**
-And why should we proclaim it in an hour before his ent’ring, that if any crave redress of injustice, they should exhibit their petitions in the street?
+==4== And why should we proclaim it in an hour before his ent’ring, that if any crave redress of injustice, they should exhibit their petitions in the street?
 
 **ESCAL.**
-He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us.
+==5== He shows his reason for that: to have a dispatch of complaints, and to deliver us from devices hereafter, which shall then have no power to stand against us.
 
 **ANG.**
-Well; I beseech you let it be proclaim’d betimes i’ th’ morn. I’ll call you at your house. Give notice to such men of sort and suit as are to meet him.
+==6== Well; I beseech you let it be proclaim’d betimes i’ th’ morn. I’ll call you at your house. Give notice to such men of sort and suit as are to meet him.
 
 **ESCAL.**
-I shall, sir. Fare you well.
+==7== I shall, sir. Fare you well.
 
 **ANG.**
-Good night.
+==8== Good night.
 *(Exit Escalus.)*
-This deed unshapes me quite, makes me unpregnant
-And dull to all proceedings. A deflow’red maid!
-And by an eminent body that enforc’d
-The law against it! But that her tender shame
-Will not proclaim against her maiden loss,
-How might she tongue me! Yet reason dares her no,
-For my authority bears of a credent bulk,
-That no particular scandal once can touch
-But it confounds the breather. He should have liv’d,
-Save that his riotous youth with dangerous sense
-Might in the times to come have ta’en revenge,
-By so receiving a dishonor’d life
-With ransom of such shame. Would yet he had liv’d!
-Alack, when once our grace we have forgot,
-Nothing goes right—we would, and we would not.
+==9== This deed unshapes me quite, makes me unpregnant
+==10== And dull to all proceedings. A deflow’red maid!
+==11== And by an eminent body that enforc’d
+==12== The law against it! But that her tender shame
+==13== Will not proclaim against her maiden loss,
+==14== How might she tongue me! Yet reason dares her no,
+==15== For my authority bears of a credent bulk,
+==16== That no particular scandal once can touch
+==17== But it confounds the breather. He should have liv’d,
+==18== Save that his riotous youth with dangerous sense
+==19== Might in the times to come have ta’en revenge,
+==20== By so receiving a dishonor’d life
+==21== With ransom of such shame. Would yet he had liv’d!
+==22== Alack, when once our grace we have forgot,
+==23== Nothing goes right—we would, and we would not.
 
 *Exit.*
 

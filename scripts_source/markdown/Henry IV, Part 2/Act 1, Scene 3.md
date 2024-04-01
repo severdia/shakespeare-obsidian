@@ -21,157 +21,157 @@ ID: henry-iv-part-ii-1-3
 *Enter the Archbishop of York, Thomas Mowbray Earl Marshal, the Lord Hastings, and Lord Bardolph.*
 
 **ARCH.**
-Thus have you heard our cause and known our means,
-And, my most noble friends, I pray you all
-Speak plainly your opinions of our hopes.
-And first, Lord Marshal, what say you to it?
+==1== Thus have you heard our cause and known our means,
+==2== And, my most noble friends, I pray you all
+==3== Speak plainly your opinions of our hopes.
+==4== And first, Lord Marshal, what say you to it?
 
 **MOWB.**
-I well allow the occasion of our arms,
-But gladly would be better satisfied
-How in our means we should advance ourselves
-To look with forehead bold and big enough
-Upon the power and puissance of the King.
+==5== I well allow the occasion of our arms,
+==6== But gladly would be better satisfied
+==7== How in our means we should advance ourselves
+==8== To look with forehead bold and big enough
+==9== Upon the power and puissance of the King.
 
 **HAST.**
-Our present musters grow upon the file
-To five and twenty thousand men of choice,
-And our supplies live largely in the hope
-Of great Northumberland, whose bosom burns
-With an incensed fire of injuries.
+==10== Our present musters grow upon the file
+==11== To five and twenty thousand men of choice,
+==12== And our supplies live largely in the hope
+==13== Of great Northumberland, whose bosom burns
+==14== With an incensed fire of injuries.
 
 **L. BARD.**
-The question then, Lord Hastings, standeth thus:
-Whether our present five and twenty thousand
-May hold up head without Northumberland?
+==15== The question then, Lord Hastings, standeth thus:
+==16== Whether our present five and twenty thousand
+==17== May hold up head without Northumberland?
 
 **HAST.**
-With him, we may.
+==18== With him, we may.
 
 **L. BARD.**
-           Yea, marry, there’s the point!
-But if without him we be thought too feeble,
-My judgment is we should not step too far
-Till we had his assistance by the hand.
-For in a theme so bloody-fac’d as this,
-Conjecture, expectation, and surmise
-Of aids incertain should not be admitted.
+==18==            Yea, marry, there’s the point!
+==19== But if without him we be thought too feeble,
+==20== My judgment is we should not step too far
+==21== Till we had his assistance by the hand.
+==22== For in a theme so bloody-fac’d as this,
+==23== Conjecture, expectation, and surmise
+==24== Of aids incertain should not be admitted.
 
 **ARCH.**
-’Tis very true, Lord Bardolph, for indeed
-It was young Hotspur’s cause at Shrewsbury.
+==25== ’Tis very true, Lord Bardolph, for indeed
+==26== It was young Hotspur’s cause at Shrewsbury.
 
 **L. BARD.**
-It was, my lord, who lin’d himself with hope,
-Eating the air, and promise of supply,
-Flatt’ring himself in project of a power
-Much smaller than the smallest of his thoughts,
-And so with great imagination,
-Proper to madmen, led his powers to death,
-And winking, leapt into destruction.
+==27== It was, my lord, who lin’d himself with hope,
+==28== Eating the air, and promise of supply,
+==29== Flatt’ring himself in project of a power
+==30== Much smaller than the smallest of his thoughts,
+==31== And so with great imagination,
+==32== Proper to madmen, led his powers to death,
+==33== And winking, leapt into destruction.
 
 **HAST.**
-But by your leave, it never yet did hurt
-To lay down likelihoods and forms of hope.
+==34== But by your leave, it never yet did hurt
+==35== To lay down likelihoods and forms of hope.
 
 **L. BARD.**
-Yes, if this present quality of war⁠—
-Indeed the instant action, a cause on foot⁠—
-Lives so in hope, as in an early spring
-We see th’ appearing buds, which to prove fruit
-Hope gives not so much warrant, as despair
-That frosts will bite them. When we mean to build,
-We first survey the plot, then draw the model,
-And when we see the figure of the house,
-Then must we rate the cost of the erection,
-Which if we find outweighs ability,
-What do we then but draw anew the model
-In fewer offices, or at least desist
-To build at all? Much more, in this great work
-(Which is, almost, to pluck a kingdom down
-And set another up), should we survey
-The plot of situation and the model,
-Consent upon a sure foundation,
-Question surveyors, know our own estate,
-How able such a work to undergo,
-To weigh against his opposite; or else
-We fortify in paper and in figures,
-Using the names of men in stead of men,
-Like one that draws the model of an house
-Beyond his power to build it, who, half thorough,
-Gives o’er, and leaves his part-created cost
-A naked subject to the weeping clouds
-And waste for churlish winter’s tyranny.
+==36== Yes, if this present quality of war⁠—
+==37== Indeed the instant action, a cause on foot⁠—
+==38== Lives so in hope, as in an early spring
+==39== We see th’ appearing buds, which to prove fruit
+==40== Hope gives not so much warrant, as despair
+==41== That frosts will bite them. When we mean to build,
+==42== We first survey the plot, then draw the model,
+==43== And when we see the figure of the house,
+==44== Then must we rate the cost of the erection,
+==45== Which if we find outweighs ability,
+==46== What do we then but draw anew the model
+==47== In fewer offices, or at least desist
+==48== To build at all? Much more, in this great work
+==49== (Which is, almost, to pluck a kingdom down
+==50== And set another up), should we survey
+==51== The plot of situation and the model,
+==52== Consent upon a sure foundation,
+==53== Question surveyors, know our own estate,
+==54== How able such a work to undergo,
+==55== To weigh against his opposite; or else
+==56== We fortify in paper and in figures,
+==57== Using the names of men in stead of men,
+==58== Like one that draws the model of an house
+==59== Beyond his power to build it, who, half thorough,
+==60== Gives o’er, and leaves his part-created cost
+==61== A naked subject to the weeping clouds
+==62== And waste for churlish winter’s tyranny.
 
 **HAST.**
-Grant that our hopes (yet likely of fair birth) 
-Should be still-born, and that we now possess’d
-The utmost man of expectation,
-I think we are so a body strong enough,
-Even as we are, to equal with the King.
+==63== Grant that our hopes (yet likely of fair birth) 
+==64== Should be still-born, and that we now possess’d
+==65== The utmost man of expectation,
+==66== I think we are so a body strong enough,
+==67== Even as we are, to equal with the King.
 
 **L. BARD.**
-What, is the King but five and twenty thousand?
+==68== What, is the King but five and twenty thousand?
 
 **HAST.**
-To us no more, nay, not so much, Lord Bardolph,
-For his divisions, as the times do brawl,
-Are in three heads: one power against the French,
-And one against Glendower; perforce a third
-Must take up us. So is the unfirm King
-In three divided, and his coffers sound
-With hollow poverty and emptiness.
+==69== To us no more, nay, not so much, Lord Bardolph,
+==70== For his divisions, as the times do brawl,
+==71== Are in three heads: one power against the French,
+==72== And one against Glendower; perforce a third
+==73== Must take up us. So is the unfirm King
+==74== In three divided, and his coffers sound
+==75== With hollow poverty and emptiness.
 
 **ARCH.**
-That he should draw his several strengths together,
-And come against us in full puissance,
-Need not to be dreaded.
+==76== That he should draw his several strengths together,
+==77== And come against us in full puissance,
+==78== Need not to be dreaded.
 
 **HAST.**
-              If he should do so,
-To French and Welsh he leaves his back unarm’d,
-They baying him at the heels. Never fear that.
+==78==               If he should do so,
+==79== To French and Welsh he leaves his back unarm’d,
+==80== They baying him at the heels. Never fear that.
 
 **L. BARD.**
-Who is it like should lead his forces hither?
+==81== Who is it like should lead his forces hither?
 
 **HAST.**
-The Duke of Lancaster and Westmorland;
-Against the Welsh, himself and Harry Monmouth;
-But who is substituted against the French,
-I have no certain notice.
+==82== The Duke of Lancaster and Westmorland;
+==83== Against the Welsh, himself and Harry Monmouth;
+==84== But who is substituted against the French,
+==85== I have no certain notice.
 
 **ARCH.**
-              Let us on!
-And publish the occasion of our arms.
-The commonwealth is sick of their own choice,
-Their over-greedy love hath surfeited.
-An habitation giddy and unsure
-Hath he that buildeth on the vulgar heart.
-O thou fond many, with what loud applause
-Didst thou beat heaven with blessing Bullingbrook
-Before he was what thou wouldst have him be!
-And being now trimm’d in thine own desires,
-Thou, beastly feeder, art so full of him,
-That thou provok’st thyself to cast him up.
-So, so, thou common dog, didst thou disgorge
-Thy glutton bosom of the royal Richard,
-And now thou wouldst eat thy dead vomit up,
-And howl’st to find it. What trust is in these times?
-They that, when Richard liv’d, would have him die,
-Are now become enamor’d on his grave.
-Thou, that threw’st dust upon his goodly head
-When through proud London he came sighing on
-After th’ admired heels of Bullingbrook,
-Cri’st now, “O earth, yield us that king again,
-And take thou this!” O thoughts of men accurs’d!
-Past and to come seems best; things present worst.
+==85==               Let us on!
+==86== And publish the occasion of our arms.
+==87== The commonwealth is sick of their own choice,
+==88== Their over-greedy love hath surfeited.
+==89== An habitation giddy and unsure
+==90== Hath he that buildeth on the vulgar heart.
+==91== O thou fond many, with what loud applause
+==92== Didst thou beat heaven with blessing Bullingbrook
+==93== Before he was what thou wouldst have him be!
+==94== And being now trimm’d in thine own desires,
+==95== Thou, beastly feeder, art so full of him,
+==96== That thou provok’st thyself to cast him up.
+==97== So, so, thou common dog, didst thou disgorge
+==98== Thy glutton bosom of the royal Richard,
+==99== And now thou wouldst eat thy dead vomit up,
+==100== And howl’st to find it. What trust is in these times?
+==101== They that, when Richard liv’d, would have him die,
+==102== Are now become enamor’d on his grave.
+==103== Thou, that threw’st dust upon his goodly head
+==104== When through proud London he came sighing on
+==105== After th’ admired heels of Bullingbrook,
+==106== Cri’st now, “O earth, yield us that king again,
+==107== And take thou this!” O thoughts of men accurs’d!
+==108== Past and to come seems best; things present worst.
 
 **MOWB.**
-Shall we go draw our numbers and set on?
+==109== Shall we go draw our numbers and set on?
 
 **HAST.**
-We are time’s subjects, and time bids be gone.
+==110== We are time’s subjects, and time bids be gone.
 
 *Exeunt.*
 

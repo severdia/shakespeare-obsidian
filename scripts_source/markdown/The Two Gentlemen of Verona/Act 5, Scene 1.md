@@ -19,24 +19,24 @@ ID: two-gentlemen-of-verona-5-1
 *Enter Eglamour.*
 
 **EGL.**
-The sun begins to gild the western sky,
-And now it is about the very hour
-That Silvia at Friar Patrick’s cell should meet me.
-She will not fail, for lovers break not hours,
-Unless it be to come before their time,
-So much they spur their expedition.
-See where she comes.
+==1== The sun begins to gild the western sky,
+==2== And now it is about the very hour
+==3== That Silvia at Friar Patrick’s cell should meet me.
+==4== She will not fail, for lovers break not hours,
+==5== Unless it be to come before their time,
+==6== So much they spur their expedition.
+==7== See where she comes.
 *(Enter Silvia.)*
-           Lady, a happy evening!
+==7==            Lady, a happy evening!
 
 **SILV.**
-Amen, amen! Go on, good Eglamour,
-Out at the postern by the abbey wall;
-I fear I am attended by some spies.
+==8== Amen, amen! Go on, good Eglamour,
+==9== Out at the postern by the abbey wall;
+==10== I fear I am attended by some spies.
 
 **EGL.**
-Fear not: the forest is not three leagues off;
-If we recover that, we are sure enough.
+==11== Fear not: the forest is not three leagues off;
+==12== If we recover that, we are sure enough.
 
 *Exeunt.*
 

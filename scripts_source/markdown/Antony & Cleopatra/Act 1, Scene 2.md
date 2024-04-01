@@ -19,356 +19,356 @@ ID: antony-and-cleopatra-1-2
 *Enter Enobarbus, Lamprius the Soothsayer, Rannius, Lucillius, Charmian, Iras, Mardian the Eunuch, and Alexas.*
 
 **CHAR.**
-Lord Alexas, sweet Alexas, most any thing Alexas, almost most absolute Alexas, where’s the soothsayer that you prais’d so to th’ Queen? O that I knew this husband, which, you say, must change his horns with garlands!
+==1== Lord Alexas, sweet Alexas, most any thing Alexas, almost most absolute Alexas, where’s the soothsayer that you prais’d so to th’ Queen? O that I knew this husband, which, you say, must change his horns with garlands!
 
 **ALEX.**
-Soothsayer!
+==2== Soothsayer!
 
 **SOOTH.**
-Your will?
+==3== Your will?
 
 **CHAR.**
-Is this the man? Is’t you, sir, that know things?
+==4== Is this the man? Is’t you, sir, that know things?
 
 **SOOTH.**
-In nature’s infinite book of secrecy
-A little I can read.
+==5== In nature’s infinite book of secrecy
+==6== A little I can read.
 
 **ALEX.**
-           Show him your hand.
+==6==            Show him your hand.
 
 **ENO.**
 *(To Servants within.)*
-Bring in the banquet quickly; wine enough,
-Cleopatra’s health to drink.
+==7== Bring in the banquet quickly; wine enough,
+==8== Cleopatra’s health to drink.
 
 **CHAR.**
-Good sir, give me good fortune.
+==9== Good sir, give me good fortune.
 
 **SOOTH.**
-I make not, but foresee.
+==10== I make not, but foresee.
 
 **CHAR.**
-Pray then, foresee me one.
+==11== Pray then, foresee me one.
 
 **SOOTH.**
-You shall be yet far fairer than you are.
+==12== You shall be yet far fairer than you are.
 
 **CHAR.**
-He means in flesh.
+==13== He means in flesh.
 
 **IRAS.**
-No, you shall paint when you are old.
+==14== No, you shall paint when you are old.
 
 **CHAR.**
-Wrinkles forbid!
+==15== Wrinkles forbid!
 
 **ALEX.**
-Vex not his prescience, be attentive.
+==16== Vex not his prescience, be attentive.
 
 **CHAR.**
-Hush!
+==17== Hush!
 
 **SOOTH.**
-You shall be more beloving than beloved.
+==18== You shall be more beloving than beloved.
 
 **CHAR.**
-I had rather heat my liver with drinking.
+==19== I had rather heat my liver with drinking.
 
 **ALEX.**
-Nay, hear him.
+==20== Nay, hear him.
 
 **CHAR.**
-Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all. Let me have a child at fifty, to whom Herod of Jewry may do homage. Find me to marry me with Octavius Caesar, and companion me with my mistress.
+==21== Good now, some excellent fortune! Let me be married to three kings in a forenoon, and widow them all. Let me have a child at fifty, to whom Herod of Jewry may do homage. Find me to marry me with Octavius Caesar, and companion me with my mistress.
 
 **SOOTH.**
-You shall outlive the lady whom you serve.
+==22== You shall outlive the lady whom you serve.
 
 **CHAR.**
-O, excellent, I love long life better than figs.
+==23== O, excellent, I love long life better than figs.
 
 **SOOTH.**
-You have seen and prov’d a fairer former fortune
-Than that which is to approach.
+==24== You have seen and prov’d a fairer former fortune
+==25== Than that which is to approach.
 
 **CHAR.**
-Then belike my children shall have no names. Prithee, how many boys and wenches must I have?
+==26== Then belike my children shall have no names. Prithee, how many boys and wenches must I have?
 
 **SOOTH.**
-If every of your wishes had a womb,
-And fertile every wish, a million.
+==27== If every of your wishes had a womb,
+==28== And fertile every wish, a million.
 
 **CHAR.**
-Out, fool, I forgive thee for a witch.
+==29== Out, fool, I forgive thee for a witch.
 
 **ALEX.**
-You think none but your sheets are privy to your wishes.
+==30== You think none but your sheets are privy to your wishes.
 
 **CHAR.**
-Nay, come, tell Iras hers.
+==31== Nay, come, tell Iras hers.
 
 **ALEX.**
-We’ll know all our fortunes.
+==32== We’ll know all our fortunes.
 
 **ENO.**
-Mine, and most of our fortunes tonight, shall be—drunk to bed.
+==33== Mine, and most of our fortunes tonight, shall be—drunk to bed.
 
 **IRAS.**
-There’s a palm presages chastity, if nothing else.
+==34== There’s a palm presages chastity, if nothing else.
 
 **CHAR.**
-E’en as the o’erflowing Nilus presageth famine.
+==35== E’en as the o’erflowing Nilus presageth famine.
 
 **IRAS.**
-Go, you wild bedfellow, you cannot soothsay.
+==36== Go, you wild bedfellow, you cannot soothsay.
 
 **CHAR.**
-Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear. Prithee tell her but a worky-day fortune.
+==37== Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear. Prithee tell her but a worky-day fortune.
 
 **SOOTH.**
-Your fortunes are alike.
+==38== Your fortunes are alike.
 
 **IRAS.**
-But how, but how? Give me particulars.
+==39== But how, but how? Give me particulars.
 
 **SOOTH.**
-I have said.
+==40== I have said.
 
 **IRAS.**
-Am I not an inch of fortune better than she?
+==41== Am I not an inch of fortune better than she?
 
 **CHAR.**
-Well, if you were but an inch of fortune better than I, where would you choose it?
+==42== Well, if you were but an inch of fortune better than I, where would you choose it?
 
 **IRAS.**
-Not in my husband’s nose.
+==43== Not in my husband’s nose.
 
 **CHAR.**
-Our worser thoughts heavens mend! Alexas—come, his fortune, his fortune! O, let him marry a woman that cannot go, sweet Isis, I beseech thee! And let her die too, and give him a worse! And let worse follow worse, till the worst of all follow him laughing to his grave, fiftyfold a cuckold! Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!
+==44== Our worser thoughts heavens mend! Alexas—come, his fortune, his fortune! O, let him marry a woman that cannot go, sweet Isis, I beseech thee! And let her die too, and give him a worse! And let worse follow worse, till the worst of all follow him laughing to his grave, fiftyfold a cuckold! Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!
 
 **IRAS.**
-Amen. Dear goddess, hear that prayer of the people! For, as it is a heart-breaking to see a handsome man loose-wiv’d, so it is a deadly sorrow to behold a foul knave uncuckolded; therefore, dear Isis, keep decorum, and fortune him accordingly!
+==45== Amen. Dear goddess, hear that prayer of the people! For, as it is a heart-breaking to see a handsome man loose-wiv’d, so it is a deadly sorrow to behold a foul knave uncuckolded; therefore, dear Isis, keep decorum, and fortune him accordingly!
 
 **CHAR.**
-Amen.
+==46== Amen.
 
 **ALEX.**
-Lo now, if it lay in their hands to make me a cuckold, they would make themselves whores but they’ld do’t!
+==47== Lo now, if it lay in their hands to make me a cuckold, they would make themselves whores but they’ld do’t!
 
 *Enter Cleopatra.*
 
 **ENO.**
-Hush, here comes Antony.
+==48== Hush, here comes Antony.
 
 **CHAR.**
-              Not he, the Queen.
+==48==               Not he, the Queen.
 
 **CLEO.**
-Saw you my lord?
+==49== Saw you my lord?
 
 **ENO.**
-           No, lady.
+==49==            No, lady.
 
 **CLEO.**
-                Was he not here?
+==49==                 Was he not here?
 
 **CHAR.**
-No, madam.
+==50== No, madam.
 
 **CLEO.**
-He was dispos’d to mirth, but on the sudden
-A Roman thought hath struck him. Enobarbus!
+==51== He was dispos’d to mirth, but on the sudden
+==52== A Roman thought hath struck him. Enobarbus!
 
 **ENO.**
-Madam?
+==53== Madam?
 
 **CLEO.**
-Seek him, and bring him hither. Where’s Alexas?
+==54== Seek him, and bring him hither. Where’s Alexas?
 
 **ALEX.**
-Here, at your service. My lord approaches.
+==55== Here, at your service. My lord approaches.
 
 *Enter Antony with First Messenger and Attendants.*
 
 **CLEO.**
-We will not look upon him. Go with us.
+==56== We will not look upon him. Go with us.
 
 *Exeunt Cleopatra, Enobarbus, and Train.*
 
 **1. MESS.**
-Fulvia thy wife first came into the field.
+==57== Fulvia thy wife first came into the field.
 
 **ANT.**
-Against my brother Lucius?
+==58== Against my brother Lucius?
 
 **1. MESS.**
-Ay;
-But soon that war had end, and the time’s state
-Made friends of them, jointing their force ’gainst Caesar,
-Whose better issue in the war from Italy,
-Upon the first encounter, drave them.
+==59== Ay;
+==60== But soon that war had end, and the time’s state
+==61== Made friends of them, jointing their force ’gainst Caesar,
+==62== Whose better issue in the war from Italy,
+==63== Upon the first encounter, drave them.
 
 **ANT.**
-                     Well, what worst?
+==63==                      Well, what worst?
 
 **1. MESS.**
-The nature of bad news infects the teller.
+==64== The nature of bad news infects the teller.
 
 **ANT.**
-When it concerns the fool or coward. On:
-Things that are past are done with me. ’Tis thus:
-Who tells me true, though in his tale lie death,
-I hear him as he flatter’d.
+==65== When it concerns the fool or coward. On:
+==66== Things that are past are done with me. ’Tis thus:
+==67== Who tells me true, though in his tale lie death,
+==68== I hear him as he flatter’d.
 
 **1. MESS.**
-              Labienus
-(This is stiff news) hath with his Parthian force
-Extended Asia; from Euphrates
-His conquering banner shook, from Syria
-To Lydia and to Ionia,
-Whilst⁠—
+==68==               Labienus
+==69== (This is stiff news) hath with his Parthian force
+==70== Extended Asia; from Euphrates
+==71== His conquering banner shook, from Syria
+==72== To Lydia and to Ionia,
+==73== Whilst⁠—
 
 **ANT.**
-    Antony, thou wouldst say⁠—
+==73==     Antony, thou wouldst say⁠—
 
 **1. MESS.**
-                  O, my lord!
+==73==                   O, my lord!
 
 **ANT.**
-Speak to me home, mince not the general tongue;
-Name Cleopatra as she is call’d in Rome.
-Rail thou in Fulvia’s phrase, and taunt my faults
-With such full license as both truth and malice
-Have power to utter. O then we bring forth weeds
-When our quick winds lie still, and our ills told us
-Is as our earing. Fare thee well awhile.
+==74== Speak to me home, mince not the general tongue;
+==75== Name Cleopatra as she is call’d in Rome.
+==76== Rail thou in Fulvia’s phrase, and taunt my faults
+==77== With such full license as both truth and malice
+==78== Have power to utter. O then we bring forth weeds
+==79== When our quick winds lie still, and our ills told us
+==80== Is as our earing. Fare thee well awhile.
 
 **1. MESS.**
-At your noble pleasure.
+==81== At your noble pleasure.
 
 *Exit First Messenger.*
 
 **ANT.**
-From Sicyon how the news? Speak there!
+==82== From Sicyon how the news? Speak there!
 
 **ANT. 1. ATT.**
-The man from Sicyon—is there such an one?
+==83== The man from Sicyon—is there such an one?
 
 **ANT. 2. ATT.**
-He stays upon your will.
+==84== He stays upon your will.
 
 **ANT.**
-              Let him appear.
-These strong Egyptian fetters I must break,
-Or lose myself in dotage.
+==84==               Let him appear.
+==85== These strong Egyptian fetters I must break,
+==86== Or lose myself in dotage.
 *(Enter Second Messenger with a letter.)*
-              What are you?
+==86==               What are you?
 
 **2. MESS.**
-Fulvia thy wife is dead.
+==87== Fulvia thy wife is dead.
 
 **ANT.**
-              Where died she?
+==87==               Where died she?
 
 **2. MESS.**
-In Sicyon:
-Her length of sickness, with what else more serious
-Importeth thee to know, this bears.
+==88== In Sicyon:
+==89== Her length of sickness, with what else more serious
+==90== Importeth thee to know, this bears.
 
 *Gives a letter.*
 
 **ANT.**
-                  Forbear me.
+==90==                   Forbear me.
 *(Exit Second Messenger.)*
-There’s a great spirit gone! Thus did I desire it.
-What our contempts doth often hurl from us,
-We wish it ours again. The present pleasure,
-By revolution low’ring, does become
-The opposite of itself. She’s good, being gone;
-The hand could pluck her back that shov’d her on.
-I must from this enchanting queen break off;
-Ten thousand harms, more than the ills I know,
-My idleness doth hatch. How now, Enobarbus?
+==91== There’s a great spirit gone! Thus did I desire it.
+==92== What our contempts doth often hurl from us,
+==93== We wish it ours again. The present pleasure,
+==94== By revolution low’ring, does become
+==95== The opposite of itself. She’s good, being gone;
+==96== The hand could pluck her back that shov’d her on.
+==97== I must from this enchanting queen break off;
+==98== Ten thousand harms, more than the ills I know,
+==99== My idleness doth hatch. How now, Enobarbus?
 
 *Enter Enobarbus.*
 
 **ENO.**
-What’s your pleasure, sir?
+==100== What’s your pleasure, sir?
 
 **ANT.**
-I must with haste from hence.
+==101== I must with haste from hence.
 
 **ENO.**
-Why then we kill all our women. We see how mortal an unkindness is to them; if they suffer our departure, death’s the word.
+==102== Why then we kill all our women. We see how mortal an unkindness is to them; if they suffer our departure, death’s the word.
 
 **ANT.**
-I must be gone.
+==103== I must be gone.
 
 **ENO.**
-Under a compelling occasion, let women die. It were pity to cast them away for nothing, though between them and a great cause, they should be esteem’d nothing. Cleopatra, catching but the least noise of this, dies instantly; I have seen her die twenty times upon far poorer moment. I do think there is mettle in death, which commits some loving act upon her, she hath such a celerity in dying.
+==104== Under a compelling occasion, let women die. It were pity to cast them away for nothing, though between them and a great cause, they should be esteem’d nothing. Cleopatra, catching but the least noise of this, dies instantly; I have seen her die twenty times upon far poorer moment. I do think there is mettle in death, which commits some loving act upon her, she hath such a celerity in dying.
 
 **ANT.**
-She is cunning past man’s thought.
+==105== She is cunning past man’s thought.
 
 **ENO.**
-Alack, sir, no, her passions are made of nothing but the finest part of pure love. We cannot call her winds and waters sighs and tears; they are greater storms and tempests than almanacs can report. This cannot be cunning in her; if it be, she makes a show’r of rain as well as Jove.
+==106== Alack, sir, no, her passions are made of nothing but the finest part of pure love. We cannot call her winds and waters sighs and tears; they are greater storms and tempests than almanacs can report. This cannot be cunning in her; if it be, she makes a show’r of rain as well as Jove.
 
 **ANT.**
-Would I had never seen her!
+==107== Would I had never seen her!
 
 **ENO.**
-O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel.
+==108== O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel.
 
 **ANT.**
-Fulvia is dead.
+==109== Fulvia is dead.
 
 **ENO.**
-Sir?
+==110== Sir?
 
 **ANT.**
-Fulvia is dead.
+==111== Fulvia is dead.
 
 **ENO.**
-Fulvia?
+==112== Fulvia?
 
 **ANT.**
-Dead.
+==113== Dead.
 
 **ENO.**
-Why, sir, give the gods a thankful sacrifice. When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein, that when old robes are worn out, there are members to make new. If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented. This grief is crown’d with consolation: your old smock brings forth a new petticoat, and indeed the tears live in an onion that should water this sorrow.
+==114== Why, sir, give the gods a thankful sacrifice. When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein, that when old robes are worn out, there are members to make new. If there were no more women but Fulvia, then had you indeed a cut, and the case to be lamented. This grief is crown’d with consolation: your old smock brings forth a new petticoat, and indeed the tears live in an onion that should water this sorrow.
 
 **ANT.**
-The business she hath broached in the state
-Cannot endure my absence.
+==115== The business she hath broached in the state
+==116== Cannot endure my absence.
 
 **ENO.**
-And the business you have broach’d here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode.
+==117== And the business you have broach’d here cannot be without you, especially that of Cleopatra’s, which wholly depends on your abode.
 
 **ANT.**
-No more light answers. Let our officers
-Have notice what we purpose. I shall break
-The cause of our expedience to the Queen,
-And get her leave to part. For not alone
-The death of Fulvia, with more urgent touches,
-Do strongly speak to us; but the letters too
-Of many our contriving friends in Rome
-Petition us at home. Sextus Pompeius
-Hath given the dare to Caesar, and commands
-The empire of the sea. Our slippery people,
-Whose love is never link’d to the deserver
-Till his deserts are past, begin to throw
-Pompey the Great and all his dignities
-Upon his son, who, high in name and power,
-Higher than both in blood and life, stands up
-For the main soldier; whose quality, going on,
-The sides o’ th’ world may danger. Much is breeding,
-Which, like the courser’s hair, hath yet but life,
-And not a serpent’s poison. Say our pleasure,
-To such whose places under us require,
-Our quick remove from hence.
+==118== No more light answers. Let our officers
+==119== Have notice what we purpose. I shall break
+==120== The cause of our expedience to the Queen,
+==121== And get her leave to part. For not alone
+==122== The death of Fulvia, with more urgent touches,
+==123== Do strongly speak to us; but the letters too
+==124== Of many our contriving friends in Rome
+==125== Petition us at home. Sextus Pompeius
+==126== Hath given the dare to Caesar, and commands
+==127== The empire of the sea. Our slippery people,
+==128== Whose love is never link’d to the deserver
+==129== Till his deserts are past, begin to throw
+==130== Pompey the Great and all his dignities
+==131== Upon his son, who, high in name and power,
+==132== Higher than both in blood and life, stands up
+==133== For the main soldier; whose quality, going on,
+==134== The sides o’ th’ world may danger. Much is breeding,
+==135== Which, like the courser’s hair, hath yet but life,
+==136== And not a serpent’s poison. Say our pleasure,
+==137== To such whose places under us require,
+==138== Our quick remove from hence.
 
 **ENO.**
-I shall do’t.
+==139== I shall do’t.
 
 *Exeunt.*
 

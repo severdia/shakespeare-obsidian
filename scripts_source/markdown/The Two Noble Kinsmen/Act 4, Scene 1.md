@@ -20,381 +20,381 @@ ID: two-noble-kinsmen-4-1
 *Enter Jailer and his Friend.*
 
 **JAIL.**
-Hear you no more? Was nothing said of me
-Concerning the escape of Palamon?
-Good sir, remember.
+==1== Hear you no more? Was nothing said of me
+==2== Concerning the escape of Palamon?
+==3== Good sir, remember.
 
 **1. FRIEND.**
-           Nothing that I heard,
-For I came home before the business
-Was fully ended. Yet I might perceive,
-Ere I departed, a great likelihood
-Of both their pardons; for Hippolyta,
-And fair-ey’d Emily, upon their knees
-Begg’d with such handsome pity, that the Duke
-Methought stood staggering whether he should follow
-His rash oath, or the sweet compassion
-Of those two ladies; and to second them,
-That truly noble prince Pirithous,
-Half his own heart, set in too, that I hope
-All shall be well. Neither heard I one question
-Of your name, or his scape.
+==3==            Nothing that I heard,
+==4== For I came home before the business
+==5== Was fully ended. Yet I might perceive,
+==6== Ere I departed, a great likelihood
+==7== Of both their pardons; for Hippolyta,
+==8== And fair-ey’d Emily, upon their knees
+==9== Begg’d with such handsome pity, that the Duke
+==10== Methought stood staggering whether he should follow
+==11== His rash oath, or the sweet compassion
+==12== Of those two ladies; and to second them,
+==13== That truly noble prince Pirithous,
+==14== Half his own heart, set in too, that I hope
+==15== All shall be well. Neither heard I one question
+==16== Of your name, or his scape.
 
 **JAIL.**
-              Pray heaven it hold so!
+==16==               Pray heaven it hold so!
 
 *Enter Second Friend.*
 
 **2. FRIEND.**
-Be of good comfort, man; I bring you news,
-Good news.
+==17== Be of good comfort, man; I bring you news,
+==18== Good news.
 
 **JAIL.**
-        They are welcome.
+==18==         They are welcome.
 
 **2. FRIEND.**
-                  Palamon has clear’d you,
-And got your pardon, and discover’d how
-And by whose means he escap’d, which was your daughter’s,
-Whose pardon is procur’d too; and the prisoner⁠—
-Not to be held ungrateful to her goodness⁠—
-Has given a sum of money to her marriage,
-A large one, I’ll assure you.
+==18==                   Palamon has clear’d you,
+==19== And got your pardon, and discover’d how
+==20== And by whose means he escap’d, which was your daughter’s,
+==21== Whose pardon is procur’d too; and the prisoner⁠—
+==22== Not to be held ungrateful to her goodness⁠—
+==23== Has given a sum of money to her marriage,
+==24== A large one, I’ll assure you.
 
 **JAIL.**
-              Ye are a good man
-And ever bring good news.
+==24==               Ye are a good man
+==25== And ever bring good news.
 
 **1. FRIEND.**
-              How was it ended?
+==25==               How was it ended?
 
 **2. FRIEND.**
-Why, as it should be: they that nev’r begg’d
-But they prevail’d, had their suits fairly granted:
-The prisoners have their lives.
+==26== Why, as it should be: they that nev’r begg’d
+==27== But they prevail’d, had their suits fairly granted:
+==28== The prisoners have their lives.
 
 **1. FRIEND.**
-                I knew ’twould be so.
+==28==                 I knew ’twould be so.
 
 **2. FRIEND.**
-But there be new conditions, which you’ll hear of
-At better time.
+==29== But there be new conditions, which you’ll hear of
+==30== At better time.
 
 **JAIL.**
-I hope they are good.
+==31== I hope they are good.
 
 **2. FRIEND.**
-           They are honorable,
-How good they’ll prove, I know not.
+==31==            They are honorable,
+==32== How good they’ll prove, I know not.
 
 **1. FRIEND.**
-                     ’Twill be known.
+==32==                      ’Twill be known.
 
 *Enter Wooer.*
 
 **WOOER.**
-Alas, sir, where’s your daughter?
+==33== Alas, sir, where’s your daughter?
 
 **JAIL.**
-                  Why do you ask?
+==33==                   Why do you ask?
 
 **WOOER.**
-O sir, when did you see her?
+==34== O sir, when did you see her?
 
 **2. FRIEND.**
-                How he looks!
+==34==                 How he looks!
 
 **JAIL.**
-This morning.
+==35== This morning.
 
 **WOOER.**
-        Was she well? Was she in health?
-Sir, when did she sleep?
+==35==         Was she well? Was she in health?
+==36== Sir, when did she sleep?
 
 **1. FRIEND.**
-              These are strange questions.
+==36==               These are strange questions.
 
 **JAIL.**
-I do not think she was very well, for, now
-You make me mind her, but this very day
-I ask’d her questions, and she answered me
-So far from what she was, so childishly,
-So sillily, as if she were a fool,
-An innocent, and I was very angry.
-But what of her, sir?
+==37== I do not think she was very well, for, now
+==38== You make me mind her, but this very day
+==39== I ask’d her questions, and she answered me
+==40== So far from what she was, so childishly,
+==41== So sillily, as if she were a fool,
+==42== An innocent, and I was very angry.
+==43== But what of her, sir?
 
 **WOOER.**
-           Nothing but my pity.
-But you must know it, and as good by me
-As by another that less loves her.
+==43==            Nothing but my pity.
+==44== But you must know it, and as good by me
+==45== As by another that less loves her.
 
 **JAIL.**
-                  Well, sir?
+==45==                   Well, sir?
 
 **1. FRIEND.**
-Not right?
+==46== Not right?
 
 **2. FRIEND.**
-        Not well?
+==46==         Not well?
 
 **WOOER.**
-           No, sir, not well:
-’Tis too true, she is mad.
+==46==            No, sir, not well:
+==47== ’Tis too true, she is mad.
 
 **1. FRIEND.**
-              It cannot be.
+==47==               It cannot be.
 
 **WOOER.**
-Believe you’ll find it so.
+==48== Believe you’ll find it so.
 
 **JAIL.**
-              I half suspected
-What you told me. The gods comfort her!
-Either this was her love to Palamon,
-Or fear of my miscarrying on his scape,
-Or both.
+==48==               I half suspected
+==49== What you told me. The gods comfort her!
+==50== Either this was her love to Palamon,
+==51== Or fear of my miscarrying on his scape,
+==52== Or both.
 
 **WOOER.**
-        ’Tis likely.
+==52==         ’Tis likely.
 
 **JAIL.**
-              But why all this haste, sir?
+==52==               But why all this haste, sir?
 
 **WOOER.**
-I’ll tell you quickly. As I late was angling
-In the great lake that lies behind the palace,
-From the far shore, thick set with reeds and sedges,
-As patiently I was attending sport,
-I heard a voice, a shrill one; and attentive
-I gave my ear, when I might well perceive
-’Twas one that sung, and by the smallness of it,
-A boy or woman. I then left my angle
-To his own skill, came near, but yet perceiv’d not
-Who made the sound, the rushes and the reeds
-Had so encompass’d it. I laid me down
-And list’ned to the words she sung, for then
-Through a small glade cut by the fishermen,
-I saw it was your daughter.
+==53== I’ll tell you quickly. As I late was angling
+==54== In the great lake that lies behind the palace,
+==55== From the far shore, thick set with reeds and sedges,
+==56== As patiently I was attending sport,
+==57== I heard a voice, a shrill one; and attentive
+==58== I gave my ear, when I might well perceive
+==59== ’Twas one that sung, and by the smallness of it,
+==60== A boy or woman. I then left my angle
+==61== To his own skill, came near, but yet perceiv’d not
+==62== Who made the sound, the rushes and the reeds
+==63== Had so encompass’d it. I laid me down
+==64== And list’ned to the words she sung, for then
+==65== Through a small glade cut by the fishermen,
+==66== I saw it was your daughter.
 
 **JAIL.**
-              Pray go on, sir.
+==66==               Pray go on, sir.
 
 **WOOER.**
-She sung much, but no sense; only I heard her
-Repeat this often, “Palamon is gone,
-Is gone to th’ wood to gather mulberries.
-I’ll find him out tomorrow.”
+==67== She sung much, but no sense; only I heard her
+==68== Repeat this often, “Palamon is gone,
+==69== Is gone to th’ wood to gather mulberries.
+==70== I’ll find him out tomorrow.”
 
 **1. FRIEND.**
-                Pretty soul!
+==70==                 Pretty soul!
 
 **WOOER.**
-“His shackles will betray him, he’ll be taken,
-And what shall I do then? I’ll bring a bevy,
-A hundred black-ey’d maids that love as I do,
-With chaplets on their heads of daffadillies,
-With cherry lips and cheeks of damask roses,
-And all we’ll dance an antic ’fore the Duke,
-And beg his pardon.” Then she talk’d of you, sir:
-That you must lose your head tomorrow morning,
-And she must gather flowers to bury you,
-And see the house made handsome. Then she sung
-Nothing but “Willow, willow, willow,” and between
-Ever was “Palamon, fair Palamon,”
-And “Palamon was a tall young man.” The place
-Was knee-deep where she sat; her careless tresses
-A wreath of bulrush rounded; about her stuck
-Thousand fresh water-flowers of several colors,
-That methought she appear’d like the fair nymph
-That feeds the lake with waters, or as Iris
-Newly dropp’d down from heaven. Rings she made
-Of rushes that grew by, and to ’em spoke
-The prettiest posies—“Thus our true love’s tied,”
-“This you may loose, not me,” and many a one;
-And then she wept, and sung again, and sigh’d,
-And with the same breath smil’d, and kiss’d her hand.
+==71== “His shackles will betray him, he’ll be taken,
+==72== And what shall I do then? I’ll bring a bevy,
+==73== A hundred black-ey’d maids that love as I do,
+==74== With chaplets on their heads of daffadillies,
+==75== With cherry lips and cheeks of damask roses,
+==76== And all we’ll dance an antic ’fore the Duke,
+==77== And beg his pardon.” Then she talk’d of you, sir:
+==78== That you must lose your head tomorrow morning,
+==79== And she must gather flowers to bury you,
+==80== And see the house made handsome. Then she sung
+==81== Nothing but “Willow, willow, willow,” and between
+==82== Ever was “Palamon, fair Palamon,”
+==83== And “Palamon was a tall young man.” The place
+==84== Was knee-deep where she sat; her careless tresses
+==85== A wreath of bulrush rounded; about her stuck
+==86== Thousand fresh water-flowers of several colors,
+==87== That methought she appear’d like the fair nymph
+==88== That feeds the lake with waters, or as Iris
+==89== Newly dropp’d down from heaven. Rings she made
+==90== Of rushes that grew by, and to ’em spoke
+==91== The prettiest posies—“Thus our true love’s tied,”
+==92== “This you may loose, not me,” and many a one;
+==93== And then she wept, and sung again, and sigh’d,
+==94== And with the same breath smil’d, and kiss’d her hand.
 
 **2. FRIEND.**
-Alas, what pity it is!
+==95== Alas, what pity it is!
 
 **WOOER.**
-           I made in to her.
-She saw me, and straight sought the flood. I sav’d her,
-And set her safe to land; when presently
-She slipp’d away, and to the city made
-With such a cry and swiftness that, believe me,
-She left me far behind her. Three or four
-I saw from far off cross her—one of ’em
-I knew to be your brother; where she stay’d,
-And fell, scarce to be got away. I left them with her,
-And hither came to tell you.
+==95==            I made in to her.
+==96== She saw me, and straight sought the flood. I sav’d her,
+==97== And set her safe to land; when presently
+==98== She slipp’d away, and to the city made
+==99== With such a cry and swiftness that, believe me,
+==100== She left me far behind her. Three or four
+==101== I saw from far off cross her—one of ’em
+==102== I knew to be your brother; where she stay’d,
+==103== And fell, scarce to be got away. I left them with her,
+==104== And hither came to tell you.
 *(Enter Jailer’s Brother, Daughter, and others.)*
-                Here they are.
+==104==                 Here they are.
 
 **DAUGH.**
 *(Sings.)*
-*“May you never more enjoy the light,” etc.*
-Is not this a fine song?
+==105== *“May you never more enjoy the light,” etc.*
+==106== Is not this a fine song?
 
 **JAIL. BROTH.**
-              O, a very fine one!
+==106==               O, a very fine one!
 
 **DAUGH.**
-I can sing twenty more.
+==107== I can sing twenty more.
 
 **JAIL. BROTH.**
-              I think you can.
+==107==               I think you can.
 
 **DAUGH.**
-Yes, truly, can I. I can sing “The Broom,”
-And “Bonny Robin.” Are not you a tailor?
+==108== Yes, truly, can I. I can sing “The Broom,”
+==109== And “Bonny Robin.” Are not you a tailor?
 
 **JAIL. BROTH.**
-Yes.
+==110== Yes.
 
 **DAUGH.**
-    Where’s my wedding gown?
+==110==     Where’s my wedding gown?
 
 **JAIL. BROTH.**
-                  I’ll bring it tomorrow.
+==110==                   I’ll bring it tomorrow.
 
 **DAUGH.**
-Do, very rearly, I must be abroad else,
-To call the maids and pay the minstrels,
-For I must lose my maidenhead by cocklight,
-’Twill never thrive else.
+==111== Do, very rearly, I must be abroad else,
+==112== To call the maids and pay the minstrels,
+==113== For I must lose my maidenhead by cocklight,
+==114== ’Twill never thrive else.
 *(Sings.)*
-*“O fair, O sweet,” etc.*
+==115== *“O fair, O sweet,” etc.*
 
 **JAIL. BROTH.**
-You must ev’n take it patiently.
+==116== You must ev’n take it patiently.
 
 **JAIL.**
-                  ’Tis true.
+==116==                   ’Tis true.
 
 **DAUGH.**
-Good ev’n, good men. Pray did you ever hear
-Of one young Palamon?
+==117== Good ev’n, good men. Pray did you ever hear
+==118== Of one young Palamon?
 
 **JAIL.**
-              Yes, wench, we know him.
+==118==               Yes, wench, we know him.
 
 **DAUGH.**
-Is’t not a fine young gentleman?
+==119== Is’t not a fine young gentleman?
 
 **JAIL.**
-                  ’Tis, love.
+==119==                   ’Tis, love.
 
 **JAIL. BROTH.**
-By no mean cross her, she is then distemper’d
-Far worse than now she shows.
+==120== By no mean cross her, she is then distemper’d
+==121== Far worse than now she shows.
 
 **1. FRIEND.**
-                  Yes, he’s a fine man.
+==121==                   Yes, he’s a fine man.
 
 **DAUGH.**
-O, is he so? You have a sister?
+==122== O, is he so? You have a sister?
 
 **1. FRIEND.**
-                Yes.
+==122==                 Yes.
 
 **DAUGH.**
-But she shall never have him, tell her so,
-For a trick that I know. Y’ had best look to her,
-For if she see him once, she’s gone—she’s done,
-And undone in an hour. All the young maids
-Of our town are in love with him, but I laugh at ’em
-And let ’em all alone. Is’t not a wise course?
+==123== But she shall never have him, tell her so,
+==124== For a trick that I know. Y’ had best look to her,
+==125== For if she see him once, she’s gone—she’s done,
+==126== And undone in an hour. All the young maids
+==127== Of our town are in love with him, but I laugh at ’em
+==128== And let ’em all alone. Is’t not a wise course?
 
 **1. FRIEND.**
-Yes.
+==129== Yes.
 
 **DAUGH.**
-There is at least two hundred now with child by him⁠—
-There must be four. Yet I keep close for all this,
-Close as a cockle. And all these must be boys,
-He has the trick on’t; and at ten years old
-They must be all gelt for musicians,
-And sing the wars of Theseus.
+==130== There is at least two hundred now with child by him⁠—
+==131== There must be four. Yet I keep close for all this,
+==132== Close as a cockle. And all these must be boys,
+==133== He has the trick on’t; and at ten years old
+==134== They must be all gelt for musicians,
+==135== And sing the wars of Theseus.
 
 **2. FRIEND.**
-                This is strange.
+==135==                 This is strange.
 
 **DAUGH.**
-As ever you heard, but say nothing.
+==136== As ever you heard, but say nothing.
 
 **1. FRIEND.**
-                     No.
+==136==                      No.
 
 **DAUGH.**
-They come from all parts of the dukedom to him.
-I’ll warrant ye he had not so few last night
-As twenty to dispatch. He’ll tickle’t up
-In two hours, if his hand be in.
+==137== They come from all parts of the dukedom to him.
+==138== I’ll warrant ye he had not so few last night
+==139== As twenty to dispatch. He’ll tickle’t up
+==140== In two hours, if his hand be in.
 
 **JAIL.**
-                  She’s lost
-Past all cure.
+==140==                   She’s lost
+==141== Past all cure.
 
 **JAIL. BROTH.**
-        Heaven forbid, man!
+==141==         Heaven forbid, man!
 
 **DAUGH.**
 *(To the Jailer.)*
-Come hither, you are a wise man.
+==142== Come hither, you are a wise man.
 
 **1. FRIEND.**
-                  Does she know him?
+==142==                   Does she know him?
 
 **2. FRIEND.**
-No, would she did!
+==143== No, would she did!
 
 **DAUGH.**
-           You are master of a ship?
+==143==            You are master of a ship?
 
 **JAIL.**
-Yes.
+==144== Yes.
 
 **DAUGH.**
-    Where’s your compass?
+==144==     Where’s your compass?
 
 **JAIL.**
-                Here.
+==144==                 Here.
 
 **DAUGH.**
-                     Set it to th’ north.
-And now direct your course to th’ wood, where Palamon
-Lies longing for me. For the tackling
-Let me alone. Come weigh, my hearts, cheerly!
+==144==                      Set it to th’ north.
+==145== And now direct your course to th’ wood, where Palamon
+==146== Lies longing for me. For the tackling
+==147== Let me alone. Come weigh, my hearts, cheerly!
 
 **ALL.**
-Owgh, owgh, owgh! ’Tis up! The wind’s fair.
-Top the bowling! Out with the mainsail!
-Where’s your whistle, master?
+==148== Owgh, owgh, owgh! ’Tis up! The wind’s fair.
+==149== Top the bowling! Out with the mainsail!
+==150== Where’s your whistle, master?
 
 **JAIL. BROTH.**
-                Let’s get her in.
+==150==                 Let’s get her in.
 
 **JAIL.**
-Up to the top, boy!
+==151== Up to the top, boy!
 
 **JAIL. BROTH.**
-           Where’s the pilot?
+==151==            Where’s the pilot?
 
 **1. FRIEND.**
-                         Here.
+==151==                          Here.
 
 **DAUGH.**
-What ken’st thou?
+==152== What ken’st thou?
 
 **2. FRIEND.**
-           A fair wood.
+==152==            A fair wood.
 
 **DAUGH.**
-                  Bear for it, master.
-Tack about!
+==152==                   Bear for it, master.
+==153== Tack about!
 *(Sings.)*
-*“When Cynthia with her borrowed light,” etc.*
+==154== *“When Cynthia with her borrowed light,” etc.*
 
 *Exeunt.*
 

@@ -19,174 +19,174 @@ ID: antony-and-cleopatra-3-6
 *Enter Agrippa, Maecenas, and Caesar.*
 
 **CAES.**
-Contemning Rome, he has done all this and more
-In Alexandria. Here’s the manner of’t:
-I’ th’ market-place, on a tribunal silver’d,
-Cleopatra and himself in chairs of gold
-Were publicly enthron’d. At the feet sat
-Caesarion, whom they call my father’s son,
-And all the unlawful issue that their lust
-Since then hath made between them. Unto her
-He gave the stablishment of Egypt, made her
-Of lower Syria, Cyprus, Lydia,
-Absolute queen.
+==1== Contemning Rome, he has done all this and more
+==2== In Alexandria. Here’s the manner of’t:
+==3== I’ th’ market-place, on a tribunal silver’d,
+==4== Cleopatra and himself in chairs of gold
+==5== Were publicly enthron’d. At the feet sat
+==6== Caesarion, whom they call my father’s son,
+==7== And all the unlawful issue that their lust
+==8== Since then hath made between them. Unto her
+==9== He gave the stablishment of Egypt, made her
+==10== Of lower Syria, Cyprus, Lydia,
+==11== Absolute queen.
 
 **MAEC.**
-        This in the public eye?
+==11==         This in the public eye?
 
 **CAES.**
-I’ th’ common show-place, where they exercise.
-His sons he there proclaim’d the kings of kings:
-Great Media, Parthia, and Armenia
-He gave to Alexander; to Ptolomy he assign’d
-Syria, Cilicia, and Phoenicia. She
-In th’ abiliments of the goddess Isis
-That day appear’d; and oft before gave audience,
-As ’tis reported, so.
+==12== I’ th’ common show-place, where they exercise.
+==13== His sons he there proclaim’d the kings of kings:
+==14== Great Media, Parthia, and Armenia
+==15== He gave to Alexander; to Ptolomy he assign’d
+==16== Syria, Cilicia, and Phoenicia. She
+==17== In th’ abiliments of the goddess Isis
+==18== That day appear’d; and oft before gave audience,
+==19== As ’tis reported, so.
 
 **MAEC.**
-           Let Rome be thus
-Inform’d.
+==19==            Let Rome be thus
+==20== Inform’d.
 
 **AGR.**
-    Who, queasy with his insolence
-Already, will their good thoughts call from him.
+==20==     Who, queasy with his insolence
+==21== Already, will their good thoughts call from him.
 
 **CAES.**
-The people knows it, and have now receiv’d
-His accusations.
+==22== The people knows it, and have now receiv’d
+==23== His accusations.
 
 **AGR.**
-           Who does he accuse?
+==23==            Who does he accuse?
 
 **CAES.**
-Caesar, and that having in Sicily
-Sextus Pompeius spoil’d, we had not rated him
-His part o’ th’ isle. Then does he say he lent me
-Some shipping unrestor’d. Lastly, he frets
-That Lepidus of the triumpherate
-Should be depos’d; and being, that we detain
-All his revenue.
+==24== Caesar, and that having in Sicily
+==25== Sextus Pompeius spoil’d, we had not rated him
+==26== His part o’ th’ isle. Then does he say he lent me
+==27== Some shipping unrestor’d. Lastly, he frets
+==28== That Lepidus of the triumpherate
+==29== Should be depos’d; and being, that we detain
+==30== All his revenue.
 
 **AGR.**
-        Sir, this should be answer’d.
+==30==         Sir, this should be answer’d.
 
 **CAES.**
-’Tis done already, and the messenger gone.
-I have told him Lepidus was grown too cruel,
-That he his high authority abus’d,
-And did deserve his change. For what I have conquer’d,
-I grant him part; but then, in his Armenia
-And other of his conquer’d kingdoms, I
-Demand the like.
+==31== ’Tis done already, and the messenger gone.
+==32== I have told him Lepidus was grown too cruel,
+==33== That he his high authority abus’d,
+==34== And did deserve his change. For what I have conquer’d,
+==35== I grant him part; but then, in his Armenia
+==36== And other of his conquer’d kingdoms, I
+==37== Demand the like.
 
 **MAEC.**
-           He’ll never yield to that.
+==37==            He’ll never yield to that.
 
 **CAES.**
-Nor must not then be yielded to in this.
+==38== Nor must not then be yielded to in this.
 
 *Enter Octavia with her Train.*
 
 **OCT.**
-Hail, Caesar, and my lord! Hail, most dear Caesar!
+==39== Hail, Caesar, and my lord! Hail, most dear Caesar!
 
 **CAES.**
-That ever I should call thee castaway!
+==40== That ever I should call thee castaway!
 
 **OCT.**
-You have not call’d me so, nor have you cause.
+==41== You have not call’d me so, nor have you cause.
 
 **CAES.**
-Why have you stol’n upon us thus? You come not
-Like Caesar’s sister. The wife of Antony
-Should have an army for an usher, and
-The neighs of horse to tell of her approach,
-Long ere she did appear; the trees by th’ way
-Should have borne men, and expectation fainted,
-Longing for what it had not; nay, the dust
-Should have ascended to the roof of heaven,
-Rais’d by your populous troops. But you are come
-A market-maid to Rome, and have prevented
-The ostentation of our love, which, left unshown,
-Is often left unlov’d. We should have met you
-By sea and land, supplying every stage
-With an augmented greeting.
+==42== Why have you stol’n upon us thus? You come not
+==43== Like Caesar’s sister. The wife of Antony
+==44== Should have an army for an usher, and
+==45== The neighs of horse to tell of her approach,
+==46== Long ere she did appear; the trees by th’ way
+==47== Should have borne men, and expectation fainted,
+==48== Longing for what it had not; nay, the dust
+==49== Should have ascended to the roof of heaven,
+==50== Rais’d by your populous troops. But you are come
+==51== A market-maid to Rome, and have prevented
+==52== The ostentation of our love, which, left unshown,
+==53== Is often left unlov’d. We should have met you
+==54== By sea and land, supplying every stage
+==55== With an augmented greeting.
 
 **OCT.**
-                Good my lord,
-To come thus was I not constrain’d, but did it
-On my free will. My lord, Mark Antony,
-Hearing that you prepar’d for war, acquainted
-My grieved ear withal; whereon I begg’d
-His pardon for return.
+==55==                 Good my lord,
+==56== To come thus was I not constrain’d, but did it
+==57== On my free will. My lord, Mark Antony,
+==58== Hearing that you prepar’d for war, acquainted
+==59== My grieved ear withal; whereon I begg’d
+==60== His pardon for return.
 
 **CAES.**
-              Which soon he granted,
-Being an abstract ’tween his lust and him.
+==60==               Which soon he granted,
+==61== Being an abstract ’tween his lust and him.
 
 **OCT.**
-Do not say so, my lord.
+==62== Do not say so, my lord.
 
 **CAES.**
-              I have eyes upon him,
-And his affairs come to me on the wind.
-Where is he now?
+==62==               I have eyes upon him,
+==63== And his affairs come to me on the wind.
+==64== Where is he now?
 
 **OCT.**
-           My lord, in Athens.
+==64==            My lord, in Athens.
 
 **CAES.**
-No, my most wronged sister, Cleopatra
-Hath nodded him to her. He hath given his empire
-Up to a whore, who now are levying
-The kings o’ th’ earth for war. He hath assembled
-Bocchus, the King of Libya; Archelaus
-Of Cappadocia; Philadelphos, King
-Of Paphlagonia; the Thracian king, Adallas;
-King Manchus of Arabia; King of Pont;
-Herod of Jewry; Mithridates, King
-Of Comagena; Polemon and Amyntas,
-The Kings of Mede and Lycaonia,
-With a more larger list of scepters.
+==65== No, my most wronged sister, Cleopatra
+==66== Hath nodded him to her. He hath given his empire
+==67== Up to a whore, who now are levying
+==68== The kings o’ th’ earth for war. He hath assembled
+==69== Bocchus, the King of Libya; Archelaus
+==70== Of Cappadocia; Philadelphos, King
+==71== Of Paphlagonia; the Thracian king, Adallas;
+==72== King Manchus of Arabia; King of Pont;
+==73== Herod of Jewry; Mithridates, King
+==74== Of Comagena; Polemon and Amyntas,
+==75== The Kings of Mede and Lycaonia,
+==76== With a more larger list of scepters.
 
 **OCT.**
-                  Ay me, most wretched,
-That have my heart parted betwixt two friends
-That does afflict each other!
+==76==                   Ay me, most wretched,
+==77== That have my heart parted betwixt two friends
+==78== That does afflict each other!
 
 **CAES.**
-                Welcome hither!
-Your letters did withhold our breaking forth,
-Till we perceiv’d both how you were wrong led
-And we in negligent danger. Cheer your heart,
-Be you not troubled with the time, which drives
-O’er your content these strong necessities,
-But let determin’d things to destiny
-Hold unbewail’d their way. Welcome to Rome,
-Nothing more dear to me. You are abus’d
-Beyond the mark of thought; and the high gods,
-To do you justice, makes his ministers
-Of us and those that love you. Best of comfort,
-And ever welcome to us.
+==78==                 Welcome hither!
+==79== Your letters did withhold our breaking forth,
+==80== Till we perceiv’d both how you were wrong led
+==81== And we in negligent danger. Cheer your heart,
+==82== Be you not troubled with the time, which drives
+==83== O’er your content these strong necessities,
+==84== But let determin’d things to destiny
+==85== Hold unbewail’d their way. Welcome to Rome,
+==86== Nothing more dear to me. You are abus’d
+==87== Beyond the mark of thought; and the high gods,
+==88== To do you justice, makes his ministers
+==89== Of us and those that love you. Best of comfort,
+==90== And ever welcome to us.
 
 **AGR.**
-              Welcome, lady.
+==90==               Welcome, lady.
 
 **MAEC.**
-Welcome, dear madam,
-Each heart in Rome does love and pity you;
-Only th’ adulterous Antony, most large
-In his abominations, turns you off,
-And gives his potent regiment to a trull
-That noises it against us.
+==91== Welcome, dear madam,
+==92== Each heart in Rome does love and pity you;
+==93== Only th’ adulterous Antony, most large
+==94== In his abominations, turns you off,
+==95== And gives his potent regiment to a trull
+==96== That noises it against us.
 
 **OCT.**
-              Is it so, sir?
+==96==               Is it so, sir?
 
 **CAES.**
-Most certain. Sister, welcome. Pray you
-Be ever known to patience. My dear’st sister!
+==97== Most certain. Sister, welcome. Pray you
+==98== Be ever known to patience. My dear’st sister!
 
 *Exeunt.*
 

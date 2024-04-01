@@ -19,85 +19,85 @@ ID: antony-and-cleopatra-2-3
 *Enter Antony, Caesar, Octavia between them.*
 
 **ANT.**
-The world and my great office will sometimes
-Divide me from your bosom.
+==1== The world and my great office will sometimes
+==2== Divide me from your bosom.
 
 **OCT.**
-                All which time
-Before the gods my knee shall bow my prayers
-To them for you.
+==2==                 All which time
+==3== Before the gods my knee shall bow my prayers
+==4== To them for you.
 
 **ANT.**
-           Good night, sir. My Octavia,
-Read not my blemishes in the world’s report.
-I have not kept my square, but that to come
-Shall all be done by th’ rule. Good night, dear lady.
+==4==            Good night, sir. My Octavia,
+==5== Read not my blemishes in the world’s report.
+==6== I have not kept my square, but that to come
+==7== Shall all be done by th’ rule. Good night, dear lady.
 
 **OCT.**
-Good night, sir.
+==8== Good night, sir.
 
 **CAES.**
-Good night.
+==9== Good night.
 
 *Exit with Octavia.*
 
 *Enter Soothsayer.*
 
 **ANT.**
-Now, sirrah; you do wish yourself in Egypt?
+==10== Now, sirrah; you do wish yourself in Egypt?
 
 **SOOTH.**
-Would I had never come from thence, nor you thither.
+==11== Would I had never come from thence, nor you thither.
 
 **ANT.**
-If you can, your reason?
+==12== If you can, your reason?
 
 **SOOTH.**
-I see it in my motion, have it not in my tongue;
-But yet hie you to Egypt again.
+==13== I see it in my motion, have it not in my tongue;
+==14== But yet hie you to Egypt again.
 
 **ANT.**
-Say to me, whose fortunes shall rise higher,
-Caesar’s or mine?
+==15== Say to me, whose fortunes shall rise higher,
+==16== Caesar’s or mine?
 
 **SOOTH.**
-Caesar’s.
-Therefore, O Antony, stay not by his side.
-Thy daemon, that thy spirit which keeps thee, is
-Noble, courageous, high unmatchable,
-Where Caesar’s is not; but near him, thy angel
-Becomes a fear, as being o’erpow’r’d: therefore
-Make space enough between you.
+==17== Caesar’s.
+==18== Therefore, O Antony, stay not by his side.
+==19== Thy daemon, that thy spirit which keeps thee, is
+==20== Noble, courageous, high unmatchable,
+==21== Where Caesar’s is not; but near him, thy angel
+==22== Becomes a fear, as being o’erpow’r’d: therefore
+==23== Make space enough between you.
 
 **ANT.**
-                  Speak this no more.
+==23==                   Speak this no more.
 
 **SOOTH.**
-To none but thee; no more but when to thee.
-If thou dost play with him at any game,
-Thou art sure to lose; and of that natural luck,
-He beats thee ’gainst the odds. Thy lustre thickens
-When he shines by. I say again, thy spirit
-Is all afraid to govern thee near him;
-But he away, ’tis noble.
+==24== To none but thee; no more but when to thee.
+==25== If thou dost play with him at any game,
+==26== Thou art sure to lose; and of that natural luck,
+==27== He beats thee ’gainst the odds. Thy lustre thickens
+==28== When he shines by. I say again, thy spirit
+==29== Is all afraid to govern thee near him;
+==30== But he away, ’tis noble.
 
 **ANT.**
-              Get thee gone.
-Say to Ventidius I would speak with him.
+==30==               Get thee gone.
+==31== Say to Ventidius I would speak with him.
 *(Exit Soothsayer.)*
-He shall to Parthia. Be it art or hap,
-He hath spoken true. The very dice obey him,
-And in our sports my better cunning faints
-Under his chance. If we draw lots, he speeds;
-His cocks do win the battle still of mine,
-When it is all to nought; and his quails ever
-Beat mine, inhoop’d, at odds. I will to Egypt;
-And though I make this marriage for my peace,
-I’ th’ East my pleasure lies.
+==32== He shall to Parthia. Be it art or hap,
+==33== He hath spoken true. The very dice obey him,
+==34== And in our sports my better cunning faints
+==35== Under his chance. If we draw lots, he speeds;
+==36== His cocks do win the battle still of mine,
+==37== When it is all to nought; and his quails ever
+==38== Beat mine, inhoop’d, at odds. I will to Egypt;
+==39== And though I make this marriage for my peace,
+==40== I’ th’ East my pleasure lies.
 *(Enter Ventidius.)*
-                O, come, Ventidius,
-You must to Parthia. Your commission’s ready;
-Follow me, and receive’t.
+==40==                 O, come, Ventidius,
+==41== You must to Parthia. Your commission’s ready;
+==42== Follow me, and receive’t.
 
 *Exeunt.*
 

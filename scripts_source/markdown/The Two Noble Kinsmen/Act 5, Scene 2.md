@@ -20,362 +20,362 @@ ID: two-noble-kinsmen-5-2
 *Enter Doctor, Jailer, and Wooer in habit of Palamon.*
 
 **DOCT.**
-Has this advice I told you done any good upon her?
+==1== Has this advice I told you done any good upon her?
 
 **WOOER.**
-O, very much; the maids that kept her company
-Have half persuaded her that I am Palamon.
-Within this half hour she came smiling to me,
-And ask’d me what I would eat, and when I would kiss her.
-I told her, presently, and kiss’d her twice.
+==2== O, very much; the maids that kept her company
+==3== Have half persuaded her that I am Palamon.
+==4== Within this half hour she came smiling to me,
+==5== And ask’d me what I would eat, and when I would kiss her.
+==6== I told her, presently, and kiss’d her twice.
 
 **DOCT.**
-’Twas well done. Twenty times had been far better,
-For there the cure lies mainly.
+==7== ’Twas well done. Twenty times had been far better,
+==8== For there the cure lies mainly.
 
 **WOOER.**
-                Then she told me
-She would watch with me tonight, for well she knew
-What hour my fit would take me.
+==8==                 Then she told me
+==9== She would watch with me tonight, for well she knew
+==10== What hour my fit would take me.
 
 **DOCT.**
-                  Let her do so,
-And when your fit comes, fit her home, and presently.
+==10==                   Let her do so,
+==11== And when your fit comes, fit her home, and presently.
 
 **WOOER.**
-She would have me sing.
+==12== She would have me sing.
 
 **DOCT.**
-You did so?
+==13== You did so?
 
 **WOOER.**
-        No.
+==13==         No.
 
 **DOCT.**
-           ’Twas very ill done then.
-You should observe her ev’ry way.
+==13==            ’Twas very ill done then.
+==14== You should observe her ev’ry way.
 
 **WOOER.**
-                  Alas,
-I have no voice, sir, to confirm her that way.
+==14==                   Alas,
+==15== I have no voice, sir, to confirm her that way.
 
 **DOCT.**
-That’s all one, if ye make a noise.
-If she entreat again, do any thing,
-Lie with her, if she ask you.
+==16== That’s all one, if ye make a noise.
+==17== If she entreat again, do any thing,
+==18== Lie with her, if she ask you.
 
 **JAIL.**
-              Ho there, doctor!
+==18==               Ho there, doctor!
 
 **DOCT.**
-Yes, in the way of cure.
+==19== Yes, in the way of cure.
 
 **JAIL.**
-              But first, by your leave,
-I’ th’ way of honesty.
+==19==               But first, by your leave,
+==20== I’ th’ way of honesty.
 
 **DOCT.**
-           That’s but a niceness.
-Nev’r cast your child away for honesty.
-Cure her first this way; then if she will be honest,
-She has the path before her.
+==20==            That’s but a niceness.
+==21== Nev’r cast your child away for honesty.
+==22== Cure her first this way; then if she will be honest,
+==23== She has the path before her.
 
 **JAIL.**
-                Thank ye, doctor.
+==23==                 Thank ye, doctor.
 
 **DOCT.**
-Pray bring her in
-And let’s see how she is.
+==24== Pray bring her in
+==25== And let’s see how she is.
 
 **JAIL.**
-              I will, and tell her
-Her Palamon stays for her; but, doctor,
-Methinks you are i’ th’ wrong still.
+==25==               I will, and tell her
+==26== Her Palamon stays for her; but, doctor,
+==27== Methinks you are i’ th’ wrong still.
 
 *Exit Jailer.*
 
 **DOCT.**
-                  Go, go!
-You fathers are fine fools. Her honesty!
-And we should give her physic till we find that⁠—
+==27==                   Go, go!
+==28== You fathers are fine fools. Her honesty!
+==29== And we should give her physic till we find that⁠—
 
 **WOOER.**
-Why, do you think she is not honest, sir?
+==30== Why, do you think she is not honest, sir?
 
 **DOCT.**
-How old is she?
+==31== How old is she?
 
 **WOOER.**
-        She’s eighteen.
+==31==         She’s eighteen.
 
 **DOCT.**
-                  She may be,
-But that’s all one, ’tis nothing to our purpose.
-What e’er her father says, if you perceive
-Her mood inclining that way that I spoke of,
-*Videlicet*, the way of flesh—you have me?
+==31==                   She may be,
+==32== But that’s all one, ’tis nothing to our purpose.
+==33== What e’er her father says, if you perceive
+==34== Her mood inclining that way that I spoke of,
+==35== *Videlicet*, the way of flesh—you have me?
 
 **WOOER.**
-Yet very well, sir.
+==36== Yet very well, sir.
 
 **DOCT.**
-           Please her appetite,
-And do it home; it cures her *ipso facto*
-The melancholy humor that infects her.
+==36==            Please her appetite,
+==37== And do it home; it cures her *ipso facto*
+==38== The melancholy humor that infects her.
 
 **WOOER.**
-I am of your mind, doctor.
+==39== I am of your mind, doctor.
 
 *Enter Jailer, Daughter, Maid.*
 
 **DOCT.**
-You’ll find it so. She comes. Pray humor her.
+==40== You’ll find it so. She comes. Pray humor her.
 
 *Wooer retires.*
 
 **JAIL.**
-Come, your love Palamon stays for you, child,
-And has done this long hour, to visit you.
+==41== Come, your love Palamon stays for you, child,
+==42== And has done this long hour, to visit you.
 
 **DAUGH.**
-I thank him for his gentle patience,
-He’s a kind gentleman, and I am much bound to him.
-Did you nev’r see the horse he gave me?
+==43== I thank him for his gentle patience,
+==44== He’s a kind gentleman, and I am much bound to him.
+==45== Did you nev’r see the horse he gave me?
 
 **JAIL.**
-                         Yes.
+==45==                          Yes.
 
 **DAUGH.**
-How do you like him?
+==46== How do you like him?
 
 **JAIL.**
-              He’s a very fair one.
+==46==               He’s a very fair one.
 
 **DAUGH.**
-You never saw him dance?
+==47== You never saw him dance?
 
 **JAIL.**
-              No.
+==47==               No.
 
 **DAUGH.**
-                  I have often.
-He dances very finely, very comely,
-And for a jig, come cut and long tail to him,
-He turns ye like a top.
+==47==                   I have often.
+==48== He dances very finely, very comely,
+==49== And for a jig, come cut and long tail to him,
+==50== He turns ye like a top.
 
 **JAIL.**
-           That’s fine indeed.
+==50==            That’s fine indeed.
 
 **DAUGH.**
-He’ll dance the Morris twenty mile an hour,
-And that will founder the best hobby-horse
-(If I have any skill) in all the parish,
-And gallops to the tune of “Light a’ love.”
-What think you of this horse?
+==51== He’ll dance the Morris twenty mile an hour,
+==52== And that will founder the best hobby-horse
+==53== (If I have any skill) in all the parish,
+==54== And gallops to the tune of “Light a’ love.”
+==55== What think you of this horse?
 
 **JAIL.**
-                Having these virtues,
-I think he might be brought to play at tennis.
+==55==                 Having these virtues,
+==56== I think he might be brought to play at tennis.
 
 **DAUGH.**
-Alas, that’s nothing.
+==57== Alas, that’s nothing.
 
 **JAIL.**
-           Can he write and read too?
+==57==            Can he write and read too?
 
 **DAUGH.**
-A very fair hand, and casts himself th’ accounts
-Of all his hay and provender. That hostler
-Must rise betime that cozens him. You know
-The chestnut mare the Duke has?
+==58== A very fair hand, and casts himself th’ accounts
+==59== Of all his hay and provender. That hostler
+==60== Must rise betime that cozens him. You know
+==61== The chestnut mare the Duke has?
 
 **JAIL.**
-                  Very well.
+==61==                   Very well.
 
 **DAUGH.**
-She is horribly in love with him, poor beast,
-But he is like his master, coy and scornful.
+==62== She is horribly in love with him, poor beast,
+==63== But he is like his master, coy and scornful.
 
 **JAIL.**
-What dowry has she?
+==64== What dowry has she?
 
 **DAUGH.**
-           Some two hundred bottles,
-And twenty strike of oats, but he’ll ne’er have her.
-He lisps in ’s neighing able to entice
-A miller’s mare, he’ll be the death of her.
+==64==            Some two hundred bottles,
+==65== And twenty strike of oats, but he’ll ne’er have her.
+==66== He lisps in ’s neighing able to entice
+==67== A miller’s mare, he’ll be the death of her.
 
 **DOCT.**
-What stuff she utters!
+==68== What stuff she utters!
 
 **JAIL.**
-Make curtsy, here your love comes.
+==69== Make curtsy, here your love comes.
 
 *Wooer comes forward.*
 
 **WOOER.**
-                     Pretty soul,
-How do ye? That’s a fine maid! There’s a curtsy!
+==69==                      Pretty soul,
+==70== How do ye? That’s a fine maid! There’s a curtsy!
 
 **DAUGH.**
-Yours to command i’ th’ way of honesty.
-How far is’t now to th’ end o’ th’ world, my masters?
+==71== Yours to command i’ th’ way of honesty.
+==72== How far is’t now to th’ end o’ th’ world, my masters?
 
 **DOCT.**
-Why, a day’s journey, wench.
+==73== Why, a day’s journey, wench.
 
 **DAUGH.**
-                Will you go with me?
+==73==                 Will you go with me?
 
 **WOOER.**
-What shall we do there, wench?
+==74== What shall we do there, wench?
 
 **DAUGH.**
-                Why, play at stoolball:
-What is there else to do?
+==74==                 Why, play at stoolball:
+==75== What is there else to do?
 
 **WOOER.**
-              I am content,
-If we shall keep our wedding there.
+==75==               I am content,
+==76== If we shall keep our wedding there.
 
 **DAUGH.**
-                  ’Tis true,
-For there, I will assure you, we shall find
-Some blind priest for the purpose that will venture
-To marry us, for here they are nice and foolish.
-Besides, my father must be hang’d tomorrow,
-And that would be a blot i’ th’ business.
-Are not you Palamon?
+==76==                   ’Tis true,
+==77== For there, I will assure you, we shall find
+==78== Some blind priest for the purpose that will venture
+==79== To marry us, for here they are nice and foolish.
+==80== Besides, my father must be hang’d tomorrow,
+==81== And that would be a blot i’ th’ business.
+==82== Are not you Palamon?
 
 **WOOER.**
-              Do not you know me?
+==82==               Do not you know me?
 
 **DAUGH.**
-Yes, but you care not for me. I have nothing
-But this poor petticoat and two coarse smocks.
+==83== Yes, but you care not for me. I have nothing
+==84== But this poor petticoat and two coarse smocks.
 
 **WOOER.**
-That’s all one, I will have you.
+==85== That’s all one, I will have you.
 
 **DAUGH.**
-                  Will you surely?
+==85==                   Will you surely?
 
 **WOOER.**
-Yes, by this fair hand, will I.
+==86== Yes, by this fair hand, will I.
 
 **DAUGH.**
-                We’ll to bed then.
+==86==                 We’ll to bed then.
 
 **WOOER.**
-Ev’n when you will.
+==87== Ev’n when you will.
 
 *Kisses her.*
 
 **DAUGH.**
-           O, sir, you would fain be nibbling.
+==87==            O, sir, you would fain be nibbling.
 
 **WOOER.**
-Why do you rub my kiss off?
+==88== Why do you rub my kiss off?
 
 **DAUGH.**
-                ’Tis a sweet one,
-And will perfume me finely against the wedding.
-Is not this your cousin Arcite?
+==88==                 ’Tis a sweet one,
+==89== And will perfume me finely against the wedding.
+==90== Is not this your cousin Arcite?
 
 **DOCT.**
-                Yes, sweet heart,
-And I am glad my cousin Palamon
-Has made so fair a choice.
+==90==                 Yes, sweet heart,
+==91== And I am glad my cousin Palamon
+==92== Has made so fair a choice.
 
 **DAUGH.**
-              Do you think he’ll have me?
+==92==               Do you think he’ll have me?
 
 **DOCT.**
-Yes, without doubt.
+==93== Yes, without doubt.
 
 **DAUGH.**
-           Do you think so too?
+==93==            Do you think so too?
 
 **JAIL.**
-                         Yes.
+==93==                          Yes.
 
 **DAUGH.**
-We shall have many children.—Lord, how y’ are grown!
-My Palamon I hope will grow too, finely,
-Now he’s at liberty. Alas, poor chicken,
-He was kept down with hard meat and ill lodging,
-But I’ll kiss him up again.
+==94== We shall have many children.—Lord, how y’ are grown!
+==95== My Palamon I hope will grow too, finely,
+==96== Now he’s at liberty. Alas, poor chicken,
+==97== He was kept down with hard meat and ill lodging,
+==98== But I’ll kiss him up again.
 
 *Enter First Messenger.*
 
 **1. MESS.**
-What do you here? You’ll lose the noblest sight
-That ev’r was seen.
+==99== What do you here? You’ll lose the noblest sight
+==100== That ev’r was seen.
 
 **JAIL.**
-           Are they i’ th’ field?
+==100==            Are they i’ th’ field?
 
 **1. MESS.**
-                       They are.
-You bear a charge there too.
+==100==                        They are.
+==101== You bear a charge there too.
 
 **JAIL.**
-                I’ll away straight.
-I must ev’n leave you here.
+==101==                 I’ll away straight.
+==102== I must ev’n leave you here.
 
 **DOCT.**
-              Nay, we’ll go with you,
-I will not lose the fight.
+==102==               Nay, we’ll go with you,
+==103== I will not lose the fight.
 
 **JAIL.**
-              How did you like her?
+==103==               How did you like her?
 
 **DOCT.**
-I’ll warrant you within these three or four days
-I’ll make her right again.
+==104== I’ll warrant you within these three or four days
+==105== I’ll make her right again.
 *(To the Wooer.)*
-              You must not from her,
-But still preserve her in this way.
+==105==               You must not from her,
+==106== But still preserve her in this way.
 
 **WOOER.**
-                  I will.
+==106==                   I will.
 
 **DOCT.**
-Let’s get her in.
+==107== Let’s get her in.
 
 **WOOER.**
-        Come, sweet, we’ll go to dinner,
-And then we’ll play at cards.
+==107==         Come, sweet, we’ll go to dinner,
+==108== And then we’ll play at cards.
 
 **DAUGH.**
-                And shall we kiss too?
+==108==                 And shall we kiss too?
 
 **WOOER.**
-A hundred times.
+==109== A hundred times.
 
 **DAUGH.**
-           And twenty?
+==109==            And twenty?
 
 **WOOER.**
-                  Ay, and twenty.
+==109==                   Ay, and twenty.
 
 **DAUGH.**
-And then we’ll sleep together?
+==110== And then we’ll sleep together?
 
 **DOCT.**
-                Take her offer.
+==110==                 Take her offer.
 
 **WOOER.**
-Yes, marry, will we.
+==111== Yes, marry, will we.
 
 **DAUGH.**
-           But you shall not hurt me.
+==111==            But you shall not hurt me.
 
 **WOOER.**
-I will not, sweet.
+==112== I will not, sweet.
 
 **DAUGH.**
-           If you do, love, I’ll cry.
+==112==            If you do, love, I’ll cry.
 
 *Exeunt.*
 

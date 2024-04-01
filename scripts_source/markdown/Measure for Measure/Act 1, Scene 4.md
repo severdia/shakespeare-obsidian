@@ -20,174 +20,174 @@ ID: measure-for-measure-1-4
 *Enter Isabel and Francisca, a nun.*
 
 **ISAB.**
-And have you nuns no farther privileges?
+==1== And have you nuns no farther privileges?
 
 **FRAN.**
-Are not these large enough?
+==2== Are not these large enough?
 
 **ISAB.**
-Yes, truly; I speak not as desiring more,
-But rather wishing a more strict restraint
-Upon the sisterhood, the votarists of Saint Clare.
+==3== Yes, truly; I speak not as desiring more,
+==4== But rather wishing a more strict restraint
+==5== Upon the sisterhood, the votarists of Saint Clare.
 
 **LUCIO.**
 *(Within.)*
-Ho! Peace be in this place!
+==6== Ho! Peace be in this place!
 
 **ISAB.**
-              Who’s that which calls?
+==6==               Who’s that which calls?
 
 **FRAN.**
-It is a man’s voice. Gentle Isabella,
-Turn you the key, and know his business of him;
-You may, I may not; you are yet unsworn.
-When you have vow’d, you must not speak with men
-But in the presence of the prioress;
-Then if you speak, you must not show your face,
-Or if you show your face, you must not speak.
-He calls again; I pray you answer him.
+==7== It is a man’s voice. Gentle Isabella,
+==8== Turn you the key, and know his business of him;
+==9== You may, I may not; you are yet unsworn.
+==10== When you have vow’d, you must not speak with men
+==11== But in the presence of the prioress;
+==12== Then if you speak, you must not show your face,
+==13== Or if you show your face, you must not speak.
+==14== He calls again; I pray you answer him.
 
 *Exit.*
 
 **ISAB.**
-Peace and prosperity! Who is’t that calls?
+==15== Peace and prosperity! Who is’t that calls?
 
 *Enter Lucio.*
 
 **LUCIO.**
-Hail, virgin, if you be, as those cheek-roses
-Proclaim you are no less! Can you so stead me
-As bring me to the sight of Isabella,
-A novice of this place, and the fair sister
-To her unhappy brother Claudio?
+==16== Hail, virgin, if you be, as those cheek-roses
+==17== Proclaim you are no less! Can you so stead me
+==18== As bring me to the sight of Isabella,
+==19== A novice of this place, and the fair sister
+==20== To her unhappy brother Claudio?
 
 **ISAB.**
-Why “her unhappy brother”? Let me ask,
-The rather for I now must make you know
-I am that Isabella, and his sister.
+==21== Why “her unhappy brother”? Let me ask,
+==22== The rather for I now must make you know
+==23== I am that Isabella, and his sister.
 
 **LUCIO.**
-Gentle and fair, your brother kindly greets you.
-Not to be weary with you, he’s in prison.
+==24== Gentle and fair, your brother kindly greets you.
+==25== Not to be weary with you, he’s in prison.
 
 **ISAB.**
-Woe me! For what?
+==26== Woe me! For what?
 
 **LUCIO.**
-For that which, if myself might be his judge,
-He should receive his punishment in thanks:
-He hath got his friend with child.
+==27== For that which, if myself might be his judge,
+==28== He should receive his punishment in thanks:
+==29== He hath got his friend with child.
 
 **ISAB.**
-Sir, make me not your story.
+==30== Sir, make me not your story.
 
 **LUCIO.**
-                ’Tis true.
-I would not—though ’tis my familiar sin
-With maids to seem the lapwing, and to jest,
-Tongue far from heart—play with all virgins so.
-I hold you as a thing enskied, and sainted,
-By your renouncement an immortal spirit,
-And to be talk’d with in sincerity,
-As with a saint.
+==30==                 ’Tis true.
+==31== I would not—though ’tis my familiar sin
+==32== With maids to seem the lapwing, and to jest,
+==33== Tongue far from heart—play with all virgins so.
+==34== I hold you as a thing enskied, and sainted,
+==35== By your renouncement an immortal spirit,
+==36== And to be talk’d with in sincerity,
+==37== As with a saint.
 
 **ISAB.**
-You do blaspheme the good in mocking me.
+==38== You do blaspheme the good in mocking me.
 
 **LUCIO.**
-Do not believe it. Fewness and truth, ’tis thus:
-Your brother and his lover have embrac’d.
-As those that feed grow full, as blossoming time
-That from the seedness the bare fallow brings
-To teeming foison, even so her plenteous womb
-Expresseth his full tilth and husbandry.
+==39== Do not believe it. Fewness and truth, ’tis thus:
+==40== Your brother and his lover have embrac’d.
+==41== As those that feed grow full, as blossoming time
+==42== That from the seedness the bare fallow brings
+==43== To teeming foison, even so her plenteous womb
+==44== Expresseth his full tilth and husbandry.
 
 **ISAB.**
-Some one with child by him? My cousin Juliet?
+==45== Some one with child by him? My cousin Juliet?
 
 **LUCIO.**
-Is she your cousin?
+==46== Is she your cousin?
 
 **ISAB.**
-Adoptedly, as school-maids change their names
-By vain though apt affection.
+==47== Adoptedly, as school-maids change their names
+==48== By vain though apt affection.
 
 **LUCIO.**
-                She it is.
+==48==                 She it is.
 
 **ISAB.**
-O, let him marry her.
+==49== O, let him marry her.
 
 **LUCIO.**
-           This is the point.
-The Duke is very strangely gone from hence;
-Bore many gentlemen (myself being one) 
-In hand, and hope of action; but we do learn
-By those that know the very nerves of state,
-His givings-out were of an infinite distance
-From his true-meant design. Upon his place,
-And with full line of his authority,
-Governs Lord Angelo, a man whose blood
-Is very snow-broth; one who never feels
-The wanton stings and motions of the sense;
-But doth rebate and blunt his natural edge
-With profits of the mind: study and fast.
-He (to give fear to use and liberty,
-Which have for long run by the hideous law,
-As mice by lions) hath pick’d out an act,
-Under whose heavy sense your brother’s life
-Falls into forfeit; he arrests him on it,
-And follows close the rigor of the statute,
-To make him an example. All hope is gone,
-Unless you have the grace by your fair prayer
-To soften Angelo. And that’s my pith
-Of business ’twixt you and your poor brother.
+==49==            This is the point.
+==50== The Duke is very strangely gone from hence;
+==51== Bore many gentlemen (myself being one) 
+==52== In hand, and hope of action; but we do learn
+==53== By those that know the very nerves of state,
+==54== His givings-out were of an infinite distance
+==55== From his true-meant design. Upon his place,
+==56== And with full line of his authority,
+==57== Governs Lord Angelo, a man whose blood
+==58== Is very snow-broth; one who never feels
+==59== The wanton stings and motions of the sense;
+==60== But doth rebate and blunt his natural edge
+==61== With profits of the mind: study and fast.
+==62== He (to give fear to use and liberty,
+==63== Which have for long run by the hideous law,
+==64== As mice by lions) hath pick’d out an act,
+==65== Under whose heavy sense your brother’s life
+==66== Falls into forfeit; he arrests him on it,
+==67== And follows close the rigor of the statute,
+==68== To make him an example. All hope is gone,
+==69== Unless you have the grace by your fair prayer
+==70== To soften Angelo. And that’s my pith
+==71== Of business ’twixt you and your poor brother.
 
 **ISAB.**
-Doth he so seek his life?
+==72== Doth he so seek his life?
 
 **LUCIO.**
-              H’as censur’d him
-Already, and as I hear, the Provost hath
-A warrant for ’s execution.
+==72==               H’as censur’d him
+==73== Already, and as I hear, the Provost hath
+==74== A warrant for ’s execution.
 
 **ISAB.**
-Alas, what poor ability’s in me
-To do him good!
+==75== Alas, what poor ability’s in me
+==76== To do him good!
 
 **LUCIO.**
-        Assay the pow’r you have.
+==76==         Assay the pow’r you have.
 
 **ISAB.**
-My power? Alas, I doubt⁠—
+==77== My power? Alas, I doubt⁠—
 
 **LUCIO.**
-              Our doubts are traitors,
-And makes us lose the good we oft might win,
-By fearing to attempt. Go to Lord Angelo,
-And let him learn to know, when maidens sue,
-Men give like gods; but when they weep and kneel,
-All their petitions are as freely theirs
-As they themselves would owe them.
+==77==               Our doubts are traitors,
+==78== And makes us lose the good we oft might win,
+==79== By fearing to attempt. Go to Lord Angelo,
+==80== And let him learn to know, when maidens sue,
+==81== Men give like gods; but when they weep and kneel,
+==82== All their petitions are as freely theirs
+==83== As they themselves would owe them.
 
 **ISAB.**
-I’ll see what I can do.
+==84== I’ll see what I can do.
 
 **LUCIO.**
-           But speedily.
+==84==            But speedily.
 
 **ISAB.**
-I will about it straight;
-No longer staying but to give the Mother
-Notice of my affair. I humbly thank you.
-Commend me to my brother. Soon at night
-I’ll send him certain word of my success.
+==85== I will about it straight;
+==86== No longer staying but to give the Mother
+==87== Notice of my affair. I humbly thank you.
+==88== Commend me to my brother. Soon at night
+==89== I’ll send him certain word of my success.
 
 **LUCIO.**
-I take my leave of you.
+==90== I take my leave of you.
 
 **ISAB.**
-              Good sir, *adieu*.
+==90==               Good sir, *adieu*.
 
 *Exeunt severally.*
 

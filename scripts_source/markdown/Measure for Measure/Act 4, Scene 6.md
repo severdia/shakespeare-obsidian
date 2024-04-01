@@ -20,35 +20,35 @@ ID: measure-for-measure-4-6
 *Enter Isabella and Mariana.*
 
 **ISAB.**
-To speak so indirectly I am loath.
-I would say the truth, but to accuse him so,
-That is your part. Yet I am advis’d to do it,
-He says, to veil full purpose.
+==1== To speak so indirectly I am loath.
+==2== I would say the truth, but to accuse him so,
+==3== That is your part. Yet I am advis’d to do it,
+==4== He says, to veil full purpose.
 
 **MAR.**
-                Be rul’d by him.
+==4==                 Be rul’d by him.
 
 **ISAB.**
-Besides, he tells me that if peradventure
-He speak against me on the adverse side,
-I should not think it strange, for ’tis a physic
-That’s bitter to sweet end.
+==5== Besides, he tells me that if peradventure
+==6== He speak against me on the adverse side,
+==7== I should not think it strange, for ’tis a physic
+==8== That’s bitter to sweet end.
 
 *Enter Friar Peter.*
 
 **MAR.**
-I would Friar Peter⁠—
+==9== I would Friar Peter⁠—
 
 **ISAB.**
-           O, peace, the friar is come.
+==9==            O, peace, the friar is come.
 
 **FRI. PET.**
-Come, I have found you out a stand most fit,
-Where you may have such vantage on the Duke,
-He shall not pass you. Twice have the trumpets sounded;
-The generous and gravest citizens
-Have hent the gates, and very near upon
-The Duke is ent’ring; therefore hence away!
+==10== Come, I have found you out a stand most fit,
+==11== Where you may have such vantage on the Duke,
+==12== He shall not pass you. Twice have the trumpets sounded;
+==13== The generous and gravest citizens
+==14== Have hent the gates, and very near upon
+==15== The Duke is ent’ring; therefore hence away!
 
 *Exeunt.*
 
