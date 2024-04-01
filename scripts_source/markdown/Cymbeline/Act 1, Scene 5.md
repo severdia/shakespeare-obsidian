@@ -19,145 +19,145 @@ ID: cymbeline-1-5
 *Enter Queen, Ladies, and Cornelius.*
 
 **QUEEN.**
-Whiles yet the dew’s on ground, gather those flowers;
-Make haste. Who has the note of them?
+==1== Whiles yet the dew’s on ground, gather those flowers;
+==2== Make haste. Who has the note of them?
 
 **LADY**
-                       I, madam.
+==2==                        I, madam.
 
 **QUEEN.**
-Dispatch.
+==3== Dispatch.
 *(Exeunt Ladies.)*
-Now, master doctor, have you brought those drugs?
+==4== Now, master doctor, have you brought those drugs?
 
 **COR.**
-Pleaseth your Highness, ay. Here they are, madam.
+==5== Pleaseth your Highness, ay. Here they are, madam.
 *(Presenting a small box.)*
-But I beseech your Grace, without offense
-(My conscience bids me ask), wherefore you have
-Commanded of me these most poisonous compounds,
-Which are the movers of a languishing death,
-But though slow, deadly.
+==6== But I beseech your Grace, without offense
+==7== (My conscience bids me ask), wherefore you have
+==8== Commanded of me these most poisonous compounds,
+==9== Which are the movers of a languishing death,
+==10== But though slow, deadly.
 
 **QUEEN.**
-              I wonder, doctor,
-Thou ask’st me such a question. Have I not been
-Thy pupil long? Hast thou not learn’d me how
-To make perfumes? Distill? Preserve? Yea so,
-That our great King himself doth woo me oft
-For my confections? Having thus far proceeded
-(Unless thou think’st me devilish) is’t not meet
-That I did amplify my judgment in
-Other conclusions? I will try the forces
-Of these thy compounds on such creatures as
-We count not worth the hanging (but none human),
-To try the vigor of them, and apply
-Allayments to their act, and by them gather
-Their several virtues and effects.
+==10==               I wonder, doctor,
+==11== Thou ask’st me such a question. Have I not been
+==12== Thy pupil long? Hast thou not learn’d me how
+==13== To make perfumes? Distill? Preserve? Yea so,
+==14== That our great King himself doth woo me oft
+==15== For my confections? Having thus far proceeded
+==16== (Unless thou think’st me devilish) is’t not meet
+==17== That I did amplify my judgment in
+==18== Other conclusions? I will try the forces
+==19== Of these thy compounds on such creatures as
+==20== We count not worth the hanging (but none human),
+==21== To try the vigor of them, and apply
+==22== Allayments to their act, and by them gather
+==23== Their several virtues and effects.
 
 **COR.**
-                  Your Highness
-Shall from this practice but make hard your heart;
-Besides, the seeing these effects will be
-Both noisome and infectious.
+==23==                   Your Highness
+==24== Shall from this practice but make hard your heart;
+==25== Besides, the seeing these effects will be
+==26== Both noisome and infectious.
 
 **QUEEN.**
-                O, content thee.
+==26==                 O, content thee.
 *(Enter Pisanio.)*
 *(Aside.)*
-Here comes a flattering rascal, upon him
-Will I first work. He’s for his master,
-And enemy to my son.—How now, Pisanio?
-Doctor, your service for this time is ended,
-Take your own way.
+==27== Here comes a flattering rascal, upon him
+==28== Will I first work. He’s for his master,
+==29== And enemy to my son.—How now, Pisanio?
+==30== Doctor, your service for this time is ended,
+==31== Take your own way.
 
 **COR.**
 *(Aside.)*
-           I do suspect you, madam,
-But you shall do no harm.
+==31==            I do suspect you, madam,
+==32== But you shall do no harm.
 
 **QUEEN.**
 *(To Pisanio.)*
-              Hark thee, a word.
+==32==               Hark thee, a word.
 
 **COR.**
 *(Aside.)*
-I do not like her. She doth think she has
-Strange ling’ring poisons. I do know her spirit,
-And will not trust one of her malice with
-A drug of such damn’d nature. Those she has
-Will stupefy and dull the sense awhile,
-Which first (perchance) she’ll prove on cats and dogs,
-Then afterward up higher; but there is
-No danger in what show of death it makes,
-More than the locking up the spirits a time,
-To be more fresh, reviving. She is fool’d
-With a most false effect; and I the truer,
-So to be false with her.
+==33== I do not like her. She doth think she has
+==34== Strange ling’ring poisons. I do know her spirit,
+==35== And will not trust one of her malice with
+==36== A drug of such damn’d nature. Those she has
+==37== Will stupefy and dull the sense awhile,
+==38== Which first (perchance) she’ll prove on cats and dogs,
+==39== Then afterward up higher; but there is
+==40== No danger in what show of death it makes,
+==41== More than the locking up the spirits a time,
+==42== To be more fresh, reviving. She is fool’d
+==43== With a most false effect; and I the truer,
+==44== So to be false with her.
 
 **QUEEN.**
-           No further service, doctor,
-Until I send for thee.
+==44==            No further service, doctor,
+==45== Until I send for thee.
 
 **COR.**
-           I humbly take my leave.
+==45==            I humbly take my leave.
 
 *Exit.*
 
 **QUEEN.**
-Weeps she still, say’st thou? Dost thou think in time
-She will not quench, and let instructions enter
-Where folly now possesses? Do thou work.
-When thou shalt bring me word she loves my son,
-I’ll tell thee on the instant thou art then
-As great as is thy master—greater, for
-His fortunes all lie speechless, and his name
-Is at last gasp. Return he cannot, nor
-Continue where he is. To shift his being
-Is to exchange one misery with another,
-And every day that comes comes to decay
-A day’s work in him. What shalt thou expect
-To be depender on a thing that leans?
-Who cannot be new built, nor has no friends
-So much as but to prop him?
+==46== Weeps she still, say’st thou? Dost thou think in time
+==47== She will not quench, and let instructions enter
+==48== Where folly now possesses? Do thou work.
+==49== When thou shalt bring me word she loves my son,
+==50== I’ll tell thee on the instant thou art then
+==51== As great as is thy master—greater, for
+==52== His fortunes all lie speechless, and his name
+==53== Is at last gasp. Return he cannot, nor
+==54== Continue where he is. To shift his being
+==55== Is to exchange one misery with another,
+==56== And every day that comes comes to decay
+==57== A day’s work in him. What shalt thou expect
+==58== To be depender on a thing that leans?
+==59== Who cannot be new built, nor has no friends
+==60== So much as but to prop him?
 *(The Queen drops the box; Pisanio takes it up.)*
-                Thou tak’st up
-Thou know’st not what; but take it for thy labor.
-It is a thing I made, which hath the King
-Five times redeem’d from death. I do not know
-What is more cordial. Nay, I prithee take it,
-It is an earnest of a farther good
-That I mean to thee. Tell thy mistress how
-The case stands with her; do’t as from thyself.
-Think what a chance thou changest on, but think
-Thou hast thy mistress still; to boot, my son,
-Who shall take notice of thee. I’ll move the King
-To any shape of thy preferment, such
-As thou’lt desire; and then myself, I chiefly,
-That set thee on to this desert, am bound
-To load thy merit richly. Call my women.
-Think on my words.
+==60==                 Thou tak’st up
+==61== Thou know’st not what; but take it for thy labor.
+==62== It is a thing I made, which hath the King
+==63== Five times redeem’d from death. I do not know
+==64== What is more cordial. Nay, I prithee take it,
+==65== It is an earnest of a farther good
+==66== That I mean to thee. Tell thy mistress how
+==67== The case stands with her; do’t as from thyself.
+==68== Think what a chance thou changest on, but think
+==69== Thou hast thy mistress still; to boot, my son,
+==70== Who shall take notice of thee. I’ll move the King
+==71== To any shape of thy preferment, such
+==72== As thou’lt desire; and then myself, I chiefly,
+==73== That set thee on to this desert, am bound
+==74== To load thy merit richly. Call my women.
+==75== Think on my words.
 *(Exit Pisanio.)*
-           A sly and constant knave,
-Not to be shak’d; the agent for his master,
-And the remembrancer of her to hold
-The hand-fast to her lord. I have given him that
-Which, if he take, shall quite unpeople her
-Of liegers for her sweet; and which she after,
-Except she bend her humor, shall be assur’d
-To taste of too.
+==75==            A sly and constant knave,
+==76== Not to be shak’d; the agent for his master,
+==77== And the remembrancer of her to hold
+==78== The hand-fast to her lord. I have given him that
+==79== Which, if he take, shall quite unpeople her
+==80== Of liegers for her sweet; and which she after,
+==81== Except she bend her humor, shall be assur’d
+==82== To taste of too.
 *(Enter Pisanio and Ladies.)*
-        So, so. Well done, well done.
-The violets, cowslips, and the primeroses,
-Bear to my closet. Fare thee well, Pisanio;
-Think on my words.
+==82==         So, so. Well done, well done.
+==83== The violets, cowslips, and the primeroses,
+==84== Bear to my closet. Fare thee well, Pisanio;
+==85== Think on my words.
 
 *Exeunt Queen and Ladies.*
 
 **PIS.**
-           And shall do.
-But when to my good lord I prove untrue,
-I’ll choke myself. There’s all I’ll do for you.
+==85==            And shall do.
+==86== But when to my good lord I prove untrue,
+==87== I’ll choke myself. There’s all I’ll do for you.
 
 *Exit.*
 

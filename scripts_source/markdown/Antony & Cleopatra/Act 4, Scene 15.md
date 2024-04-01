@@ -19,172 +19,172 @@ ID: antony-and-cleopatra-4-15
 *Enter Cleopatra and her maids aloft, with Charmian and Iras.*
 
 **CLEO.**
-O Charmian, I will never go from hence.
+==1== O Charmian, I will never go from hence.
 
 **CHAR.**
-Be comforted, dear madam.
+==2== Be comforted, dear madam.
 
 **CLEO.**
-                No, I will not.
-All strange and terrible events are welcome,
-But comforts we despise; our size of sorrow,
-Proportion’d to our cause, must be as great
-As that which makes it.
+==2==                 No, I will not.
+==3== All strange and terrible events are welcome,
+==4== But comforts we despise; our size of sorrow,
+==5== Proportion’d to our cause, must be as great
+==6== As that which makes it.
 *(Enter Diomed below.)*
-              How now? Is he dead?
+==6==               How now? Is he dead?
 
 **DIO.**
-His death’s upon him, but not dead.
-Look out o’ th’ other side your monument,
-His guard have brought him thither.
+==7== His death’s upon him, but not dead.
+==8== Look out o’ th’ other side your monument,
+==9== His guard have brought him thither.
 
 *Enter below Antony, and the Guard bearing him.*
 
 **CLEO.**
-                     O sun,
-Burn the great sphere thou mov’st in! Darkling stand
-The varying shore o’ th’ world! O Antony,
-Antony, Antony! Help, Charmian, help, Iras, help;
-Help, friends below, let’s draw him hither.
+==9==                      O sun,
+==10== Burn the great sphere thou mov’st in! Darkling stand
+==11== The varying shore o’ th’ world! O Antony,
+==12== Antony, Antony! Help, Charmian, help, Iras, help;
+==13== Help, friends below, let’s draw him hither.
 
 **ANT.**
-                       Peace!
-Not Caesar’s valor hath o’erthrown Antony,
-But Antony’s hath triumph’d on itself.
+==13==                        Peace!
+==14== Not Caesar’s valor hath o’erthrown Antony,
+==15== But Antony’s hath triumph’d on itself.
 
 **CLEO.**
-So it should be, that none but Antony
-Should conquer Antony, but woe ’tis so!
+==16== So it should be, that none but Antony
+==17== Should conquer Antony, but woe ’tis so!
 
 **ANT.**
-I am dying, Egypt, dying; only
-I here importune death awhile, until
-Of many thousand kisses the poor last
-I lay upon thy lips.
+==18== I am dying, Egypt, dying; only
+==19== I here importune death awhile, until
+==20== Of many thousand kisses the poor last
+==21== I lay upon thy lips.
 
 **CLEO.**
-           I dare not, dear⁠—
-Dear my lord, pardon—I dare not,
-Lest I be taken. Not th’ imperious show
-Of the full-fortun’d Caesar ever shall
-Be brooch’d with me, if knife, drugs, serpents have
-Edge, sting, or operation. I am safe:
-Your wife Octavia, with her modest eyes
-And still conclusion, shall acquire no honor
-Demuring upon me. But come, come, Antony⁠—
-Help me, my women—we must draw thee up.
-Assist, good friends.
+==21==            I dare not, dear⁠—
+==22== Dear my lord, pardon—I dare not,
+==23== Lest I be taken. Not th’ imperious show
+==24== Of the full-fortun’d Caesar ever shall
+==25== Be brooch’d with me, if knife, drugs, serpents have
+==26== Edge, sting, or operation. I am safe:
+==27== Your wife Octavia, with her modest eyes
+==28== And still conclusion, shall acquire no honor
+==29== Demuring upon me. But come, come, Antony⁠—
+==30== Help me, my women—we must draw thee up.
+==31== Assist, good friends.
 
 **ANT.**
-           O, quick, or I am gone.
+==31==            O, quick, or I am gone.
 
 **CLEO.**
-Here’s sport indeed! How heavy weighs my lord!
-Our strength is all gone into heaviness,
-That makes the weight. Had I great Juno’s power,
-The strong-wing’d Mercury should fetch thee up,
-And set thee by Jove’s side. Yet come a little⁠—
-Wishers were ever fools—O, come, come, come,
+==32== Here’s sport indeed! How heavy weighs my lord!
+==33== Our strength is all gone into heaviness,
+==34== That makes the weight. Had I great Juno’s power,
+==35== The strong-wing’d Mercury should fetch thee up,
+==36== And set thee by Jove’s side. Yet come a little⁠—
+==37== Wishers were ever fools—O, come, come, come,
 *(They heave Antony aloft to Cleopatra.)*
-And welcome, welcome! Die when thou hast liv’d,
-Quicken with kissing. Had my lips that power,
-Thus would I wear them out.
+==38== And welcome, welcome! Die when thou hast liv’d,
+==39== Quicken with kissing. Had my lips that power,
+==40== Thus would I wear them out.
 
 **ALL GUARDS.**
-                A heavy sight!
+==40==                 A heavy sight!
 
 **ANT.**
-I am dying, Egypt, dying.
-Give me some wine, and let me speak a little.
+==41== I am dying, Egypt, dying.
+==42== Give me some wine, and let me speak a little.
 
 **CLEO.**
-No, let me speak, and let me rail so high,
-That the false huswife Fortune break her wheel,
-Provok’d by my offense.
+==43== No, let me speak, and let me rail so high,
+==44== That the false huswife Fortune break her wheel,
+==45== Provok’d by my offense.
 
 **ANT.**
-              One word, sweet queen:
-Of Caesar seek your honor, with your safety. O!
+==45==               One word, sweet queen:
+==46== Of Caesar seek your honor, with your safety. O!
 
 **CLEO.**
-They do not go together.
+==47== They do not go together.
 
 **ANT.**
-              Gentle, hear me:
-None about Caesar trust but Proculeius.
+==47==               Gentle, hear me:
+==48== None about Caesar trust but Proculeius.
 
 **CLEO.**
-My resolution and my hands I’ll trust,
-None about Caesar.
+==49== My resolution and my hands I’ll trust,
+==50== None about Caesar.
 
 **ANT.**
-The miserable change now at my end
-Lament nor sorrow at; but please your thoughts
-In feeding them with those my former fortunes
-Wherein I liv’d, the greatest prince o’ th’ world,
-The noblest; and do now not basely die,
-Not cowardly put off my helmet to
-My countryman—a Roman by a Roman
-Valiantly vanquish’d. Now my spirit is going,
-I can no more.
+==51== The miserable change now at my end
+==52== Lament nor sorrow at; but please your thoughts
+==53== In feeding them with those my former fortunes
+==54== Wherein I liv’d, the greatest prince o’ th’ world,
+==55== The noblest; and do now not basely die,
+==56== Not cowardly put off my helmet to
+==57== My countryman—a Roman by a Roman
+==58== Valiantly vanquish’d. Now my spirit is going,
+==59== I can no more.
 
 **CLEO.**
-        Noblest of men, woo’t die?
-Hast thou no care of me? Shall I abide
-In this dull world, which in thy absence is
-No better than a sty? O, see, my women:
+==59==         Noblest of men, woo’t die?
+==60== Hast thou no care of me? Shall I abide
+==61== In this dull world, which in thy absence is
+==62== No better than a sty? O, see, my women:
 *(Antony dies.)*
-The crown o’ th’ earth doth melt. My lord!
-O, wither’d is the garland of the war,
-The soldier’s pole is fall’n! Young boys and girls
-Are level now with men; the odds is gone,
-And there is nothing left remarkable
-Beneath the visiting moon.
+==63== The crown o’ th’ earth doth melt. My lord!
+==64== O, wither’d is the garland of the war,
+==65== The soldier’s pole is fall’n! Young boys and girls
+==66== Are level now with men; the odds is gone,
+==67== And there is nothing left remarkable
+==68== Beneath the visiting moon.
 
 *Faints.*
 
 **CHAR.**
-                O, quietness, lady!
+==68==                 O, quietness, lady!
 
 **IRAS.**
-She’s dead too, our sovereign.
+==69== She’s dead too, our sovereign.
 
 **CHAR.**
-                Lady!
+==69==                 Lady!
 
 **IRAS.**
-                     Madam!
+==69==                      Madam!
 
 **CHAR.**
-O madam, madam, madam!
+==70== O madam, madam, madam!
 
 **IRAS.**
-                Royal Egypt!
-Empress!
+==70==                 Royal Egypt!
+==71== Empress!
 
 **CHAR.**
-Peace, peace, Iras!
+==72== Peace, peace, Iras!
 
 **CLEO.**
-No more but e’en a woman, and commanded
-By such poor passion as the maid that milks
-And does the meanest chores. It were for me
-To throw my scepter at the injurious gods,
-To tell them that this world did equal theirs
-Till they had stol’n our jewel. All’s but naught:
-Patience is sottish, and impatience does
-Become a dog that’s mad. Then is it sin
-To rush into the secret house of death
-Ere death dare come to us? How do you, women?
-What, what, good cheer! Why, how now, Charmian?
-My noble girls! Ah, women, women! Look
-Our lamp is spent, it’s out. Good sirs, take heart,
-We’ll bury him; and then, what’s brave, what’s noble,
-Let’s do’t after the high Roman fashion,
-And make death proud to take us. Come, away,
-This case of that huge spirit now is cold.
-Ah, women, women! Come, we have no friend
-But resolution and the briefest end.
+==73== No more but e’en a woman, and commanded
+==74== By such poor passion as the maid that milks
+==75== And does the meanest chores. It were for me
+==76== To throw my scepter at the injurious gods,
+==77== To tell them that this world did equal theirs
+==78== Till they had stol’n our jewel. All’s but naught:
+==79== Patience is sottish, and impatience does
+==80== Become a dog that’s mad. Then is it sin
+==81== To rush into the secret house of death
+==82== Ere death dare come to us? How do you, women?
+==83== What, what, good cheer! Why, how now, Charmian?
+==84== My noble girls! Ah, women, women! Look
+==85== Our lamp is spent, it’s out. Good sirs, take heart,
+==86== We’ll bury him; and then, what’s brave, what’s noble,
+==87== Let’s do’t after the high Roman fashion,
+==88== And make death proud to take us. Come, away,
+==89== This case of that huge spirit now is cold.
+==90== Ah, women, women! Come, we have no friend
+==91== But resolution and the briefest end.
 
 *Exeunt, those above bearing off Antony’s body.*
 

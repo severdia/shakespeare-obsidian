@@ -19,48 +19,48 @@ ID: antony-and-cleopatra-3-5
 *Enter Enobarbus and Eros, meeting.*
 
 **ENO.**
-How now, friend Eros?
+==1== How now, friend Eros?
 
 **EROS.**
-There’s strange news come, sir.
+==2== There’s strange news come, sir.
 
 **ENO.**
-What, man?
+==3== What, man?
 
 **EROS.**
-Caesar and Lepidus have made wars upon Pompey.
+==4== Caesar and Lepidus have made wars upon Pompey.
 
 **ENO.**
-This is old, what is the success?
+==5== This is old, what is the success?
 
 **EROS.**
-Caesar, having made use of him in the wars ’gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action, and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him. So the poor third is up, till death enlarge his confine.
+==6== Caesar, having made use of him in the wars ’gainst Pompey, presently denied him rivality, would not let him partake in the glory of the action, and not resting here, accuses him of letters he had formerly wrote to Pompey; upon his own appeal, seizes him. So the poor third is up, till death enlarge his confine.
 
 **ENO.**
-Then, world, thou hast a pair of chaps—no more,
-And throw between them all the food thou hast,
-They’ll grind th’ one the other. Where’s Antony?
+==7== Then, world, thou hast a pair of chaps—no more,
+==8== And throw between them all the food thou hast,
+==9== They’ll grind th’ one the other. Where’s Antony?
 
 **EROS.**
-He’s walking in the garden—thus, and spurns
-The rush that lies before him; cries, “Fool Lepidus!”
-And threats the throat of that his officer
-That murd’red Pompey.
+==10== He’s walking in the garden—thus, and spurns
+==11== The rush that lies before him; cries, “Fool Lepidus!”
+==12== And threats the throat of that his officer
+==13== That murd’red Pompey.
 
 **ENO.**
-              Our great navy’s rigg’d.
+==13==               Our great navy’s rigg’d.
 
 **EROS.**
-For Italy and Caesar. More, Domitius,
-My lord desires you presently; my news
-I might have told hereafter.
+==14== For Italy and Caesar. More, Domitius,
+==15== My lord desires you presently; my news
+==16== I might have told hereafter.
 
 **ENO.**
-              ’Twill be naught,
-But let it be. Bring me to Antony.
+==16==               ’Twill be naught,
+==17== But let it be. Bring me to Antony.
 
 **EROS.**
-Come, sir.
+==18== Come, sir.
 
 *Exeunt.*
 

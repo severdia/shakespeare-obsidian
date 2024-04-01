@@ -22,113 +22,113 @@ ID: hamlet-4-4
 *Enter Fortinbras with his army over the stage.*
 
 **FORT.**
-Go, captain, from me greet the Danish king.
-Tell him that by his license Fortinbras
-Craves the conveyance of a promis’d march
-Over his kingdom. You know the rendezvous.
-If that his Majesty would aught with us,
-We shall express our duty in his eye,
-And let him know so.
+==1== Go, captain, from me greet the Danish king.
+==2== Tell him that by his license Fortinbras
+==3== Craves the conveyance of a promis’d march
+==4== Over his kingdom. You know the rendezvous.
+==5== If that his Majesty would aught with us,
+==6== We shall express our duty in his eye,
+==7== And let him know so.
 
 **CAP.**
-           I will do’t, my lord.
+==7==            I will do’t, my lord.
 
 **FORT.**
-Go softly on.
+==8== Go softly on.
 
 *Exeunt all but the Captain.*
 
 *Enter Hamlet, Rosencrantz, Guildenstern, etc.*
 
 **HAM.**
-Good sir, whose powers are these?
+==9== Good sir, whose powers are these?
 
 **CAP.**
-They are of Norway, sir.
+==10== They are of Norway, sir.
 
 **HAM.**
-How purpos’d, sir, I pray you?
+==11== How purpos’d, sir, I pray you?
 
 **CAP.**
-Against some part of Poland.
+==12== Against some part of Poland.
 
 **HAM.**
-Who commands them, sir?
+==13== Who commands them, sir?
 
 **CAP.**
-The nephew to old Norway, Fortinbras.
+==14== The nephew to old Norway, Fortinbras.
 
 **HAM.**
-Goes it against the main of Poland, sir,
-Or for some frontier?
+==15== Goes it against the main of Poland, sir,
+==16== Or for some frontier?
 
 **CAP.**
-Truly to speak, and with no addition,
-We go to gain a little patch of ground
-That hath in it no profit but the name.
-To pay five ducats, five, I would not farm it;
-Nor will it yield to Norway or the Pole
-A ranker rate, should it be sold in fee.
+==17== Truly to speak, and with no addition,
+==18== We go to gain a little patch of ground
+==19== That hath in it no profit but the name.
+==20== To pay five ducats, five, I would not farm it;
+==21== Nor will it yield to Norway or the Pole
+==22== A ranker rate, should it be sold in fee.
 
 **HAM.**
-Why then the Polack never will defend it.
+==23== Why then the Polack never will defend it.
 
 **CAP.**
-Yes, it is already garrison’d.
+==24== Yes, it is already garrison’d.
 
 **HAM.**
-Two thousand souls and twenty thousand ducats
-Will not debate the question of this straw.
-This is th’ imposthume of much wealth and peace,
-That inward breaks, and shows no cause without
-Why the man dies. I humbly thank you, sir.
+==25== Two thousand souls and twenty thousand ducats
+==26== Will not debate the question of this straw.
+==27== This is th’ imposthume of much wealth and peace,
+==28== That inward breaks, and shows no cause without
+==29== Why the man dies. I humbly thank you, sir.
 
 **CAP.**
-God buy you, sir.
+==30== God buy you, sir.
 
 *Exit.*
 
 **ROS.**
-           Will’t please you go, my lord?
+==30==            Will’t please you go, my lord?
 
 **HAM.**
-I’ll be with you straight—go a little before.
+==31== I’ll be with you straight—go a little before.
 *(Exeunt all but Hamlet.)*
-How all occasions do inform against me,
-And spur my dull revenge! What is a man,
-If his chief good and market of his time
-Be but to sleep and feed? A beast, no more.
-Sure He that made us with such large discourse,
-Looking before and after, gave us not
-That capability and godlike reason
-To fust in us unus’d. Now whether it be
-Bestial oblivion, or some craven scruple
-Of thinking too precisely on th’ event⁠—
-A thought which quarter’d hath but one part wisdom
-And ever three parts coward—I do not know
-Why yet I live to say, “This thing’s to do,”
-Sith I have cause, and will, and strength, and means
-To do’t. Examples gross as earth exhort me:
-Witness this army of such mass and charge,
-Led by a delicate and tender prince,
-Whose spirit with divine ambition puff’d
-Makes mouths at the invisible event,
-Exposing what is mortal and unsure
-To all that fortune, death, and danger dare,
-Even for an egg-shell. Rightly to be great
-Is not to stir without great argument,
-But greatly to find quarrel in a straw
-When honor’s at the stake. How stand I then,
-That have a father kill’d, a mother stain’d,
-Excitements of my reason and my blood,
-And let all sleep, while to my shame I see
-The imminent death of twenty thousand men,
-That for a fantasy and trick of fame
-Go to their graves like beds, fight for a plot
-Whereon the numbers cannot try the cause,
-Which is not tomb enough and continent
-To hide the slain? O, from this time forth,
-My thoughts be bloody, or be nothing worth!
+==32== How all occasions do inform against me,
+==33== And spur my dull revenge! What is a man,
+==34== If his chief good and market of his time
+==35== Be but to sleep and feed? A beast, no more.
+==36== Sure He that made us with such large discourse,
+==37== Looking before and after, gave us not
+==38== That capability and godlike reason
+==39== To fust in us unus’d. Now whether it be
+==40== Bestial oblivion, or some craven scruple
+==41== Of thinking too precisely on th’ event⁠—
+==42== A thought which quarter’d hath but one part wisdom
+==43== And ever three parts coward—I do not know
+==44== Why yet I live to say, “This thing’s to do,”
+==45== Sith I have cause, and will, and strength, and means
+==46== To do’t. Examples gross as earth exhort me:
+==47== Witness this army of such mass and charge,
+==48== Led by a delicate and tender prince,
+==49== Whose spirit with divine ambition puff’d
+==50== Makes mouths at the invisible event,
+==51== Exposing what is mortal and unsure
+==52== To all that fortune, death, and danger dare,
+==53== Even for an egg-shell. Rightly to be great
+==54== Is not to stir without great argument,
+==55== But greatly to find quarrel in a straw
+==56== When honor’s at the stake. How stand I then,
+==57== That have a father kill’d, a mother stain’d,
+==58== Excitements of my reason and my blood,
+==59== And let all sleep, while to my shame I see
+==60== The imminent death of twenty thousand men,
+==61== That for a fantasy and trick of fame
+==62== Go to their graves like beds, fight for a plot
+==63== Whereon the numbers cannot try the cause,
+==64== Which is not tomb enough and continent
+==65== To hide the slain? O, from this time forth,
+==66== My thoughts be bloody, or be nothing worth!
 
 *Exit.*
 

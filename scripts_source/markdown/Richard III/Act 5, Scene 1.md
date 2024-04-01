@@ -22,43 +22,43 @@ ID: richard-iii-5-1
 *Enter Buckingham, with Halberds and the Sheriff, led to execution.*
 
 **BUCK.**
-Will not King Richard let me speak with him?
+==1== Will not King Richard let me speak with him?
 
 **SHER.**
-No, my good lord, therefore be patient.
+==2== No, my good lord, therefore be patient.
 
 **BUCK.**
-Hastings, and Edward’s children, Grey and Rivers,
-Holy King Henry and thy fair son Edward,
-Vaughan, and all that have miscarried
-By underhand corrupted foul injustice,
-If that your moody discontented souls
-Do through the clouds behold this present hour,
-Even for revenge mock my destruction!
-This is All-Souls’ day, fellow, is it not?
+==3== Hastings, and Edward’s children, Grey and Rivers,
+==4== Holy King Henry and thy fair son Edward,
+==5== Vaughan, and all that have miscarried
+==6== By underhand corrupted foul injustice,
+==7== If that your moody discontented souls
+==8== Do through the clouds behold this present hour,
+==9== Even for revenge mock my destruction!
+==10== This is All-Souls’ day, fellow, is it not?
 
 **SHER.**
-It is, my lord.
+==11== It is, my lord.
 
 **BUCK.**
-Why then All-Souls’ day is my body’s doomsday.
-This is the day which, in King Edward’s time,
-I wish’d might fall on me when I was found
-False to his children and his wive’s allies;
-This is the day wherein I wish’d to fall
-By the false faith of him whom most I trusted;
-This, this All-Souls’ day to my fearful soul,
-Is the determin’d respite of my wrongs.
-That high All-Seer, which I dallied with,
-Hath turn’d my feigned prayer on my head,
-And given in earnest what I begg’d in jest.
-Thus doth he force the swords of wicked men
-To turn their own points in their masters’ bosoms;
-Thus Margaret’s curse falls heavy on my neck:
-“When he,” quoth she, “shall split thy heart with sorrow,
-Remember Margaret was a prophetess.”
-Come lead me, officers, to the block of shame;
-Wrong hath but wrong, and blame the due of blame.
+==12== Why then All-Souls’ day is my body’s doomsday.
+==13== This is the day which, in King Edward’s time,
+==14== I wish’d might fall on me when I was found
+==15== False to his children and his wive’s allies;
+==16== This is the day wherein I wish’d to fall
+==17== By the false faith of him whom most I trusted;
+==18== This, this All-Souls’ day to my fearful soul,
+==19== Is the determin’d respite of my wrongs.
+==20== That high All-Seer, which I dallied with,
+==21== Hath turn’d my feigned prayer on my head,
+==22== And given in earnest what I begg’d in jest.
+==23== Thus doth he force the swords of wicked men
+==24== To turn their own points in their masters’ bosoms;
+==25== Thus Margaret’s curse falls heavy on my neck:
+==26== “When he,” quoth she, “shall split thy heart with sorrow,
+==27== Remember Margaret was a prophetess.”
+==28== Come lead me, officers, to the block of shame;
+==29== Wrong hath but wrong, and blame the due of blame.
 
 *Exeunt Buckingham and Sheriff with Officers.*
 

@@ -23,241 +23,241 @@ ID: henry-vi-part-ii-4-1
 *Enter Lieutenant, a Shipmaster and his Mate, Walter Whitmore, and others; with them Suffolk, disguised, and other Gentlemen, prisoners.*
 
 **LIEU.**
-The gaudy, blabbing, and remorseful day
-Is crept into the bosom of the sea;
-And now loud-howling wolves arouse the jades
-That drag the tragic melancholy night;
-Who with their drowsy, slow, and flagging wings
-Cleep dead men’s graves, and from their misty jaws
-Breathe foul contagious darkness in the air.
-Therefore bring forth the soldiers of our prize,
-For whilst our pinnace anchors in the Downs,
-Here shall they make their ransom on the sand,
-Or with their blood stain this discolored shore.
-Master, this prisoner freely give I thee,
-And thou that art his mate, make boot of this;
-The other, Walter Whitmore, is thy share.
+==1== The gaudy, blabbing, and remorseful day
+==2== Is crept into the bosom of the sea;
+==3== And now loud-howling wolves arouse the jades
+==4== That drag the tragic melancholy night;
+==5== Who with their drowsy, slow, and flagging wings
+==6== Cleep dead men’s graves, and from their misty jaws
+==7== Breathe foul contagious darkness in the air.
+==8== Therefore bring forth the soldiers of our prize,
+==9== For whilst our pinnace anchors in the Downs,
+==10== Here shall they make their ransom on the sand,
+==11== Or with their blood stain this discolored shore.
+==12== Master, this prisoner freely give I thee,
+==13== And thou that art his mate, make boot of this;
+==14== The other, Walter Whitmore, is thy share.
 
 **1. GENT.**
-What is my ransom, master? Let me know.
+==15== What is my ransom, master? Let me know.
 
 **MAST.**
-A thousand crowns, or else lay down your head.
+==16== A thousand crowns, or else lay down your head.
 
 **MATE.**
-And so much shall you give, or off goes yours.
+==17== And so much shall you give, or off goes yours.
 
 **LIEU.**
-What, think you much to pay two thousand crowns,
-And bear the name and port of gentlemen?
-Cut both the villains’ throats; for die you shall.
-The lives of those which we have lost in fight
-Be counterpois’d with such a petty sum!
+==18== What, think you much to pay two thousand crowns,
+==19== And bear the name and port of gentlemen?
+==20== Cut both the villains’ throats; for die you shall.
+==21== The lives of those which we have lost in fight
+==22== Be counterpois’d with such a petty sum!
 
 **1. GENT.**
-I’ll give it, sir, and therefore spare my life.
+==23== I’ll give it, sir, and therefore spare my life.
 
 **2. GENT.**
-And so will I, and write home for it straight.
+==24== And so will I, and write home for it straight.
 
 **WHIT.**
-I lost mine eye in laying the prize aboard,
-And therefore to revenge it shalt thou die,
+==25== I lost mine eye in laying the prize aboard,
+==26== And therefore to revenge it shalt thou die,
 *(To Suffolk.)*
-And so should these, if I might have my will.
+==27== And so should these, if I might have my will.
 
 **LIEU.**
-Be not so rash, take ransom, let him live.
+==28== Be not so rash, take ransom, let him live.
 
 **SUF.**
-Look on my George, I am a gentleman:
-Rate me at what thou wilt, thou shalt be paid.
+==29== Look on my George, I am a gentleman:
+==30== Rate me at what thou wilt, thou shalt be paid.
 
 **WHIT.**
-And so am I; my name is Walter Whitmore.
-How now? Why starts thou? What, doth death affright?
+==31== And so am I; my name is Walter Whitmore.
+==32== How now? Why starts thou? What, doth death affright?
 
 **SUF.**
-Thy name affrights me, in whose sound is death.
-A cunning man did calculate my birth
-And told me that by water I should die:
-Yet let not this make thee be bloody-minded;
-Thy name is Gualtier, being rightly sounded.
+==33== Thy name affrights me, in whose sound is death.
+==34== A cunning man did calculate my birth
+==35== And told me that by water I should die:
+==36== Yet let not this make thee be bloody-minded;
+==37== Thy name is Gualtier, being rightly sounded.
 
 **WHIT.**
-Gualtier or Walter, which it is, I care not.
-Never yet did base dishonor blur our name
-But with our sword we wip’d away the blot;
-Therefore, when merchant-like I sell revenge,
-Broke be my sword, my arms torn and defac’d,
-And I proclaim’d a coward through the world!
+==38== Gualtier or Walter, which it is, I care not.
+==39== Never yet did base dishonor blur our name
+==40== But with our sword we wip’d away the blot;
+==41== Therefore, when merchant-like I sell revenge,
+==42== Broke be my sword, my arms torn and defac’d,
+==43== And I proclaim’d a coward through the world!
 
 **SUF.**
-Stay, Whitmore, for thy prisoner is a prince,
-The Duke of Suffolk, William de la Pole.
+==44== Stay, Whitmore, for thy prisoner is a prince,
+==45== The Duke of Suffolk, William de la Pole.
 
 **WHIT.**
-The Duke of Suffolk muffled up in rags?
+==46== The Duke of Suffolk muffled up in rags?
 
 **SUF.**
-Ay, but these rags are no part of the duke;
-Jove sometime went disguis’d, and why not I?
+==47== Ay, but these rags are no part of the duke;
+==48== Jove sometime went disguis’d, and why not I?
 
 **LIEU.**
-But Jove was never slain, as thou shalt be.
+==49== But Jove was never slain, as thou shalt be.
 
 **SUF.**
-Obscure and lousy swain, King Henry’s blood,
-The honorable blood of Lancaster,
-Must not be shed by such a jaded groom.
-Hast thou not kiss’d thy hand and held my stirrup?
-Bare-headed plodded by my foot-cloth mule
-And thought thee happy when I shook my head?
-How often hast thou waited at my cup,
-Fed from my trencher, kneel’d down at the board,
-When I have feasted with Queen Margaret?
-Remember it, and let it make thee crestfall’n,
-Ay, and allay this thy abortive pride:
-How in our voiding lobby hast thou stood
-And duly waited for my coming forth?
-This hand of mine hath writ in thy behalf,
-And therefore shall it charm thy riotous tongue.
+==50== Obscure and lousy swain, King Henry’s blood,
+==51== The honorable blood of Lancaster,
+==52== Must not be shed by such a jaded groom.
+==53== Hast thou not kiss’d thy hand and held my stirrup?
+==54== Bare-headed plodded by my foot-cloth mule
+==55== And thought thee happy when I shook my head?
+==56== How often hast thou waited at my cup,
+==57== Fed from my trencher, kneel’d down at the board,
+==58== When I have feasted with Queen Margaret?
+==59== Remember it, and let it make thee crestfall’n,
+==60== Ay, and allay this thy abortive pride:
+==61== How in our voiding lobby hast thou stood
+==62== And duly waited for my coming forth?
+==63== This hand of mine hath writ in thy behalf,
+==64== And therefore shall it charm thy riotous tongue.
 
 **WHIT.**
-Speak, captain, shall I stab the forlorn swain?
+==65== Speak, captain, shall I stab the forlorn swain?
 
 **LIEU.**
-First let my words stab him, as he hath me.
+==66== First let my words stab him, as he hath me.
 
 **SUF.**
-Base slave, thy words are blunt and so art thou.
+==67== Base slave, thy words are blunt and so art thou.
 
 **LIEU.**
-Convey him hence, and on our longboat’s side
-Strike off his head.
+==68== Convey him hence, and on our longboat’s side
+==69== Strike off his head.
 
 **SUF.**
-           Thou dar’st not, for thy own.
+==69==            Thou dar’st not, for thy own.
 
 **LIEU.**
-Yes, Poole.
+==70== Yes, Poole.
 
 **SUF.**
-        Poole?
+==70==         Poole?
 
 **LIEU.**
-              Poole! Sir Poole! Lord!
-Ay, kennel, puddle, sink, whose filth and dirt
-Troubles the silver spring where England drinks.
-Now will I dam up this thy yawning mouth
-For swallowing the treasure of the realm.
-Thy lips that kiss’d the Queen shall sweep the ground,
-And thou that smil’dst at good Duke Humphrey’s death
-Against the senseless winds shall grin in vain,
-Who in contempt shall hiss at thee again;
-And wedded be thou to the hags of hell,
-For daring to affy a mighty lord
-Unto the daughter of a worthless king,
-Having neither subject, wealth, nor diadem.
-By devilish policy art thou grown great,
-And like ambitious Sylla, overgorg’d
-With gobbets of thy mother’s bleeding heart.
-By thee Anjou and Maine were sold to France.
-The false revolting Normans thorough thee
-Disdain to call us lord, and Picardy
-Hath slain their governors, surpris’d our forts,
-And sent the ragged soldiers wounded home.
-The princely Warwick, and the Nevils all,
-Whose dreadful swords were never drawn in vain,
-As hating thee, are rising up in arms;
-And now the house of York, thrust from the crown
-By shameful murder of a guiltless king
-And lofty, proud, encroaching tyranny,
-Burns with revenging fire, whose hopeful colors
-Advance our half-fac’d sun, striving to shine,
-Under the which is writ, “*Invitis nubibus*.”
-The commons here in Kent are up in arms,
-And to conclude, reproach and beggary
-Is crept into the palace of our king,
-And all by thee. Away, convey him hence.
+==70==               Poole! Sir Poole! Lord!
+==71== Ay, kennel, puddle, sink, whose filth and dirt
+==72== Troubles the silver spring where England drinks.
+==73== Now will I dam up this thy yawning mouth
+==74== For swallowing the treasure of the realm.
+==75== Thy lips that kiss’d the Queen shall sweep the ground,
+==76== And thou that smil’dst at good Duke Humphrey’s death
+==77== Against the senseless winds shall grin in vain,
+==78== Who in contempt shall hiss at thee again;
+==79== And wedded be thou to the hags of hell,
+==80== For daring to affy a mighty lord
+==81== Unto the daughter of a worthless king,
+==82== Having neither subject, wealth, nor diadem.
+==83== By devilish policy art thou grown great,
+==84== And like ambitious Sylla, overgorg’d
+==85== With gobbets of thy mother’s bleeding heart.
+==86== By thee Anjou and Maine were sold to France.
+==87== The false revolting Normans thorough thee
+==88== Disdain to call us lord, and Picardy
+==89== Hath slain their governors, surpris’d our forts,
+==90== And sent the ragged soldiers wounded home.
+==91== The princely Warwick, and the Nevils all,
+==92== Whose dreadful swords were never drawn in vain,
+==93== As hating thee, are rising up in arms;
+==94== And now the house of York, thrust from the crown
+==95== By shameful murder of a guiltless king
+==96== And lofty, proud, encroaching tyranny,
+==97== Burns with revenging fire, whose hopeful colors
+==98== Advance our half-fac’d sun, striving to shine,
+==99== Under the which is writ, “*Invitis nubibus*.”
+==100== The commons here in Kent are up in arms,
+==101== And to conclude, reproach and beggary
+==102== Is crept into the palace of our king,
+==103== And all by thee. Away, convey him hence.
 
 **SUF.**
-O that I were a god, to shoot forth thunder
-Upon these paltry, servile, abject drudges!
-Small things make base men proud. This villain here,
-Being captain of a pinnace, threatens more
-Than Bargulus the strong Illyrian pirate.
-Drones suck not eagles’ blood, but rob beehives.
-It is impossible that I should die
-By such a lowly vassal as thyself.
-Thy words move rage and not remorse in me.
+==104== O that I were a god, to shoot forth thunder
+==105== Upon these paltry, servile, abject drudges!
+==106== Small things make base men proud. This villain here,
+==107== Being captain of a pinnace, threatens more
+==108== Than Bargulus the strong Illyrian pirate.
+==109== Drones suck not eagles’ blood, but rob beehives.
+==110== It is impossible that I should die
+==111== By such a lowly vassal as thyself.
+==112== Thy words move rage and not remorse in me.
 
 **LIEU.**
-Ay, but my deeds shall stay thy fury soon.
+==113== Ay, but my deeds shall stay thy fury soon.
 
 **SUF.**
-I go of message from the Queen to France;
-I charge thee waft me safely cross the Channel.
+==114== I go of message from the Queen to France;
+==115== I charge thee waft me safely cross the Channel.
 
 **WHIT.**
-Come, Suffolk, I must waft thee to thy death.
+==116== Come, Suffolk, I must waft thee to thy death.
 
 **SUF.**
-*Pene gelidus timor occupat artus*: it is thee I fear.
+==117== *Pene gelidus timor occupat artus*: it is thee I fear.
 
 **WHIT.**
-Thou shalt have cause to fear before I leave thee.
-What, are ye daunted now? Now will ye stoop?
+==118== Thou shalt have cause to fear before I leave thee.
+==119== What, are ye daunted now? Now will ye stoop?
 
 **1. GENT.**
-My gracious lord, entreat him, speak him fair.
+==120== My gracious lord, entreat him, speak him fair.
 
 **SUF.**
-Suffolk’s imperial tongue is stern and rough,
-Us’d to command, untaught to plead for favor.
-Far be it we should honor such as these
-With humble suit. No, rather let my head
-Stoop to the block than these knees bow to any
-Save to the God of heaven and to my king;
-And sooner dance upon a bloody pole
-Than stand uncover’d to the vulgar groom.
-True nobility is exempt from fear:
-More can I bear than you dare execute.
+==121== Suffolk’s imperial tongue is stern and rough,
+==122== Us’d to command, untaught to plead for favor.
+==123== Far be it we should honor such as these
+==124== With humble suit. No, rather let my head
+==125== Stoop to the block than these knees bow to any
+==126== Save to the God of heaven and to my king;
+==127== And sooner dance upon a bloody pole
+==128== Than stand uncover’d to the vulgar groom.
+==129== True nobility is exempt from fear:
+==130== More can I bear than you dare execute.
 
 **LIEU.**
-Hale him away, and let him talk no more.
+==131== Hale him away, and let him talk no more.
 
 **SUF.**
-Come, soldiers, show what cruelty ye can,
-That this my death may never be forgot!
-Great men oft die by vild besonians:
-A Roman sworder and bandetto slave
-Murder’d sweet Tully; Brutus’ bastard hand
-Stabb’d Julius Caesar; savage islanders
-Pompey the Great; and Suffolk dies by pirates.
+==132== Come, soldiers, show what cruelty ye can,
+==133== That this my death may never be forgot!
+==134== Great men oft die by vild besonians:
+==135== A Roman sworder and bandetto slave
+==136== Murder’d sweet Tully; Brutus’ bastard hand
+==137== Stabb’d Julius Caesar; savage islanders
+==138== Pompey the Great; and Suffolk dies by pirates.
 
 *Exit Walter Whitmore with Suffolk.*
 
 **LIEU.**
-And as for these whose ransom we have set,
-It is our pleasure one of them depart;
-Therefore come you with us and let him go.
+==139== And as for these whose ransom we have set,
+==140== It is our pleasure one of them depart;
+==141== Therefore come you with us and let him go.
 
 *Exeunt Lieutenant and the rest. Manet the First Gentleman.*
 
 *Enter Walter Whitmore with the body of Suffolk.*
 
 **WHIT.**
-There let his head and lifeless body lie,
-Until the Queen his mistress bury it.
+==142== There let his head and lifeless body lie,
+==143== Until the Queen his mistress bury it.
 
 *Exit Walter.*
 
 **1. GENT.**
-O barbarous and bloody spectacle!
-His body will I bear unto the King.
-If he revenge it not, yet will his friends;
-So will the Queen, that living held him dear.
+==144== O barbarous and bloody spectacle!
+==145== His body will I bear unto the King.
+==146== If he revenge it not, yet will his friends;
+==147== So will the Queen, that living held him dear.
 
 *Exit with the body.*
 

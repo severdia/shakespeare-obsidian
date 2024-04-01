@@ -20,59 +20,59 @@ ID: alls-well-that-ends-well-3-4
 *Enter Countess and Steward Rinaldo.*
 
 **COUNT.**
-Alas! And would you take the letter of her?
-Might you not know she would do as she has done
-By sending me a letter? Read it again.
+==1== Alas! And would you take the letter of her?
+==2== Might you not know she would do as she has done
+==3== By sending me a letter? Read it again.
 
 **STEW.**
 *(Reads letter.)*
-*“I am Saint Jaques’ pilgrim, thither gone.*
-*Ambitious love hath so in me offended*
-*That barefoot plod I the cold ground upon*
-*With sainted vow my faults to have amended.*
-*Write, write, that from the bloody course of war*
-*My dearest master, your dear son, may hie.*
-*Bless him at home in peace, whilst I from far*
-*His name with zealous fervor sanctify.*
-*His taken labors bid him me forgive;*
-*I, his despiteful Juno, sent him forth*
-*From courtly friends, with camping foes to live,*
-*Where death and danger dogs the heels of worth.*
-*He is too good and fair for death and me,*
-*Whom I myself embrace to set him free.”*
+==4== *“I am Saint Jaques’ pilgrim, thither gone.*
+==5== *Ambitious love hath so in me offended*
+==6== *That barefoot plod I the cold ground upon*
+==7== *With sainted vow my faults to have amended.*
+==8== *Write, write, that from the bloody course of war*
+==9== *My dearest master, your dear son, may hie.*
+==10== *Bless him at home in peace, whilst I from far*
+==11== *His name with zealous fervor sanctify.*
+==12== *His taken labors bid him me forgive;*
+==13== *I, his despiteful Juno, sent him forth*
+==14== *From courtly friends, with camping foes to live,*
+==15== *Where death and danger dogs the heels of worth.*
+==16== *He is too good and fair for death and me,*
+==17== *Whom I myself embrace to set him free.”*
 
 **COUNT.**
-Ah, what sharp stings are in her mildest words!
-Rinaldo, you did never lack advice so much
-As letting her pass so. Had I spoke with her,
-I could have well diverted her intents,
-Which thus she hath prevented.
+==18== Ah, what sharp stings are in her mildest words!
+==19== Rinaldo, you did never lack advice so much
+==20== As letting her pass so. Had I spoke with her,
+==21== I could have well diverted her intents,
+==22== Which thus she hath prevented.
 
 **STEW.**
-                Pardon me, madam,
-If I had given you this at overnight,
-She might have been o’erta’en; and yet she writes,
-Pursuit would be but vain.
+==22==                 Pardon me, madam,
+==23== If I had given you this at overnight,
+==24== She might have been o’erta’en; and yet she writes,
+==25== Pursuit would be but vain.
 
 **COUNT.**
-              What angel shall
-Bless this unworthy husband? He cannot thrive,
-Unless her prayers, whom heaven delights to hear
-And loves to grant, reprieve him from the wrath
-Of greatest justice. Write, write, Rinaldo,
-To this unworthy husband of his wife.
-Let every word weigh heavy of her worth,
-That he does weigh too light. My greatest grief,
-Though little he do feel it, set down sharply.
-Dispatch the most convenient messenger.
-When haply he shall hear that she is gone,
-He will return, and hope I may that she,
-Hearing so much, will speed her foot again,
-Led hither by pure love. Which of them both
-Is dearest to me, I have no skill in sense
-To make distinction. Provide this messenger.
-My heart is heavy, and mine age is weak;
-Grief would have tears, and sorrow bids me speak.
+==25==               What angel shall
+==26== Bless this unworthy husband? He cannot thrive,
+==27== Unless her prayers, whom heaven delights to hear
+==28== And loves to grant, reprieve him from the wrath
+==29== Of greatest justice. Write, write, Rinaldo,
+==30== To this unworthy husband of his wife.
+==31== Let every word weigh heavy of her worth,
+==32== That he does weigh too light. My greatest grief,
+==33== Though little he do feel it, set down sharply.
+==34== Dispatch the most convenient messenger.
+==35== When haply he shall hear that she is gone,
+==36== He will return, and hope I may that she,
+==37== Hearing so much, will speed her foot again,
+==38== Led hither by pure love. Which of them both
+==39== Is dearest to me, I have no skill in sense
+==40== To make distinction. Provide this messenger.
+==41== My heart is heavy, and mine age is weak;
+==42== Grief would have tears, and sorrow bids me speak.
 
 *Exeunt.*
 

@@ -22,81 +22,81 @@ ID: titus-andronicus-2-4
 *Enter the Empress’ sons (Demetrius and Chiron) with Lavinia, her hands cut off, and her tongue cut out, and ravished.*
 
 **DEM.**
-So now go tell, and if thy tongue can speak,
-Who ’twas that cut thy tongue and ravish’d thee.
+==1== So now go tell, and if thy tongue can speak,
+==2== Who ’twas that cut thy tongue and ravish’d thee.
 
 **CHI.**
-Write down thy mind, bewray thy meaning so,
-And if thy stumps will let thee play the scribe.
+==3== Write down thy mind, bewray thy meaning so,
+==4== And if thy stumps will let thee play the scribe.
 
 **DEM.**
-See how with signs and tokens she can scrowl.
+==5== See how with signs and tokens she can scrowl.
 
 **CHI.**
-Go home, call for sweet water, wash thy hands.
+==6== Go home, call for sweet water, wash thy hands.
 
 **DEM.**
-She hath no tongue to call, nor hands to wash,
-And so let’s leave her to her silent walks.
+==7== She hath no tongue to call, nor hands to wash,
+==8== And so let’s leave her to her silent walks.
 
 **CHI.**
-And ’twere my cause, I should go hang myself.
+==9== And ’twere my cause, I should go hang myself.
 
 **DEM.**
-If thou hadst hands to help thee knit the cord.
+==10== If thou hadst hands to help thee knit the cord.
 
 *Exeunt Demetrius and Chiron.*
 
 *Wind horns. Enter Marcus from hunting.*
 
 **MARC.**
-Who is this? My niece, that flies away so fast?
-Cousin, a word; where is your husband?
-If I do dream, would all my wealth would wake me!
-If I do wake, some planet strike me down,
-That I may slumber an eternal sleep!
-Speak, gentle niece: what stern ungentle hands
-Hath lopp’d and hew’d, and made thy body bare
-Of her two branches, those sweet ornaments
-Whose circling shadows kings have sought to sleep in,
-And might not gain so great a happiness
-As half thy love? Why dost not speak to me?
-Alas, a crimson river of warm blood,
-Like to a bubbling fountain stirr’d with wind,
-Doth rise and fall between thy rosed lips,
-Coming and going with thy honey breath.
-But sure some Tereus hath deflow’red thee,
-And lest thou shouldst detect him, cut thy tongue.
-Ah, now thou turn’st away thy face for shame!
-And notwithstanding all this loss of blood,
-As from a conduit with three issuing spouts,
-Yet do thy cheeks look red as Titan’s face
-Blushing to be encount’red with a cloud.
-Shall I speak for thee? Shall I say ’tis so?
-O that I knew thy heart, and knew the beast,
-That I might rail at him to ease my mind!
-Sorrow concealed, like an oven stopp’d,
-Doth burn the heart to cinders where it is.
-Fair Philomela, why, she but lost her tongue,
-And in a tedious sampler sew’d her mind;
-But, lovely niece, that mean is cut from thee.
-A craftier Tereus, cousin, hast thou met,
-And he hath cut those pretty fingers off
-That could have better sew’d than Philomel.
-O, had the monster seen those lily hands
-Tremble like aspen leaves upon a lute,
-And make the silken strings delight to kiss them,
-He would not then have touch’d them for his life!
-Or had he heard the heavenly harmony
-Which that sweet tongue hath made,
-He would have dropp’d his knife, and fell asleep,
-As Cerberus at the Thracian poet’s feet.
-Come let us go, and make thy father blind,
-For such a sight will blind a father’s eye.
-One hour’s storm will drown the fragrant meads,
-What will whole months of tears thy father’s eyes?
-Do not draw back, for we will mourn with thee.
-O, could our mourning ease thy misery!
+==11== Who is this? My niece, that flies away so fast?
+==12== Cousin, a word; where is your husband?
+==13== If I do dream, would all my wealth would wake me!
+==14== If I do wake, some planet strike me down,
+==15== That I may slumber an eternal sleep!
+==16== Speak, gentle niece: what stern ungentle hands
+==17== Hath lopp’d and hew’d, and made thy body bare
+==18== Of her two branches, those sweet ornaments
+==19== Whose circling shadows kings have sought to sleep in,
+==20== And might not gain so great a happiness
+==21== As half thy love? Why dost not speak to me?
+==22== Alas, a crimson river of warm blood,
+==23== Like to a bubbling fountain stirr’d with wind,
+==24== Doth rise and fall between thy rosed lips,
+==25== Coming and going with thy honey breath.
+==26== But sure some Tereus hath deflow’red thee,
+==27== And lest thou shouldst detect him, cut thy tongue.
+==28== Ah, now thou turn’st away thy face for shame!
+==29== And notwithstanding all this loss of blood,
+==30== As from a conduit with three issuing spouts,
+==31== Yet do thy cheeks look red as Titan’s face
+==32== Blushing to be encount’red with a cloud.
+==33== Shall I speak for thee? Shall I say ’tis so?
+==34== O that I knew thy heart, and knew the beast,
+==35== That I might rail at him to ease my mind!
+==36== Sorrow concealed, like an oven stopp’d,
+==37== Doth burn the heart to cinders where it is.
+==38== Fair Philomela, why, she but lost her tongue,
+==39== And in a tedious sampler sew’d her mind;
+==40== But, lovely niece, that mean is cut from thee.
+==41== A craftier Tereus, cousin, hast thou met,
+==42== And he hath cut those pretty fingers off
+==43== That could have better sew’d than Philomel.
+==44== O, had the monster seen those lily hands
+==45== Tremble like aspen leaves upon a lute,
+==46== And make the silken strings delight to kiss them,
+==47== He would not then have touch’d them for his life!
+==48== Or had he heard the heavenly harmony
+==49== Which that sweet tongue hath made,
+==50== He would have dropp’d his knife, and fell asleep,
+==51== As Cerberus at the Thracian poet’s feet.
+==52== Come let us go, and make thy father blind,
+==53== For such a sight will blind a father’s eye.
+==54== One hour’s storm will drown the fragrant meads,
+==55== What will whole months of tears thy father’s eyes?
+==56== Do not draw back, for we will mourn with thee.
+==57== O, could our mourning ease thy misery!
 
 *Exeunt.*
 

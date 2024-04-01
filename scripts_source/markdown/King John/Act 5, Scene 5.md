@@ -19,43 +19,43 @@ ID: king-john-5-5
 *Enter Lewis the Dauphin and his Train.*
 
 **LEW.**
-The sun of heaven, methought, was loath to set,
-But stay’d and made the western welkin blush,
-When English measure backward their own ground
-In faint retire. O, bravely came we off,
-When with a volley of our needless shot,
-After such bloody toil, we bid good night,
-And wound our tott’ring colors clearly up,
-Last in the field, and almost lords of it!
+==1== The sun of heaven, methought, was loath to set,
+==2== But stay’d and made the western welkin blush,
+==3== When English measure backward their own ground
+==4== In faint retire. O, bravely came we off,
+==5== When with a volley of our needless shot,
+==6== After such bloody toil, we bid good night,
+==7== And wound our tott’ring colors clearly up,
+==8== Last in the field, and almost lords of it!
 
 *Enter a French Messenger.*
 
 **FR. MESS.**
-Where is my prince, the Dauphin?
+==9== Where is my prince, the Dauphin?
 
 **LEW.**
-                  Here: what news?
+==9==                   Here: what news?
 
 **FR. MESS.**
-The Count Melune is slain; the English lords
-By his persuasion are again fall’n off,
-And your supply, which you have wish’d so long,
-Are cast away, and sunk on Goodwin Sands.
+==10== The Count Melune is slain; the English lords
+==11== By his persuasion are again fall’n off,
+==12== And your supply, which you have wish’d so long,
+==13== Are cast away, and sunk on Goodwin Sands.
 
 **LEW.**
-Ah, foul shrewd news! Beshrew thy very heart!
-I did not think to be so sad tonight
-As this hath made me. Who was he that said
-King John did fly an hour or two before
-The stumbling night did part our weary pow’rs?
+==14== Ah, foul shrewd news! Beshrew thy very heart!
+==15== I did not think to be so sad tonight
+==16== As this hath made me. Who was he that said
+==17== King John did fly an hour or two before
+==18== The stumbling night did part our weary pow’rs?
 
 **FR. MESS.**
-Whoever spoke it, it is true, my lord.
+==19== Whoever spoke it, it is true, my lord.
 
 **LEW.**
-Well; keep good quarter and good care tonight;
-The day shall not be up so soon as I,
-To try the fair adventure of tomorrow.
+==20== Well; keep good quarter and good care tonight;
+==21== The day shall not be up so soon as I,
+==22== To try the fair adventure of tomorrow.
 
 *Exeunt.*
 

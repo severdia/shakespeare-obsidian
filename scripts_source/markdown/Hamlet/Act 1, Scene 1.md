@@ -22,327 +22,327 @@ ID: hamlet-1-1
 *Enter Barnardo and Francisco, two sentinels, meeting.*
 
 **BAR.**
-Who’s there?
+==1== Who’s there?
 
 **FRAN.**
-Nay, answer me. Stand and unfold yourself.
+==2== Nay, answer me. Stand and unfold yourself.
 
 **BAR.**
-Long live the King!
+==3== Long live the King!
 
 **FRAN.**
-Barnardo.
+==4== Barnardo.
 
 **BAR.**
-He.
+==5== He.
 
 **FRAN.**
-You come most carefully upon your hour.
+==6== You come most carefully upon your hour.
 
 **BAR.**
-’Tis now struck twelve. Get thee to bed, Francisco.
+==7== ’Tis now struck twelve. Get thee to bed, Francisco.
 
 **FRAN.**
-For this relief much thanks. ’Tis bitter cold,
-And I am sick at heart.
+==8== For this relief much thanks. ’Tis bitter cold,
+==9== And I am sick at heart.
 
 **BAR.**
-Have you had quiet guard?
+==10== Have you had quiet guard?
 
 **FRAN.**
-              Not a mouse stirring.
+==10==               Not a mouse stirring.
 
 **BAR.**
-Well, good night.
-If you do meet Horatio and Marcellus,
-The rivals of my watch, bid them make haste.
+==11== Well, good night.
+==12== If you do meet Horatio and Marcellus,
+==13== The rivals of my watch, bid them make haste.
 
 *Enter Horatio and Marcellus.*
 
 **FRAN.**
-I think I hear them. Stand ho! Who is there?
+==14== I think I hear them. Stand ho! Who is there?
 
 **HOR.**
-Friends to this ground.
+==15== Friends to this ground.
 
 **MAR.**
-           And liegemen to the Dane.
+==15==            And liegemen to the Dane.
 
 **FRAN.**
-Give you good night.
+==16== Give you good night.
 
 **MAR.**
-           O, farewell, honest soldier.
-Who hath reliev’d you?
+==16==            O, farewell, honest soldier.
+==17== Who hath reliev’d you?
 
 **FRAN.**
-           Barnardo hath my place.
-Give you good night.
+==17==            Barnardo hath my place.
+==18== Give you good night.
 
 *Exit Francisco.*
 
 **MAR.**
-           Holla, Barnardo!
+==18==            Holla, Barnardo!
 
 **BAR.**
-                         Say⁠—
-What, is Horatio there?
+==18==                          Say⁠—
+==19== What, is Horatio there?
 
 **HOR.**
-              A piece of him.
+==19==               A piece of him.
 
 **BAR.**
-Welcome, Horatio, welcome, good Marcellus.
+==20== Welcome, Horatio, welcome, good Marcellus.
 
 **HOR.**
-What, has this thing appear’d again tonight?
+==21== What, has this thing appear’d again tonight?
 
 **BAR.**
-I have seen nothing.
+==22== I have seen nothing.
 
 **MAR.**
-Horatio says ’tis but our fantasy,
-And will not let belief take hold of him
-Touching this dreaded sight twice seen of us;
-Therefore I have entreated him along,
-With us to watch the minutes of this night,
-That if again this apparition come,
-He may approve our eyes and speak to it.
+==23== Horatio says ’tis but our fantasy,
+==24== And will not let belief take hold of him
+==25== Touching this dreaded sight twice seen of us;
+==26== Therefore I have entreated him along,
+==27== With us to watch the minutes of this night,
+==28== That if again this apparition come,
+==29== He may approve our eyes and speak to it.
 
 **HOR.**
-Tush, tush, ’twill not appear.
+==30== Tush, tush, ’twill not appear.
 
 **BAR.**
-Sit down a while,
-And let us once again assail your ears,
-That are so fortified against our story,
-What we have two nights seen.
+==31== Sit down a while,
+==32== And let us once again assail your ears,
+==33== That are so fortified against our story,
+==34== What we have two nights seen.
 
 **HOR.**
-                Well, sit we down,
-And let us hear Barnardo speak of this.
+==34==                 Well, sit we down,
+==35== And let us hear Barnardo speak of this.
 
 **BAR.**
-Last night of all,
-When yond same star that’s westward from the pole
-Had made his course t’ illume that part of heaven
-Where now it burns, Marcellus and myself,
-The bell then beating one⁠—
+==36== Last night of all,
+==37== When yond same star that’s westward from the pole
+==38== Had made his course t’ illume that part of heaven
+==39== Where now it burns, Marcellus and myself,
+==40== The bell then beating one⁠—
 
 *Enter Ghost.*
 
 **MAR.**
-Peace, break thee off! Look where it comes again!
+==41== Peace, break thee off! Look where it comes again!
 
 **BAR.**
-In the same figure like the King that’s dead.
+==42== In the same figure like the King that’s dead.
 
 **MAR.**
-Thou art a scholar, speak to it, Horatio.
+==43== Thou art a scholar, speak to it, Horatio.
 
 **BAR.**
-Looks ’a not like the King? Mark it, Horatio.
+==44== Looks ’a not like the King? Mark it, Horatio.
 
 **HOR.**
-Most like; it harrows me with fear and wonder.
+==45== Most like; it harrows me with fear and wonder.
 
 **BAR.**
-It would be spoke to.
+==46== It would be spoke to.
 
 **MAR.**
-           Speak to it, Horatio.
+==46==            Speak to it, Horatio.
 
 **HOR.**
-What art thou that usurp’st this time of night,
-Together with that fair and warlike form
-In which the majesty of buried Denmark
-Did sometimes march? By heaven I charge thee speak!
+==47== What art thou that usurp’st this time of night,
+==48== Together with that fair and warlike form
+==49== In which the majesty of buried Denmark
+==50== Did sometimes march? By heaven I charge thee speak!
 
 **MAR.**
-It is offended.
+==51== It is offended.
 
 **BAR.**
-        See, it stalks away!
+==51==         See, it stalks away!
 
 **HOR.**
-Stay! Speak, speak, I charge thee speak!
+==52== Stay! Speak, speak, I charge thee speak!
 
 *Exit Ghost.*
 
 **MAR.**
-’Tis gone, and will not answer.
+==53== ’Tis gone, and will not answer.
 
 **BAR.**
-How now, Horatio? You tremble and look pale.
-Is not this something more than fantasy?
-What think you on’t?
+==54== How now, Horatio? You tremble and look pale.
+==55== Is not this something more than fantasy?
+==56== What think you on’t?
 
 **HOR.**
-Before my God, I might not this believe
-Without the sensible and true avouch
-Of mine own eyes.
+==57== Before my God, I might not this believe
+==58== Without the sensible and true avouch
+==59== Of mine own eyes.
 
 **MAR.**
-           Is it not like the King?
+==59==            Is it not like the King?
 
 **HOR.**
-As thou art to thyself.
-Such was the very armor he had on
-When he the ambitious Norway combated.
-So frown’d he once when in an angry parle
-He smote the sledded Polacks on the ice.
-’Tis strange.
+==60== As thou art to thyself.
+==61== Such was the very armor he had on
+==62== When he the ambitious Norway combated.
+==63== So frown’d he once when in an angry parle
+==64== He smote the sledded Polacks on the ice.
+==65== ’Tis strange.
 
 **MAR.**
-Thus twice before, and jump at this dead hour,
-With martial stalk hath he gone by our watch.
+==66== Thus twice before, and jump at this dead hour,
+==67== With martial stalk hath he gone by our watch.
 
 **HOR.**
-In what particular thought to work I know not,
-But in the gross and scope of mine opinion,
-This bodes some strange eruption to our state.
+==68== In what particular thought to work I know not,
+==69== But in the gross and scope of mine opinion,
+==70== This bodes some strange eruption to our state.
 
 **MAR.**
-Good now, sit down, and tell me, he that knows,
-Why this same strict and most observant watch
-So nightly toils the subject of the land,
-And why such daily cast of brazen cannon,
-And foreign mart for implements of war,
-Why such impress of shipwrights, whose sore task
-Does not divide the Sunday from the week,
-What might be toward, that this sweaty haste
-Doth make the night joint-laborer with the day:
-Who is’t that can inform me?
+==71== Good now, sit down, and tell me, he that knows,
+==72== Why this same strict and most observant watch
+==73== So nightly toils the subject of the land,
+==74== And why such daily cast of brazen cannon,
+==75== And foreign mart for implements of war,
+==76== Why such impress of shipwrights, whose sore task
+==77== Does not divide the Sunday from the week,
+==78== What might be toward, that this sweaty haste
+==79== Doth make the night joint-laborer with the day:
+==80== Who is’t that can inform me?
 
 **HOR.**
-                That can I,
-At least the whisper goes so: our last king,
-Whose image even but now appear’d to us,
-Was, as you know, by Fortinbras of Norway,
-Thereto prick’d on by a most emulate pride,
-Dar’d to the combat; in which our valiant Hamlet
-(For so this side of our known world esteem’d him) 
-Did slay this Fortinbras, who, by a seal’d compact
-Well ratified by law and heraldy,
-Did forfeit (with his life) all those his lands
-Which he stood seiz’d of, to the conqueror;
-Against the which a moi’ty competent
-Was gaged by our king, which had return’d
-To the inheritance of Fortinbras,
-Had he been vanquisher; as by the same comart
-And carriage of the article design’d,
-His fell to Hamlet. Now, sir, young Fortinbras,
-Of unimproved mettle hot and full,
-Hath in the skirts of Norway here and there
-Shark’d up a list of lawless resolutes
-For food and diet to some enterprise
-That hath a stomach in’t, which is no other,
-As it doth well appear unto our state,
-But to recover of us, by strong hand
-And terms compulsatory, those foresaid lands
-So by his father lost; and this, I take it,
-Is the main motive of our preparations,
-The source of this our watch, and the chief head
-Of this post-haste and romage in the land.
+==80==                 That can I,
+==81== At least the whisper goes so: our last king,
+==82== Whose image even but now appear’d to us,
+==83== Was, as you know, by Fortinbras of Norway,
+==84== Thereto prick’d on by a most emulate pride,
+==85== Dar’d to the combat; in which our valiant Hamlet
+==86== (For so this side of our known world esteem’d him) 
+==87== Did slay this Fortinbras, who, by a seal’d compact
+==88== Well ratified by law and heraldy,
+==89== Did forfeit (with his life) all those his lands
+==90== Which he stood seiz’d of, to the conqueror;
+==91== Against the which a moi’ty competent
+==92== Was gaged by our king, which had return’d
+==93== To the inheritance of Fortinbras,
+==94== Had he been vanquisher; as by the same comart
+==95== And carriage of the article design’d,
+==96== His fell to Hamlet. Now, sir, young Fortinbras,
+==97== Of unimproved mettle hot and full,
+==98== Hath in the skirts of Norway here and there
+==99== Shark’d up a list of lawless resolutes
+==100== For food and diet to some enterprise
+==101== That hath a stomach in’t, which is no other,
+==102== As it doth well appear unto our state,
+==103== But to recover of us, by strong hand
+==104== And terms compulsatory, those foresaid lands
+==105== So by his father lost; and this, I take it,
+==106== Is the main motive of our preparations,
+==107== The source of this our watch, and the chief head
+==108== Of this post-haste and romage in the land.
 
 **BAR.**
-I think it be no other but e’en so.
-Well may it sort that this portentous figure
-Comes armed through our watch so like the King
-That was and is the question of these wars.
+==109== I think it be no other but e’en so.
+==110== Well may it sort that this portentous figure
+==111== Comes armed through our watch so like the King
+==112== That was and is the question of these wars.
 
 **HOR.**
-A mote it is to trouble the mind’s eye.
-In the most high and palmy state of Rome,
-A little ere the mightiest Julius fell,
-The graves stood tenantless and the sheeted dead
-Did squeak and gibber in the Roman streets.
-As stars with trains of fire, and dews of blood,
-Disasters in the sun; and the moist star
-Upon whose influence Neptune’s empire stands
-Was sick almost to doomsday with eclipse.
-And even the like precurse of fear’d events,
-As harbingers preceding still the fates
-And prologue to the omen coming on,
-Have heaven and earth together demonstrated
-Unto our climatures and countrymen.
+==113== A mote it is to trouble the mind’s eye.
+==114== In the most high and palmy state of Rome,
+==115== A little ere the mightiest Julius fell,
+==116== The graves stood tenantless and the sheeted dead
+==117== Did squeak and gibber in the Roman streets.
+==118== As stars with trains of fire, and dews of blood,
+==119== Disasters in the sun; and the moist star
+==120== Upon whose influence Neptune’s empire stands
+==121== Was sick almost to doomsday with eclipse.
+==122== And even the like precurse of fear’d events,
+==123== As harbingers preceding still the fates
+==124== And prologue to the omen coming on,
+==125== Have heaven and earth together demonstrated
+==126== Unto our climatures and countrymen.
 *(Enter Ghost.)*
-But soft, behold! Lo where it comes again!
+==127== But soft, behold! Lo where it comes again!
 *(It spreads his arms.)*
-I’ll cross it though it blast me. Stay, illusion!
-If thou hast any sound or use of voice,
-Speak to me.
-If there be any good thing to be done
-That may to thee do ease, and grace to me,
-Speak to me.
-If thou art privy to thy country’s fate,
-Which happily foreknowing may avoid,
-O speak!
-Or if thou hast uphoarded in thy life
-Extorted treasure in the womb of earth,
-For which, they say, your spirits oft walk in death,
-Speak of it, stay and speak!
+==128== I’ll cross it though it blast me. Stay, illusion!
+==129== If thou hast any sound or use of voice,
+==130== Speak to me.
+==131== If there be any good thing to be done
+==132== That may to thee do ease, and grace to me,
+==133== Speak to me.
+==134== If thou art privy to thy country’s fate,
+==135== Which happily foreknowing may avoid,
+==136== O speak!
+==137== Or if thou hast uphoarded in thy life
+==138== Extorted treasure in the womb of earth,
+==139== For which, they say, your spirits oft walk in death,
+==140== Speak of it, stay and speak!
 *(The cock crows.)*
-Stop it, Marcellus.
+==141== Stop it, Marcellus.
 
 **MAR.**
-Shall I strike it with my partisan?
+==142== Shall I strike it with my partisan?
 
 **HOR.**
-Do, if it will not stand.
+==143== Do, if it will not stand.
 
 **BAR.**
-           ’Tis here!
+==143==            ’Tis here!
 
 **HOR.**
-                  ’Tis here!
+==143==                   ’Tis here!
 
 **MAR.**
-’Tis gone!
+==144== ’Tis gone!
 *(Exit Ghost.)*
-We do it wrong, being so majestical,
-To offer it the show of violence,
-For it is as the air, invulnerable,
-And our vain blows malicious mockery.
+==145== We do it wrong, being so majestical,
+==146== To offer it the show of violence,
+==147== For it is as the air, invulnerable,
+==148== And our vain blows malicious mockery.
 
 **BAR.**
-It was about to speak when the cock crew.
+==149== It was about to speak when the cock crew.
 
 **HOR.**
-And then it started like a guilty thing
-Upon a fearful summons. I have heard
-The cock, that is the trumpet to the morn,
-Doth with his lofty and shrill-sounding throat
-Awake the god of day, and at his warning,
-Whether in sea or fire, in earth or air,
-Th’ extravagant and erring spirit hies
-To his confine; and of the truth herein
-This present object made probation.
+==150== And then it started like a guilty thing
+==151== Upon a fearful summons. I have heard
+==152== The cock, that is the trumpet to the morn,
+==153== Doth with his lofty and shrill-sounding throat
+==154== Awake the god of day, and at his warning,
+==155== Whether in sea or fire, in earth or air,
+==156== Th’ extravagant and erring spirit hies
+==157== To his confine; and of the truth herein
+==158== This present object made probation.
 
 **MAR.**
-It faded on the crowing of the cock.
-Some say that ever ’gainst that season comes
-Wherein our Saviour’s birth is celebrated,
-This bird of dawning singeth all night long,
-And then they say no spirit dare stir abroad,
-The nights are wholesome, then no planets strike,
-No fairy takes, nor witch hath power to charm,
-So hallowed, and so gracious, is that time.
+==159== It faded on the crowing of the cock.
+==160== Some say that ever ’gainst that season comes
+==161== Wherein our Saviour’s birth is celebrated,
+==162== This bird of dawning singeth all night long,
+==163== And then they say no spirit dare stir abroad,
+==164== The nights are wholesome, then no planets strike,
+==165== No fairy takes, nor witch hath power to charm,
+==166== So hallowed, and so gracious, is that time.
 
 **HOR.**
-So have I heard and do in part believe it.
-But look, the morn in russet mantle clad
-Walks o’er the dew of yon high eastward hill.
-Break we our watch up, and by my advice
-Let us impart what we have seen tonight
-Unto young Hamlet, for, upon my life,
-This spirit, dumb to us, will speak to him.
-Do you consent we shall acquaint him with it,
-As needful in our loves, fitting our duty?
+==167== So have I heard and do in part believe it.
+==168== But look, the morn in russet mantle clad
+==169== Walks o’er the dew of yon high eastward hill.
+==170== Break we our watch up, and by my advice
+==171== Let us impart what we have seen tonight
+==172== Unto young Hamlet, for, upon my life,
+==173== This spirit, dumb to us, will speak to him.
+==174== Do you consent we shall acquaint him with it,
+==175== As needful in our loves, fitting our duty?
 
 **MAR.**
-Let’s do’t, I pray, and I this morning know
-Where we shall find him most convenient.
+==176== Let’s do’t, I pray, and I this morning know
+==177== Where we shall find him most convenient.
 
 *Exeunt.*
 

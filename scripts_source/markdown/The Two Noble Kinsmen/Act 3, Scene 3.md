@@ -20,185 +20,185 @@ ID: two-noble-kinsmen-3-3
 *Enter Arcite with meat, wine, and files.*
 
 **ARC.**
-I should be near the place. Ho, cousin Palamon!
+==1== I should be near the place. Ho, cousin Palamon!
 
 *Enter Palamon.*
 
 **PAL.**
-Arcite?
+==2== Arcite?
 
 **ARC.**
-    The same. I have brought you food and files.
-Come forth and fear not, here’s no Theseus.
+==2==     The same. I have brought you food and files.
+==3== Come forth and fear not, here’s no Theseus.
 
 **PAL.**
-Nor none so honest, Arcite.
+==4== Nor none so honest, Arcite.
 
 **ARC.**
-                That’s no matter,
-We’ll argue that hereafter. Come, take courage,
-You shall not die thus beastly. Here, sir, drink⁠—
-I know you are faint—then I’ll talk further with you.
+==4==                 That’s no matter,
+==5== We’ll argue that hereafter. Come, take courage,
+==6== You shall not die thus beastly. Here, sir, drink⁠—
+==7== I know you are faint—then I’ll talk further with you.
 
 **PAL.**
-Arcite, thou mightst now poison me.
+==8== Arcite, thou mightst now poison me.
 
 **ARC.**
-                     I might;
-But I must fear you first. Sit down, and good now
-No more of these vain parleys; let us not,
-Having our ancient reputation with us,
-Make talk for fools and cowards. To your health, etc.
+==8==                      I might;
+==9== But I must fear you first. Sit down, and good now
+==10== No more of these vain parleys; let us not,
+==11== Having our ancient reputation with us,
+==12== Make talk for fools and cowards. To your health, etc.
 
 *Drinks.*
 
 **PAL.**
-Do.
+==13== Do.
 
 **ARC.**
-    Pray sit down then, and let me entreat you
-By all the honesty and honor in you,
-No mention of this woman. ’Twill disturb us,
-We shall have time enough.
+==13==     Pray sit down then, and let me entreat you
+==14== By all the honesty and honor in you,
+==15== No mention of this woman. ’Twill disturb us,
+==16== We shall have time enough.
 
 **PAL.**
-              Well, sir, I’ll pledge you.
+==16==               Well, sir, I’ll pledge you.
 
 *Drinks.*
 
 **ARC.**
-Drink a good hearty draught, it breeds good blood, man.
-Do not you feel it thaw you?
+==17== Drink a good hearty draught, it breeds good blood, man.
+==18== Do not you feel it thaw you?
 
 **PAL.**
-                Stay, I’ll tell you
-After a draught or two more.
+==18==                 Stay, I’ll tell you
+==19== After a draught or two more.
 
 **ARC.**
-                Spare it not,
-The Duke has more, coz. Eat now.
+==19==                 Spare it not,
+==20== The Duke has more, coz. Eat now.
 
 **PAL.**
-                  Yes.
+==20==                   Yes.
 
 *Eats.*
 
 **ARC.**
-                       I am glad
-You have so good a stomach.
+==20==                        I am glad
+==21== You have so good a stomach.
 
 **PAL.**
-                I am gladder
-I have so good meat to’t.
+==21==                 I am gladder
+==22== I have so good meat to’t.
 
 **ARC.**
-              Is’t not mad lodging
-Here in the wild woods, cousin?
+==22==               Is’t not mad lodging
+==23== Here in the wild woods, cousin?
 
 **PAL.**
-                  Yes, for them
-That have wild consciences.
+==23==                   Yes, for them
+==24== That have wild consciences.
 
 **ARC.**
-                How tastes your victuals?
-Your hunger needs no sauce, I see.
+==24==                 How tastes your victuals?
+==25== Your hunger needs no sauce, I see.
 
 **PAL.**
-                  Not much.
-But if it did, yours is too tart, sweet cousin.
-What is this?
+==25==                   Not much.
+==26== But if it did, yours is too tart, sweet cousin.
+==27== What is this?
 
 **ARC.**
-        Venison.
+==27==         Venison.
 
 **PAL.**
-              ’Tis a lusty meat.
-Give me more wine. Here, Arcite, to the wenches
-We have known in our days! The Lord Steward’s daughter⁠—
-Do you remember her?
+==27==               ’Tis a lusty meat.
+==28== Give me more wine. Here, Arcite, to the wenches
+==29== We have known in our days! The Lord Steward’s daughter⁠—
+==30== Do you remember her?
 
 **ARC.**
-              After you, coz.
+==30==               After you, coz.
 
 **PAL.**
-She lov’d a black-hair’d man.
+==31== She lov’d a black-hair’d man.
 
 **ARC.**
-                She did so; well, sir?
+==31==                 She did so; well, sir?
 
 **PAL.**
-And I have heard some call him Arcite, and⁠—
+==32== And I have heard some call him Arcite, and⁠—
 
 **ARC.**
-Out with’t, faith!
+==33== Out with’t, faith!
 
 **PAL.**
-           She met him in an arbor:
-What did she there, coz? Play o’ th’ virginals?
+==33==            She met him in an arbor:
+==34== What did she there, coz? Play o’ th’ virginals?
 
 **ARC.**
-Something she did, sir.
+==35== Something she did, sir.
 
 **PAL.**
-              Made her groan a month for’t;
-Or two, or three, or ten.
+==35==               Made her groan a month for’t;
+==36== Or two, or three, or ten.
 
 **ARC.**
-              The Marshal’s sister
-Had her share too, as I remember, cousin,
-Else there be tales abroad. You’ll pledge her?
+==36==               The Marshal’s sister
+==37== Had her share too, as I remember, cousin,
+==38== Else there be tales abroad. You’ll pledge her?
 
 **PAL.**
-                         Yes.
+==38==                          Yes.
 
 **ARC.**
-A pretty brown wench ’tis. There was a time
-When young men went a-hunting, and a wood,
-And a broad beech; and thereby hangs a tale.
-Heigh-ho!
+==39== A pretty brown wench ’tis. There was a time
+==40== When young men went a-hunting, and a wood,
+==41== And a broad beech; and thereby hangs a tale.
+==42== Heigh-ho!
 
 **PAL.**
-    For Emily, upon my life! Fool,
-Away with this strain’d mirth! I say again,
-That sigh was breath’d for Emily. Base cousin,
-Dar’st thou break first?
+==42==     For Emily, upon my life! Fool,
+==43== Away with this strain’d mirth! I say again,
+==44== That sigh was breath’d for Emily. Base cousin,
+==45== Dar’st thou break first?
 
 **ARC.**
-              You are wide.
+==45==               You are wide.
 
 **PAL.**
-                     By heaven and earth,
-There’s nothing in thee honest.
+==45==                      By heaven and earth,
+==46== There’s nothing in thee honest.
 
 **ARC.**
-                  Then I’ll leave you;
-You are a beast now.
+==46==                   Then I’ll leave you;
+==47== You are a beast now.
 
 **PAL.**
-           As thou mak’st me, traitor!
+==47==            As thou mak’st me, traitor!
 
 **ARC.**
-There’s all things needful, files and shirts and perfumes.
-I’ll come again some two hours hence and bring
-That that shall quiet all.
+==48== There’s all things needful, files and shirts and perfumes.
+==49== I’ll come again some two hours hence and bring
+==50== That that shall quiet all.
 
 **PAL.**
-              A sword and armor.
+==50==               A sword and armor.
 
 **ARC.**
-Fear me not. You are now too foul; farewell.
-Get off your trinkets, you shall want nought.
+==51== Fear me not. You are now too foul; farewell.
+==52== Get off your trinkets, you shall want nought.
 
 **PAL.**
-                       Sirrah⁠—
+==52==                        Sirrah⁠—
 
 **ARC.**
-I’ll hear no more.
+==53== I’ll hear no more.
 
 *Exit.*
 
 **PAL.**
-           If he keep touch, he dies for’t.
+==53==            If he keep touch, he dies for’t.
 
 *Exit.*
 

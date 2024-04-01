@@ -19,49 +19,49 @@ ID: two-gentlemen-of-verona-2-2
 *Enter Proteus, Julia.*
 
 **PRO.**
-Have patience, gentle Julia.
+==1== Have patience, gentle Julia.
 
 **JUL.**
-I must, where is no remedy.
+==2== I must, where is no remedy.
 
 **PRO.**
-When possibly I can, I will return.
+==3== When possibly I can, I will return.
 
 **JUL.**
-If you turn not, you will return the sooner.
-Keep this remembrance for thy Julia’s sake.
+==4== If you turn not, you will return the sooner.
+==5== Keep this remembrance for thy Julia’s sake.
 
 *Giving a ring.*
 
 **PRO.**
-Why then we’ll make exchange: here, take you this.
+==6== Why then we’ll make exchange: here, take you this.
 
 **JUL.**
-And seal the bargain with a holy kiss.
+==7== And seal the bargain with a holy kiss.
 
 **PRO.**
-Here is my hand for my true constancy;
-And when that hour o’erslips me in the day
-Wherein I sigh not, Julia, for thy sake,
-The next ensuing hour some foul mischance
-Torment me for my love’s forgetfulness!
-My father stays my coming; answer not;
-The tide is now—nay, not thy tide of tears,
-That tide will stay me longer than I should.
-Julia, farewell!
+==8== Here is my hand for my true constancy;
+==9== And when that hour o’erslips me in the day
+==10== Wherein I sigh not, Julia, for thy sake,
+==11== The next ensuing hour some foul mischance
+==12== Torment me for my love’s forgetfulness!
+==13== My father stays my coming; answer not;
+==14== The tide is now—nay, not thy tide of tears,
+==15== That tide will stay me longer than I should.
+==16== Julia, farewell!
 *(Exit Julia.)*
-        What, gone without a word?
-Ay, so true love should do: it cannot speak,
-For truth hath better deeds than words to grace it.
+==16==         What, gone without a word?
+==17== Ay, so true love should do: it cannot speak,
+==18== For truth hath better deeds than words to grace it.
 
 *Enter Panthino.*
 
 **PANT.**
-Sir Proteus, you are stay’d for.
+==19== Sir Proteus, you are stay’d for.
 
 **PRO.**
-                Go; I come, I come.
-Alas, this parting strikes poor lovers dumb.
+==19==                 Go; I come, I come.
+==20== Alas, this parting strikes poor lovers dumb.
 
 *Exeunt.*
 

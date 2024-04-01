@@ -22,181 +22,181 @@ ID: romeo-and-juliet-1-4
 *Enter Romeo, Mercutio, Benvolio, with five or six other Maskers; Torch-Bearers.*
 
 **ROM.**
-What, shall this speech be spoke for our excuse?
-Or shall we on without apology?
+==1== What, shall this speech be spoke for our excuse?
+==2== Or shall we on without apology?
 
 **BEN.**
-The date is out of such prolixity:
-We’ll have no Cupid hoodwink’d with a scarf,
-Bearing a Tartar’s painted bow of lath,
-Scaring the ladies like a crow-keeper,
-Nor no without-book prologue, faintly spoke
-After the prompter, for our entrance;
-But let them measure us by what they will,
-We’ll measure them a measure and be gone.
+==3== The date is out of such prolixity:
+==4== We’ll have no Cupid hoodwink’d with a scarf,
+==5== Bearing a Tartar’s painted bow of lath,
+==6== Scaring the ladies like a crow-keeper,
+==7== Nor no without-book prologue, faintly spoke
+==8== After the prompter, for our entrance;
+==9== But let them measure us by what they will,
+==10== We’ll measure them a measure and be gone.
 
 **ROM.**
-Give me a torch, I am not for this ambling;
-Being but heavy, I will bear the light.
+==11== Give me a torch, I am not for this ambling;
+==12== Being but heavy, I will bear the light.
 
 **MER.**
-Nay, gentle Romeo, we must have you dance.
+==13== Nay, gentle Romeo, we must have you dance.
 
 **ROM.**
-Not I, believe me. You have dancing shoes
-With nimble soles, I have a soul of lead
-So stakes me to the ground I cannot move.
+==14== Not I, believe me. You have dancing shoes
+==15== With nimble soles, I have a soul of lead
+==16== So stakes me to the ground I cannot move.
 
 **MER.**
-You are a lover, borrow Cupid’s wings,
-And soar with them above a common bound.
+==17== You are a lover, borrow Cupid’s wings,
+==18== And soar with them above a common bound.
 
 **ROM.**
-I am too sore enpierced with his shaft
-To soar with his light feathers, and so bound
-I cannot bound a pitch above dull woe;
-Under love’s heavy burden do I sink.
+==19== I am too sore enpierced with his shaft
+==20== To soar with his light feathers, and so bound
+==21== I cannot bound a pitch above dull woe;
+==22== Under love’s heavy burden do I sink.
 
 **MER.**
-And, to sink in it, should you burden love⁠—
-Too great oppression for a tender thing.
+==23== And, to sink in it, should you burden love⁠—
+==24== Too great oppression for a tender thing.
 
 **ROM.**
-Is love a tender thing? It is too rough,
-Too rude, too boist’rous, and it pricks like thorn.
+==25== Is love a tender thing? It is too rough,
+==26== Too rude, too boist’rous, and it pricks like thorn.
 
 **MER.**
-If love be rough with you, be rough with love;
-Prick love for pricking, and you beat love down.
-Give me a case to put my visage in,
+==27== If love be rough with you, be rough with love;
+==28== Prick love for pricking, and you beat love down.
+==29== Give me a case to put my visage in,
 *(Puts on a mask.)*
-A visor for a visor! What care I
-What curious eye doth cote deformities?
-Here are the beetle brows shall blush for me.
+==30== A visor for a visor! What care I
+==31== What curious eye doth cote deformities?
+==32== Here are the beetle brows shall blush for me.
 
 **BEN.**
-Come knock and enter, and no sooner in,
-But every man betake him to his legs.
+==33== Come knock and enter, and no sooner in,
+==34== But every man betake him to his legs.
 
 **ROM.**
-A torch for me. Let wantons light of heart
-Tickle the senseless rushes with their heels.
-For I am proverb’d with a grandsire phrase,
-I’ll be a candle-holder and look on:
-The game was ne’er so fair, and I am done.
+==35== A torch for me. Let wantons light of heart
+==36== Tickle the senseless rushes with their heels.
+==37== For I am proverb’d with a grandsire phrase,
+==38== I’ll be a candle-holder and look on:
+==39== The game was ne’er so fair, and I am done.
 
 **MER.**
-Tut, dun’s the mouse, the constable’s own word.
-If thou art Dun, we’ll draw thee from the mire
-Of this sir-reverence love, wherein thou stickest
-Up to the ears. Come, we burn daylight, ho!
+==40== Tut, dun’s the mouse, the constable’s own word.
+==41== If thou art Dun, we’ll draw thee from the mire
+==42== Of this sir-reverence love, wherein thou stickest
+==43== Up to the ears. Come, we burn daylight, ho!
 
 **ROM.**
-Nay, that’s not so.
+==44== Nay, that’s not so.
 
 **MER.**
-           I mean, sir, in delay
-We waste our lights in vain, like lights by day!
-Take our good meaning, for our judgment sits
-Five times in that ere once in our five wits.
+==44==            I mean, sir, in delay
+==45== We waste our lights in vain, like lights by day!
+==46== Take our good meaning, for our judgment sits
+==47== Five times in that ere once in our five wits.
 
 **ROM.**
-And we mean well in going to this mask,
-But ’tis no wit to go.
+==48== And we mean well in going to this mask,
+==49== But ’tis no wit to go.
 
 **MER.**
-           Why, may one ask?
+==49==            Why, may one ask?
 
 **ROM.**
-I dreamt a dream tonight.
+==50== I dreamt a dream tonight.
 
 **MER.**
-              And so did I.
+==50==               And so did I.
 
 **ROM.**
-Well, what was yours?
+==51== Well, what was yours?
 
 **MER.**
-           That dreamers often lie.
+==51==            That dreamers often lie.
 
 **ROM.**
-In bed asleep, while they do dream things true.
+==52== In bed asleep, while they do dream things true.
 
 **MER.**
-O then I see Queen Mab hath been with you.
-She is the fairies’ midwife, and she comes
-In shape no bigger than an agot-stone
-On the forefinger of an alderman,
-Drawn with a team of little atomi
-Over men’s noses as they lie asleep.
-Her chariot is an empty hazel-nut,
-Made by the joiner squirrel or old grub,
-Time out a’ mind the fairies’ coachmakers.
-Her wagon-spokes made of long spinners’ legs,
-The cover of the wings of grasshoppers,
-Her traces of the smallest spider web,
-Her collars of the moonshine’s wat’ry beams,
-Her whip of cricket’s bone, the lash of film,
-Her wagoner a small grey-coated gnat,
-Not half so big as a round little worm
-Prick’d from the lazy finger of a maid.
-And in this state she gallops night by night
-Through lovers’ brains, and then they dream of love;
-O’er courtiers’ knees, that dream on cur’sies straight;
-O’er lawyers’ fingers, who straight dream on fees;
-O’er ladies’ lips, who straight on kisses dream,
-Which oft the angry Mab with blisters plagues,
-Because their breath with sweetmeats tainted are.
-Sometime she gallops o’er a courtier’s nose,
-And then dreams he of smelling out a suit;
-And sometime comes she with a tithe-pig’s tail
-Tickling a parson’s nose as ’a lies asleep,
-Then he dreams of another benefice.
-Sometime she driveth o’er a soldier’s neck,
-And then dreams he of cutting foreign throats,
-Of breaches, ambuscadoes, Spanish blades,
-Of healths five fathom deep; and then anon
-Drums in his ear, at which he starts and wakes,
-And being thus frighted, swears a prayer or two,
-And sleeps again. This is that very Mab
-That plats the manes of horses in the night,
-And bakes the elf-locks in foul sluttish hairs,
-Which, once untangled, much misfortune bodes.
-This is the hag, when maids lie on their backs,
-That presses them and learns them first to bear,
-Making them women of good carriage.
-This is she⁠—
+==53== O then I see Queen Mab hath been with you.
+==54== She is the fairies’ midwife, and she comes
+==55== In shape no bigger than an agot-stone
+==56== On the forefinger of an alderman,
+==57== Drawn with a team of little atomi
+==58== Over men’s noses as they lie asleep.
+==59== Her chariot is an empty hazel-nut,
+==60== Made by the joiner squirrel or old grub,
+==61== Time out a’ mind the fairies’ coachmakers.
+==62== Her wagon-spokes made of long spinners’ legs,
+==63== The cover of the wings of grasshoppers,
+==64== Her traces of the smallest spider web,
+==65== Her collars of the moonshine’s wat’ry beams,
+==66== Her whip of cricket’s bone, the lash of film,
+==67== Her wagoner a small grey-coated gnat,
+==68== Not half so big as a round little worm
+==69== Prick’d from the lazy finger of a maid.
+==70== And in this state she gallops night by night
+==71== Through lovers’ brains, and then they dream of love;
+==72== O’er courtiers’ knees, that dream on cur’sies straight;
+==73== O’er lawyers’ fingers, who straight dream on fees;
+==74== O’er ladies’ lips, who straight on kisses dream,
+==75== Which oft the angry Mab with blisters plagues,
+==76== Because their breath with sweetmeats tainted are.
+==77== Sometime she gallops o’er a courtier’s nose,
+==78== And then dreams he of smelling out a suit;
+==79== And sometime comes she with a tithe-pig’s tail
+==80== Tickling a parson’s nose as ’a lies asleep,
+==81== Then he dreams of another benefice.
+==82== Sometime she driveth o’er a soldier’s neck,
+==83== And then dreams he of cutting foreign throats,
+==84== Of breaches, ambuscadoes, Spanish blades,
+==85== Of healths five fathom deep; and then anon
+==86== Drums in his ear, at which he starts and wakes,
+==87== And being thus frighted, swears a prayer or two,
+==88== And sleeps again. This is that very Mab
+==89== That plats the manes of horses in the night,
+==90== And bakes the elf-locks in foul sluttish hairs,
+==91== Which, once untangled, much misfortune bodes.
+==92== This is the hag, when maids lie on their backs,
+==93== That presses them and learns them first to bear,
+==94== Making them women of good carriage.
+==95== This is she⁠—
 
 **ROM.**
-        Peace, peace, Mercutio, peace!
-Thou talk’st of nothing.
+==95==         Peace, peace, Mercutio, peace!
+==96== Thou talk’st of nothing.
 
 **MER.**
-           True, I talk of dreams,
-Which are the children of an idle brain,
-Begot of nothing but vain fantasy,
-Which is as thin of substance as the air,
-And more inconstant than the wind, who woos
-Even now the frozen bosom of the north,
-And, being anger’d, puffs away from thence,
-Turning his side to the dew-dropping south.
+==96==            True, I talk of dreams,
+==97== Which are the children of an idle brain,
+==98== Begot of nothing but vain fantasy,
+==99== Which is as thin of substance as the air,
+==100== And more inconstant than the wind, who woos
+==101== Even now the frozen bosom of the north,
+==102== And, being anger’d, puffs away from thence,
+==103== Turning his side to the dew-dropping south.
 
 **BEN.**
-This wind you talk of blows us from ourselves:
-Supper is done, and we shall come too late.
+==104== This wind you talk of blows us from ourselves:
+==105== Supper is done, and we shall come too late.
 
 **ROM.**
-I fear, too early, for my mind misgives
-Some consequence yet hanging in the stars
-Shall bitterly begin his fearful date
-With this night’s revels, and expire the term
-Of a despised life clos’d in my breast
-By some vile forfeit of untimely death.
-But He that hath the steerage of my course
-Direct my sail! On, lusty gentlemen!
+==106== I fear, too early, for my mind misgives
+==107== Some consequence yet hanging in the stars
+==108== Shall bitterly begin his fearful date
+==109== With this night’s revels, and expire the term
+==110== Of a despised life clos’d in my breast
+==111== By some vile forfeit of untimely death.
+==112== But He that hath the steerage of my course
+==113== Direct my sail! On, lusty gentlemen!
 
 **BEN.**
-Strike, drum.
+==114== Strike, drum.
 
 *They march about the stage and stand to one side.*
 

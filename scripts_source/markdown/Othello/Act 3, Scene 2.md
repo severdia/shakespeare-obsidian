@@ -21,19 +21,19 @@ ID: othello-3-2
 *Enter Othello, Iago, and Gentlemen.*
 
 **OTH.**
-These letters give, Iago, to the pilot,
-And by him do my duties to the Senate.
-That done, I will be walking on the works;
-Repair there to me.
+==1== These letters give, Iago, to the pilot,
+==2== And by him do my duties to the Senate.
+==3== That done, I will be walking on the works;
+==4== Repair there to me.
 
 **IAGO.**
-           Well, my good lord, I’ll do’t.
+==4==            Well, my good lord, I’ll do’t.
 
 **OTH.**
-This fortification, gentlemen, shall we see’t?
+==5== This fortification, gentlemen, shall we see’t?
 
 **GENTLEMEN.**
-We’ll wait upon your lordship.
+==6== We’ll wait upon your lordship.
 
 *Exeunt.*
 

@@ -20,97 +20,97 @@ ID: measure-for-measure-2-3
 *Enter Duke disguised as a friar and Provost, meeting.*
 
 **DUKE.**
-Hail to you, Provost! So I think you are.
+==1== Hail to you, Provost! So I think you are.
 
 **PROV.**
-I am the Provost. What’s your will, good friar?
+==2== I am the Provost. What’s your will, good friar?
 
 **DUKE.**
-Bound by my charity and my blest order,
-I come to visit the afflicted spirits
-Here in the prison. Do me the common right
-To let me see them, and to make me know
-The nature of their crimes, that I may minister
-To them accordingly.
+==3== Bound by my charity and my blest order,
+==4== I come to visit the afflicted spirits
+==5== Here in the prison. Do me the common right
+==6== To let me see them, and to make me know
+==7== The nature of their crimes, that I may minister
+==8== To them accordingly.
 
 **PROV.**
-I would do more than that, if more were needful.
+==9== I would do more than that, if more were needful.
 *(Enter Juliet.)*
-Look, here comes one; a gentlewoman of mine,
-Who, falling in the flaws of her own youth,
-Hath blister’d her report. She is with child,
-And he that got it, sentenc’d; a young man
-More fit to do another such offense
-Than die for this.
+==10== Look, here comes one; a gentlewoman of mine,
+==11== Who, falling in the flaws of her own youth,
+==12== Hath blister’d her report. She is with child,
+==13== And he that got it, sentenc’d; a young man
+==14== More fit to do another such offense
+==15== Than die for this.
 
 **DUKE.**
-When must he die?
+==16== When must he die?
 
 **PROV.**
-           As I do think, tomorrow.
+==16==            As I do think, tomorrow.
 *(To Juliet.)*
-I have provided for you. Stay a while,
-And you shall be conducted.
+==17== I have provided for you. Stay a while,
+==18== And you shall be conducted.
 
 **DUKE.**
-Repent you, fair one, of the sin you carry?
+==19== Repent you, fair one, of the sin you carry?
 
 **JUL.**
-I do; and bear the shame most patiently.
+==20== I do; and bear the shame most patiently.
 
 **DUKE.**
-I’ll teach you how you shall arraign your conscience,
-And try your penitence, if it be sound,
-Or hollowly put on.
+==21== I’ll teach you how you shall arraign your conscience,
+==22== And try your penitence, if it be sound,
+==23== Or hollowly put on.
 
 **JUL.**
-           I’ll gladly learn.
+==23==            I’ll gladly learn.
 
 **DUKE.**
-Love you the man that wrong’d you?
+==24== Love you the man that wrong’d you?
 
 **JUL.**
-Yes, as I love the woman that wrong’d him.
+==25== Yes, as I love the woman that wrong’d him.
 
 **DUKE.**
-So then it seems your most offenseful act
-Was mutually committed?
+==26== So then it seems your most offenseful act
+==27== Was mutually committed?
 
 **JUL.**
-              Mutually.
+==27==               Mutually.
 
 **DUKE.**
-Then was your sin of heavier kind than his.
+==28== Then was your sin of heavier kind than his.
 
 **JUL.**
-I do confess it, and repent it, father.
+==29== I do confess it, and repent it, father.
 
 **DUKE.**
-’Tis meet so, daughter, but lest you do repent
-As that the sin hath brought you to this shame,
-Which sorrow is always toward ourselves, not heaven,
-Showing we would not spare heaven as we love it,
-But as we stand in fear⁠—
+==30== ’Tis meet so, daughter, but lest you do repent
+==31== As that the sin hath brought you to this shame,
+==32== Which sorrow is always toward ourselves, not heaven,
+==33== Showing we would not spare heaven as we love it,
+==34== But as we stand in fear⁠—
 
 **JUL.**
-I do repent me as it is an evil,
-And take the shame with joy.
+==35== I do repent me as it is an evil,
+==36== And take the shame with joy.
 
 **DUKE.**
-                There rest.
-Your partner, as I hear, must die tomorrow,
-And I am going with instruction to him.
-Grace go with you, *Benedicite*!
+==36==                 There rest.
+==37== Your partner, as I hear, must die tomorrow,
+==38== And I am going with instruction to him.
+==39== Grace go with you, *Benedicite*!
 
 *Exit.*
 
 **JUL.**
-Must die tomorrow? O injurious love,
-That respites me a life whose very comfort
-Is still a dying horror!
+==40== Must die tomorrow? O injurious love,
+==41== That respites me a life whose very comfort
+==42== Is still a dying horror!
 
 **PROV.**
-              ’Tis pity of him.
+==42==               ’Tis pity of him.
 
 *Exeunt.*
 

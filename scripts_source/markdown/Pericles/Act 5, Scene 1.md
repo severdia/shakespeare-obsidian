@@ -25,512 +25,512 @@ ID: pericles-5-1
 
 **TYR. SAIL.**
 *(To the Sailor of Mytilene.)*
-Where is Lord Helicanus? He can resolve you.
-O, here he is.⁠—
-Sir, there is a barge put off from Mytilene,
-And in it is Lysimachus the governor,
-Who craves to come aboard. What is your will?
+==1== Where is Lord Helicanus? He can resolve you.
+==2== O, here he is.⁠—
+==3== Sir, there is a barge put off from Mytilene,
+==4== And in it is Lysimachus the governor,
+==5== Who craves to come aboard. What is your will?
 
 **HEL.**
-That he have his. Call up some gentlemen.
+==6== That he have his. Call up some gentlemen.
 
 **TYR. SAIL.**
-Ho, gentlemen! My lord calls.
+==7== Ho, gentlemen! My lord calls.
 
 *Enter two or three Gentlemen.*
 
 **1. GENT. TYRE.**
-Doth your lordship call?
+==8== Doth your lordship call?
 
 **HEL.**
-Gentlemen, there is some of worth would come aboard;
-I pray greet him fairly.
+==9== Gentlemen, there is some of worth would come aboard;
+==10== I pray greet him fairly.
 
 *Exeunt Gentlemen, Sailor of Tyre and Sailor of Mytilene.*
 
 *Enter Lysimachus and Lords with the Gentlemen and the Tyrian Sailor.*
 
 **TYR. SAIL.**
-Sir,
-This is the man that can, in aught you would,
-Resolve you.
+==11== Sir,
+==12== This is the man that can, in aught you would,
+==13== Resolve you.
 
 **LYS.**
-Hail, reverent sir! The gods preserve you!
+==14== Hail, reverent sir! The gods preserve you!
 
 **HEL.**
-And you, to outlive the age I am,
-And die as I would do.
+==15== And you, to outlive the age I am,
+==16== And die as I would do.
 
 **LYS.**
-              You wish me well.
-Being on shore, honoring of Neptune’s triumphs,
-Seeing this goodly vessel ride before us,
-I made to it to know of whence you are.
+==16==               You wish me well.
+==17== Being on shore, honoring of Neptune’s triumphs,
+==18== Seeing this goodly vessel ride before us,
+==19== I made to it to know of whence you are.
 
 **HEL.**
-First, what is your place?
+==20== First, what is your place?
 
 **LYS.**
-I am the governor of this place you lie before.
+==21== I am the governor of this place you lie before.
 
 **HEL.**
-Sir,
-Our vessel is of Tyre, in it the King,
-A man who for this three months hath not spoken
-To any one, nor taken sustenance
-But to prorogue his grief.
+==22== Sir,
+==23== Our vessel is of Tyre, in it the King,
+==24== A man who for this three months hath not spoken
+==25== To any one, nor taken sustenance
+==26== But to prorogue his grief.
 
 **LYS.**
-Upon what ground is his distemperature?
+==27== Upon what ground is his distemperature?
 
 **HEL.**
-’Twould be too tedious to repeat,
-But the main grief springs from the loss
-Of a beloved daughter and a wife.
+==28== ’Twould be too tedious to repeat,
+==29== But the main grief springs from the loss
+==30== Of a beloved daughter and a wife.
 
 **LYS.**
-May we not see him?
+==31== May we not see him?
 
 **HEL.**
-You may,
-But bootless is your sight; he will not speak
-To any.
+==32== You may,
+==33== But bootless is your sight; he will not speak
+==34== To any.
 
 **LYS.**
-Yet let me obtain my wish.
+==35== Yet let me obtain my wish.
 
 **HEL.**
-Behold him.
+==36== Behold him.
 *(Pericles discovered.)*
-        This was a goodly person,
-Till the disaster that, one mortal night,
-Drove him to this.
+==36==         This was a goodly person,
+==37== Till the disaster that, one mortal night,
+==38== Drove him to this.
 
 **LYS.**
-Sir King, all hail! The gods preserve you! Hail, royal sir!
+==39== Sir King, all hail! The gods preserve you! Hail, royal sir!
 
 **HEL.**
-It is in vain, he will not speak to you.
+==40== It is in vain, he will not speak to you.
 
 **LORD. MYT.**
-Sir,
-We have a maid in Mytilene, I durst wager,
-Would win some words of him.
+==41== Sir,
+==42== We have a maid in Mytilene, I durst wager,
+==43== Would win some words of him.
 
 **LYS.**
-                ’Tis well bethought.
-She questionless with her sweet harmony,
-And other chosen attractions, would allure
-And make a batt’ry through his deafen’d parts,
-Which now are midway stopp’d.
-She is all happy as the fairest of all,
-And with her fellow maids, is now upon
-The leavy shelter that abuts against
-The island’s side.
+==43==                 ’Tis well bethought.
+==44== She questionless with her sweet harmony,
+==45== And other chosen attractions, would allure
+==46== And make a batt’ry through his deafen’d parts,
+==47== Which now are midway stopp’d.
+==48== She is all happy as the fairest of all,
+==49== And with her fellow maids, is now upon
+==50== The leavy shelter that abuts against
+==51== The island’s side.
 
 *Gives an order to a Lord, who goes out.*
 
 **HEL.**
-Sure all effectless; yet nothing we’ll omit
-That bears recovery’s name. But since your kindness
-We have stretch’d thus far, let us beseech you
-That for our gold we may provision have,
-Wherein we are not destitute for want,
-But weary for the staleness.
+==52== Sure all effectless; yet nothing we’ll omit
+==53== That bears recovery’s name. But since your kindness
+==54== We have stretch’d thus far, let us beseech you
+==55== That for our gold we may provision have,
+==56== Wherein we are not destitute for want,
+==57== But weary for the staleness.
 
 **LYS.**
-              O sir, a courtesy
-Which if we should deny, the most just God
-For every graff would send a caterpillar,
-And so inflict our province. Yet once more
-Let me entreat to know at large the cause
-Of your king’s sorrow.
+==57==               O sir, a courtesy
+==58== Which if we should deny, the most just God
+==59== For every graff would send a caterpillar,
+==60== And so inflict our province. Yet once more
+==61== Let me entreat to know at large the cause
+==62== Of your king’s sorrow.
 
 **HEL.**
-           Sit, sir, I will recount it to you,
-But see, I am prevented.
+==62==            Sit, sir, I will recount it to you,
+==63== But see, I am prevented.
 
 *Enter Lord with Marina and a young Lady.*
 
 **LYS.**
-O, here’s
-The lady that I sent for. Welcome, fair one!
-—Is’t not a goodly presence?
+==64== O, here’s
+==65== The lady that I sent for. Welcome, fair one!
+==66== —Is’t not a goodly presence?
 
 **HEL.**
-                She’s a gallant lady.
+==66==                 She’s a gallant lady.
 
 **LYS.**
-She’s such a one that were I well assur’d
-Came of a gentle kind and noble stock,
-I’d wish no better choice, and think me rarely to wed.
-Fair one, all goodness that consists in beauty,
-Expect even here, where is a kingly patient,
-If that thy prosperous and artificial feat
-Can draw him but to answer thee in aught,
-Thy sacred physic shall receive such pay
-As thy desires can wish.
+==67== She’s such a one that were I well assur’d
+==68== Came of a gentle kind and noble stock,
+==69== I’d wish no better choice, and think me rarely to wed.
+==70== Fair one, all goodness that consists in beauty,
+==71== Expect even here, where is a kingly patient,
+==72== If that thy prosperous and artificial feat
+==73== Can draw him but to answer thee in aught,
+==74== Thy sacred physic shall receive such pay
+==75== As thy desires can wish.
 
 **MAR.**
-              Sir, I will use
-My utmost skill in his recovery, provided
-That none but I and my companion maid
-Be suffered to come near him.
+==75==               Sir, I will use
+==76== My utmost skill in his recovery, provided
+==77== That none but I and my companion maid
+==78== Be suffered to come near him.
 
 **LYS.**
-                Come, let us leave her,
-And the gods make her prosperous!
+==78==                 Come, let us leave her,
+==79== And the gods make her prosperous!
 
 *They withdraw. Marina sings the song.*
 
 **LYS.**
 *(Advances.)*
-Mark’d he your music?
+==80== Mark’d he your music?
 
 **MAR.**
-No, nor look’d on us.
+==81== No, nor look’d on us.
 
 **LYS.**
-See, she will speak to him.
+==82== See, she will speak to him.
 
 **MAR.**
-Hail, sir! My lord, lend ear.
+==83== Hail, sir! My lord, lend ear.
 
 **PER.**
-Hum, ha!
+==84== Hum, ha!
 
 *Pushing her roughly back.*
 
 **MAR.**
-I am a maid,
-My lord, that ne’er before invited eyes,
-But have been gaz’d on like a comet. She speaks,
-My lord, that, may be, hath endur’d a grief
-Might equal yours, if both were justly weigh’d.
-Though wayward fortune did malign my state,
-My derivation was from ancestors
-Who stood equivalent with mighty kings,
-But time hath rooted out my parentage,
-And to the world and awkward casualties
-Bound me in servitude.
+==85== I am a maid,
+==86== My lord, that ne’er before invited eyes,
+==87== But have been gaz’d on like a comet. She speaks,
+==88== My lord, that, may be, hath endur’d a grief
+==89== Might equal yours, if both were justly weigh’d.
+==90== Though wayward fortune did malign my state,
+==91== My derivation was from ancestors
+==92== Who stood equivalent with mighty kings,
+==93== But time hath rooted out my parentage,
+==94== And to the world and awkward casualties
+==95== Bound me in servitude.
 *(Aside.)*
-              I will desist,
-But there is something glows upon my cheek,
-And whispers in mine ear, “Go not till he speak.”
+==95==               I will desist,
+==96== But there is something glows upon my cheek,
+==97== And whispers in mine ear, “Go not till he speak.”
 
 **PER.**
-My fortunes—parentage—good parentage⁠—
-To equal mine—was it not thus? What say you?
+==98== My fortunes—parentage—good parentage⁠—
+==99== To equal mine—was it not thus? What say you?
 
 **MAR.**
-I said, my lord, if you did know my parentage,
-You would not do me violence.
+==100== I said, my lord, if you did know my parentage,
+==101== You would not do me violence.
 
 **PER.**
-I do think so. Pray you turn your eyes upon me.
-You’re like something that—What country-woman?
-Here of these shores?
+==102== I do think so. Pray you turn your eyes upon me.
+==103== You’re like something that—What country-woman?
+==104== Here of these shores?
 
 **MAR.**
-           No, nor of any shores,
-Yet I was mortally brought forth, and am
-No other than I appear.
+==104==            No, nor of any shores,
+==105== Yet I was mortally brought forth, and am
+==106== No other than I appear.
 
 **PER.**
-I am great with woe, and shall deliver weeping.
-My dearest wife was like this maid, and such a one
-My daughter might have been. My queen’s square brows,
-Her stature to an inch, as wand-like straight,
-As silver-voic’d, her eyes as jewel-like
-And cas’d as richly, in pace another Juno;
-Who starves the ears she feeds, and makes them hungry,
-The more she gives them speech. Where do you live?
+==107== I am great with woe, and shall deliver weeping.
+==108== My dearest wife was like this maid, and such a one
+==109== My daughter might have been. My queen’s square brows,
+==110== Her stature to an inch, as wand-like straight,
+==111== As silver-voic’d, her eyes as jewel-like
+==112== And cas’d as richly, in pace another Juno;
+==113== Who starves the ears she feeds, and makes them hungry,
+==114== The more she gives them speech. Where do you live?
 
 **MAR.**
-Where I am but a stranger. From the deck
-You may discern the place.
+==115== Where I am but a stranger. From the deck
+==116== You may discern the place.
 
 **PER.**
-              Where were you bred?
-And how achiev’d you these endowments which
-You make more rich to owe?
+==116==               Where were you bred?
+==117== And how achiev’d you these endowments which
+==118== You make more rich to owe?
 
 **MAR.**
-If I should tell my history, it would seem
-Like lies disdain’d in the reporting.
+==119== If I should tell my history, it would seem
+==120== Like lies disdain’d in the reporting.
 
 **PER.**
-                  Prithee speak.
-Falseness cannot come from thee, for thou lookest
-Modest as Justice, and thou seemest a palace
-For the crown’d Truth to dwell in. I will believe thee,
-And make my senses credit thy relation
-To points that seem impossible, for thou lookest
-Like one I lov’d indeed. What were thy friends?
-Didst thou not say, when I did push thee back⁠—
-Which was when I perceiv’d thee—that thou cam’st
-From good descending?
+==120==                   Prithee speak.
+==121== Falseness cannot come from thee, for thou lookest
+==122== Modest as Justice, and thou seemest a palace
+==123== For the crown’d Truth to dwell in. I will believe thee,
+==124== And make my senses credit thy relation
+==125== To points that seem impossible, for thou lookest
+==126== Like one I lov’d indeed. What were thy friends?
+==127== Didst thou not say, when I did push thee back⁠—
+==128== Which was when I perceiv’d thee—that thou cam’st
+==129== From good descending?
 
 **MAR.**
-              So indeed I did.
+==129==               So indeed I did.
 
 **PER.**
-Report thy parentage. I think thou saidst
-Thou hadst been toss’d from wrong to injury,
-And that thou thoughts’ thy griefs might equal mine,
-If both were opened.
+==130== Report thy parentage. I think thou saidst
+==131== Thou hadst been toss’d from wrong to injury,
+==132== And that thou thoughts’ thy griefs might equal mine,
+==133== If both were opened.
 
 **MAR.**
-           Some such thing
-I said, and said no more but what my thoughts
-Did warrant me was likely.
+==133==            Some such thing
+==134== I said, and said no more but what my thoughts
+==135== Did warrant me was likely.
 
 **PER.**
-              Tell thy story;
-If thine, considered, prove the thousand part
-Of my endurance, thou art a man, and I
-Have suffered like a girl. Yet thou dost look
-Like Patience gazing on kings’ graves, and smiling
-Extremity out of act. What were thy friends?
-How lost thou them? Thy name, my most kind virgin?
-Recount, I do beseech thee. Come sit by me.
+==135==               Tell thy story;
+==136== If thine, considered, prove the thousand part
+==137== Of my endurance, thou art a man, and I
+==138== Have suffered like a girl. Yet thou dost look
+==139== Like Patience gazing on kings’ graves, and smiling
+==140== Extremity out of act. What were thy friends?
+==141== How lost thou them? Thy name, my most kind virgin?
+==142== Recount, I do beseech thee. Come sit by me.
 
 **MAR.**
-My name is Marina.
+==143== My name is Marina.
 
 **PER.**
-           O, I am mock’d,
-And thou by some incensed god sent hither
-To make the world to laugh at me.
+==143==            O, I am mock’d,
+==144== And thou by some incensed god sent hither
+==145== To make the world to laugh at me.
 
 **MAR.**
-                  Patience, good sir!
-Or here I’ll cease.
+==145==                   Patience, good sir!
+==146== Or here I’ll cease.
 
 **PER.**
-           Nay, I’ll be patient.
-Thou little know’st how thou dost startle me
-To call thyself Marina.
+==146==            Nay, I’ll be patient.
+==147== Thou little know’st how thou dost startle me
+==148== To call thyself Marina.
 
 **MAR.**
-              The name
-Was given me by one that had some power,
-My father, and a king.
+==148==               The name
+==149== Was given me by one that had some power,
+==150== My father, and a king.
 
 **PER.**
-           How, a king’s daughter?
-And call’d Marina?
+==150==            How, a king’s daughter?
+==151== And call’d Marina?
 
 **MAR.**
-           You said you would believe me,
-But not to be a troubler of your peace,
-I will end here.
+==151==            You said you would believe me,
+==152== But not to be a troubler of your peace,
+==153== I will end here.
 
 **PER.**
-        But are you flesh and blood?
-Have you a working pulse, and are no fairy?
-Motion? Well, speak on. Where were you born?
-And wherefore call’d Marina?
+==153==         But are you flesh and blood?
+==154== Have you a working pulse, and are no fairy?
+==155== Motion? Well, speak on. Where were you born?
+==156== And wherefore call’d Marina?
 
 **MAR.**
-                Call’d Marina
-For I was born at sea.
+==156==                 Call’d Marina
+==157== For I was born at sea.
 
 **PER.**
-           At sea! What mother?
+==157==            At sea! What mother?
 
 **MAR.**
-My mother was the daughter of a king,
-Who died the minute I was born,
-As my good nurse Lychorida hath oft
-Delivered weeping.
+==158== My mother was the daughter of a king,
+==159== Who died the minute I was born,
+==160== As my good nurse Lychorida hath oft
+==161== Delivered weeping.
 
 **PER.**
-           O, stop there a little!
+==161==            O, stop there a little!
 *(Aside.)*
-This is the rarest dream that e’er dull’d sleep
-Did mock sad fools withal. This cannot be
-My daughter—buried!—Well, where were you bred?
-I’ll hear you more, to th’ bottom of your story,
-And never interrupt you.
+==162== This is the rarest dream that e’er dull’d sleep
+==163== Did mock sad fools withal. This cannot be
+==164== My daughter—buried!—Well, where were you bred?
+==165== I’ll hear you more, to th’ bottom of your story,
+==166== And never interrupt you.
 
 **MAR.**
-You scorn. Believe me, ’twere best I did give o’er.
+==167== You scorn. Believe me, ’twere best I did give o’er.
 
 **PER.**
-I will believe you by the syllable
-Of what you shall deliver. Yet give me leave:
-How came you in these parts? Where were you bred?
+==168== I will believe you by the syllable
+==169== Of what you shall deliver. Yet give me leave:
+==170== How came you in these parts? Where were you bred?
 
 **MAR.**
-The King my father did in Tharsus leave me,
-Till cruel Cleon, with his wicked wife,
-Did seek to murder me; and having wooed
-A villain to attempt it, who having drawn to do’t,
-A crew of pirates came and rescued me;
-Brought me to Mytilene. But, good sir,
-Whither will you have me? Why do you weep? It may be
-You think me an imposture. No, good faith;
-I am the daughter to King Pericles,
-If good King Pericles be.
+==171== The King my father did in Tharsus leave me,
+==172== Till cruel Cleon, with his wicked wife,
+==173== Did seek to murder me; and having wooed
+==174== A villain to attempt it, who having drawn to do’t,
+==175== A crew of pirates came and rescued me;
+==176== Brought me to Mytilene. But, good sir,
+==177== Whither will you have me? Why do you weep? It may be
+==178== You think me an imposture. No, good faith;
+==179== I am the daughter to King Pericles,
+==180== If good King Pericles be.
 
 **PER.**
-Ho, Helicanus!
+==181== Ho, Helicanus!
 
 **HEL.**
-Calls my lord?
+==182== Calls my lord?
 
 **PER.**
-Thou art a grave and noble counsellor,
-Most wise in general, tell me if thou canst,
-What this maid is, or what is like to be,
-That thus hath made me weep.
+==183== Thou art a grave and noble counsellor,
+==184== Most wise in general, tell me if thou canst,
+==185== What this maid is, or what is like to be,
+==186== That thus hath made me weep.
 
 **HEL.**
-                I know not, but
-Here’s the regent, sir, of Mytilene
-Speaks nobly of her.
+==186==                 I know not, but
+==187== Here’s the regent, sir, of Mytilene
+==188== Speaks nobly of her.
 
 **LYS.**
-           She never would tell
-Her parentage; being demanded that,
-She would sit still and weep.
+==188==            She never would tell
+==189== Her parentage; being demanded that,
+==190== She would sit still and weep.
 
 **PER.**
-O Helicanus, strike me, honored sir,
-Give me a gash, put me to present pain,
-Lest this great sea of joys rushing upon me
-O’erbear the shores of my mortality,
-And drown me with their sweetness. O, come hither,
-Thou that beget’st him that did thee beget;
-Thou that wast born at sea, buried at Tharsus,
-And found at sea again! O Helicanus,
-Down on thy knees, thank the holy gods as loud
-As thunder threatens us. This is Marina.
-What was thy mother’s name? Tell me but that,
-For truth can never be confirm’d enough,
-Though doubts did ever sleep.
+==191== O Helicanus, strike me, honored sir,
+==192== Give me a gash, put me to present pain,
+==193== Lest this great sea of joys rushing upon me
+==194== O’erbear the shores of my mortality,
+==195== And drown me with their sweetness. O, come hither,
+==196== Thou that beget’st him that did thee beget;
+==197== Thou that wast born at sea, buried at Tharsus,
+==198== And found at sea again! O Helicanus,
+==199== Down on thy knees, thank the holy gods as loud
+==200== As thunder threatens us. This is Marina.
+==201== What was thy mother’s name? Tell me but that,
+==202== For truth can never be confirm’d enough,
+==203== Though doubts did ever sleep.
 
 **MAR.**
-                First, sir, I pray,
-What is your title?
+==203==                 First, sir, I pray,
+==204== What is your title?
 
 **PER.**
-I am Pericles of Tyre; but tell me now
-My drown’d queen’s name, as in the rest you said
-Thou hast been godlike perfit,
-The heir of kingdoms, and another life
-To Pericles thy father.
+==205== I am Pericles of Tyre; but tell me now
+==206== My drown’d queen’s name, as in the rest you said
+==207== Thou hast been godlike perfit,
+==208== The heir of kingdoms, and another life
+==209== To Pericles thy father.
 
 **MAR.**
-Is it no more to be your daughter than
-To say my mother’s name was Thaisa?
-Thaisa was my mother, who did end
-The minute I began.
+==210== Is it no more to be your daughter than
+==211== To say my mother’s name was Thaisa?
+==212== Thaisa was my mother, who did end
+==213== The minute I began.
 
 **PER.**
-Now blessing on thee! Rise, th’ art my child.
-Give me fresh garments. Mine own Helicanus,
-She is not dead at Tharsus as she should have been
-By savage Cleon. She shall tell thee all,
-When thou shalt kneel, and justify in knowledge
-She is thy very princess. Who is this?
+==214== Now blessing on thee! Rise, th’ art my child.
+==215== Give me fresh garments. Mine own Helicanus,
+==216== She is not dead at Tharsus as she should have been
+==217== By savage Cleon. She shall tell thee all,
+==218== When thou shalt kneel, and justify in knowledge
+==219== She is thy very princess. Who is this?
 
 **HEL.**
-Sir, ’tis the governor of Mytilene,
-Who, hearing of your melancholy state,
-Did come to see you.
+==220== Sir, ’tis the governor of Mytilene,
+==221== Who, hearing of your melancholy state,
+==222== Did come to see you.
 
 **PER.**
-           I embrace you.
-Give me my robes. I am wild in my beholding.
-O heavens bless my girl! But hark, what music?
-Tell Helicanus, my Marina, tell him
-O’er, point by point, for yet he seems to dote,
-How sure you are my daughter. But what music?
+==222==            I embrace you.
+==223== Give me my robes. I am wild in my beholding.
+==224== O heavens bless my girl! But hark, what music?
+==225== Tell Helicanus, my Marina, tell him
+==226== O’er, point by point, for yet he seems to dote,
+==227== How sure you are my daughter. But what music?
 
 **HEL.**
-My lord, I hear none.
+==228== My lord, I hear none.
 
 **PER.**
-None?
-The music of the spheres! List, my Marina.
+==229== None?
+==230== The music of the spheres! List, my Marina.
 
 **LYS.**
-It is not good to cross him, give him way.
+==231== It is not good to cross him, give him way.
 
 **PER.**
-Rarest sounds! Do ye not hear?
+==232== Rarest sounds! Do ye not hear?
 
 **LYS.**
-Music, my lord? I hear.
+==233== Music, my lord? I hear.
 
 **PER.**
-Most heavenly music!
-It nips me unto list’ning, and thick slumber
-Hangs upon mine eyes. Let me rest.
+==234== Most heavenly music!
+==235== It nips me unto list’ning, and thick slumber
+==236== Hangs upon mine eyes. Let me rest.
 
 *Sleeps.*
 
 **LYS.**
-A pillow for his head.
-So leave him all. Well, my companion friends,
-If this but answer to my just belief,
-I’ll well remember you.
+==237== A pillow for his head.
+==238== So leave him all. Well, my companion friends,
+==239== If this but answer to my just belief,
+==240== I’ll well remember you.
 
 *Exeunt all but Pericles.*
 
 *Diana appears to Pericles as in a vision.*
 
 **DIA.**
-My temple stands in Ephesus, hie thee thither,
-And do upon mine altar sacrifice.
-There, when my maiden priests are met together
-Before the people all,
-Reveal how thou at sea didst lose thy wife.
-To mourn thy crosses, with thy daughter’s, call
-And give them repetition to the life.
-Or perform my bidding, or thou livest in woe;
-Do’t, and happy, by my silver bow!
-Awake, and tell thy dream.
+==241== My temple stands in Ephesus, hie thee thither,
+==242== And do upon mine altar sacrifice.
+==243== There, when my maiden priests are met together
+==244== Before the people all,
+==245== Reveal how thou at sea didst lose thy wife.
+==246== To mourn thy crosses, with thy daughter’s, call
+==247== And give them repetition to the life.
+==248== Or perform my bidding, or thou livest in woe;
+==249== Do’t, and happy, by my silver bow!
+==250== Awake, and tell thy dream.
 
 *Disappears.*
 
 **PER.**
-Celestial Dian, goddess argentine,
-I will obey thee. Helicanus!
+==251== Celestial Dian, goddess argentine,
+==252== I will obey thee. Helicanus!
 
 *Enter Helicanus, Lysimachus, and Marina.*
 
 **HEL.**
-                Sir?
+==252==                 Sir?
 
 **PER.**
-My purpose was for Tharsus, there to strike
-The inhospitable Cleon, but I am
-For other service first. Toward Ephesus
-Turn our blown sails; eftsoons I’ll tell thee why.
+==253== My purpose was for Tharsus, there to strike
+==254== The inhospitable Cleon, but I am
+==255== For other service first. Toward Ephesus
+==256== Turn our blown sails; eftsoons I’ll tell thee why.
 *(To Lysimachus.)*
-Shall we refresh us, sir, upon your shore,
-And give you gold for such provision
-As our intents will need?
+==257== Shall we refresh us, sir, upon your shore,
+==258== And give you gold for such provision
+==259== As our intents will need?
 
 **LYS.**
-Sir,
-With all my heart, and, when you come ashore,
-I have another suit.
+==260== Sir,
+==261== With all my heart, and, when you come ashore,
+==262== I have another suit.
 
 **PER.**
-           You shall prevail,
-Were it to woo my daughter, for it seems
-You have been noble towards her.
+==262==            You shall prevail,
+==263== Were it to woo my daughter, for it seems
+==264== You have been noble towards her.
 
 **LYS.**
-                  Sir, lend me your arm.
+==264==                   Sir, lend me your arm.
 
 **PER.**
-Come, my Marina.
+==265== Come, my Marina.
 
 *Exeunt.*
 

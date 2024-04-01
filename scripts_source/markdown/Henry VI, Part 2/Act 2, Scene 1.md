@@ -21,446 +21,446 @@ ID: henry-vi-part-ii-2-1
 *Enter the King, Queen with her hawk on her fist, Protector Gloucester, Cardinal, and Suffolk, with Falc’ners hallowing.*
 
 **Q. MARG.**
-Believe me, lords, for flying at the brook,
-I saw not better sport these seven years’ day;
-Yet by your leave, the wind was very high,
-And ten to one, old Joan had not gone out.
+==1== Believe me, lords, for flying at the brook,
+==2== I saw not better sport these seven years’ day;
+==3== Yet by your leave, the wind was very high,
+==4== And ten to one, old Joan had not gone out.
 
 **KING.**
-But what a point, my lord, your falcon made,
-And what a pitch she flew above the rest!
-To see how God in all his creatures works!
-Yea, man and birds are fain of climbing high.
+==5== But what a point, my lord, your falcon made,
+==6== And what a pitch she flew above the rest!
+==7== To see how God in all his creatures works!
+==8== Yea, man and birds are fain of climbing high.
 
 **SUF.**
-No marvel, and it like your Majesty,
-My Lord Protector’s hawks do tow’r so well;
-They know their master loves to be aloft,
-And bears his thoughts above his falcon’s pitch.
+==9== No marvel, and it like your Majesty,
+==10== My Lord Protector’s hawks do tow’r so well;
+==11== They know their master loves to be aloft,
+==12== And bears his thoughts above his falcon’s pitch.
 
 **GLOU.**
-My lord, ’tis but a base ignoble mind
-That mounts no higher than a bird can soar.
+==13== My lord, ’tis but a base ignoble mind
+==14== That mounts no higher than a bird can soar.
 
 **CAR.**
-I thought as much, he would be above the clouds.
+==15== I thought as much, he would be above the clouds.
 
 **GLOU.**
-Ay, my Lord Cardinal, how think you by that?
-Were it not good your Grace could fly to heaven?
+==16== Ay, my Lord Cardinal, how think you by that?
+==17== Were it not good your Grace could fly to heaven?
 
 **KING.**
-The treasury of everlasting joy.
+==18== The treasury of everlasting joy.
 
 **CAR.**
-Thy heaven is on earth, thine eyes and thoughts
-Beat on a crown, the treasure of thy heart,
-Pernicious Protector, dangerous peer,
-That smooth’st it so with king and commonweal!
+==19== Thy heaven is on earth, thine eyes and thoughts
+==20== Beat on a crown, the treasure of thy heart,
+==21== Pernicious Protector, dangerous peer,
+==22== That smooth’st it so with king and commonweal!
 
 **GLOU.**
-What, Cardinal? Is your priesthood grown peremptory?
-*Tantaene animis caelestibus irae?*
-Churchmen so hot? Good uncle, hide such malice;
-With such holiness can you do it?
+==23== What, Cardinal? Is your priesthood grown peremptory?
+==24== *Tantaene animis caelestibus irae?*
+==25== Churchmen so hot? Good uncle, hide such malice;
+==26== With such holiness can you do it?
 
 **SUF.**
-No malice, sir, no more than well becomes
-So good a quarrel and so bad a peer.
+==27== No malice, sir, no more than well becomes
+==28== So good a quarrel and so bad a peer.
 
 **GLOU.**
-As who, my lord?
+==29== As who, my lord?
 
 **SUF.**
-           Why, as you, my lord,
-An’t like your lordly Lord’s Protectorship.
+==29==            Why, as you, my lord,
+==30== An’t like your lordly Lord’s Protectorship.
 
 **GLOU.**
-Why, Suffolk, England knows thine insolence.
+==31== Why, Suffolk, England knows thine insolence.
 
 **Q. MARG.**
-And thy ambition, Gloucester.
+==32== And thy ambition, Gloucester.
 
 **KING.**
-                I prithee peace,
-Good queen, and whet not on these furious peers,
-For blessed are the peacemakers on earth.
+==32==                 I prithee peace,
+==33== Good queen, and whet not on these furious peers,
+==34== For blessed are the peacemakers on earth.
 
 **CAR.**
-Let me be blessed for the peace I make
-Against this proud Protector with my sword!
+==35== Let me be blessed for the peace I make
+==36== Against this proud Protector with my sword!
 
 **GLOU.**
 *(Aside to Cardinal)*
-Faith, holy uncle, would’t were come to that!
+==37== Faith, holy uncle, would’t were come to that!
 
 **CAR.**
 *(Aside to Gloucester)*
-Marry, when thou dar’st.
+==38== Marry, when thou dar’st.
 
 **GLOU.**
 *(Aside to Cardinal)*
-Make up no factious numbers for the matter,
-In thine own person answer thy abuse.
+==39== Make up no factious numbers for the matter,
+==40== In thine own person answer thy abuse.
 
 **CAR.**
 *(Aside to Gloucester)*
-Ay, where thou dar’st not peep. And if thou dar’st,
-This evening, on the east side of the grove.
+==41== Ay, where thou dar’st not peep. And if thou dar’st,
+==42== This evening, on the east side of the grove.
 
 **KING.**
-How now, my lords?
+==43== How now, my lords?
 
 **CAR.**
-           Believe me, cousin Gloucester,
-Had not your man put up the fowl so suddenly,
-We had had more sport.
+==43==            Believe me, cousin Gloucester,
+==44== Had not your man put up the fowl so suddenly,
+==45== We had had more sport.
 *(Aside to Gloucester.)*
-              Come with thy two-hand sword.
+==45==               Come with thy two-hand sword.
 
 **GLOU.**
-True, uncle.
+==46== True, uncle.
 
 **CAR.**
 *(Aside to Gloucester)*
-Are ye advis’d? The east side of the grove.
+==47== Are ye advis’d? The east side of the grove.
 
 **GLOU.**
 *(Aside to Cardinal)*
-Cardinal, I am with you.
+==48== Cardinal, I am with you.
 
 **KING.**
-              Why, how now, uncle Gloucester?
+==48==               Why, how now, uncle Gloucester?
 
 **GLOU.**
-Talking of hawking; nothing else, my lord.
+==49== Talking of hawking; nothing else, my lord.
 *(Aside to Cardinal.)*
-Now by God’s Mother, priest,
-I’ll shave your crown for this,
-Or all my fence shall fail.
+==50== Now by God’s Mother, priest,
+==51== I’ll shave your crown for this,
+==52== Or all my fence shall fail.
 
 **CAR.**
 *(Aside to Gloucester.)*
-              *Medice, teipsum*⁠—
-Protector, see to’t well, protect yourself.
+==52==               *Medice, teipsum*⁠—
+==53== Protector, see to’t well, protect yourself.
 
 **KING.**
-The winds grow high, so do your stomachs, lords.
-How irksome is this music to my heart!
-When such strings jar, what hope of harmony?
-I pray, my lords, let me compound this strife.
+==54== The winds grow high, so do your stomachs, lords.
+==55== How irksome is this music to my heart!
+==56== When such strings jar, what hope of harmony?
+==57== I pray, my lords, let me compound this strife.
 
 *Enter one crying, “A miracle!” *
 
 **GLOU.**
-What means this noise?
-Fellow, what miracle dost thou proclaim?
+==58== What means this noise?
+==59== Fellow, what miracle dost thou proclaim?
 
 **ONE. CIT.**
-A miracle, a miracle!
+==60== A miracle, a miracle!
 
 **SUF.**
-Come to the King and tell him what miracle.
+==61== Come to the King and tell him what miracle.
 
 **ONE. CIT.**
-Forsooth, a blind man at Saint Alban’s shrine,
-Within this half hour, hath receiv’d his sight,
-A man that ne’er saw in his life before.
+==62== Forsooth, a blind man at Saint Alban’s shrine,
+==63== Within this half hour, hath receiv’d his sight,
+==64== A man that ne’er saw in his life before.
 
 **KING.**
-Now God be prais’d, that to believing souls
-Gives light in darkness, comfort in despair!
+==65== Now God be prais’d, that to believing souls
+==66== Gives light in darkness, comfort in despair!
 
 *Enter the Mayor of Saint Albans and his Brethren, with music, bearing the man Simpcox between two in a chair, Simpcox’s Wife and others following.*
 
 **CAR.**
-Here comes the townsmen on procession,
-To present your Highness with the man.
+==67== Here comes the townsmen on procession,
+==68== To present your Highness with the man.
 
 **KING.**
-Great is his comfort in this earthly vale,
-Although by his sight his sin be multiplied.
+==69== Great is his comfort in this earthly vale,
+==70== Although by his sight his sin be multiplied.
 
 **GLOU.**
-Stand by, my masters. Bring him near the King,
-His Highness’ pleasure is to talk with him.
+==71== Stand by, my masters. Bring him near the King,
+==72== His Highness’ pleasure is to talk with him.
 
 **KING.**
-Good fellow, tell us here the circumstance,
-That we for thee may glorify the Lord.
-What, hast thou been long blind and now restor’d?
+==73== Good fellow, tell us here the circumstance,
+==74== That we for thee may glorify the Lord.
+==75== What, hast thou been long blind and now restor’d?
 
 **SIMP.**
-Born blind, and’t please your Grace.
+==76== Born blind, and’t please your Grace.
 
 **SIMP. WIFE.**
-Ay indeed was he.
+==77== Ay indeed was he.
 
 **SUF.**
-What woman is this?
+==78== What woman is this?
 
 **SIMP. WIFE.**
-His wife, and’t like your worship.
+==79== His wife, and’t like your worship.
 
 **GLOU.**
-Hadst thou been his mother, thou couldst have better told.
+==80== Hadst thou been his mother, thou couldst have better told.
 
 **KING.**
-Where wert thou born?
+==81== Where wert thou born?
 
 **SIMP.**
-At Berwick in the north, and’t like your Grace.
+==82== At Berwick in the north, and’t like your Grace.
 
 **KING.**
-Poor soul, God’s goodness hath been great to thee.
-Let never day nor night unhallowed pass,
-But still remember what the Lord hath done.
+==83== Poor soul, God’s goodness hath been great to thee.
+==84== Let never day nor night unhallowed pass,
+==85== But still remember what the Lord hath done.
 
 **Q. MARG.**
-Tell me, good fellow, cam’st thou here by chance
-Or of devotion, to this holy shrine?
+==86== Tell me, good fellow, cam’st thou here by chance
+==87== Or of devotion, to this holy shrine?
 
 **SIMP.**
-God knows, of pure devotion, being call’d
-A hundred times and oft’ner, in my sleep,
-By good Saint Alban, who said, “Simon, come;
-Come offer at my shrine, and I will help thee.”
+==88== God knows, of pure devotion, being call’d
+==89== A hundred times and oft’ner, in my sleep,
+==90== By good Saint Alban, who said, “Simon, come;
+==91== Come offer at my shrine, and I will help thee.”
 
 **SIMP. WIFE.**
-Most true, forsooth; and many time and oft
-Myself have heard a voice to call him so.
+==92== Most true, forsooth; and many time and oft
+==93== Myself have heard a voice to call him so.
 
 **CAR.**
-What, art thou lame?
+==94== What, art thou lame?
 
 **SIMP.**
-           Ay, God Almighty help me!
+==94==            Ay, God Almighty help me!
 
 **SUF.**
-How cam’st thou so?
+==95== How cam’st thou so?
 
 **SIMP.**
-           A fall off of a tree.
+==95==            A fall off of a tree.
 
 **SIMP. WIFE.**
-A plum-tree, master.
+==96== A plum-tree, master.
 
 **GLOU.**
-           How long hast thou been blind?
+==96==            How long hast thou been blind?
 
 **SIMP.**
-O, born so, master.
+==97== O, born so, master.
 
 **GLOU.**
-        What, and wouldst climb a tree?
+==97==         What, and wouldst climb a tree?
 
 **SIMP.**
-But that in all my life, when I was a youth.
+==98== But that in all my life, when I was a youth.
 
 **SIMP. WIFE.**
-Too true, and bought his climbing very dear.
+==99== Too true, and bought his climbing very dear.
 
 **GLOU.**
-Mass, thou lov’dst plums well, that wouldst venture so.
+==100== Mass, thou lov’dst plums well, that wouldst venture so.
 
 **SIMP.**
-Alas, good master, my wife desired some damsons,
-And made me climb, with danger of my life.
+==101== Alas, good master, my wife desired some damsons,
+==102== And made me climb, with danger of my life.
 
 **GLOU.**
-A subtile knave, but yet it shall not serve.
-Let me see thine eyes. Wink now; now open them.
-In my opinion yet thou seest not well.
+==103== A subtile knave, but yet it shall not serve.
+==104== Let me see thine eyes. Wink now; now open them.
+==105== In my opinion yet thou seest not well.
 
 **SIMP.**
-Yes, master, clear as day, I thank God and Saint Alban.
+==106== Yes, master, clear as day, I thank God and Saint Alban.
 
 **GLOU.**
-Say’st thou me so? What color is this cloak of?
+==107== Say’st thou me so? What color is this cloak of?
 
 **SIMP.**
-Red, master, red as blood.
+==108== Red, master, red as blood.
 
 **GLOU.**
-Why, that’s well said. What color is my gown of?
+==109== Why, that’s well said. What color is my gown of?
 
 **SIMP.**
-Black, forsooth, coal-black as jet.
+==110== Black, forsooth, coal-black as jet.
 
 **KING.**
-Why then, thou know’st what color jet is of?
+==111== Why then, thou know’st what color jet is of?
 
 **SUF.**
-And yet, I think, jet did he never see.
+==112== And yet, I think, jet did he never see.
 
 **GLOU.**
-But cloaks and gowns, before this day, a many.
+==113== But cloaks and gowns, before this day, a many.
 
 **SIMP. WIFE.**
-Never, before this day, in all his life.
+==114== Never, before this day, in all his life.
 
 **GLOU.**
-Tell me, sirrah, what’s my name?
+==115== Tell me, sirrah, what’s my name?
 
 **SIMP.**
-Alas, master, I know not.
+==116== Alas, master, I know not.
 
 **GLOU.**
-What’s his name?
+==117== What’s his name?
 
 **SIMP.**
-I know not.
+==118== I know not.
 
 **GLOU.**
-Nor his?
+==119== Nor his?
 
 **SIMP.**
-No indeed, master.
+==120== No indeed, master.
 
 **GLOU.**
-What’s thine own name?
+==121== What’s thine own name?
 
 **SIMP.**
-Saunder Simpcox, and if it please you, master.
+==122== Saunder Simpcox, and if it please you, master.
 
 **GLOU.**
-Then, Saunder, sit there, the lying’st knave
-In Christendom. If thou hadst been born blind,
-Thou mightst as well have known all our names, as thus
-To name the several colors we do wear.
-Sight may distinguish colors; but suddenly
-To nominate them all, it is impossible.
-My lords, Saint Alban here hath done a miracle;
-And would ye not think his cunning to be great,
-That could restore this cripple to his legs again?
+==123== Then, Saunder, sit there, the lying’st knave
+==124== In Christendom. If thou hadst been born blind,
+==125== Thou mightst as well have known all our names, as thus
+==126== To name the several colors we do wear.
+==127== Sight may distinguish colors; but suddenly
+==128== To nominate them all, it is impossible.
+==129== My lords, Saint Alban here hath done a miracle;
+==130== And would ye not think his cunning to be great,
+==131== That could restore this cripple to his legs again?
 
 **SIMP.**
-O master, that you could!
+==132== O master, that you could!
 
 **GLOU.**
-My masters of Saint Albans, have you not
-Beadles in your town, and things call’d whips?
+==133== My masters of Saint Albans, have you not
+==134== Beadles in your town, and things call’d whips?
 
 **MAY.**
-Yes, my lord, if it please your Grace.
+==135== Yes, my lord, if it please your Grace.
 
 **GLOU.**
-Then send for one presently.
+==136== Then send for one presently.
 
 **MAY.**
-Sirrah, go fetch the beadle hither straight.
+==137== Sirrah, go fetch the beadle hither straight.
 
 *Exit One Citizen.*
 
 **GLOU.**
-Now fetch me a stool hither by and by.
+==138== Now fetch me a stool hither by and by.
 *(A stool brought.)*
-Now, sirrah, if you mean to save yourself from whipping, leap me over this stool and run away.
+==139== Now, sirrah, if you mean to save yourself from whipping, leap me over this stool and run away.
 
 **SIMP.**
-Alas, master, I am not able to stand alone;
-You go about to torture me in vain.
+==140== Alas, master, I am not able to stand alone;
+==141== You go about to torture me in vain.
 
 *Enter a Beadle with whips.*
 
 **GLOU.**
-Well, sir, we must have you find your legs. Sirrah beadle, whip him till he leap over that same stool.
+==142== Well, sir, we must have you find your legs. Sirrah beadle, whip him till he leap over that same stool.
 
 **BEAD.**
-I will, my lord. Come on, sirrah, off with your doublet quickly.
+==143== I will, my lord. Come on, sirrah, off with your doublet quickly.
 
 **SIMP.**
-Alas, master, what shall I do? I am not able to stand.
+==144== Alas, master, what shall I do? I am not able to stand.
 
 *After the Beadle hath hit him once, he leaps over the stool and runs away; and they follow and cry, “A miracle!” *
 
 **KING.**
-O God, seest thou this, and bearest so long?
+==145== O God, seest thou this, and bearest so long?
 
 **Q. MARG.**
-It made me laugh to see the villain run.
+==146== It made me laugh to see the villain run.
 
 **GLOU.**
-Follow the knave, and take this drab away.
+==147== Follow the knave, and take this drab away.
 
 **SIMP. WIFE.**
-Alas, sir, we did it for pure need.
+==148== Alas, sir, we did it for pure need.
 
 **GLOU.**
-Lee them be whipt through every market town,
-Till they come to Berwick, from whence they came.
+==149== Lee them be whipt through every market town,
+==150== Till they come to Berwick, from whence they came.
 
 *Exeunt Wife, Beadle, Mayor, etc.*
 
 **CAR.**
-Duke Humphrey has done a miracle today.
+==151== Duke Humphrey has done a miracle today.
 
 **SUF.**
-True; made the lame to leap and fly away.
+==152== True; made the lame to leap and fly away.
 
 **GLOU.**
-But you have done more miracles than I:
-You made in a day, my lord, whole towns to fly.
+==153== But you have done more miracles than I:
+==154== You made in a day, my lord, whole towns to fly.
 
 *Enter Buckingham.*
 
 **KING.**
-What tidings with our cousin Buckingham?
+==155== What tidings with our cousin Buckingham?
 
 **BUCK.**
-Such as my heart doth tremble to unfold:
-A sort of naughty persons, lewdly bent,
-Under the countenance and confederacy
-Of Lady Eleanor, the Protector’s wife,
-The ringleader and head of all this rout,
-Have practic’d dangerously against your state,
-Dealing with witches and with conjurers,
-Whom we have apprehended in the fact,
-Raising up wicked spirits from under ground,
-Demanding of King Henry’s life and death,
-And other of your Highness’ Privy Council,
-As more at large your Grace shall understand.
+==156== Such as my heart doth tremble to unfold:
+==157== A sort of naughty persons, lewdly bent,
+==158== Under the countenance and confederacy
+==159== Of Lady Eleanor, the Protector’s wife,
+==160== The ringleader and head of all this rout,
+==161== Have practic’d dangerously against your state,
+==162== Dealing with witches and with conjurers,
+==163== Whom we have apprehended in the fact,
+==164== Raising up wicked spirits from under ground,
+==165== Demanding of King Henry’s life and death,
+==166== And other of your Highness’ Privy Council,
+==167== As more at large your Grace shall understand.
 
 **CAR.**
-And so, my Lord Protector, by this means
-Your lady is forthcoming yet at London.
+==168== And so, my Lord Protector, by this means
+==169== Your lady is forthcoming yet at London.
 *(Aside to Gloucester.)*
-This news, I think, hath turn’d your weapon’s edge;
-’Tis like, my lord, you will not keep your hour.
+==170== This news, I think, hath turn’d your weapon’s edge;
+==171== ’Tis like, my lord, you will not keep your hour.
 
 **GLOU.**
-Ambitious churchman, leave to afflict my heart.
-Sorrow and grief have vanquish’d all my powers;
-And vanquish’d as I am, I yield to thee,
-Or to the meanest groom.
+==172== Ambitious churchman, leave to afflict my heart.
+==173== Sorrow and grief have vanquish’d all my powers;
+==174== And vanquish’d as I am, I yield to thee,
+==175== Or to the meanest groom.
 
 **KING.**
-O God, what mischiefs work the wicked ones,
-Heaping confusion on their own heads thereby!
+==176== O God, what mischiefs work the wicked ones,
+==177== Heaping confusion on their own heads thereby!
 
 **Q. MARG.**
-Gloucester, see here the tainture of thy nest,
-And look thyself be faultless, thou wert best.
+==178== Gloucester, see here the tainture of thy nest,
+==179== And look thyself be faultless, thou wert best.
 
 **GLOU.**
-Madam, for myself, to heaven I do appeal,
-How I have lov’d my king and commonweal;
-And for my wife, I know not how it stands.
-Sorry I am to hear what I have heard.
-Noble she is; but if she have forgot
-Honor and virtue, and convers’d with such
-As, like to pitch, defile nobility,
-I banish her my bed and company,
-And give her as a prey to law and shame,
-That hath dishonored Gloucester’s honest name.
+==180== Madam, for myself, to heaven I do appeal,
+==181== How I have lov’d my king and commonweal;
+==182== And for my wife, I know not how it stands.
+==183== Sorry I am to hear what I have heard.
+==184== Noble she is; but if she have forgot
+==185== Honor and virtue, and convers’d with such
+==186== As, like to pitch, defile nobility,
+==187== I banish her my bed and company,
+==188== And give her as a prey to law and shame,
+==189== That hath dishonored Gloucester’s honest name.
 
 **KING.**
-Well, for this night we will repose us here;
-Tomorrow toward London back again,
-To look into this business thoroughly,
-And call these foul offenders to their answers,
-And poise the cause in justice’ equal scales,
-Whose beam stands sure, whose rightful cause prevails.
+==190== Well, for this night we will repose us here;
+==191== Tomorrow toward London back again,
+==192== To look into this business thoroughly,
+==193== And call these foul offenders to their answers,
+==194== And poise the cause in justice’ equal scales,
+==195== Whose beam stands sure, whose rightful cause prevails.
 
 *Flourish. Exeunt.*
 

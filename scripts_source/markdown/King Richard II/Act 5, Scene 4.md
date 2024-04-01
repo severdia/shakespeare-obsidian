@@ -22,26 +22,26 @@ ID: king-richard-ii-5-4
 *Enter Sir Pierce Exton and his Servants.*
 
 **EXTON.**
-Didst thou not mark the King, what words he spake?
-“Have I no friend will rid me of this living fear?”
-Was it not so?
+==1== Didst thou not mark the King, what words he spake?
+==2== “Have I no friend will rid me of this living fear?”
+==3== Was it not so?
 
 **1. EXT. SERV.**
-        These were his very words.
+==3==         These were his very words.
 
 **EXTON.**
-“Have I no friend?” quoth he. He spake it twice,
-And urg’d it twice together, did he not?
+==4== “Have I no friend?” quoth he. He spake it twice,
+==5== And urg’d it twice together, did he not?
 
 **2. EXT. SERV.**
-He did.
+==6== He did.
 
 **EXTON.**
-And speaking it, he wishtly look’d on me
-As who should say, “I would thou wert the man
-That would divorce this terror from my heart”⁠—
-Meaning the king at Pomfret. Come let’s go.
-I am the King’s friend, and will rid his foe.
+==7== And speaking it, he wishtly look’d on me
+==8== As who should say, “I would thou wert the man
+==9== That would divorce this terror from my heart”⁠—
+==10== Meaning the king at Pomfret. Come let’s go.
+==11== I am the King’s friend, and will rid his foe.
 
 *Exeunt.*
 

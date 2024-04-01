@@ -21,759 +21,759 @@ ID: midsummer-nights-dream-3-2
 *Enter King of Fairies Oberon.*
 
 **OBE.**
-I wonder if Titania be awak’d;
-Then what it was that next came in her eye,
-Which she must dote on in extremity.
+==1== I wonder if Titania be awak’d;
+==2== Then what it was that next came in her eye,
+==3== Which she must dote on in extremity.
 *(Enter Puck.)*
-Here comes my messenger. How now, mad spirit?
-What night-rule now about this haunted grove?
+==4== Here comes my messenger. How now, mad spirit?
+==5== What night-rule now about this haunted grove?
 
 **PUCK.**
-My mistress with a monster is in love.
-Near to her close and consecrated bower,
-While she was in her dull and sleeping hour,
-A crew of patches, rude mechanicals,
-That work for bread upon Athenian stalls,
-Were met together to rehearse a play
-Intended for great Theseus’ nuptial day.
-The shallowest thick-skin of that barren sort,
-Who Pyramus presented, in their sport,
-Forsook his scene, and ent’red in a brake;
-When I did him at this advantage take,
-An ass’s nole I fixed on his head.
-Anon his Thisbe must be answered,
-And forth my mimic comes. When they him spy,
-As wild geese that the creeping fowler eye,
-Or russet-pated choughs, many in sort
-(Rising and cawing at the gun’s report),
-Sever themselves and madly sweep the sky,
-So, at his sight, away his fellows fly;
-And at our stamp, here o’er and o’er one falls;
-He murder cries, and help from Athens calls.
-Their sense thus weak, lost with their fears thus strong,
-Made senseless things begin to do them wrong,
-For briers and thorns at their apparel snatch;
-Some sleeves, some hats, from yielders all things catch.
-I led them on in this distracted fear,
-And left sweet Pyramus translated there;
-When in that moment (so it came to pass) 
-Titania wak’d, and straightway lov’d an ass.
+==6== My mistress with a monster is in love.
+==7== Near to her close and consecrated bower,
+==8== While she was in her dull and sleeping hour,
+==9== A crew of patches, rude mechanicals,
+==10== That work for bread upon Athenian stalls,
+==11== Were met together to rehearse a play
+==12== Intended for great Theseus’ nuptial day.
+==13== The shallowest thick-skin of that barren sort,
+==14== Who Pyramus presented, in their sport,
+==15== Forsook his scene, and ent’red in a brake;
+==16== When I did him at this advantage take,
+==17== An ass’s nole I fixed on his head.
+==18== Anon his Thisbe must be answered,
+==19== And forth my mimic comes. When they him spy,
+==20== As wild geese that the creeping fowler eye,
+==21== Or russet-pated choughs, many in sort
+==22== (Rising and cawing at the gun’s report),
+==23== Sever themselves and madly sweep the sky,
+==24== So, at his sight, away his fellows fly;
+==25== And at our stamp, here o’er and o’er one falls;
+==26== He murder cries, and help from Athens calls.
+==27== Their sense thus weak, lost with their fears thus strong,
+==28== Made senseless things begin to do them wrong,
+==29== For briers and thorns at their apparel snatch;
+==30== Some sleeves, some hats, from yielders all things catch.
+==31== I led them on in this distracted fear,
+==32== And left sweet Pyramus translated there;
+==33== When in that moment (so it came to pass) 
+==34== Titania wak’d, and straightway lov’d an ass.
 
 **OBE.**
-This falls out better than I could devise.
-But hast thou yet latch’d the Athenian’s eyes
-With the love-juice, as I did bid thee do?
+==35== This falls out better than I could devise.
+==36== But hast thou yet latch’d the Athenian’s eyes
+==37== With the love-juice, as I did bid thee do?
 
 **PUCK.**
-I took him sleeping (that is finish’d too) 
-And the Athenian woman by his side;
-That when he wak’d, of force she must be ey’d.
+==38== I took him sleeping (that is finish’d too) 
+==39== And the Athenian woman by his side;
+==40== That when he wak’d, of force she must be ey’d.
 
 *Enter Demetrius and Hermia.*
 
 **OBE.**
-Stand close; this is the same Athenian.
+==41== Stand close; this is the same Athenian.
 
 **PUCK.**
-This is the woman; but not this the man.
+==42== This is the woman; but not this the man.
 
 **DEM.**
-O, why rebuke you him that loves you so?
-Lay breath so bitter on your bitter foe.
+==43== O, why rebuke you him that loves you so?
+==44== Lay breath so bitter on your bitter foe.
 
 **HER.**
-Now I but chide; but I should use thee worse,
-For thou (I fear) hast given me cause to curse.
-If thou hast slain Lysander in his sleep,
-Being o’er shoes in blood, plunge in the deep,
-And kill me too.
-The sun was not so true unto the day
-As he to me. Would he have stolen away
-From sleeping Hermia? I’ll believe as soon
-This whole earth may be bor’d, and that the moon
-May through the center creep, and so displease
-Her brother’s noontide with th’ Antipodes.
-It cannot be but thou hast murd’red him;
-So should a murderer look—so dead, so grim.
+==45== Now I but chide; but I should use thee worse,
+==46== For thou (I fear) hast given me cause to curse.
+==47== If thou hast slain Lysander in his sleep,
+==48== Being o’er shoes in blood, plunge in the deep,
+==49== And kill me too.
+==50== The sun was not so true unto the day
+==51== As he to me. Would he have stolen away
+==52== From sleeping Hermia? I’ll believe as soon
+==53== This whole earth may be bor’d, and that the moon
+==54== May through the center creep, and so displease
+==55== Her brother’s noontide with th’ Antipodes.
+==56== It cannot be but thou hast murd’red him;
+==57== So should a murderer look—so dead, so grim.
 
 **DEM.**
-So should the murdered look, and so should I,
-Pierc’d through the heart with your stern cruelty.
-Yet you, the murderer, look as bright, as clear,
-As yonder Venus in her glimmering sphere.
+==58== So should the murdered look, and so should I,
+==59== Pierc’d through the heart with your stern cruelty.
+==60== Yet you, the murderer, look as bright, as clear,
+==61== As yonder Venus in her glimmering sphere.
 
 **HER.**
-What’s this to my Lysander? Where is he?
-Ah, good Demetrius, wilt thou give him me?
+==62== What’s this to my Lysander? Where is he?
+==63== Ah, good Demetrius, wilt thou give him me?
 
 **DEM.**
-I had rather give his carcass to my hounds.
+==64== I had rather give his carcass to my hounds.
 
 **HER.**
-Out, dog, out, cur! Thou driv’st me past the bounds
-Of maiden’s patience. Hast thou slain him then?
-Henceforth be never numb’red among men!
-O, once tell true; tell true, even for my sake!
-Durst thou have look’d upon him being awake?
-And hast thou kill’d him sleeping? O brave touch!
-Could not a worm, an adder, do so much?
-An adder did it! For with doubler tongue
-Than thine, thou serpent, never adder stung.
+==65== Out, dog, out, cur! Thou driv’st me past the bounds
+==66== Of maiden’s patience. Hast thou slain him then?
+==67== Henceforth be never numb’red among men!
+==68== O, once tell true; tell true, even for my sake!
+==69== Durst thou have look’d upon him being awake?
+==70== And hast thou kill’d him sleeping? O brave touch!
+==71== Could not a worm, an adder, do so much?
+==72== An adder did it! For with doubler tongue
+==73== Than thine, thou serpent, never adder stung.
 
 **DEM.**
-You spend your passion on a mispris’d mood.
-I am not guilty of Lysander’s blood;
-Nor is he dead, for aught that I can tell.
+==74== You spend your passion on a mispris’d mood.
+==75== I am not guilty of Lysander’s blood;
+==76== Nor is he dead, for aught that I can tell.
 
 **HER.**
-I pray thee, tell me then that he is well.
+==77== I pray thee, tell me then that he is well.
 
 **DEM.**
-And if I could, what should I get therefore?
+==78== And if I could, what should I get therefore?
 
 **HER.**
-A privilege never to see me more.
-And from thy hated presence part I so:
-See me no more, whether he be dead or no.
+==79== A privilege never to see me more.
+==80== And from thy hated presence part I so:
+==81== See me no more, whether he be dead or no.
 
 *Exit.*
 
 **DEM.**
-There is no following her in this fierce vein.
-Here therefore for a while I will remain.
-So sorrow’s heaviness doth heavier grow
-For debt that bankrupt sleep doth sorrow owe;
-Which now in some slight measure it will pay,
-If for his tender here I make some stay.
+==82== There is no following her in this fierce vein.
+==83== Here therefore for a while I will remain.
+==84== So sorrow’s heaviness doth heavier grow
+==85== For debt that bankrupt sleep doth sorrow owe;
+==86== Which now in some slight measure it will pay,
+==87== If for his tender here I make some stay.
 
 *Lie down and sleep.*
 
 **OBE.**
-What hast thou done? Thou hast mistaken quite,
-And laid the love-juice on some true-love’s sight.
-Of thy misprision must perforce ensue
-Some true love turn’d, and not a false turn’d true.
+==88== What hast thou done? Thou hast mistaken quite,
+==89== And laid the love-juice on some true-love’s sight.
+==90== Of thy misprision must perforce ensue
+==91== Some true love turn’d, and not a false turn’d true.
 
 **PUCK.**
-Then fate o’errules, that one man holding troth,
-A million fail, confounding oath on oath.
+==92== Then fate o’errules, that one man holding troth,
+==93== A million fail, confounding oath on oath.
 
 **OBE.**
-About the wood go swifter than the wind,
-And Helena of Athens look thou find.
-All fancy-sick she is and pale of cheer
-With sighs of love, that costs the fresh blood dear.
-By some illusion see thou bring her here.
-I’ll charm his eyes against she do appear.
+==94== About the wood go swifter than the wind,
+==95== And Helena of Athens look thou find.
+==96== All fancy-sick she is and pale of cheer
+==97== With sighs of love, that costs the fresh blood dear.
+==98== By some illusion see thou bring her here.
+==99== I’ll charm his eyes against she do appear.
 
 **PUCK.**
-I go, I go, look how I go,
-Swifter than arrow from the Tartar’s bow.
+==100== I go, I go, look how I go,
+==101== Swifter than arrow from the Tartar’s bow.
 
 *Exit.*
 
 **OBE.**
-*Flower of this purple dye,*
-*Hit with Cupid’s archery,*
-*Sink in apple of his eye.*
-*When his love he doth espy,*
-*Let her shine as gloriously*
-*As the Venus of the sky.*
-*When thou wak’st, if she be by,*
-*Beg of her for remedy.*
+==102== *Flower of this purple dye,*
+==103== *Hit with Cupid’s archery,*
+==104== *Sink in apple of his eye.*
+==105== *When his love he doth espy,*
+==106== *Let her shine as gloriously*
+==107== *As the Venus of the sky.*
+==108== *When thou wak’st, if she be by,*
+==109== *Beg of her for remedy.*
 
 *Enter Puck.*
 
 **PUCK.**
-*Captain of our fairy band,*
-*Helena is here at hand,*
-*And the youth, mistook by me,*
-*Pleading for a lover’s fee.*
-*Shall we their fond pageant see?*
-*Lord, what fools these mortals be!*
+==110== *Captain of our fairy band,*
+==111== *Helena is here at hand,*
+==112== *And the youth, mistook by me,*
+==113== *Pleading for a lover’s fee.*
+==114== *Shall we their fond pageant see?*
+==115== *Lord, what fools these mortals be!*
 
 **OBE.**
-*Stand aside. The noise they make*
-*Will cause Demetrius to awake.*
+==116== *Stand aside. The noise they make*
+==117== *Will cause Demetrius to awake.*
 
 **PUCK.**
-*Then will two at once woo one;*
-*That must needs be sport alone.*
-*And those things do best please me*
-*That befall prepost’rously.*
+==118== *Then will two at once woo one;*
+==119== *That must needs be sport alone.*
+==120== *And those things do best please me*
+==121== *That befall prepost’rously.*
 
 *Enter Lysander and Helena.*
 
 **LYS.**
-Why should you think that I should woo in scorn?
-Scorn and derision never come in tears.
-Look when I vow, I weep; and vows so born,
-In their nativity all truth appears.
-How can these things in me seem scorn to you,
-Bearing the badge of faith to prove them true?
+==122== Why should you think that I should woo in scorn?
+==123== Scorn and derision never come in tears.
+==124== Look when I vow, I weep; and vows so born,
+==125== In their nativity all truth appears.
+==126== How can these things in me seem scorn to you,
+==127== Bearing the badge of faith to prove them true?
 
 **HEL.**
-You do advance your cunning more and more;
-When truth kills truth, O devilish-holy fray!
-These vows are Hermia’s. Will you give her o’er?
-Weigh oath with oath, and you will nothing weigh.
-Your vows to her and me, put in two scales,
-Will even weigh; and both as light as tales.
+==128== You do advance your cunning more and more;
+==129== When truth kills truth, O devilish-holy fray!
+==130== These vows are Hermia’s. Will you give her o’er?
+==131== Weigh oath with oath, and you will nothing weigh.
+==132== Your vows to her and me, put in two scales,
+==133== Will even weigh; and both as light as tales.
 
 **LYS.**
-I had no judgment when to her I swore.
+==134== I had no judgment when to her I swore.
 
 **HEL.**
-Nor none, in my mind, now you give her o’er.
+==135== Nor none, in my mind, now you give her o’er.
 
 **LYS.**
-Demetrius loves her; and he loves not you.
+==136== Demetrius loves her; and he loves not you.
 
 **DEM.**
 *(Awaking.)*
-O Helen, goddess, nymph, perfect, divine!
-To what, my love, shall I compare thine eyne?
-Crystal is muddy. O, how ripe in show
-Thy lips, those kissing cherries, tempting grow!
-That pure congealed white, high Taurus’ snow,
-Fann’d with the eastern wind, turns to a crow
-When thou hold’st up thy hand. O, let me kiss
-This princess of pure white, this seal of bliss!
+==137== O Helen, goddess, nymph, perfect, divine!
+==138== To what, my love, shall I compare thine eyne?
+==139== Crystal is muddy. O, how ripe in show
+==140== Thy lips, those kissing cherries, tempting grow!
+==141== That pure congealed white, high Taurus’ snow,
+==142== Fann’d with the eastern wind, turns to a crow
+==143== When thou hold’st up thy hand. O, let me kiss
+==144== This princess of pure white, this seal of bliss!
 
 **HEL.**
-O spite! O hell! I see you all are bent
-To set against me for your merriment.
-If you were civil and knew courtesy,
-You would not do me thus much injury.
-Can you not hate me, as I know you do,
-But you must join in souls to mock me too?
-If you were men, as men you are in show,
-You would not use a gentle lady so;
-To vow, and swear, and superpraise my parts,
-When I am sure you hate me with your hearts.
-You both are rivals, and love Hermia;
-And now both rivals, to mock Helena.
-A trim exploit, a manly enterprise,
-To conjure tears up in a poor maid’s eyes
-With your derision! None of noble sort
-Would so offend a virgin, and extort
-A poor soul’s patience, all to make you sport.
+==145== O spite! O hell! I see you all are bent
+==146== To set against me for your merriment.
+==147== If you were civil and knew courtesy,
+==148== You would not do me thus much injury.
+==149== Can you not hate me, as I know you do,
+==150== But you must join in souls to mock me too?
+==151== If you were men, as men you are in show,
+==152== You would not use a gentle lady so;
+==153== To vow, and swear, and superpraise my parts,
+==154== When I am sure you hate me with your hearts.
+==155== You both are rivals, and love Hermia;
+==156== And now both rivals, to mock Helena.
+==157== A trim exploit, a manly enterprise,
+==158== To conjure tears up in a poor maid’s eyes
+==159== With your derision! None of noble sort
+==160== Would so offend a virgin, and extort
+==161== A poor soul’s patience, all to make you sport.
 
 **LYS.**
-You are unkind, Demetrius; be not so;
-For you love Hermia; this you know I know.
-And here, with all good will, with all my heart,
-In Hermia’s love I yield you up my part;
-And yours of Helena to me bequeath,
-Whom I do love, and will do till my death.
+==162== You are unkind, Demetrius; be not so;
+==163== For you love Hermia; this you know I know.
+==164== And here, with all good will, with all my heart,
+==165== In Hermia’s love I yield you up my part;
+==166== And yours of Helena to me bequeath,
+==167== Whom I do love, and will do till my death.
 
 **HEL.**
-Never did mockers waste more idle breath.
+==168== Never did mockers waste more idle breath.
 
 **DEM.**
-Lysander, keep thy Hermia; I will none.
-If e’er I lov’d her, all that love is gone.
-My heart to her but as guest-wise sojourn’d,
-And now to Helen is it home return’d,
-There to remain.
+==169== Lysander, keep thy Hermia; I will none.
+==170== If e’er I lov’d her, all that love is gone.
+==171== My heart to her but as guest-wise sojourn’d,
+==172== And now to Helen is it home return’d,
+==173== There to remain.
 
 **LYS.**
-           Helen, it is not so.
+==173==            Helen, it is not so.
 
 **DEM.**
-Disparage not the faith thou dost not know,
-Lest, to thy peril, thou aby it dear.
-Look where thy love comes; yonder is thy dear.
+==174== Disparage not the faith thou dost not know,
+==175== Lest, to thy peril, thou aby it dear.
+==176== Look where thy love comes; yonder is thy dear.
 
 *Enter Hermia.*
 
 **HER.**
-Dark night, that from the eye his function takes,
-The ear more quick of apprehension makes;
-Wherein it doth impair the seeing sense,
-It pays the hearing double recompense,
-Thou art not by mine eye, Lysander, found;
-Mine ear, I thank it, brought me to thy sound.
-But why unkindly didst thou leave me so?
+==177== Dark night, that from the eye his function takes,
+==178== The ear more quick of apprehension makes;
+==179== Wherein it doth impair the seeing sense,
+==180== It pays the hearing double recompense,
+==181== Thou art not by mine eye, Lysander, found;
+==182== Mine ear, I thank it, brought me to thy sound.
+==183== But why unkindly didst thou leave me so?
 
 **LYS.**
-Why should he stay, whom love doth press to go?
+==184== Why should he stay, whom love doth press to go?
 
 **HER.**
-What love could press Lysander from my side?
+==185== What love could press Lysander from my side?
 
 **LYS.**
-Lysander’s love, that would not let him bide⁠—
-Fair Helena! Who more engilds the night
-Than all yon fiery oes and eyes of light.
-Why seek’st thou me? Could not this make thee know,
-The hate I bare thee made me leave thee so?
+==186== Lysander’s love, that would not let him bide⁠—
+==187== Fair Helena! Who more engilds the night
+==188== Than all yon fiery oes and eyes of light.
+==189== Why seek’st thou me? Could not this make thee know,
+==190== The hate I bare thee made me leave thee so?
 
 **HER.**
-You speak not as you think. It cannot be.
+==191== You speak not as you think. It cannot be.
 
 **HEL.**
-Lo! She is one of this confederacy.
-Now I perceive, they have conjoin’d all three
-To fashion this false sport, in spite of me.
-Injurious Hermia, most ungrateful maid!
-Have you conspir’d, have you with these contriv’d
-To bait me with this foul derision?
-Is all the counsel that we two have shar’d,
-The sisters’ vows, the hours that we have spent,
-When we have chid the hasty-footed time
-For parting us—O, is all forgot?
-All school-days friendship, childhood innocence?
-We, Hermia, like two artificial gods,
-Have with our needles created both one flower,
-Both on one sampler, sitting on one cushion,
-Both warbling of one song, both in one key,
-As if our hands, our sides, voices, and minds
-Had been incorporate. So we grew together,
-Like to a double cherry, seeming parted,
-But yet an union in partition,
-Two lovely berries moulded on one stem;
-So with two seeming bodies, but one heart,
-Two of the first, like coats in heraldry,
-Due but to one, and crowned with one crest.
-And will you rent our ancient love asunder,
-To join with men in scorning your poor friend?
-It is not friendly, ’tis not maidenly.
-Our sex, as well as I, may chide you for it,
-Though I alone do feel the injury.
+==192== Lo! She is one of this confederacy.
+==193== Now I perceive, they have conjoin’d all three
+==194== To fashion this false sport, in spite of me.
+==195== Injurious Hermia, most ungrateful maid!
+==196== Have you conspir’d, have you with these contriv’d
+==197== To bait me with this foul derision?
+==198== Is all the counsel that we two have shar’d,
+==199== The sisters’ vows, the hours that we have spent,
+==200== When we have chid the hasty-footed time
+==201== For parting us—O, is all forgot?
+==202== All school-days friendship, childhood innocence?
+==203== We, Hermia, like two artificial gods,
+==204== Have with our needles created both one flower,
+==205== Both on one sampler, sitting on one cushion,
+==206== Both warbling of one song, both in one key,
+==207== As if our hands, our sides, voices, and minds
+==208== Had been incorporate. So we grew together,
+==209== Like to a double cherry, seeming parted,
+==210== But yet an union in partition,
+==211== Two lovely berries moulded on one stem;
+==212== So with two seeming bodies, but one heart,
+==213== Two of the first, like coats in heraldry,
+==214== Due but to one, and crowned with one crest.
+==215== And will you rent our ancient love asunder,
+==216== To join with men in scorning your poor friend?
+==217== It is not friendly, ’tis not maidenly.
+==218== Our sex, as well as I, may chide you for it,
+==219== Though I alone do feel the injury.
 
 **HER.**
-I am amazed at your passionate words.
-I scorn you not; it seems that you scorn me.
+==220== I am amazed at your passionate words.
+==221== I scorn you not; it seems that you scorn me.
 
 **HEL.**
-Have you not set Lysander, as in scorn,
-To follow me and praise my eyes and face?
-And made your other love, Demetrius
-(Who even but now did spurn me with his foot),
-To call me goddess, nymph, divine and rare,
-Precious, celestial? Wherefore speaks he this
-To her he hates? And wherefore doth Lysander
-Deny your love (so rich within his soul) 
-And tender me (forsooth) affection,
-But by your setting on, by your consent?
-What though I be not so in grace as you,
-So hung upon with love, so fortunate
-(But miserable most, to love unlov’d)?
-This you should pity rather than despise.
+==222== Have you not set Lysander, as in scorn,
+==223== To follow me and praise my eyes and face?
+==224== And made your other love, Demetrius
+==225== (Who even but now did spurn me with his foot),
+==226== To call me goddess, nymph, divine and rare,
+==227== Precious, celestial? Wherefore speaks he this
+==228== To her he hates? And wherefore doth Lysander
+==229== Deny your love (so rich within his soul) 
+==230== And tender me (forsooth) affection,
+==231== But by your setting on, by your consent?
+==232== What though I be not so in grace as you,
+==233== So hung upon with love, so fortunate
+==234== (But miserable most, to love unlov’d)?
+==235== This you should pity rather than despise.
 
 **HER.**
-I understand not what you mean by this.
+==236== I understand not what you mean by this.
 
 **HEL.**
-Ay, do! Persever, counterfeit sad looks,
-Make mouths upon me when I turn my back,
-Wink each at other, hold the sweet jest up;
-This sport, well carried, shall be chronicled.
-If you have any pity, grace, or manners,
-You would not make me such an argument.
-But fare ye well; ’tis partly my own fault,
-Which death, or absence, soon shall remedy.
+==237== Ay, do! Persever, counterfeit sad looks,
+==238== Make mouths upon me when I turn my back,
+==239== Wink each at other, hold the sweet jest up;
+==240== This sport, well carried, shall be chronicled.
+==241== If you have any pity, grace, or manners,
+==242== You would not make me such an argument.
+==243== But fare ye well; ’tis partly my own fault,
+==244== Which death, or absence, soon shall remedy.
 
 **LYS.**
-Stay, gentle Helena; hear my excuse,
-My love, my life, my soul, fair Helena!
+==245== Stay, gentle Helena; hear my excuse,
+==246== My love, my life, my soul, fair Helena!
 
 **HEL.**
-O excellent!
+==247== O excellent!
 
 **HER.**
-        Sweet, do not scorn her so.
+==247==         Sweet, do not scorn her so.
 
 **DEM.**
-If she cannot entreat, I can compel.
+==248== If she cannot entreat, I can compel.
 
 **LYS.**
-Thou canst compel no more than she entreat.
-Thy threats have no more strength than her weak prays.
-Helen, I love thee, by my life I do!
-I swear by that which I will lose for thee,
-To prove him false that says I love thee not.
+==249== Thou canst compel no more than she entreat.
+==250== Thy threats have no more strength than her weak prays.
+==251== Helen, I love thee, by my life I do!
+==252== I swear by that which I will lose for thee,
+==253== To prove him false that says I love thee not.
 
 **DEM.**
-I say I love thee more than he can do.
+==254== I say I love thee more than he can do.
 
 **LYS.**
-If thou say so, withdraw, and prove it too.
+==255== If thou say so, withdraw, and prove it too.
 
 **DEM.**
-Quick, come!
+==256== Quick, come!
 
 **HER.**
-        Lysander, whereto tends all this?
+==256==         Lysander, whereto tends all this?
 
 **LYS.**
-Away, you Ethiop!
+==257== Away, you Ethiop!
 
 **DEM.**
-           No, no; he’ll
-Seem to break loose—take on as you would follow,
-But yet come not. You are a tame man, go!
+==257==            No, no; he’ll
+==258== Seem to break loose—take on as you would follow,
+==259== But yet come not. You are a tame man, go!
 
 **LYS.**
-Hang off, thou cat, thou bur! Vile thing, let loose;
-Or I will shake thee from me like a serpent!
+==260== Hang off, thou cat, thou bur! Vile thing, let loose;
+==261== Or I will shake thee from me like a serpent!
 
 **HER.**
-Why are you grown so rude? What change is this,
-Sweet love?
+==262== Why are you grown so rude? What change is this,
+==263== Sweet love?
 
 **LYS.**
-        Thy love? Out, tawny Tartar, out!
-Out, loathed med’cine! O hated potion, hence!
+==263==         Thy love? Out, tawny Tartar, out!
+==264== Out, loathed med’cine! O hated potion, hence!
 
 **HER.**
-Do you not jest?
+==265== Do you not jest?
 
 **HEL.**
-           Yes, sooth; and so do you.
+==265==            Yes, sooth; and so do you.
 
 **LYS.**
-Demetrius, I will keep my word with thee.
+==266== Demetrius, I will keep my word with thee.
 
 **DEM.**
-I would I had your bond, for I perceive
-A weak bond holds you. I’ll not trust your word.
+==267== I would I had your bond, for I perceive
+==268== A weak bond holds you. I’ll not trust your word.
 
 **LYS.**
-What? Should I hurt her, strike her, kill her dead?
-Although I hate her, I’ll not harm her so.
+==269== What? Should I hurt her, strike her, kill her dead?
+==270== Although I hate her, I’ll not harm her so.
 
 **HER.**
-What? Can you do me greater harm than hate?
-Hate me, wherefore? O me, what news, my love!
-Am not I Hermia? Are not you Lysander?
-I am as fair now as I was erewhile.
-Since night you lov’d me; yet since night you left me:
-Why then, you left me (O, the gods forbid!) 
-In earnest, shall I say?
+==271== What? Can you do me greater harm than hate?
+==272== Hate me, wherefore? O me, what news, my love!
+==273== Am not I Hermia? Are not you Lysander?
+==274== I am as fair now as I was erewhile.
+==275== Since night you lov’d me; yet since night you left me:
+==276== Why then, you left me (O, the gods forbid!) 
+==277== In earnest, shall I say?
 
 **LYS.**
-           Ay, by my life;
-And never did desire to see thee more.
-Therefore be out of hope, of question, of doubt;
-Be certain! Nothing truer; ’tis no jest
-That I do hate thee, and love Helena.
+==277==            Ay, by my life;
+==278== And never did desire to see thee more.
+==279== Therefore be out of hope, of question, of doubt;
+==280== Be certain! Nothing truer; ’tis no jest
+==281== That I do hate thee, and love Helena.
 
 **HER.**
-O me, you juggler, you canker-blossom,
-You thief of love! What, have you come by night
-And stol’n my love’s heart from him?
+==282== O me, you juggler, you canker-blossom,
+==283== You thief of love! What, have you come by night
+==284== And stol’n my love’s heart from him?
 
 **HEL.**
-                     Fine, i’ faith!
-Have you no modesty, no maiden shame,
-No touch of bashfulness? What, will you tear
-Impatient answers from my gentle tongue?
-Fie, fie, you counterfeit, you puppet, you!
+==284==                      Fine, i’ faith!
+==285== Have you no modesty, no maiden shame,
+==286== No touch of bashfulness? What, will you tear
+==287== Impatient answers from my gentle tongue?
+==288== Fie, fie, you counterfeit, you puppet, you!
 
 **HER.**
-“Puppet”? Why so? Ay, that way goes the game.
-Now I perceive that she hath made compare
-Between our statures: she hath urg’d her height,
-And with her personage, her tall personage,
-Her height, forsooth, she hath prevail’d with him.
-And are you grown so high in his esteem,
-Because I am so dwarfish and so low?
-How low am I, thou painted maypole? Speak!
-How low am I? I am not yet so low
-But that my nails can reach unto thine eyes.
+==289== “Puppet”? Why so? Ay, that way goes the game.
+==290== Now I perceive that she hath made compare
+==291== Between our statures: she hath urg’d her height,
+==292== And with her personage, her tall personage,
+==293== Her height, forsooth, she hath prevail’d with him.
+==294== And are you grown so high in his esteem,
+==295== Because I am so dwarfish and so low?
+==296== How low am I, thou painted maypole? Speak!
+==297== How low am I? I am not yet so low
+==298== But that my nails can reach unto thine eyes.
 
 **HEL.**
-I pray you, though you mock me, gentlemen,
-Let her not hurt me. I was never curst;
-I have no gift at all in shrewishness;
-I am a right maid for my cowardice.
-Let her not strike me. You perhaps may think,
-Because she is something lower than myself,
-That I can match her.
+==299== I pray you, though you mock me, gentlemen,
+==300== Let her not hurt me. I was never curst;
+==301== I have no gift at all in shrewishness;
+==302== I am a right maid for my cowardice.
+==303== Let her not strike me. You perhaps may think,
+==304== Because she is something lower than myself,
+==305== That I can match her.
 
 **HER.**
-           “Lower”? Hark again.
+==305==            “Lower”? Hark again.
 
 **HEL.**
-Good Hermia, do not be so bitter with me.
-I evermore did love you, Hermia,
-Did ever keep your counsels, never wrong’d you;
-Save that, in love unto Demetrius,
-I told him of your stealth unto this wood.
-He followed you; for love I followed him.
-But he hath chid me hence, and threat’ned me
-To strike me, spurn me, nay, to kill me too.
-And now, so you will let me quiet go,
-To Athens will I bear my folly back,
-And follow you no further. Let me go.
-You see how simple and how fond I am.
+==306== Good Hermia, do not be so bitter with me.
+==307== I evermore did love you, Hermia,
+==308== Did ever keep your counsels, never wrong’d you;
+==309== Save that, in love unto Demetrius,
+==310== I told him of your stealth unto this wood.
+==311== He followed you; for love I followed him.
+==312== But he hath chid me hence, and threat’ned me
+==313== To strike me, spurn me, nay, to kill me too.
+==314== And now, so you will let me quiet go,
+==315== To Athens will I bear my folly back,
+==316== And follow you no further. Let me go.
+==317== You see how simple and how fond I am.
 
 **HER.**
-Why, get you gone. Who is’t that hinders you?
+==318== Why, get you gone. Who is’t that hinders you?
 
 **HEL.**
-A foolish heart, that I leave here behind.
+==319== A foolish heart, that I leave here behind.
 
 **HER.**
-What, with Lysander?
+==320== What, with Lysander?
 
 **HEL.**
-              With Demetrius.
+==320==               With Demetrius.
 
 **LYS.**
-Be not afraid; she shall not harm thee, Helena.
+==321== Be not afraid; she shall not harm thee, Helena.
 
 **DEM.**
-No, sir; she shall not, though you take her part.
+==322== No, sir; she shall not, though you take her part.
 
 **HEL.**
-O, when she is angry, she is keen and shrewd!
-She was a vixen when she went to school;
-And though she be but little, she is fierce.
+==323== O, when she is angry, she is keen and shrewd!
+==324== She was a vixen when she went to school;
+==325== And though she be but little, she is fierce.
 
 **HER.**
-“Little” again? Nothing but “low” and “little”?
-Why will you suffer her to flout me thus?
-Let me come to her.
+==326== “Little” again? Nothing but “low” and “little”?
+==327== Why will you suffer her to flout me thus?
+==328== Let me come to her.
 
 **LYS.**
-           Get you gone, you dwarf;
-You minimus, of hind’ring knot-grass made;
-You bead, you acorn.
+==328==            Get you gone, you dwarf;
+==329== You minimus, of hind’ring knot-grass made;
+==330== You bead, you acorn.
 
 **DEM.**
-           You are too officious
-In her behalf that scorns your services.
-Let her alone; speak not of Helena,
-Take not her part. For if thou dost intend
-Never so little show of love to her,
-Thou shalt aby it.
+==330==            You are too officious
+==331== In her behalf that scorns your services.
+==332== Let her alone; speak not of Helena,
+==333== Take not her part. For if thou dost intend
+==334== Never so little show of love to her,
+==335== Thou shalt aby it.
 
 **LYS.**
-           Now she holds me not;
-Now follow, if thou dar’st, to try whose right,
-Of thine or mine, is most in Helena.
+==335==            Now she holds me not;
+==336== Now follow, if thou dar’st, to try whose right,
+==337== Of thine or mine, is most in Helena.
 
 **DEM.**
-Follow? Nay; I’ll go with thee, cheek by jowl.
+==338== Follow? Nay; I’ll go with thee, cheek by jowl.
 
 *Exeunt Lysander and Demetrius.*
 
 **HER.**
-You, mistress, all this coil is long of you.
-Nay, go not back.
+==339== You, mistress, all this coil is long of you.
+==340== Nay, go not back.
 
 **HEL.**
-           I will not trust you, I,
-Nor longer stay in your curst company.
-Your hands than mine are quicker for a fray;
-My legs are longer though, to run away.
+==340==            I will not trust you, I,
+==341== Nor longer stay in your curst company.
+==342== Your hands than mine are quicker for a fray;
+==343== My legs are longer though, to run away.
 
 *Exit.*
 
 **HER.**
-I am amaz’d, and know not what to say.
+==344== I am amaz’d, and know not what to say.
 
 *Exit.*
 
 **OBE.**
-This is thy negligence. Still thou mistak’st,
-Or else commit’st thy knaveries willfully.
+==345== This is thy negligence. Still thou mistak’st,
+==346== Or else commit’st thy knaveries willfully.
 
 **PUCK.**
-Believe me, king of shadows, I mistook.
-Did not you tell me I should know the man
-By the Athenian garments he had on?
-And so far blameless proves my enterprise,
-That I have ’nointed an Athenian’s eyes;
-And so far am I glad it so did sort,
-As this their jangling I esteem a sport.
+==347== Believe me, king of shadows, I mistook.
+==348== Did not you tell me I should know the man
+==349== By the Athenian garments he had on?
+==350== And so far blameless proves my enterprise,
+==351== That I have ’nointed an Athenian’s eyes;
+==352== And so far am I glad it so did sort,
+==353== As this their jangling I esteem a sport.
 
 **OBE.**
-Thou seest these lovers seek a place to fight;
-Hie therefore, Robin, overcast the night;
-The starry welkin cover thou anon
-With drooping fog as black as Acheron,
-And lead these testy rivals so astray
-As one come not within another’s way.
-Like to Lysander sometime frame thy tongue;
-Then stir Demetrius up with bitter wrong;
-And sometime rail thou like Demetrius;
-And from each other look thou lead them thus,
-Till o’er their brows death-counterfeiting sleep
-With leaden legs and batty wings doth creep.
-Then crush this herb into Lysander’s eye;
-Whose liquor hath this virtuous property,
-To take from thence all error with his might,
-And make his eyeballs roll with wonted sight.
-When they next wake, all this derision
-Shall seem a dream and fruitless vision,
-And back to Athens shall the lovers wend
-With league whose date till death shall never end.
-Whiles I in this affair do thee employ,
-I’ll to my queen and beg her Indian boy;
-And then I will her charmed eye release
-From monster’s view, and all things shall be peace.
+==354== Thou seest these lovers seek a place to fight;
+==355== Hie therefore, Robin, overcast the night;
+==356== The starry welkin cover thou anon
+==357== With drooping fog as black as Acheron,
+==358== And lead these testy rivals so astray
+==359== As one come not within another’s way.
+==360== Like to Lysander sometime frame thy tongue;
+==361== Then stir Demetrius up with bitter wrong;
+==362== And sometime rail thou like Demetrius;
+==363== And from each other look thou lead them thus,
+==364== Till o’er their brows death-counterfeiting sleep
+==365== With leaden legs and batty wings doth creep.
+==366== Then crush this herb into Lysander’s eye;
+==367== Whose liquor hath this virtuous property,
+==368== To take from thence all error with his might,
+==369== And make his eyeballs roll with wonted sight.
+==370== When they next wake, all this derision
+==371== Shall seem a dream and fruitless vision,
+==372== And back to Athens shall the lovers wend
+==373== With league whose date till death shall never end.
+==374== Whiles I in this affair do thee employ,
+==375== I’ll to my queen and beg her Indian boy;
+==376== And then I will her charmed eye release
+==377== From monster’s view, and all things shall be peace.
 
 **PUCK.**
-My fairy lord, this must be done with haste,
-For Night’s swift dragons cut the clouds full fast,
-And yonder shines Aurora’s harbinger,
-At whose approach, ghosts, wand’ring here and there,
-Troop home to churchyards. Damned spirits all,
-That in crossways and floods have burial,
-Already to their wormy beds are gone.
-For fear lest day should look their shames upon,
-They willfully themselves exile from light,
-And must for aye consort with black-brow’d Night.
+==378== My fairy lord, this must be done with haste,
+==379== For Night’s swift dragons cut the clouds full fast,
+==380== And yonder shines Aurora’s harbinger,
+==381== At whose approach, ghosts, wand’ring here and there,
+==382== Troop home to churchyards. Damned spirits all,
+==383== That in crossways and floods have burial,
+==384== Already to their wormy beds are gone.
+==385== For fear lest day should look their shames upon,
+==386== They willfully themselves exile from light,
+==387== And must for aye consort with black-brow’d Night.
 
 **OBE.**
-But we are spirits of another sort.
-I with the Morning’s love have oft made sport,
-And like a forester, the groves may tread
-Even till the eastern gate, all fiery red,
-Opening on Neptune with fair blessed beams,
-Turns into yellow gold his salt green streams.
-But notwithstanding, haste, make no delay;
-We may effect this business yet ere day.
+==388== But we are spirits of another sort.
+==389== I with the Morning’s love have oft made sport,
+==390== And like a forester, the groves may tread
+==391== Even till the eastern gate, all fiery red,
+==392== Opening on Neptune with fair blessed beams,
+==393== Turns into yellow gold his salt green streams.
+==394== But notwithstanding, haste, make no delay;
+==395== We may effect this business yet ere day.
 
 *Exit.*
 
 **PUCK.**
-*Up and down, up and down,*
-*I will lead them up and down;*
-*I am fear’d in field and town.*
-*Goblin, lead them up and down.*
-Here comes one.
+==396== *Up and down, up and down,*
+==397== *I will lead them up and down;*
+==398== *I am fear’d in field and town.*
+==399== *Goblin, lead them up and down.*
+==400== Here comes one.
 
 *Enter Lysander.*
 
 **LYS.**
-Where art thou, proud Demetrius? Speak thou now.
+==401== Where art thou, proud Demetrius? Speak thou now.
 
 **PUCK.**
-Here, villain, drawn and ready. Where art thou?
+==402== Here, villain, drawn and ready. Where art thou?
 
 **LYS.**
-I will be with thee straight.
+==403== I will be with thee straight.
 
 **PUCK.**
-              Follow me then
-To plainer ground.
+==403==               Follow me then
+==404== To plainer ground.
 
 *Exit Lysander, as following the voice.*
 
 *Enter Demetrius.*
 
 **DEM.**
-           Lysander, speak again!
-Thou runaway, thou coward, art thou fled?
-Speak! In some bush? Where dost thou hide thy head?
+==404==            Lysander, speak again!
+==405== Thou runaway, thou coward, art thou fled?
+==406== Speak! In some bush? Where dost thou hide thy head?
 
 **PUCK.**
-Thou coward, art thou bragging to the stars,
-Telling the bushes that thou look’st for wars,
-And wilt not come? Come, recreant, come, thou child,
-I’ll whip thee with a rod. He is defil’d
-That draws a sword on thee.
+==407== Thou coward, art thou bragging to the stars,
+==408== Telling the bushes that thou look’st for wars,
+==409== And wilt not come? Come, recreant, come, thou child,
+==410== I’ll whip thee with a rod. He is defil’d
+==411== That draws a sword on thee.
 
 **DEM.**
-                Yea, art thou there?
+==411==                 Yea, art thou there?
 
 **PUCK.**
-Follow my voice; we’ll try no manhood here.
+==412== Follow my voice; we’ll try no manhood here.
 
 *Exeunt.*
 
 *Enter Lysander.*
 
 **LYS.**
-He goes before me, and still dares me on.
-When I come where he calls, then he is gone.
-The villain is much lighter-heel’d than I;
-I followed fast, but faster he did fly,
-That fallen am I in dark uneven way,
-And here will rest me.
+==413== He goes before me, and still dares me on.
+==414== When I come where he calls, then he is gone.
+==415== The villain is much lighter-heel’d than I;
+==416== I followed fast, but faster he did fly,
+==417== That fallen am I in dark uneven way,
+==418== And here will rest me.
 *(Lie down.)*
-              Come, thou gentle day!
-For if but once thou show me thy grey light,
-I’ll find Demetrius and revenge this spite.
+==418==               Come, thou gentle day!
+==419== For if but once thou show me thy grey light,
+==420== I’ll find Demetrius and revenge this spite.
 
 *Sleeps.*
 
 *Enter Puck and Demetrius.*
 
 **PUCK.**
-Ho, ho, ho! Coward, why com’st thou not?
+==421== Ho, ho, ho! Coward, why com’st thou not?
 
 **DEM.**
-Abide me, if thou dar’st; for well I wot
-Thou run’st before me, shifting every place,
-And dar’st not stand, nor look me in the face.
-Where art thou now?
+==422== Abide me, if thou dar’st; for well I wot
+==423== Thou run’st before me, shifting every place,
+==424== And dar’st not stand, nor look me in the face.
+==425== Where art thou now?
 
 **PUCK.**
-           Come hither; I am here.
+==425==            Come hither; I am here.
 
 **DEM.**
-Nay then thou mock’st me. Thou shalt buy this dear,
-If ever I thy face by daylight see.
-Now, go thy way. Faintness constraineth me
-To measure out my length on this cold bed.
-By day’s approach look to be visited.
+==426== Nay then thou mock’st me. Thou shalt buy this dear,
+==427== If ever I thy face by daylight see.
+==428== Now, go thy way. Faintness constraineth me
+==429== To measure out my length on this cold bed.
+==430== By day’s approach look to be visited.
 
 *Lies down and sleeps.*
 
 *Enter Helena.*
 
 **HEL.**
-O weary night, O long and tedious night,
-Abate thy hours! Shine, comforts, from the east,
-That I may back to Athens by daylight,
-From these that my poor company detest.
-And sleep, that sometimes shuts up sorrow’s eye,
-Steal me a while from mine own company.
+==431== O weary night, O long and tedious night,
+==432== Abate thy hours! Shine, comforts, from the east,
+==433== That I may back to Athens by daylight,
+==434== From these that my poor company detest.
+==435== And sleep, that sometimes shuts up sorrow’s eye,
+==436== Steal me a while from mine own company.
 
 *Sleep.*
 
 **PUCK.**
-*Yet but three? Come one more;*
-*Two of both kinds makes up four.*
+==437== *Yet but three? Come one more;*
+==438== *Two of both kinds makes up four.*
 *(Enter Hermia.)*
-*Here she comes, curst and sad.*
-*Cupid is a knavish lad,*
-*Thus to make poor females mad.*
+==439== *Here she comes, curst and sad.*
+==440== *Cupid is a knavish lad,*
+==441== *Thus to make poor females mad.*
 
 **HER.**
-Never so weary, never so in woe,
-Bedabbled with the dew and torn with briers,
-I can no further crawl, no further go;
-My legs can keep no pace with my desires.
-Here will I rest me till the break of day.
-Heavens shield Lysander, if they mean a fray!
+==442== Never so weary, never so in woe,
+==443== Bedabbled with the dew and torn with briers,
+==444== I can no further crawl, no further go;
+==445== My legs can keep no pace with my desires.
+==446== Here will I rest me till the break of day.
+==447== Heavens shield Lysander, if they mean a fray!
 
 *Lies down and sleeps.*
 
 **PUCK.**
-*On the ground,*
-*Sleep sound;*
-*I’ll apply,*
-*To your eye,*
-Gentle lover, remedy.
+==448== *On the ground,*
+==449== *Sleep sound;*
+==450== *I’ll apply,*
+==451== *To your eye,*
+==452== Gentle lover, remedy.
 *(Squeezing the juice on Lysander’s eyes.)*
-*When thou wak’st,*
-*Thou tak’st*
-*True delight*
-*In the sight*
-Of thy former lady’s eye;
-And the country proverb known,
-That every man should take his own,
-In your waking shall be shown.
-*Jack shall have Jill;*
-*Nought shall go ill:*
-The man shall have his mare again, and all shall be well.
+==453== *When thou wak’st,*
+==454== *Thou tak’st*
+==455== *True delight*
+==456== *In the sight*
+==457== Of thy former lady’s eye;
+==458== And the country proverb known,
+==459== That every man should take his own,
+==460== In your waking shall be shown.
+==461== *Jack shall have Jill;*
+==462== *Nought shall go ill:*
+==463== The man shall have his mare again, and all shall be well.
 
 *Exit.*
 

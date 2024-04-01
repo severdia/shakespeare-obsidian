@@ -23,34 +23,34 @@ ID: sir-thomas-more-2-1
 *Enter three or four Apprentices of trades, with a pair of cudgels.*
 
 **HARRY.**
-Come, lay down the cudgels. Ho, Robin, you met us well at Bunhill, to have you with us a Maying this morning.
+==1== Come, lay down the cudgels. Ho, Robin, you met us well at Bunhill, to have you with us a Maying this morning.
 
 **ROBIN.**
-Faith, Harry, the head drawer at the Miter by the great Conduit called me up, and we went to breakfast into St. Anne’s Lane. But come, who begins? In good faith, I am clean out of practice. When wast at Garret’s school, Harry?
+==2== Faith, Harry, the head drawer at the Miter by the great Conduit called me up, and we went to breakfast into St. Anne’s Lane. But come, who begins? In good faith, I am clean out of practice. When wast at Garret’s school, Harry?
 
 **HARRY.**
-Not this great while, never since I brake his usher’s head, when he played his scholar’s prize at the Star in Bread Street. I use all to George Philpot’s at Dowgate; he’s the best backswordman in England.
+==3== Not this great while, never since I brake his usher’s head, when he played his scholar’s prize at the Star in Bread Street. I use all to George Philpot’s at Dowgate; he’s the best backswordman in England.
 
 **KIT.**
-“Bate me an ace of that,” quoth Bolton.
+==4== “Bate me an ace of that,” quoth Bolton.
 
 **HARRY.**
-I’ll not bate ye a pin on’t, sir; for, by this cudgel, ’tis true.
+==5== I’ll not bate ye a pin on’t, sir; for, by this cudgel, ’tis true.
 
 **KIT.**
-I will cudgel that opinion out of ye. Did you break an usher’s head, sir?
+==6== I will cudgel that opinion out of ye. Did you break an usher’s head, sir?
 
 **HARRY.**
-Aye, marry, did I, sir.
+==7== Aye, marry, did I, sir.
 
 **KIT.**
-I am very glad on ’t. You shall break mine too, and ye can.
+==8== I am very glad on ’t. You shall break mine too, and ye can.
 
 **HARRY.**
-Sirrah, I prithee, what art thou?
+==9== Sirrah, I prithee, what art thou?
 
 **KIT.**
-Why, I am a prentice as thou art; seest thou now? I’ll play with thee at blunt here in Cheapside, and when thou hast done, if thou beest angry, I’ll fight with thee at sharp in More fields. I have a sword to serve my turn in a favor...come Julie, to serve...
+==10== Why, I am a prentice as thou art; seest thou now? I’ll play with thee at blunt here in Cheapside, and when thou hast done, if thou beest angry, I’ll fight with thee at sharp in More fields. I have a sword to serve my turn in a favor...come Julie, to serve...
 
 *Exeunt.*
 

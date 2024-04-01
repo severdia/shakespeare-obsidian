@@ -22,47 +22,47 @@ ID: king-lear-1-3
 *Enter Goneril and Steward Oswald.*
 
 **GON.**
-Did my father strike my gentleman for chiding of his Fool?
+==1== Did my father strike my gentleman for chiding of his Fool?
 
 **OSW.**
-Ay, madam.
+==2== Ay, madam.
 
 **GON.**
-By day and night he wrongs me, every hour
-He flashes into one gross crime or other
-That sets us all at odds. I’ll not endure it.
-His knights grow riotous, and himself upbraids us
-On every trifle. When he returns from hunting,
-I will not speak with him; say I am sick.
-If you come slack of former services,
-You shall do well; the fault of it I’ll answer.
+==3== By day and night he wrongs me, every hour
+==4== He flashes into one gross crime or other
+==5== That sets us all at odds. I’ll not endure it.
+==6== His knights grow riotous, and himself upbraids us
+==7== On every trifle. When he returns from hunting,
+==8== I will not speak with him; say I am sick.
+==9== If you come slack of former services,
+==10== You shall do well; the fault of it I’ll answer.
 
 *Horns within.*
 
 **OSW.**
-He’s coming, madam, I hear him.
+==11== He’s coming, madam, I hear him.
 
 **GON.**
-Put on what weary negligence you please,
-You and your fellows; I’d have it come to question.
-If he distaste it, let him to my sister,
-Whose mind and mine I know in that are one,
-Not to be overrul’d. Idle old man,
-That still would manage those authorities
-That he hath given away! Now by my life
-Old fools are babes again, and must be us’d
-With checks as flatteries, when they are seen abus’d.
-Remember what I have said.
+==12== Put on what weary negligence you please,
+==13== You and your fellows; I’d have it come to question.
+==14== If he distaste it, let him to my sister,
+==15== Whose mind and mine I know in that are one,
+==16== Not to be overrul’d. Idle old man,
+==17== That still would manage those authorities
+==18== That he hath given away! Now by my life
+==19== Old fools are babes again, and must be us’d
+==20== With checks as flatteries, when they are seen abus’d.
+==21== Remember what I have said.
 
 **OSW.**
-                Well, madam.
+==21==                 Well, madam.
 
 **GON.**
-And let his knights have colder looks among you;
-What grows of it, no matter. Advise your fellows so.
-I would breed from hence occasions, and I shall,
-That I may speak. I’ll write straight to my sister
-To hold my very course. Prepare for dinner.
+==22== And let his knights have colder looks among you;
+==23== What grows of it, no matter. Advise your fellows so.
+==24== I would breed from hence occasions, and I shall,
+==25== That I may speak. I’ll write straight to my sister
+==26== To hold my very course. Prepare for dinner.
 
 *Exeunt.*
 

@@ -21,93 +21,93 @@ ID: troilus-and-cressida-5-6
 *Enter Ajax.*
 
 **AJAX.**
-Troilus, thou coward Troilus, show thy head!
+==1== Troilus, thou coward Troilus, show thy head!
 
 *Enter Diomedes.*
 
 **DIO.**
-Troilus, I say, where’s Troilus?
+==2== Troilus, I say, where’s Troilus?
 
 **AJAX.**
-                What wouldst thou?
+==2==                 What wouldst thou?
 
 **DIO.**
-I would correct him.
+==3== I would correct him.
 
 **AJAX.**
-Were I the general, thou shouldst have my office
-Ere that correction. Troilus, I say, what, Troilus!
+==4== Were I the general, thou shouldst have my office
+==5== Ere that correction. Troilus, I say, what, Troilus!
 
 *Enter Troilus.*
 
 **TRO.**
-O traitor Diomed! Turn thy false face, thou traitor,
-And pay thy life thou owest me for my horse.
+==6== O traitor Diomed! Turn thy false face, thou traitor,
+==7== And pay thy life thou owest me for my horse.
 
 **DIO.**
-Ha, art thou there?
+==8== Ha, art thou there?
 
 **AJAX.**
-I’ll fight with him alone. Stand, Diomed.
+==9== I’ll fight with him alone. Stand, Diomed.
 
 **DIO.**
-He is my prize, I will not look upon.
+==10== He is my prize, I will not look upon.
 
 **TRO.**
-Come both you cogging Greeks, have at you both!
+==11== Come both you cogging Greeks, have at you both!
 
 *Exeunt fighting.*
 
 *Enter Hector.*
 
 **HECT.**
-Yea, Troilus? O, well fought, my youngest brother!
+==12== Yea, Troilus? O, well fought, my youngest brother!
 
 *Enter Achilles.*
 
 **ACHIL.**
-Now do I see thee, ha! Have at thee, Hector!
+==13== Now do I see thee, ha! Have at thee, Hector!
 
 *They fight.*
 
 **HECT.**
-Pause if thou wilt.
+==14== Pause if thou wilt.
 
 **ACHIL.**
-I do disdain thy courtesy, proud Troyan.
-Be happy that my arms are out of use;
-My rest and negligence befriends thee now,
-But thou anon shalt hear of me again;
-Till when, go seek thy fortune.
+==15== I do disdain thy courtesy, proud Troyan.
+==16== Be happy that my arms are out of use;
+==17== My rest and negligence befriends thee now,
+==18== But thou anon shalt hear of me again;
+==19== Till when, go seek thy fortune.
 
 *Exit.*
 
 **HECT.**
-                  Fare thee well.
-I would have been much more a fresher man,
-Had I expected thee. How now, my brother?
+==19==                   Fare thee well.
+==20== I would have been much more a fresher man,
+==21== Had I expected thee. How now, my brother?
 
 *Enter Troilus.*
 
 **TRO.**
-Ajax hath ta’en Aeneas! Shall it be?
-No, by the flame of yonder glorious heaven,
-He shall not carry him; I’ll be ta’en too,
-Or bring him off. Fate, hear me what I say!
-I reck not though I end my life today.
+==22== Ajax hath ta’en Aeneas! Shall it be?
+==23== No, by the flame of yonder glorious heaven,
+==24== He shall not carry him; I’ll be ta’en too,
+==25== Or bring him off. Fate, hear me what I say!
+==26== I reck not though I end my life today.
 
 *Exit.*
 
 *Enter a Greek Knight in armor.*
 
 **HECT.**
-Stand, stand, thou Greek, thou art a goodly mark.
-No? Wilt thou not? I like thy armor well;
-I’ll frush it and unlock the rivets all,
-But I’ll be master of it.
+==27== Stand, stand, thou Greek, thou art a goodly mark.
+==28== No? Wilt thou not? I like thy armor well;
+==29== I’ll frush it and unlock the rivets all,
+==30== But I’ll be master of it.
 *(Exit Greek Knight.)*
-           Wilt thou not, beast, abide?
-Why then fly on, I’ll hunt thee for thy hide.
+==30==            Wilt thou not, beast, abide?
+==31== Why then fly on, I’ll hunt thee for thy hide.
 
 *Exit.*
 

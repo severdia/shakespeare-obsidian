@@ -21,31 +21,31 @@ ID: two-noble-kinsmen-1-5
 
 **ALL QUEENS.**
 *(Song.)*
-*Urns and odors bring away,*
-*Vapors, sighs, darken the day;*
-*Our dole more deadly looks than dying;*
-*Balms, and gums, and heavy cheers,*
-*Sacred vials fill’d with tears,*
-*And clamors through the wild air flying!*
-*Come all sad and solemn shows,*
-*That are quick-ey’d pleasure’s foes!*
-*We convent nought else but woes:*
-*We convent, etc.*
+==1== *Urns and odors bring away,*
+==2== *Vapors, sighs, darken the day;*
+==3== *Our dole more deadly looks than dying;*
+==4== *Balms, and gums, and heavy cheers,*
+==5== *Sacred vials fill’d with tears,*
+==6== *And clamors through the wild air flying!*
+==7== *Come all sad and solemn shows,*
+==8== *That are quick-ey’d pleasure’s foes!*
+==9== *We convent nought else but woes:*
+==10== *We convent, etc.*
 
 **3. QUEEN.**
-This funeral path brings to your household’s grave:
-Joy seize on you again! Peace sleep with him!
+==11== This funeral path brings to your household’s grave:
+==12== Joy seize on you again! Peace sleep with him!
 
 **2. QUEEN.**
-And this to yours.
+==13== And this to yours.
 
 **1. QUEEN.**
-           Yours this way. Heavens lend
-A thousand differing ways to one sure end.
+==13==            Yours this way. Heavens lend
+==14== A thousand differing ways to one sure end.
 
 **3. QUEEN.**
-This world’s a city full of straying streets,
-And death’s the market-place, where each one meets.
+==15== This world’s a city full of straying streets,
+==16== And death’s the market-place, where each one meets.
 
 *Exeunt severally.*
 

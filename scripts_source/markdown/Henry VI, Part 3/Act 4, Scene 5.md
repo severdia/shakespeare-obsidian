@@ -21,63 +21,63 @@ ID: henry-vi-part-iii-4-5
 *Enter Richard of Gloucester, Lord Hastings, and Sir William Stanley.*
 
 **GLOU.**
-Now, my Lord Hastings and Sir William Stanley,
-Leave off to wonder why I drew you hither
-Into this chiefest thicket of the park.
-Thus stands the case: you know our king, my brother,
-Is prisoner to the Bishop here, at whose hands
-He hath good usage and great liberty,
-And often but attended with weak guard,
-Comes hunting this way to disport himself.
-I have advertis’d him by secret means
-That if about this hour he make this way,
-Under the color of his usual game,
-He shall here find his friends with horse and men
-To set him free from his captivity.
+==1== Now, my Lord Hastings and Sir William Stanley,
+==2== Leave off to wonder why I drew you hither
+==3== Into this chiefest thicket of the park.
+==4== Thus stands the case: you know our king, my brother,
+==5== Is prisoner to the Bishop here, at whose hands
+==6== He hath good usage and great liberty,
+==7== And often but attended with weak guard,
+==8== Comes hunting this way to disport himself.
+==9== I have advertis’d him by secret means
+==10== That if about this hour he make this way,
+==11== Under the color of his usual game,
+==12== He shall here find his friends with horse and men
+==13== To set him free from his captivity.
 
 *Enter King Edward, and a Huntsman with him.*
 
 **HUNT.**
-This way, my lord, for this way lies the game.
+==14== This way, my lord, for this way lies the game.
 
 **K. EDW.**
-Nay, this way, man, see where the huntsmen stand.
-Now, brother of Gloucester, Lord Hastings, and the rest,
-Stand you thus close to steal the Bishop’s deer?
+==15== Nay, this way, man, see where the huntsmen stand.
+==16== Now, brother of Gloucester, Lord Hastings, and the rest,
+==17== Stand you thus close to steal the Bishop’s deer?
 
 **GLOU.**
-Brother, the time and case requireth haste,
-Your horse stands ready at the park-corner.
+==18== Brother, the time and case requireth haste,
+==19== Your horse stands ready at the park-corner.
 
 **K. EDW.**
-But whither shall we then?
+==20== But whither shall we then?
 
 **HAST.**
-              To Lynn, my lord⁠—
+==20==               To Lynn, my lord⁠—
 *(To Gloucester.)*
-And shipp’d from thence to Flanders?
+==21== And shipp’d from thence to Flanders?
 
 **GLOU.**
-Well guess’d, believe me, for that was my meaning.
+==22== Well guess’d, believe me, for that was my meaning.
 
 **K. EDW.**
-Stanley, I will requite thy forwardness.
+==23== Stanley, I will requite thy forwardness.
 
 **GLOU.**
-But wherefore stay we? ’Tis no time to talk.
+==24== But wherefore stay we? ’Tis no time to talk.
 
 **K. EDW.**
-Huntsman, what say’st thou? Wilt thou go along?
+==25== Huntsman, what say’st thou? Wilt thou go along?
 
 **HUNT.**
-Better do so than tarry and be hang’d.
+==26== Better do so than tarry and be hang’d.
 
 **GLOU.**
-Come then away, let’s ha’ no more ado.
+==27== Come then away, let’s ha’ no more ado.
 
 **K. EDW.**
-Bishop, farewell! Shield thee from Warwick’s frown,
-And pray that I may repossess the crown.
+==28== Bishop, farewell! Shield thee from Warwick’s frown,
+==29== And pray that I may repossess the crown.
 
 *Exeunt.*
 

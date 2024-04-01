@@ -20,418 +20,418 @@ ID: macbeth-4-3
 *Enter Malcolm and Macduff.*
 
 **MAL.**
-Let us seek out some desolate shade, and there
-Weep our sad bosoms empty.
+==1== Let us seek out some desolate shade, and there
+==2== Weep our sad bosoms empty.
 
 **MACD.**
-                Let us rather
-Hold fast the mortal sword, and like good men
-Bestride our downfall birthdom. Each new morn
-New widows howl, new orphans cry, new sorrows
-Strike heaven on the face, that it resounds
-As if it felt with Scotland, and yell’d out
-Like syllable of dolor.
+==2==                 Let us rather
+==3== Hold fast the mortal sword, and like good men
+==4== Bestride our downfall birthdom. Each new morn
+==5== New widows howl, new orphans cry, new sorrows
+==6== Strike heaven on the face, that it resounds
+==7== As if it felt with Scotland, and yell’d out
+==8== Like syllable of dolor.
 
 **MAL.**
-              What I believe, I’ll wail,
-What know, believe; and what I can redress,
-As I shall find the time to friend, I will.
-What you have spoke, it may be so perchance.
-This tyrant, whose sole name blisters our tongues,
-Was once thought honest; you have lov’d him well;
-He hath not touch’d you yet. I am young, but something
-You may discern of him through me, and wisdom
-To offer up a weak, poor, innocent lamb
-T’ appease an angry god.
+==8==               What I believe, I’ll wail,
+==9== What know, believe; and what I can redress,
+==10== As I shall find the time to friend, I will.
+==11== What you have spoke, it may be so perchance.
+==12== This tyrant, whose sole name blisters our tongues,
+==13== Was once thought honest; you have lov’d him well;
+==14== He hath not touch’d you yet. I am young, but something
+==15== You may discern of him through me, and wisdom
+==16== To offer up a weak, poor, innocent lamb
+==17== T’ appease an angry god.
 
 **MACD.**
-I am not treacherous.
+==18== I am not treacherous.
 
 **MAL.**
-           But Macbeth is.
-A good and virtuous nature may recoil
-In an imperial charge. But I shall crave your pardon;
-That which you are, my thoughts cannot transpose:
-Angels are bright still, though the brightest fell.
-Though all things foul would wear the brows of grace,
-Yet grace must still look so.
+==18==            But Macbeth is.
+==19== A good and virtuous nature may recoil
+==20== In an imperial charge. But I shall crave your pardon;
+==21== That which you are, my thoughts cannot transpose:
+==22== Angels are bright still, though the brightest fell.
+==23== Though all things foul would wear the brows of grace,
+==24== Yet grace must still look so.
 
 **MACD.**
-              I have lost my hopes.
+==24==               I have lost my hopes.
 
 **MAL.**
-Perchance even there where I did find my doubts.
-Why in that rawness left you wife and child,
-Those precious motives, those strong knots of love,
-Without leave-taking? I pray you,
-Let not my jealousies be your dishonors,
-But mine own safeties. You may be rightly just,
-What ever I shall think.
+==25== Perchance even there where I did find my doubts.
+==26== Why in that rawness left you wife and child,
+==27== Those precious motives, those strong knots of love,
+==28== Without leave-taking? I pray you,
+==29== Let not my jealousies be your dishonors,
+==30== But mine own safeties. You may be rightly just,
+==31== What ever I shall think.
 
 **MACD.**
-           Bleed, bleed, poor country!
-Great tyranny, lay thou thy basis sure,
-For goodness dare not check thee; wear thou thy wrongs,
-The title is affeer’d! Fare thee well, lord,
-I would not be the villain that thou think’st
-For the whole space that’s in the tyrant’s grasp,
-And the rich East to boot.
+==31==            Bleed, bleed, poor country!
+==32== Great tyranny, lay thou thy basis sure,
+==33== For goodness dare not check thee; wear thou thy wrongs,
+==34== The title is affeer’d! Fare thee well, lord,
+==35== I would not be the villain that thou think’st
+==36== For the whole space that’s in the tyrant’s grasp,
+==37== And the rich East to boot.
 
 **MAL.**
-              Be not offended;
-I speak not as in absolute fear of you.
-I think our country sinks beneath the yoke:
-It weeps, it bleeds, and each new day a gash
-Is added to her wounds. I think withal
-There would be hands uplifted in my right;
-And here from gracious England have I offer
-Of goodly thousands. But, for all this,
-When I shall tread upon the tyrant’s head,
-Or wear it on my sword, yet my poor country
-Shall have more vices than it had before,
-More suffer, and more sundry ways than ever,
-By him that shall succeed.
+==37==               Be not offended;
+==38== I speak not as in absolute fear of you.
+==39== I think our country sinks beneath the yoke:
+==40== It weeps, it bleeds, and each new day a gash
+==41== Is added to her wounds. I think withal
+==42== There would be hands uplifted in my right;
+==43== And here from gracious England have I offer
+==44== Of goodly thousands. But, for all this,
+==45== When I shall tread upon the tyrant’s head,
+==46== Or wear it on my sword, yet my poor country
+==47== Shall have more vices than it had before,
+==48== More suffer, and more sundry ways than ever,
+==49== By him that shall succeed.
 
 **MACD.**
-              What should he be?
+==49==               What should he be?
 
 **MAL.**
-It is myself I mean; in whom I know
-All the particulars of vice so grafted
-That, when they shall be open’d, black Macbeth
-Will seem as pure as snow, and the poor state
-Esteem him as a lamb, being compar’d
-With my confineless harms.
+==50== It is myself I mean; in whom I know
+==51== All the particulars of vice so grafted
+==52== That, when they shall be open’d, black Macbeth
+==53== Will seem as pure as snow, and the poor state
+==54== Esteem him as a lamb, being compar’d
+==55== With my confineless harms.
 
 **MACD.**
-              Not in the legions
-Of horrid hell can come a devil more damn’d
-In evils to top Macbeth.
+==55==               Not in the legions
+==56== Of horrid hell can come a devil more damn’d
+==57== In evils to top Macbeth.
 
 **MAL.**
-              I grant him bloody,
-Luxurious, avaricious, false, deceitful,
-Sudden, malicious, smacking of every sin
-That has a name; but there’s no bottom, none,
-In my voluptuousness. Your wives, your daughters,
-Your matrons, and your maids could not fill up
-The cistern of my lust, and my desire
-All continent impediments would o’erbear
-That did oppose my will. Better Macbeth
-Than such an one to reign.
+==57==               I grant him bloody,
+==58== Luxurious, avaricious, false, deceitful,
+==59== Sudden, malicious, smacking of every sin
+==60== That has a name; but there’s no bottom, none,
+==61== In my voluptuousness. Your wives, your daughters,
+==62== Your matrons, and your maids could not fill up
+==63== The cistern of my lust, and my desire
+==64== All continent impediments would o’erbear
+==65== That did oppose my will. Better Macbeth
+==66== Than such an one to reign.
 
 **MACD.**
-              Boundless intemperance
-In nature is a tyranny; it hath been
-Th’ untimely emptying of the happy throne,
-And fall of many kings. But fear not yet
-To take upon you what is yours. You may
-Convey your pleasures in a spacious plenty,
-And yet seem cold, the time you may so hoodwink.
-We have willing dames enough; there cannot be
-That vulture in you to devour so many
-As will to greatness dedicate themselves,
-Finding it so inclin’d.
+==66==               Boundless intemperance
+==67== In nature is a tyranny; it hath been
+==68== Th’ untimely emptying of the happy throne,
+==69== And fall of many kings. But fear not yet
+==70== To take upon you what is yours. You may
+==71== Convey your pleasures in a spacious plenty,
+==72== And yet seem cold, the time you may so hoodwink.
+==73== We have willing dames enough; there cannot be
+==74== That vulture in you to devour so many
+==75== As will to greatness dedicate themselves,
+==76== Finding it so inclin’d.
 
 **MAL.**
-           With this, there grows
-In my most ill-compos’d affection such
-A stanchless avarice that, were I king,
-I should cut off the nobles for their lands,
-Desire his jewels, and this other’s house,
-And my more-having would be as a sauce
-To make me hunger more, that I should forge
-Quarrels unjust against the good and loyal,
-Destroying them for wealth.
+==76==            With this, there grows
+==77== In my most ill-compos’d affection such
+==78== A stanchless avarice that, were I king,
+==79== I should cut off the nobles for their lands,
+==80== Desire his jewels, and this other’s house,
+==81== And my more-having would be as a sauce
+==82== To make me hunger more, that I should forge
+==83== Quarrels unjust against the good and loyal,
+==84== Destroying them for wealth.
 
 **MACD.**
-                This avarice
-Sticks deeper, grows with more pernicious root
-Than summer-seeming lust; and it hath been
-The sword of our slain kings. Yet do not fear,
-Scotland hath foisons to fill up your will
-Of your mere own. All these are portable,
-With other graces weigh’d.
+==84==                 This avarice
+==85== Sticks deeper, grows with more pernicious root
+==86== Than summer-seeming lust; and it hath been
+==87== The sword of our slain kings. Yet do not fear,
+==88== Scotland hath foisons to fill up your will
+==89== Of your mere own. All these are portable,
+==90== With other graces weigh’d.
 
 **MAL.**
-But I have none. The king-becoming graces,
-As justice, verity, temp’rance, stableness,
-Bounty, perseverance, mercy, lowliness,
-Devotion, patience, courage, fortitude,
-I have no relish of them, but abound
-In the division of each several crime,
-Acting it many ways. Nay, had I pow’r, I should
-Pour the sweet milk of concord into hell,
-Uproar the universal peace, confound
-All unity on earth.
+==91== But I have none. The king-becoming graces,
+==92== As justice, verity, temp’rance, stableness,
+==93== Bounty, perseverance, mercy, lowliness,
+==94== Devotion, patience, courage, fortitude,
+==95== I have no relish of them, but abound
+==96== In the division of each several crime,
+==97== Acting it many ways. Nay, had I pow’r, I should
+==98== Pour the sweet milk of concord into hell,
+==99== Uproar the universal peace, confound
+==100== All unity on earth.
 
 **MACD.**
-           O Scotland, Scotland!
+==100==            O Scotland, Scotland!
 
 **MAL.**
-If such a one be fit to govern, speak.
-I am as I have spoken.
+==101== If such a one be fit to govern, speak.
+==102== I am as I have spoken.
 
 **MACD.**
-           Fit to govern?
-No, not to live. O nation miserable!
-With an untitled tyrant bloody-scepterd,
-When shalt thou see thy wholesome days again,
-Since that the truest issue of thy throne
-By his own interdiction stands accus’d,
-And does blaspheme his breed? Thy royal father
-Was a most sainted king; the queen that bore thee,
-Oft’ner upon her knees than on her feet,
-Died every day she liv’d. Fare thee well,
-These evils thou repeat’st upon thyself
-Hath banish’d me from Scotland. O my breast,
-Thy hope ends here!
+==102==            Fit to govern?
+==103== No, not to live. O nation miserable!
+==104== With an untitled tyrant bloody-scepterd,
+==105== When shalt thou see thy wholesome days again,
+==106== Since that the truest issue of thy throne
+==107== By his own interdiction stands accus’d,
+==108== And does blaspheme his breed? Thy royal father
+==109== Was a most sainted king; the queen that bore thee,
+==110== Oft’ner upon her knees than on her feet,
+==111== Died every day she liv’d. Fare thee well,
+==112== These evils thou repeat’st upon thyself
+==113== Hath banish’d me from Scotland. O my breast,
+==114== Thy hope ends here!
 
 **MAL.**
-           Macduff, this noble passion,
-Child of integrity, hath from my soul
-Wip’d the black scruples, reconcil’d my thoughts
-To thy good truth and honor. Devilish Macbeth
-By many of these trains hath sought to win me
-Into his power, and modest wisdom plucks me
-From over-credulous haste. But God above
-Deal between thee and me! For even now
-I put myself to thy direction, and
-Unspeak mine own detraction; here abjure
-The taints and blames I laid upon myself,
-For strangers to my nature. I am yet
-Unknown to woman, never was forsworn,
-Scarcely have coveted what was mine own,
-At no time broke my faith, would not betray
-The devil to his fellow, and delight
-No less in truth than life. My first false speaking
-Was this upon myself. What I am truly
-Is thine and my poor country’s to command:
-Whither indeed, before thy here-approach,
-Old Siward, with ten thousand warlike men
-Already at a point, was setting forth.
-Now we’ll together, and the chance of goodness
-Be like our warranted quarrel! Why are you silent?
+==114==            Macduff, this noble passion,
+==115== Child of integrity, hath from my soul
+==116== Wip’d the black scruples, reconcil’d my thoughts
+==117== To thy good truth and honor. Devilish Macbeth
+==118== By many of these trains hath sought to win me
+==119== Into his power, and modest wisdom plucks me
+==120== From over-credulous haste. But God above
+==121== Deal between thee and me! For even now
+==122== I put myself to thy direction, and
+==123== Unspeak mine own detraction; here abjure
+==124== The taints and blames I laid upon myself,
+==125== For strangers to my nature. I am yet
+==126== Unknown to woman, never was forsworn,
+==127== Scarcely have coveted what was mine own,
+==128== At no time broke my faith, would not betray
+==129== The devil to his fellow, and delight
+==130== No less in truth than life. My first false speaking
+==131== Was this upon myself. What I am truly
+==132== Is thine and my poor country’s to command:
+==133== Whither indeed, before thy here-approach,
+==134== Old Siward, with ten thousand warlike men
+==135== Already at a point, was setting forth.
+==136== Now we’ll together, and the chance of goodness
+==137== Be like our warranted quarrel! Why are you silent?
 
 **MACD.**
-Such welcome and unwelcome things at once
-’Tis hard to reconcile.
+==138== Such welcome and unwelcome things at once
+==139== ’Tis hard to reconcile.
 
 *Enter English Doctor.*
 
 **MAL.**
-Well, more anon.—Comes the King forth, I pray you?
+==140== Well, more anon.—Comes the King forth, I pray you?
 
 **DOCT.**
-Ay, sir; there are a crew of wretched souls
-That stay his cure. Their malady convinces
-The great assay of art; but at his touch,
-Such sanctity hath heaven given his hand,
-They presently amend.
+==141== Ay, sir; there are a crew of wretched souls
+==142== That stay his cure. Their malady convinces
+==143== The great assay of art; but at his touch,
+==144== Such sanctity hath heaven given his hand,
+==145== They presently amend.
 
 **MAL.**
-              I thank you, doctor.
+==145==               I thank you, doctor.
 
 *Exit English Doctor.*
 
 **MACD.**
-What’s the disease he means?
+==146== What’s the disease he means?
 
 **MAL.**
-                ’Tis call’d the evil:
-A most miraculous work in this good king,
-Which often, since my here-remain in England,
-I have seen him do. How he solicits heaven,
-Himself best knows; but strangely-visited people,
-All swoll’n and ulcerous, pitiful to the eye,
-The mere despair of surgery, he cures,
-Hanging a golden stamp about their necks,
-Put on with holy prayers, and ’tis spoken,
-To the succeeding royalty he leaves
-The healing benediction. With this strange virtue,
-He hath a heavenly gift of prophecy,
-And sundry blessings hang about his throne
-That speak him full of grace.
+==146==                 ’Tis call’d the evil:
+==147== A most miraculous work in this good king,
+==148== Which often, since my here-remain in England,
+==149== I have seen him do. How he solicits heaven,
+==150== Himself best knows; but strangely-visited people,
+==151== All swoll’n and ulcerous, pitiful to the eye,
+==152== The mere despair of surgery, he cures,
+==153== Hanging a golden stamp about their necks,
+==154== Put on with holy prayers, and ’tis spoken,
+==155== To the succeeding royalty he leaves
+==156== The healing benediction. With this strange virtue,
+==157== He hath a heavenly gift of prophecy,
+==158== And sundry blessings hang about his throne
+==159== That speak him full of grace.
 
 *Enter Rosse.*
 
 **MACD.**
-              See who comes here.
+==159==               See who comes here.
 
 **MAL.**
-My countryman; but yet I know him not.
+==160== My countryman; but yet I know him not.
 
 **MACD.**
-My ever gentle cousin, welcome hither.
+==161== My ever gentle cousin, welcome hither.
 
 **MAL.**
-I know him now. Good God betimes remove
-The means that makes us strangers!
+==162== I know him now. Good God betimes remove
+==163== The means that makes us strangers!
 
 **ROSSE.**
-                     Sir, amen.
+==163==                      Sir, amen.
 
 **MACD.**
-Stands Scotland where it did?
+==164== Stands Scotland where it did?
 
 **ROSSE.**
-                Alas, poor country,
-Almost afraid to know itself! It cannot
-Be call’d our mother, but our grave; where nothing,
-But who knows nothing, is once seen to smile;
-Where sighs, and groans, and shrieks that rent the air
-Are made, not mark’d; where violent sorrow seems
-A modern ecstasy. The dead man’s knell
-Is there scarce ask’d for who, and good men’s lives
-Expire before the flowers in their caps,
-Dying or ere they sicken.
+==164==                 Alas, poor country,
+==165== Almost afraid to know itself! It cannot
+==166== Be call’d our mother, but our grave; where nothing,
+==167== But who knows nothing, is once seen to smile;
+==168== Where sighs, and groans, and shrieks that rent the air
+==169== Are made, not mark’d; where violent sorrow seems
+==170== A modern ecstasy. The dead man’s knell
+==171== Is there scarce ask’d for who, and good men’s lives
+==172== Expire before the flowers in their caps,
+==173== Dying or ere they sicken.
 
 **MACD.**
-              O relation!
-Too nice, and yet too true.
+==173==               O relation!
+==174== Too nice, and yet too true.
 
 **MAL.**
-              What’s the newest grief?
+==174==               What’s the newest grief?
 
 **ROSSE.**
-That of an hour’s age doth hiss the speaker;
-Each minute teems a new one.
+==175== That of an hour’s age doth hiss the speaker;
+==176== Each minute teems a new one.
 
 **MACD.**
-                How does my wife?
+==176==                 How does my wife?
 
 **ROSSE.**
-Why, well.
+==177== Why, well.
 
 **MACD.**
-        And all my children?
+==177==         And all my children?
 
 **ROSSE.**
-                     Well too.
+==177==                      Well too.
 
 **MACD.**
-The tyrant has not batter’d at their peace?
+==178== The tyrant has not batter’d at their peace?
 
 **ROSSE.**
-No, they were well at peace when I did leave ’em.
+==179== No, they were well at peace when I did leave ’em.
 
 **MACD.**
-Be not a niggard of your speech; how goes’t?
+==180== Be not a niggard of your speech; how goes’t?
 
 **ROSSE.**
-When I came hither to transport the tidings,
-Which I have heavily borne, there ran a rumor
-Of many worthy fellows that were out,
-Which was to my belief witness’d the rather,
-For that I saw the tyrant’s power afoot.
-Now is the time of help; your eye in Scotland
-Would create soldiers, make our women fight,
-To doff their dire distresses.
+==181== When I came hither to transport the tidings,
+==182== Which I have heavily borne, there ran a rumor
+==183== Of many worthy fellows that were out,
+==184== Which was to my belief witness’d the rather,
+==185== For that I saw the tyrant’s power afoot.
+==186== Now is the time of help; your eye in Scotland
+==187== Would create soldiers, make our women fight,
+==188== To doff their dire distresses.
 
 **MAL.**
-                Be’t their comfort
-We are coming thither. Gracious England hath
-Lent us good Siward, and ten thousand men;
-An older and a better soldier none
-That Christendom gives out.
+==188==                 Be’t their comfort
+==189== We are coming thither. Gracious England hath
+==190== Lent us good Siward, and ten thousand men;
+==191== An older and a better soldier none
+==192== That Christendom gives out.
 
 **ROSSE.**
-              Would I could answer
-This comfort with the like! But I have words
-That would be howl’d out in the desert air,
-Where hearing should not latch them.
+==192==               Would I could answer
+==193== This comfort with the like! But I have words
+==194== That would be howl’d out in the desert air,
+==195== Where hearing should not latch them.
 
 **MACD.**
-                     What concern they?
-The general cause? Or is it a fee-grief
-Due to some single breast?
+==195==                      What concern they?
+==196== The general cause? Or is it a fee-grief
+==197== Due to some single breast?
 
 **ROSSE.**
-              No mind that’s honest
-But in it shares some woe, though the main part
-Pertains to you alone.
+==197==               No mind that’s honest
+==198== But in it shares some woe, though the main part
+==199== Pertains to you alone.
 
 **MACD.**
-           If it be mine,
-Keep it not from me, quickly let me have it.
+==199==            If it be mine,
+==200== Keep it not from me, quickly let me have it.
 
 **ROSSE.**
-Let not your ears despise my tongue forever,
-Which shall possess them with the heaviest sound
-That ever yet they heard.
+==201== Let not your ears despise my tongue forever,
+==202== Which shall possess them with the heaviest sound
+==203== That ever yet they heard.
 
 **MACD.**
-              Humh! I guess at it.
+==203==               Humh! I guess at it.
 
 **ROSSE.**
-Your castle is surpris’d; your wife, and babes,
-Savagely slaughter’d. To relate the manner,
-Were on the quarry of these murder’d deer
-To add the death of you.
+==204== Your castle is surpris’d; your wife, and babes,
+==205== Savagely slaughter’d. To relate the manner,
+==206== Were on the quarry of these murder’d deer
+==207== To add the death of you.
 
 **MAL.**
-              Merciful heaven!
-What, man, ne’er pull your hat upon your brows;
-Give sorrow words. The grief that does not speak
-Whispers the o’er-fraught heart, and bids it break.
+==207==               Merciful heaven!
+==208== What, man, ne’er pull your hat upon your brows;
+==209== Give sorrow words. The grief that does not speak
+==210== Whispers the o’er-fraught heart, and bids it break.
 
 **MACD.**
-My children too?
+==211== My children too?
 
 **ROSSE.**
-           Wife, children, servants, all
-That could be found.
+==211==            Wife, children, servants, all
+==212== That could be found.
 
 **MACD.**
-           And I must be from thence!
-My wife kill’d too?
+==212==            And I must be from thence!
+==213== My wife kill’d too?
 
 **ROSSE.**
-           I have said.
+==213==            I have said.
 
 **MAL.**
-                  Be comforted.
-Let’s make us med’cines of our great revenge
-To cure this deadly grief.
+==213==                   Be comforted.
+==214== Let’s make us med’cines of our great revenge
+==215== To cure this deadly grief.
 
 **MACD.**
-He has no children. All my pretty ones?
-Did you say all? O hell-kite! All?
-What, all my pretty chickens, and their dam,
-At one fell swoop?
+==216== He has no children. All my pretty ones?
+==217== Did you say all? O hell-kite! All?
+==218== What, all my pretty chickens, and their dam,
+==219== At one fell swoop?
 
 **MAL.**
-Dispute it like a man.
+==220== Dispute it like a man.
 
 **MACD.**
-           I shall do so;
-But I must also feel it as a man:
-I cannot but remember such things were,
-That were most precious to me. Did heaven look on,
-And would not take their part? Sinful Macduff,
-They were all struck for thee! Naught that I am,
-Not for their own demerits, but for mine,
-Fell slaughter on their souls. Heaven rest them now!
+==220==            I shall do so;
+==221== But I must also feel it as a man:
+==222== I cannot but remember such things were,
+==223== That were most precious to me. Did heaven look on,
+==224== And would not take their part? Sinful Macduff,
+==225== They were all struck for thee! Naught that I am,
+==226== Not for their own demerits, but for mine,
+==227== Fell slaughter on their souls. Heaven rest them now!
 
 **MAL.**
-Be this the whetstone of your sword, let grief
-Convert to anger; blunt not the heart, enrage it.
+==228== Be this the whetstone of your sword, let grief
+==229== Convert to anger; blunt not the heart, enrage it.
 
 **MACD.**
-O, I could play the woman with mine eyes,
-And braggart with my tongue! But, gentle heavens,
-Cut short all intermission. Front to front
-Bring thou this fiend of Scotland and myself;
-Within my sword’s length set him; if he scape,
-Heaven forgive him too!
+==230== O, I could play the woman with mine eyes,
+==231== And braggart with my tongue! But, gentle heavens,
+==232== Cut short all intermission. Front to front
+==233== Bring thou this fiend of Scotland and myself;
+==234== Within my sword’s length set him; if he scape,
+==235== Heaven forgive him too!
 
 **MAL.**
-              This tune goes manly.
-Come go we to the King, our power is ready,
-Our lack is nothing but our leave. Macbeth
-Is ripe for shaking, and the pow’rs above
-Put on their instruments. Receive what cheer you may,
-The night is long that never finds the day.
+==235==               This tune goes manly.
+==236== Come go we to the King, our power is ready,
+==237== Our lack is nothing but our leave. Macbeth
+==238== Is ripe for shaking, and the pow’rs above
+==239== Put on their instruments. Receive what cheer you may,
+==240== The night is long that never finds the day.
 
 *Exeunt.*
 

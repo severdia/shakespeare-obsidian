@@ -19,401 +19,401 @@ ID: antony-and-cleopatra-3-13
 *Enter Cleopatra, Enobarbus, Charmian, and Iras.*
 
 **CLEO.**
-What shall we do, Enobarbus?
+==1== What shall we do, Enobarbus?
 
 **ENO.**
-                Think, and die.
+==1==                 Think, and die.
 
 **CLEO.**
-Is Antony or we in fault for this?
+==2== Is Antony or we in fault for this?
 
 **ENO.**
-Antony only, that would make his will
-Lord of his reason. What though you fled
-From that great face of war, whose several ranges
-Frighted each other? Why should he follow?
-The itch of his affection should not then
-Have nick’d his captainship, at such a point,
-When half to half the world oppos’d, he being
-The mered question. ’Twas a shame no less
-Than was his loss, to course your flying flags,
-And leave his navy gazing.
+==3== Antony only, that would make his will
+==4== Lord of his reason. What though you fled
+==5== From that great face of war, whose several ranges
+==6== Frighted each other? Why should he follow?
+==7== The itch of his affection should not then
+==8== Have nick’d his captainship, at such a point,
+==9== When half to half the world oppos’d, he being
+==10== The mered question. ’Twas a shame no less
+==11== Than was his loss, to course your flying flags,
+==12== And leave his navy gazing.
 
 **CLEO.**
-              Prithee peace.
+==12==               Prithee peace.
 
 *Enter the Ambassador with Antony.*
 
 **ANT.**
-Is that his answer?
+==13== Is that his answer?
 
 **AMB.**
-Ay, my lord.
+==14== Ay, my lord.
 
 **ANT.**
-The Queen shall then have courtesy, so she
-Will yield us up.
+==15== The Queen shall then have courtesy, so she
+==16== Will yield us up.
 
 **AMB.**
-        He says so.
+==16==         He says so.
 
 **ANT.**
-              Let her know’t.
-To the boy Caesar send this grizzled head,
-And he will fill thy wishes to the brim
-With principalities.
+==16==               Let her know’t.
+==17== To the boy Caesar send this grizzled head,
+==18== And he will fill thy wishes to the brim
+==19== With principalities.
 
 **CLEO.**
-           That head, my lord?
+==19==            That head, my lord?
 
 **ANT.**
-To him again, tell him he wears the rose
-Of youth upon him; from which the world should note
-Something particular. His coin, ships, legions,
-May be a coward’s, whose ministers would prevail
-Under the service of a child as soon
-As i’ th’ command of Caesar. I dare him therefore
-To lay his gay comparisons apart,
-And answer me declin’d, sword against sword,
-Ourselves alone. I’ll write it. Follow me.
+==20== To him again, tell him he wears the rose
+==21== Of youth upon him; from which the world should note
+==22== Something particular. His coin, ships, legions,
+==23== May be a coward’s, whose ministers would prevail
+==24== Under the service of a child as soon
+==25== As i’ th’ command of Caesar. I dare him therefore
+==26== To lay his gay comparisons apart,
+==27== And answer me declin’d, sword against sword,
+==28== Ourselves alone. I’ll write it. Follow me.
 
 *Exeunt Antony and Ambassador.*
 
 **ENO.**
 *(Aside.)*
-Yes, like enough! High-battled Caesar will
-Unstate his happiness, and be stag’d to th’ show
-Against a sworder! I see men’s judgments are
-A parcel of their fortunes, and things outward
-Do draw the inward quality after them,
-To suffer all alike. That he should dream,
-Knowing all measures, the full Caesar will
-Answer his emptiness! Caesar, thou hast subdu’d
-His judgment too.
+==29== Yes, like enough! High-battled Caesar will
+==30== Unstate his happiness, and be stag’d to th’ show
+==31== Against a sworder! I see men’s judgments are
+==32== A parcel of their fortunes, and things outward
+==33== Do draw the inward quality after them,
+==34== To suffer all alike. That he should dream,
+==35== Knowing all measures, the full Caesar will
+==36== Answer his emptiness! Caesar, thou hast subdu’d
+==37== His judgment too.
 
 *Enter First Egyptian Servant.*
 
 **1. EGYPT. SERV.**
-           A messenger from Caesar.
+==37==            A messenger from Caesar.
 
 **CLEO.**
-What, no more ceremony? See, my women,
-Against the blown rose may they stop their nose
-That kneel’d unto the buds. Admit him, sir.
+==38== What, no more ceremony? See, my women,
+==39== Against the blown rose may they stop their nose
+==40== That kneel’d unto the buds. Admit him, sir.
 
 *Exit First Egyptian Servant.*
 
 **ENO.**
 *(Aside.)*
-Mine honesty and I begin to square.
-The loyalty well held to fools does make
-Our faith mere folly; yet he that can endure
-To follow with allegiance a fall’n lord
-Does conquer him that did his master conquer,
-And earns a place i’ th’ story.
+==41== Mine honesty and I begin to square.
+==42== The loyalty well held to fools does make
+==43== Our faith mere folly; yet he that can endure
+==44== To follow with allegiance a fall’n lord
+==45== Does conquer him that did his master conquer,
+==46== And earns a place i’ th’ story.
 
 *Enter Thidias.*
 
 **CLEO.**
-                Caesar’s will?
+==46==                 Caesar’s will?
 
 **THID.**
-Hear it apart.
+==47== Hear it apart.
 
 **CLEO.**
-        None but friends: say boldly.
+==47==         None but friends: say boldly.
 
 **THID.**
-So haply are they friends to Antony.
+==48== So haply are they friends to Antony.
 
 **ENO.**
-He needs as many, sir, as Caesar has,
-Or needs not us. If Caesar please, our master
-Will leap to be his friend; for us, you know
-Whose he is we are, and that is Caesar’s.
+==49== He needs as many, sir, as Caesar has,
+==50== Or needs not us. If Caesar please, our master
+==51== Will leap to be his friend; for us, you know
+==52== Whose he is we are, and that is Caesar’s.
 
 **THID.**
-                         So.
-Thus then, thou most renown’d: Caesar entreats
-Not to consider in what case thou stand’st
-Further than he is Caesar.
+==52==                          So.
+==53== Thus then, thou most renown’d: Caesar entreats
+==54== Not to consider in what case thou stand’st
+==55== Further than he is Caesar.
 
 **CLEO.**
-              Go on: right royal.
+==55==               Go on: right royal.
 
 **THID.**
-He knows that you embrace not Antony
-As you did love, but as you fear’d him.
+==56== He knows that you embrace not Antony
+==57== As you did love, but as you fear’d him.
 
 **CLEO.**
-                     O!
+==57==                      O!
 
 **THID.**
-The scars upon your honor, therefore, he
-Does pity, as constrained blemishes,
-Not as deserved.
+==58== The scars upon your honor, therefore, he
+==59== Does pity, as constrained blemishes,
+==60== Not as deserved.
 
 **CLEO.**
-           He is a god and knows
-What is most right. Mine honor was not yielded,
-But conquer’d merely.
+==60==            He is a god and knows
+==61== What is most right. Mine honor was not yielded,
+==62== But conquer’d merely.
 
 **ENO.**
 *(Aside.)*
-           To be sure of that,
-I will ask Antony. Sir, sir, thou art so leaky
-That we must leave thee to thy sinking, for
-Thy dearest quit thee.
+==62==            To be sure of that,
+==63== I will ask Antony. Sir, sir, thou art so leaky
+==64== That we must leave thee to thy sinking, for
+==65== Thy dearest quit thee.
 
 *Exit Enobarbus.*
 
 **THID.**
-              Shall I say to Caesar
-What you require of him? For he partly begs
-To be desir’d to give. It much would please him,
-That of his fortunes you should make a staff
-To lean upon; but it would warm his spirits
-To hear from me you had left Antony,
-And put yourself under his shroud,
-The universal landlord.
+==65==               Shall I say to Caesar
+==66== What you require of him? For he partly begs
+==67== To be desir’d to give. It much would please him,
+==68== That of his fortunes you should make a staff
+==69== To lean upon; but it would warm his spirits
+==70== To hear from me you had left Antony,
+==71== And put yourself under his shroud,
+==72== The universal landlord.
 
 **CLEO.**
-              What’s your name?
+==72==               What’s your name?
 
 **THID.**
-My name is Thidias.
+==73== My name is Thidias.
 
 **CLEO.**
-           Most kind messenger,
-Say to great Caesar this in deputation:
-I kiss his conqu’ring hand. Tell him, I am prompt
-To lay my crown at ’s feet, and there to kneel.
-Tell him, from his all-obeying breath I hear
-The doom of Egypt.
+==73==            Most kind messenger,
+==74== Say to great Caesar this in deputation:
+==75== I kiss his conqu’ring hand. Tell him, I am prompt
+==76== To lay my crown at ’s feet, and there to kneel.
+==77== Tell him, from his all-obeying breath I hear
+==78== The doom of Egypt.
 
 **THID.**
-           ’Tis your noblest course.
-Wisdom and fortune combating together,
-If that the former dare but what it can,
-No chance may shake it. Give me grace to lay
-My duty on your hand.
+==78==            ’Tis your noblest course.
+==79== Wisdom and fortune combating together,
+==80== If that the former dare but what it can,
+==81== No chance may shake it. Give me grace to lay
+==82== My duty on your hand.
 
 **CLEO.**
-              Your Caesar’s father oft
-(When he hath mus’d of taking kingdoms in) 
-Bestow’d his lips on that unworthy place,
-As it rain’d kisses.
+==82==               Your Caesar’s father oft
+==83== (When he hath mus’d of taking kingdoms in) 
+==84== Bestow’d his lips on that unworthy place,
+==85== As it rain’d kisses.
 
 *Enter Antony and Enobarbus.*
 
 **ANT.**
-           Favors? By Jove that thunders!
-What art thou, fellow?
+==85==            Favors? By Jove that thunders!
+==86== What art thou, fellow?
 
 **THID.**
-              One that but performs
-The bidding of the fullest man, and worthiest
-To have command obey’d.
+==86==               One that but performs
+==87== The bidding of the fullest man, and worthiest
+==88== To have command obey’d.
 
 **ENO.**
 *(Aside.)*
-              You will be whipt.
+==88==               You will be whipt.
 
 **ANT.**
 *(Calling for Servants.)*
-Approach there!—Ah, you kite!—Now gods and devils!
-Authority melts from me. Of late, when I cried “Ho!”
-Like boys unto a muss, kings would start forth
-And cry, “Your will?”—Have you no ears?—I am
-Antony yet.
+==89== Approach there!—Ah, you kite!—Now gods and devils!
+==90== Authority melts from me. Of late, when I cried “Ho!”
+==91== Like boys unto a muss, kings would start forth
+==92== And cry, “Your will?”—Have you no ears?—I am
+==93== Antony yet.
 *(Enter First Egyptian Servant, others following.)*
-        Take hence this Jack and whip him.
+==93==         Take hence this Jack and whip him.
 
 **ENO.**
 *(Aside.)*
-’Tis better playing with a lion’s whelp
-Than with an old one dying.
+==94== ’Tis better playing with a lion’s whelp
+==95== Than with an old one dying.
 
 **ANT.**
-                Moon and stars!
-Whip him. Were’t twenty of the greatest tributaries
-That do acknowledge Caesar, should I find them
-So saucy with the hand of she here—what’s her name,
-Since she was Cleopatra? Whip him, fellows,
-Till like a boy you see him cringe his face,
-And whine aloud for mercy. Take him hence.
+==95==                 Moon and stars!
+==96== Whip him. Were’t twenty of the greatest tributaries
+==97== That do acknowledge Caesar, should I find them
+==98== So saucy with the hand of she here—what’s her name,
+==99== Since she was Cleopatra? Whip him, fellows,
+==100== Till like a boy you see him cringe his face,
+==101== And whine aloud for mercy. Take him hence.
 
 **THID.**
-Mark Antony⁠—
+==102== Mark Antony⁠—
 
 **ANT.**
-        Tug him away. Being whipt,
-Bring him again; the Jack of Caesar’s shall
-Bear us an arrant to him.
+==102==         Tug him away. Being whipt,
+==103== Bring him again; the Jack of Caesar’s shall
+==104== Bear us an arrant to him.
 *(Exeunt Egyptian Servants with Thidias.)*
-You were half blasted ere I knew you; ha?
-Have I my pillow left unpress’d in Rome,
-Forborne the getting of a lawful race,
-And by a gem of women, to be abus’d
-By one that looks on feeders?
+==105== You were half blasted ere I knew you; ha?
+==106== Have I my pillow left unpress’d in Rome,
+==107== Forborne the getting of a lawful race,
+==108== And by a gem of women, to be abus’d
+==109== By one that looks on feeders?
 
 **CLEO.**
-                Good my lord⁠—
+==109==                 Good my lord⁠—
 
 **ANT.**
-You have been a boggler ever,
-But when we in our viciousness grow hard
-(O misery on’t!), the wise gods seel our eyes,
-In our own filth drop our clear judgments, make us
-Adore our errors, laugh at ’s while we strut
-To our confusion.
+==110== You have been a boggler ever,
+==111== But when we in our viciousness grow hard
+==112== (O misery on’t!), the wise gods seel our eyes,
+==113== In our own filth drop our clear judgments, make us
+==114== Adore our errors, laugh at ’s while we strut
+==115== To our confusion.
 
 **CLEO.**
-           O, is’t come to this?
+==115==            O, is’t come to this?
 
 **ANT.**
-I found you as a morsel, cold upon
-Dead Caesar’s trencher; nay, you were a fragment
-Of Cneius Pompey’s—besides what hotter hours,
-Unregist’red in vulgar fame, you have
-Luxuriously pick’d out; for I am sure,
-Though you can guess what temperance should be,
-You know not what it is.
+==116== I found you as a morsel, cold upon
+==117== Dead Caesar’s trencher; nay, you were a fragment
+==118== Of Cneius Pompey’s—besides what hotter hours,
+==119== Unregist’red in vulgar fame, you have
+==120== Luxuriously pick’d out; for I am sure,
+==121== Though you can guess what temperance should be,
+==122== You know not what it is.
 
 **CLEO.**
-              Wherefore is this?
+==122==               Wherefore is this?
 
 **ANT.**
-To let a fellow that will take rewards
-And say “God quit you!” be familiar with
-My playfellow, your hand, this kingly seal
-And plighter of high hearts! O that I were
-Upon the hill of Basan, to outroar
-The horned herd! For I have savage cause,
-And to proclaim it civilly were like
-A halter’d neck which does the hangman thank
-For being yare about him.
+==123== To let a fellow that will take rewards
+==124== And say “God quit you!” be familiar with
+==125== My playfellow, your hand, this kingly seal
+==126== And plighter of high hearts! O that I were
+==127== Upon the hill of Basan, to outroar
+==128== The horned herd! For I have savage cause,
+==129== And to proclaim it civilly were like
+==130== A halter’d neck which does the hangman thank
+==131== For being yare about him.
 *(Enter First Egyptian Servant with Thidias.)*
-                Is he whipt?
+==131==                 Is he whipt?
 
 **1. EGYPT. SERV.**
-Soundly, my lord.
+==132== Soundly, my lord.
 
 **ANT.**
-        Cried he? And begg’d ’a pardon?
+==132==         Cried he? And begg’d ’a pardon?
 
 **1. EGYPT. SERV.**
-He did ask favor.
+==133== He did ask favor.
 
 **ANT.**
-If that thy father live, let him repent
-Thou wast not made his daughter, and be thou sorry
-To follow Caesar in his triumph, since
-Thou hast been whipt for following him. Henceforth
-The white hand of a lady fever thee,
-Shake thou to look on’t. Get thee back to Caesar,
-Tell him thy entertainment. Look thou say
-He makes me angry with him; for he seems
-Proud and disdainful, harping on what I am,
-Not what he knew I was. He makes me angry,
-And at this time most easy ’tis to do’t:
-When my good stars, that were my former guides,
-Have empty left their orbs, and shot their fires
-Into th’ abysm of hell. If he mislike
-My speech and what is done, tell him he has
-Hipparchus, my enfranched bondman, whom
-He may at pleasure whip, or hang, or torture,
-As he shall like, to quit me. Urge it thou:
-Hence with thy stripes, be gone!
+==134== If that thy father live, let him repent
+==135== Thou wast not made his daughter, and be thou sorry
+==136== To follow Caesar in his triumph, since
+==137== Thou hast been whipt for following him. Henceforth
+==138== The white hand of a lady fever thee,
+==139== Shake thou to look on’t. Get thee back to Caesar,
+==140== Tell him thy entertainment. Look thou say
+==141== He makes me angry with him; for he seems
+==142== Proud and disdainful, harping on what I am,
+==143== Not what he knew I was. He makes me angry,
+==144== And at this time most easy ’tis to do’t:
+==145== When my good stars, that were my former guides,
+==146== Have empty left their orbs, and shot their fires
+==147== Into th’ abysm of hell. If he mislike
+==148== My speech and what is done, tell him he has
+==149== Hipparchus, my enfranched bondman, whom
+==150== He may at pleasure whip, or hang, or torture,
+==151== As he shall like, to quit me. Urge it thou:
+==152== Hence with thy stripes, be gone!
 
 *Exit Thidias.*
 
 **CLEO.**
-Have you done yet?
+==153== Have you done yet?
 
 **ANT.**
-           Alack, our terrene moon
-Is now eclips’d, and it portends alone
-The fall of Antony!
+==153==            Alack, our terrene moon
+==154== Is now eclips’d, and it portends alone
+==155== The fall of Antony!
 
 **CLEO.**
-           I must stay his time.
+==155==            I must stay his time.
 
 **ANT.**
-To flatter Caesar, would you mingle eyes
-With one that ties his points?
+==156== To flatter Caesar, would you mingle eyes
+==157== With one that ties his points?
 
 **CLEO.**
-                Not know me yet?
+==157==                 Not know me yet?
 
 **ANT.**
-Cold-hearted toward me?
+==158== Cold-hearted toward me?
 
 **CLEO.**
-              Ah, dear, if I be so,
-From my cold heart let heaven engender hail,
-And poison it in the source, and the first stone
-Drop in my neck; as it determines, so
-Dissolve my life! The next Caesarion smite,
-Till by degrees the memory of my womb,
-Together with my brave Egyptians all,
-By the discandying of this pelleted storm,
-Lie graveless, till the flies and gnats of Nile
-Have buried them for prey!
+==158==               Ah, dear, if I be so,
+==159== From my cold heart let heaven engender hail,
+==160== And poison it in the source, and the first stone
+==161== Drop in my neck; as it determines, so
+==162== Dissolve my life! The next Caesarion smite,
+==163== Till by degrees the memory of my womb,
+==164== Together with my brave Egyptians all,
+==165== By the discandying of this pelleted storm,
+==166== Lie graveless, till the flies and gnats of Nile
+==167== Have buried them for prey!
 
 **ANT.**
-                I am satisfied.
-Caesar sets down in Alexandria, where
-I will oppose his fate. Our force by land
-Hath nobly held; our sever’d navy too
-Have knit again, and fleet, threat’ning most sea-like.
-Where hast thou been, my heart? Dost thou hear, lady?
-If from the field I shall return once more
-To kiss these lips, I will appear in blood;
-I and my sword will earn our chronicle.
-There’s hope in’t yet.
+==167==                 I am satisfied.
+==168== Caesar sets down in Alexandria, where
+==169== I will oppose his fate. Our force by land
+==170== Hath nobly held; our sever’d navy too
+==171== Have knit again, and fleet, threat’ning most sea-like.
+==172== Where hast thou been, my heart? Dost thou hear, lady?
+==173== If from the field I shall return once more
+==174== To kiss these lips, I will appear in blood;
+==175== I and my sword will earn our chronicle.
+==176== There’s hope in’t yet.
 
 **CLEO.**
-           That’s my brave lord!
+==176==            That’s my brave lord!
 
 **ANT.**
-I will be treble-sinew’d, hearted, breath’d,
-And fight maliciously; for when mine hours
-Were nice and lucky, men did ransom lives
-Of me for jests; but now I’ll set my teeth,
-And send to darkness all that stop me. Come,
-Let’s have one other gaudy night. Call to me
-All my sad captains, fill our bowls once more;
-Let’s mock the midnight bell.
+==177== I will be treble-sinew’d, hearted, breath’d,
+==178== And fight maliciously; for when mine hours
+==179== Were nice and lucky, men did ransom lives
+==180== Of me for jests; but now I’ll set my teeth,
+==181== And send to darkness all that stop me. Come,
+==182== Let’s have one other gaudy night. Call to me
+==183== All my sad captains, fill our bowls once more;
+==184== Let’s mock the midnight bell.
 
 **CLEO.**
-                It is my birthday,
-I had thought t’ have held it poor; but since my lord
-Is Antony again, I will be Cleopatra.
+==184==                 It is my birthday,
+==185== I had thought t’ have held it poor; but since my lord
+==186== Is Antony again, I will be Cleopatra.
 
 **ANT.**
-We will yet do well.
+==187== We will yet do well.
 
 **CLEO.**
-Call all his noble captains to my lord.
+==188== Call all his noble captains to my lord.
 
 **ANT.**
-Do so, we’ll speak to them, and tonight I’ll force
-The wine peep through their scars. Come on, my queen,
-There’s sap in’t yet. The next time I do fight,
-I’ll make death love me; for I will contend
-Even with his pestilent scythe.
+==189== Do so, we’ll speak to them, and tonight I’ll force
+==190== The wine peep through their scars. Come on, my queen,
+==191== There’s sap in’t yet. The next time I do fight,
+==192== I’ll make death love me; for I will contend
+==193== Even with his pestilent scythe.
 
 *Exeunt all but Enobarbus.*
 
 **ENO.**
-Now he’ll outstare the lightning: to be furious
-Is to be frighted out of fear, and in that mood
-The dove will peck the estridge; and I see still
-A diminution in our captain’s brain
-Restores his heart. When valor preys on reason,
-It eats the sword it fights with. I will seek
-Some way to leave him.
+==194== Now he’ll outstare the lightning: to be furious
+==195== Is to be frighted out of fear, and in that mood
+==196== The dove will peck the estridge; and I see still
+==197== A diminution in our captain’s brain
+==198== Restores his heart. When valor preys on reason,
+==199== It eats the sword it fights with. I will seek
+==200== Some way to leave him.
 
 *Exit.*
 

@@ -19,10 +19,10 @@ ID: antony-and-cleopatra-3-9
 *Enter Antony and Enobarbus.*
 
 **ANT.**
-Set we our squadrons on yond side o’ th’ hill,
-In eye of Caesar’s battle, from which place
-We may the number of the ships behold,
-And so proceed accordingly.
+==1== Set we our squadrons on yond side o’ th’ hill,
+==2== In eye of Caesar’s battle, from which place
+==3== We may the number of the ships behold,
+==4== And so proceed accordingly.
 
 *Exeunt.*
 

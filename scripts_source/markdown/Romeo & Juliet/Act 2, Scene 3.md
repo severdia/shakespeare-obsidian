@@ -22,140 +22,140 @@ ID: romeo-and-juliet-2-3
 *Enter Friar Lawrence alone, with a basket.*
 
 **FRI. L.**
-The grey-ey’d morn smiles on the frowning night,
-Check’ring the Eastern clouds with streaks of light,
-And fleckled darkness like a drunkard reels
-From forth day’s path and Titan’s fiery wheels.
-Now ere the sun advance his burning eye,
-The day to cheer and night’s dank dew to dry,
-I must up-fill this osier cage of ours
-With baleful weeds and precious-juiced flowers.
-The earth that’s nature’s mother is her tomb;
-What is her burying grave, that is her womb;
-And from her womb children of diverse kind
-We sucking on her natural bosom find:
-Many for many virtues excellent,
-None but for some, and yet all different.
-O, mickle is the powerful grace that lies
-In plants, herbs, stones, and their true qualities;
-For nought so vile that on the earth doth live
-But to the earth some special good doth give;
-Nor aught so good but, strain’d from that fair use,
-Revolts from true birth, stumbling on abuse.
-Virtue itself turns vice, being misapplied,
-And vice sometime by action dignified.
+==1== The grey-ey’d morn smiles on the frowning night,
+==2== Check’ring the Eastern clouds with streaks of light,
+==3== And fleckled darkness like a drunkard reels
+==4== From forth day’s path and Titan’s fiery wheels.
+==5== Now ere the sun advance his burning eye,
+==6== The day to cheer and night’s dank dew to dry,
+==7== I must up-fill this osier cage of ours
+==8== With baleful weeds and precious-juiced flowers.
+==9== The earth that’s nature’s mother is her tomb;
+==10== What is her burying grave, that is her womb;
+==11== And from her womb children of diverse kind
+==12== We sucking on her natural bosom find:
+==13== Many for many virtues excellent,
+==14== None but for some, and yet all different.
+==15== O, mickle is the powerful grace that lies
+==16== In plants, herbs, stones, and their true qualities;
+==17== For nought so vile that on the earth doth live
+==18== But to the earth some special good doth give;
+==19== Nor aught so good but, strain’d from that fair use,
+==20== Revolts from true birth, stumbling on abuse.
+==21== Virtue itself turns vice, being misapplied,
+==22== And vice sometime by action dignified.
 *(Enter Romeo.)*
-Within the infant rind of this weak flower
-Poison hath residence and medicine power;
-For this, being smelt, with that part cheers each part,
-Being tasted, stays all senses with the heart.
-Two such opposed kings encamp them still
-In man as well as herbs, grace and rude will;
-And where the worser is predominant,
-Full soon the canker death eats up that plant.
+==23== Within the infant rind of this weak flower
+==24== Poison hath residence and medicine power;
+==25== For this, being smelt, with that part cheers each part,
+==26== Being tasted, stays all senses with the heart.
+==27== Two such opposed kings encamp them still
+==28== In man as well as herbs, grace and rude will;
+==29== And where the worser is predominant,
+==30== Full soon the canker death eats up that plant.
 
 **ROM.**
-Good morrow, father.
+==31== Good morrow, father.
 
 **FRI. L.**
-              *Benedicite!*
-What early tongue so sweet saluteth me?
-Young son, it argues a distempered head
-So soon to bid good morrow to thy bed.
-Care keeps his watch in every old man’s eye,
-And where care lodges, sleep will never lie;
-But where unbruised youth with unstuff’d brain
-Doth couch his limbs, there golden sleep doth reign.
-Therefore thy earliness doth me assure
-Thou art up-rous’d with some distemp’rature;
-Or if not so, then here I hit it right⁠—
-Our Romeo hath not been in bed tonight.
+==31==               *Benedicite!*
+==32== What early tongue so sweet saluteth me?
+==33== Young son, it argues a distempered head
+==34== So soon to bid good morrow to thy bed.
+==35== Care keeps his watch in every old man’s eye,
+==36== And where care lodges, sleep will never lie;
+==37== But where unbruised youth with unstuff’d brain
+==38== Doth couch his limbs, there golden sleep doth reign.
+==39== Therefore thy earliness doth me assure
+==40== Thou art up-rous’d with some distemp’rature;
+==41== Or if not so, then here I hit it right⁠—
+==42== Our Romeo hath not been in bed tonight.
 
 **ROM.**
-That last is true—the sweeter rest was mine.
+==43== That last is true—the sweeter rest was mine.
 
 **FRI. L.**
-God pardon sin! Wast thou with Rosaline?
+==44== God pardon sin! Wast thou with Rosaline?
 
 **ROM.**
-With Rosaline? My ghostly father, no;
-I have forgot that name, and that name’s woe.
+==45== With Rosaline? My ghostly father, no;
+==46== I have forgot that name, and that name’s woe.
 
 **FRI. L.**
-That’s my good son, but where hast thou been then?
+==47== That’s my good son, but where hast thou been then?
 
 **ROM.**
-I’ll tell thee ere thou ask it me again.
-I have been feasting with mine enemy,
-Where on a sudden one hath wounded me
-That’s by me wounded; both our remedies
-Within thy help and holy physic lies.
-I bear no hatred, blessed man, for lo
-My intercession likewise steads my foe.
+==48== I’ll tell thee ere thou ask it me again.
+==49== I have been feasting with mine enemy,
+==50== Where on a sudden one hath wounded me
+==51== That’s by me wounded; both our remedies
+==52== Within thy help and holy physic lies.
+==53== I bear no hatred, blessed man, for lo
+==54== My intercession likewise steads my foe.
 
 **FRI. L.**
-Be plain, good son, and homely in thy drift,
-Riddling confession finds but riddling shrift.
+==55== Be plain, good son, and homely in thy drift,
+==56== Riddling confession finds but riddling shrift.
 
 **ROM.**
-Then plainly know my heart’s dear love is set
-On the fair daughter of rich Capulet.
-As mine on hers, so hers is set on mine,
-And all combin’d, save what thou must combine
-By holy marriage. When and where and how
-We met, we woo’d, and made exchange of vow,
-I’ll tell thee as we pass, but this I pray,
-That thou consent to marry us today.
+==57== Then plainly know my heart’s dear love is set
+==58== On the fair daughter of rich Capulet.
+==59== As mine on hers, so hers is set on mine,
+==60== And all combin’d, save what thou must combine
+==61== By holy marriage. When and where and how
+==62== We met, we woo’d, and made exchange of vow,
+==63== I’ll tell thee as we pass, but this I pray,
+==64== That thou consent to marry us today.
 
 **FRI. L.**
-Holy Saint Francis, what a change is here!
-Is Rosaline, that thou didst love so dear,
-So soon forsaken? Young men’s love then lies
-Not truly in their hearts, but in their eyes.
-Jesu Maria, what a deal of brine
-Hath wash’d thy sallow cheeks for Rosaline!
-How much salt water thrown away in waste,
-To season love, that of it doth not taste!
-The sun not yet thy sighs from heaven clears,
-Thy old groans yet ringing in mine ancient ears;
-Lo here upon thy cheek the stain doth sit
-Of an old tear that is not wash’d off yet.
-If e’er thou wast thyself and these woes thine,
-Thou and these woes were all for Rosaline.
-And art thou chang’d? Pronounce this sentence then:
-Women may fall, when there’s no strength in men.
+==65== Holy Saint Francis, what a change is here!
+==66== Is Rosaline, that thou didst love so dear,
+==67== So soon forsaken? Young men’s love then lies
+==68== Not truly in their hearts, but in their eyes.
+==69== Jesu Maria, what a deal of brine
+==70== Hath wash’d thy sallow cheeks for Rosaline!
+==71== How much salt water thrown away in waste,
+==72== To season love, that of it doth not taste!
+==73== The sun not yet thy sighs from heaven clears,
+==74== Thy old groans yet ringing in mine ancient ears;
+==75== Lo here upon thy cheek the stain doth sit
+==76== Of an old tear that is not wash’d off yet.
+==77== If e’er thou wast thyself and these woes thine,
+==78== Thou and these woes were all for Rosaline.
+==79== And art thou chang’d? Pronounce this sentence then:
+==80== Women may fall, when there’s no strength in men.
 
 **ROM.**
-Thou chidst me oft for loving Rosaline.
+==81== Thou chidst me oft for loving Rosaline.
 
 **FRI. L.**
-For doting, not for loving, pupil mine.
+==82== For doting, not for loving, pupil mine.
 
 **ROM.**
-And badst me bury love.
+==83== And badst me bury love.
 
 **FRI. L.**
-              Not in a grave,
-To lay one in, another out to have.
+==83==               Not in a grave,
+==84== To lay one in, another out to have.
 
 **ROM.**
-I pray thee chide me not. Her I love now
-Doth grace for grace and love for love allow;
-The other did not so.
+==85== I pray thee chide me not. Her I love now
+==86== Doth grace for grace and love for love allow;
+==87== The other did not so.
 
 **FRI. L.**
-           O, she knew well
-Thy love did read by rote that could not spell.
-But come, young waverer, come go with me,
-In one respect I’ll thy assistant be;
-For this alliance may so happy prove
-To turn your households’ rancor to pure love.
+==87==            O, she knew well
+==88== Thy love did read by rote that could not spell.
+==89== But come, young waverer, come go with me,
+==90== In one respect I’ll thy assistant be;
+==91== For this alliance may so happy prove
+==92== To turn your households’ rancor to pure love.
 
 **ROM.**
-O, let us hence, I stand on sudden haste.
+==93== O, let us hence, I stand on sudden haste.
 
 **FRI. L.**
-Wisely and slow, they stumble that run fast.
+==94== Wisely and slow, they stumble that run fast.
 
 *Exeunt.*
 

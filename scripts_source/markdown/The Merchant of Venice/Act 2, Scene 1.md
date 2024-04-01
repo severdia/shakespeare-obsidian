@@ -21,67 +21,67 @@ ID: merchant-of-venice-2-1
 *Flourish cornets. Enter the Prince of Morocco, a tawny Moor, all in white, and three or four Followers accordingly, with Portia, Nerissa, and their Train.*
 
 **MOR.**
-Mislike me not for my complexion,
-The shadowed livery of the burnish’d sun,
-To whom I am a neighbor and near bred.
-Bring me the fairest creature northward born,
-Where Phoebus’ fire scarce thaws the icicles,
-And let us make incision for your love,
-To prove whose blood is reddest, his or mine.
-I tell thee, lady, this aspect of mine
-Hath fear’d the valiant; by my love, I swear
-The best-regarded virgins of our clime
-Have lov’d it too. I would not change this hue,
-Except to steal your thoughts, my gentle queen.
+==1== Mislike me not for my complexion,
+==2== The shadowed livery of the burnish’d sun,
+==3== To whom I am a neighbor and near bred.
+==4== Bring me the fairest creature northward born,
+==5== Where Phoebus’ fire scarce thaws the icicles,
+==6== And let us make incision for your love,
+==7== To prove whose blood is reddest, his or mine.
+==8== I tell thee, lady, this aspect of mine
+==9== Hath fear’d the valiant; by my love, I swear
+==10== The best-regarded virgins of our clime
+==11== Have lov’d it too. I would not change this hue,
+==12== Except to steal your thoughts, my gentle queen.
 
 **POR.**
-In terms of choice I am not solely led
-By nice direction of a maiden’s eyes;
-Besides, the lott’ry of my destiny
-Bars me the right of voluntary choosing.
-But if my father had not scanted me,
-And hedg’d me by his wit to yield myself
-His wife who wins me by that means I told you,
-Yourself, renowned Prince, then stood as fair
-As any comer I have look’d on yet
-For my affection.
+==13== In terms of choice I am not solely led
+==14== By nice direction of a maiden’s eyes;
+==15== Besides, the lott’ry of my destiny
+==16== Bars me the right of voluntary choosing.
+==17== But if my father had not scanted me,
+==18== And hedg’d me by his wit to yield myself
+==19== His wife who wins me by that means I told you,
+==20== Yourself, renowned Prince, then stood as fair
+==21== As any comer I have look’d on yet
+==22== For my affection.
 
 **MOR.**
-           Even for that I thank you;
-Therefore I pray you lead me to the caskets
-To try my fortune. By this scimitar
-That slew the Sophy and a Persian prince
-That won three fields of Sultan Solyman,
-I would o’erstare the sternest eyes that look,
-Outbrave the heart most daring on the earth,
-Pluck the young sucking cubs from the she-bear,
-Yea, mock the lion when ’a roars for prey,
-To win thee, lady. But alas the while!
-If Hercules and Lichas play at dice
-Which is the better man, the greater throw
-May turn by fortune from the weaker hand:
-So is Alcides beaten by his rage,
-And so may I, blind fortune leading me,
-Miss that which one unworthier may attain,
-And die with grieving.
+==22==            Even for that I thank you;
+==23== Therefore I pray you lead me to the caskets
+==24== To try my fortune. By this scimitar
+==25== That slew the Sophy and a Persian prince
+==26== That won three fields of Sultan Solyman,
+==27== I would o’erstare the sternest eyes that look,
+==28== Outbrave the heart most daring on the earth,
+==29== Pluck the young sucking cubs from the she-bear,
+==30== Yea, mock the lion when ’a roars for prey,
+==31== To win thee, lady. But alas the while!
+==32== If Hercules and Lichas play at dice
+==33== Which is the better man, the greater throw
+==34== May turn by fortune from the weaker hand:
+==35== So is Alcides beaten by his rage,
+==36== And so may I, blind fortune leading me,
+==37== Miss that which one unworthier may attain,
+==38== And die with grieving.
 
 **POR.**
-           You must take your chance,
-And either not attempt to choose at all,
-Or swear before you choose, if you choose wrong
-Never to speak to lady afterward
-In way of marriage; therefore be advis’d.
+==38==            You must take your chance,
+==39== And either not attempt to choose at all,
+==40== Or swear before you choose, if you choose wrong
+==41== Never to speak to lady afterward
+==42== In way of marriage; therefore be advis’d.
 
 **MOR.**
-Nor will not. Come bring me unto my chance.
+==43== Nor will not. Come bring me unto my chance.
 
 **POR.**
-First, forward to the temple; after dinner
-Your hazard shall be made.
+==44== First, forward to the temple; after dinner
+==45== Your hazard shall be made.
 
 **MOR.**
-              Good fortune then!
-To make me blest or cursed’st among men.
+==45==               Good fortune then!
+==46== To make me blest or cursed’st among men.
 
 *Cornets. Exeunt.*
 

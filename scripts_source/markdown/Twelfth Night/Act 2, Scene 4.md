@@ -19,215 +19,215 @@ ID: twelfth-night-2-4
 *Enter Duke, Viola, Curio, and others.*
 
 **DUKE.**
-Give me some music. Now good morrow, friends.
-Now, good Cesario, but that piece of song,
-That old and antique song we heard last night;
-Methought it did relieve my passion much,
-More than light airs and recollected terms
-Of these most brisk and giddy-paced times.
-Come, but one verse.
+==1== Give me some music. Now good morrow, friends.
+==2== Now, good Cesario, but that piece of song,
+==3== That old and antique song we heard last night;
+==4== Methought it did relieve my passion much,
+==5== More than light airs and recollected terms
+==6== Of these most brisk and giddy-paced times.
+==7== Come, but one verse.
 
 **CUR.**
-He is not here, so please your lordship, that should sing it.
+==8== He is not here, so please your lordship, that should sing it.
 
 **DUKE.**
-Who was it?
+==9== Who was it?
 
 **CUR.**
-Feste the jester, my lord, a fool that the Lady Olivia’s father took much delight in. He is about the house.
+==10== Feste the jester, my lord, a fool that the Lady Olivia’s father took much delight in. He is about the house.
 
 **DUKE.**
-Seek him out, and play the tune the while.
+==11== Seek him out, and play the tune the while.
 *(Exit Curio.)*
 *(Music plays.)*
-Come hither, boy. If ever thou shalt love,
-In the sweet pangs of it remember me;
-For such as I am, all true lovers are,
-Unstaid and skittish in all motions else,
-Save in the constant image of the creature
-That is belov’d. How dost thou like this tune?
+==12== Come hither, boy. If ever thou shalt love,
+==13== In the sweet pangs of it remember me;
+==14== For such as I am, all true lovers are,
+==15== Unstaid and skittish in all motions else,
+==16== Save in the constant image of the creature
+==17== That is belov’d. How dost thou like this tune?
 
 **VIO.**
-It gives a very echo to the seat
-Where Love is thron’d.
+==18== It gives a very echo to the seat
+==19== Where Love is thron’d.
 
 **DUKE.**
-           Thou dost speak masterly.
-My life upon’t, young though thou art, thine eye
-Hath stay’d upon some favor that it loves.
-Hath it not, boy?
+==19==            Thou dost speak masterly.
+==20== My life upon’t, young though thou art, thine eye
+==21== Hath stay’d upon some favor that it loves.
+==22== Hath it not, boy?
 
 **VIO.**
-           A little, by your favor.
+==22==            A little, by your favor.
 
 **DUKE.**
-What kind of woman is’t?
+==23== What kind of woman is’t?
 
 **VIO.**
-              Of your complexion.
+==23==               Of your complexion.
 
 **DUKE.**
-She is not worth thee then. What years, i’ faith?
+==24== She is not worth thee then. What years, i’ faith?
 
 **VIO.**
-About your years, my lord.
+==25== About your years, my lord.
 
 **DUKE.**
-Too old, by heaven. Let still the woman take
-An elder than herself, so wears she to him;
-So sways she level in her husband’s heart.
-For, boy, however we do praise ourselves,
-Our fancies are more giddy and unfirm,
-More longing, wavering, sooner lost and worn,
-Than women’s are.
+==26== Too old, by heaven. Let still the woman take
+==27== An elder than herself, so wears she to him;
+==28== So sways she level in her husband’s heart.
+==29== For, boy, however we do praise ourselves,
+==30== Our fancies are more giddy and unfirm,
+==31== More longing, wavering, sooner lost and worn,
+==32== Than women’s are.
 
 **VIO.**
-           I think it well, my lord.
+==32==            I think it well, my lord.
 
 **DUKE.**
-Then let thy love be younger than thyself,
-Or thy affection cannot hold the bent;
-For women are as roses, whose fair flow’r
-Being once display’d, doth fall that very hour.
+==33== Then let thy love be younger than thyself,
+==34== Or thy affection cannot hold the bent;
+==35== For women are as roses, whose fair flow’r
+==36== Being once display’d, doth fall that very hour.
 
 **VIO.**
-And so they are; alas, that they are so!
-To die, even when they to perfection grow!
+==37== And so they are; alas, that they are so!
+==38== To die, even when they to perfection grow!
 
 *Enter Curio and Clown.*
 
 **DUKE.**
-O fellow, come, the song we had last night.
-Mark it, Cesario, it is old and plain.
-The spinsters and the knitters in the sun,
-And the free maids that weave their thread with bones,
-Do use to chaunt it. It is silly sooth,
-And dallies with the innocence of love,
-Like the old age.
+==39== O fellow, come, the song we had last night.
+==40== Mark it, Cesario, it is old and plain.
+==41== The spinsters and the knitters in the sun,
+==42== And the free maids that weave their thread with bones,
+==43== Do use to chaunt it. It is silly sooth,
+==44== And dallies with the innocence of love,
+==45== Like the old age.
 
 **CLO.**
-Are you ready, sir?
+==46== Are you ready, sir?
 
 **DUKE.**
-Ay, prithee sing.
+==47== Ay, prithee sing.
 
 *Music. The Song*
 
 **CLO.**
-*Come away, come away, death,*
-*And in sad cypress let me be laid.*
-*Fly away, fly away, breath,*
-*I am slain by a fair cruel maid.*
-*My shroud of white, stuck all with yew,*
-*O, prepare it!*
-*My part of death, no one so true*
-*Did share it.*
-*Not a flower, not a flower sweet*
-*On my black coffin let there be strown.*
-*Not a friend, not a friend greet*
-*My poor corpse, where my bones shall be thrown.*
-*A thousand thousand sighs to save,*
-*Lay me, O, where*
-*Sad true lover never find my grave,*
-*To weep there.*
+==48== *Come away, come away, death,*
+==49== *And in sad cypress let me be laid.*
+==50== *Fly away, fly away, breath,*
+==51== *I am slain by a fair cruel maid.*
+==52== *My shroud of white, stuck all with yew,*
+==53== *O, prepare it!*
+==54== *My part of death, no one so true*
+==55== *Did share it.*
+==56== *Not a flower, not a flower sweet*
+==57== *On my black coffin let there be strown.*
+==58== *Not a friend, not a friend greet*
+==59== *My poor corpse, where my bones shall be thrown.*
+==60== *A thousand thousand sighs to save,*
+==61== *Lay me, O, where*
+==62== *Sad true lover never find my grave,*
+==63== *To weep there.*
 
 **DUKE.**
-There’s for thy pains.
+==64== There’s for thy pains.
 
 **CLO.**
-No pains, sir, I take pleasure in singing, sir.
+==65== No pains, sir, I take pleasure in singing, sir.
 
 **DUKE.**
-I’ll pay thy pleasure then.
+==66== I’ll pay thy pleasure then.
 
 **CLO.**
-Truly, sir, and pleasure will be paid, one time or another.
+==67== Truly, sir, and pleasure will be paid, one time or another.
 
 **DUKE.**
-Give me now leave to leave thee.
+==68== Give me now leave to leave thee.
 
 **CLO.**
-Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be every thing and their intent every where, for that’s it that always makes a good voyage of nothing. Farewell.
+==69== Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be every thing and their intent every where, for that’s it that always makes a good voyage of nothing. Farewell.
 
 *Exit.*
 
 **DUKE.**
-Let all the rest give place.
+==70== Let all the rest give place.
 *(Curio and Attendants retire.)*
-Once more, Cesario,
-Get thee to yond same sovereign cruelty,
-Tell her, my love, more noble than the world,
-Prizes not quantity of dirty lands;
-The parts that fortune hath bestow’d upon her,
-Tell her, I hold as giddily as fortune;
-But ’tis that miracle and queen of gems
-That nature pranks her in attracts my soul.
+==71== Once more, Cesario,
+==72== Get thee to yond same sovereign cruelty,
+==73== Tell her, my love, more noble than the world,
+==74== Prizes not quantity of dirty lands;
+==75== The parts that fortune hath bestow’d upon her,
+==76== Tell her, I hold as giddily as fortune;
+==77== But ’tis that miracle and queen of gems
+==78== That nature pranks her in attracts my soul.
 
 **VIO.**
-But if she cannot love you, sir?
+==79== But if she cannot love you, sir?
 
 **DUKE.**
-I cannot be so answer’d.
+==80== I cannot be so answer’d.
 
 **VIO.**
-              Sooth, but you must.
-Say that some lady, as perhaps there is,
-Hath for your love as great a pang of heart
-As you have for Olivia. You cannot love her;
-You tell her so. Must she not then be answer’d?
+==80==               Sooth, but you must.
+==81== Say that some lady, as perhaps there is,
+==82== Hath for your love as great a pang of heart
+==83== As you have for Olivia. You cannot love her;
+==84== You tell her so. Must she not then be answer’d?
 
 **DUKE.**
-There is no woman’s sides
-Can bide the beating of so strong a passion
-As love doth give my heart; no woman’s heart
-So big, to hold so much; they lack retention.
-Alas, their love may be call’d appetite,
-No motion of the liver, but the palate,
-That suffer surfeit, cloyment, and revolt,
-But mine is all as hungry as the sea,
-And can digest as much. Make no compare
-Between that love a woman can bear me
-And that I owe Olivia.
+==85== There is no woman’s sides
+==86== Can bide the beating of so strong a passion
+==87== As love doth give my heart; no woman’s heart
+==88== So big, to hold so much; they lack retention.
+==89== Alas, their love may be call’d appetite,
+==90== No motion of the liver, but the palate,
+==91== That suffer surfeit, cloyment, and revolt,
+==92== But mine is all as hungry as the sea,
+==93== And can digest as much. Make no compare
+==94== Between that love a woman can bear me
+==95== And that I owe Olivia.
 
 **VIO.**
-           Ay, but I know⁠—
+==95==            Ay, but I know⁠—
 
 **DUKE.**
-What dost thou know?
+==96== What dost thou know?
 
 **VIO.**
-Too well what love women to men may owe;
-In faith, they are as true of heart as we.
-My father had a daughter lov’d a man
-As it might be perhaps, were I a woman,
-I should your lordship.
+==97== Too well what love women to men may owe;
+==98== In faith, they are as true of heart as we.
+==99== My father had a daughter lov’d a man
+==100== As it might be perhaps, were I a woman,
+==101== I should your lordship.
 
 **DUKE.**
-           And what’s her history?
+==101==            And what’s her history?
 
 **VIO.**
-A blank, my lord; she never told her love,
-But let concealment like a worm i’ th’ bud
-Feed on her damask cheek; she pin’d in thought,
-And with a green and yellow melancholy
-She sate like Patience on a monument,
-Smiling at grief. Was not this love indeed?
-We men may say more, swear more, but indeed
-Our shows are more than will; for still we prove
-Much in our vows, but little in our love.
+==102== A blank, my lord; she never told her love,
+==103== But let concealment like a worm i’ th’ bud
+==104== Feed on her damask cheek; she pin’d in thought,
+==105== And with a green and yellow melancholy
+==106== She sate like Patience on a monument,
+==107== Smiling at grief. Was not this love indeed?
+==108== We men may say more, swear more, but indeed
+==109== Our shows are more than will; for still we prove
+==110== Much in our vows, but little in our love.
 
 **DUKE.**
-But died thy sister of her love, my boy?
+==111== But died thy sister of her love, my boy?
 
 **VIO.**
-I am all the daughters of my father’s house,
-And all the brothers too—and yet I know not.
-Sir, shall I to this lady?
+==112== I am all the daughters of my father’s house,
+==113== And all the brothers too—and yet I know not.
+==114== Sir, shall I to this lady?
 
 **DUKE.**
-              Ay, that’s the theme,
-To her in haste; give her this jewel; say
-My love can give no place, bide no denay.
+==114==               Ay, that’s the theme,
+==115== To her in haste; give her this jewel; say
+==116== My love can give no place, bide no denay.
 
 *Exeunt.*
 

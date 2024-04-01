@@ -22,274 +22,274 @@ ID: king-richard-ii-5-3
 *Enter the King Henry with his nobles Percy and other Lords.*
 
 **K. HEN.**
-Can no man tell me of my unthrifty son?
-’Tis full three months since I did see him last.
-If any plague hang over us, ’tis he.
-I would to God, my lords, he might be found.
-Inquire at London, ’mongst the taverns there,
-For there, they say, he daily doth frequent,
-With unrestrained loose companions,
-Even such, they say, as stand in narrow lanes
-And beat our watch and rob our passengers,
-Which he, young wanton and effeminate boy,
-Takes on the point of honor to support
-So dissolute a crew.
+==1== Can no man tell me of my unthrifty son?
+==2== ’Tis full three months since I did see him last.
+==3== If any plague hang over us, ’tis he.
+==4== I would to God, my lords, he might be found.
+==5== Inquire at London, ’mongst the taverns there,
+==6== For there, they say, he daily doth frequent,
+==7== With unrestrained loose companions,
+==8== Even such, they say, as stand in narrow lanes
+==9== And beat our watch and rob our passengers,
+==10== Which he, young wanton and effeminate boy,
+==11== Takes on the point of honor to support
+==12== So dissolute a crew.
 
 **PERCY.**
-My lord, some two days since I saw the Prince,
-And told him of those triumphs held at Oxford.
+==13== My lord, some two days since I saw the Prince,
+==14== And told him of those triumphs held at Oxford.
 
 **K. HEN.**
-And what said the gallant?
+==15== And what said the gallant?
 
 **PERCY.**
-His answer was, he would unto the stews,
-And from the common’st creature pluck a glove
-And wear it as a favor, and with that
-He would unhorse the lustiest challenger.
+==16== His answer was, he would unto the stews,
+==17== And from the common’st creature pluck a glove
+==18== And wear it as a favor, and with that
+==19== He would unhorse the lustiest challenger.
 
 **K. HEN.**
-As dissolute as desperate, yet through both
-I see some sparks of better hope, which elder years
-May happily bring forth. But who comes here?
+==20== As dissolute as desperate, yet through both
+==21== I see some sparks of better hope, which elder years
+==22== May happily bring forth. But who comes here?
 
 *Enter Aumerle amazed.*
 
 **AUM.**
-Where is the King?
+==23== Where is the King?
 
 **K. HEN.**
-What means our cousin, that he stares and looks
-So wildly?
+==24== What means our cousin, that he stares and looks
+==25== So wildly?
 
 **AUM.**
-God save your Grace! I do beseech your Majesty,
-To have some conference with your Grace alone.
+==26== God save your Grace! I do beseech your Majesty,
+==27== To have some conference with your Grace alone.
 
 **K. HEN.**
-Withdraw yourselves, and leave us here alone.
+==28== Withdraw yourselves, and leave us here alone.
 *(Exeunt Percy and Lords.)*
-What is the matter with our cousin now?
+==29== What is the matter with our cousin now?
 
 **AUM.**
-Forever may my knees grow to the earth,
+==30== Forever may my knees grow to the earth,
 *(Kneels.)*
-My tongue cleave to my roof within my mouth,
-Unless a pardon ere I rise or speak.
+==31== My tongue cleave to my roof within my mouth,
+==32== Unless a pardon ere I rise or speak.
 
 **K. HEN.**
-Intended, or committed, was this fault?
-If on the first, how heinous e’er it be,
-To win thy after-love I pardon thee.
+==33== Intended, or committed, was this fault?
+==34== If on the first, how heinous e’er it be,
+==35== To win thy after-love I pardon thee.
 
 **AUM.**
-Then give me leave that I may turn the key,
-That no man enter till my tale be done.
+==36== Then give me leave that I may turn the key,
+==37== That no man enter till my tale be done.
 
 **K. HEN.**
-Have thy desire.
+==38== Have thy desire.
 
 *Aumerle locks the door. The Duke of York knocks at the door and crieth.*
 
 **YORK.**
 *(Within.)*
-My liege, beware! Look to thyself,
-Thou hast a traitor in thy presence there.
+==39== My liege, beware! Look to thyself,
+==40== Thou hast a traitor in thy presence there.
 
 **K. HEN.**
-Villain, I’ll make thee safe.
+==41== Villain, I’ll make thee safe.
 
 *Draws.*
 
 **AUM.**
-Stay thy revengeful hand, thou hast no cause to fear.
+==42== Stay thy revengeful hand, thou hast no cause to fear.
 
 **YORK.**
 *(Within.)*
-Open the door, secure foolhardy King!
-Shall I for love speak treason to thy face?
-Open the door, or I will break it open.
+==43== Open the door, secure foolhardy King!
+==44== Shall I for love speak treason to thy face?
+==45== Open the door, or I will break it open.
 
 *King Henry unlocks the door.*
 
 *Enter York.*
 
 **K. HEN.**
-What is the matter, uncle? Speak,
-Recover breath, tell us how near is danger
-That we may arm us to encounter it.
+==46== What is the matter, uncle? Speak,
+==47== Recover breath, tell us how near is danger
+==48== That we may arm us to encounter it.
 
 **YORK.**
-Peruse this writing here, and thou shalt know
-The treason that my haste forbids me show.
+==49== Peruse this writing here, and thou shalt know
+==50== The treason that my haste forbids me show.
 
 **AUM.**
-Remember, as thou read’st, thy promise pass’d.
-I do repent me, read not my name there,
-My heart is not confederate with my hand.
+==51== Remember, as thou read’st, thy promise pass’d.
+==52== I do repent me, read not my name there,
+==53== My heart is not confederate with my hand.
 
 **YORK.**
-It was, villain, ere thy hand did set it down.
-I tore it from the traitor’s bosom, King;
-Fear, and not love, begets his penitence.
-Forget to pity him, lest thy pity prove
-A serpent that will sting thee to the heart.
+==54== It was, villain, ere thy hand did set it down.
+==55== I tore it from the traitor’s bosom, King;
+==56== Fear, and not love, begets his penitence.
+==57== Forget to pity him, lest thy pity prove
+==58== A serpent that will sting thee to the heart.
 
 **K. HEN.**
-O heinous, strong, and bold conspiracy!
-O loyal father of a treacherous son!
-Thou sheer, immaculate, and silver fountain,
-From whence this stream through muddy passages
-Hath held his current and defil’d himself!
-Thy overflow of good converts to bad,
-And thy abundant goodness shall excuse
-This deadly blot in thy digressing son.
+==59== O heinous, strong, and bold conspiracy!
+==60== O loyal father of a treacherous son!
+==61== Thou sheer, immaculate, and silver fountain,
+==62== From whence this stream through muddy passages
+==63== Hath held his current and defil’d himself!
+==64== Thy overflow of good converts to bad,
+==65== And thy abundant goodness shall excuse
+==66== This deadly blot in thy digressing son.
 
 **YORK.**
-So shall my virtue be his vice’s bawd,
-An’ he shall spend mine honor with his shame,
-As thriftless sons their scraping fathers’ gold.
-Mine honor lives when his dishonor dies,
-Or my sham’d life in his dishonor lies:
-Thou kill’st me in his life; giving him breath,
-The traitor lives, the true man’s put to death.
+==67== So shall my virtue be his vice’s bawd,
+==68== An’ he shall spend mine honor with his shame,
+==69== As thriftless sons their scraping fathers’ gold.
+==70== Mine honor lives when his dishonor dies,
+==71== Or my sham’d life in his dishonor lies:
+==72== Thou kill’st me in his life; giving him breath,
+==73== The traitor lives, the true man’s put to death.
 
 **DUCH. YORK.**
 *(Within.)*
-What ho, my liege! For God’s sake let me in.
+==74== What ho, my liege! For God’s sake let me in.
 
 **K. HEN.**
-What shrill-voic’d suppliant makes this eager cry?
+==75== What shrill-voic’d suppliant makes this eager cry?
 
 **DUCH. YORK.**
 *(Within.)*
-A woman, and thy aunt, great King, ’tis I.
-Speak with me, pity me, open the door!
-A beggar begs that never begg’d before.
+==76== A woman, and thy aunt, great King, ’tis I.
+==77== Speak with me, pity me, open the door!
+==78== A beggar begs that never begg’d before.
 
 **K. HEN.**
-Our scene is alt’red from a serious thing,
-And now chang’d to “The Beggar and the King.”
-My dangerous cousin, let your mother in,
-I know she is come to pray for your foul sin.
+==79== Our scene is alt’red from a serious thing,
+==80== And now chang’d to “The Beggar and the King.”
+==81== My dangerous cousin, let your mother in,
+==82== I know she is come to pray for your foul sin.
 
 **YORK.**
-If thou do pardon, whosoever pray,
-More sins for this forgiveness prosper may.
-This fest’red joint cut off, the rest rest sound,
-This let alone will all the rest confound.
+==83== If thou do pardon, whosoever pray,
+==84== More sins for this forgiveness prosper may.
+==85== This fest’red joint cut off, the rest rest sound,
+==86== This let alone will all the rest confound.
 
 *Enter Duchess of York.*
 
 **DUCH. YORK.**
-O King, believe not this hard-hearted man!
-Love loving not itself, none other can.
+==87== O King, believe not this hard-hearted man!
+==88== Love loving not itself, none other can.
 
 **YORK.**
-Thou frantic woman, what dost thou make here?
-Shall thy old dugs once more a traitor rear?
+==89== Thou frantic woman, what dost thou make here?
+==90== Shall thy old dugs once more a traitor rear?
 
 **DUCH. YORK.**
-Sweet York, be patient. Hear me, gentle liege.
+==91== Sweet York, be patient. Hear me, gentle liege.
 
 *Kneels.*
 
 **K. HEN.**
-Rise up, good aunt.
+==92== Rise up, good aunt.
 
 **DUCH. YORK.**
-           Not yet, I thee beseech.
-Forever will I walk upon my knees,
-And never see day that the happy sees,
-Till thou give joy, until thou bid me joy
-By pardoning Rutland, my transgressing boy.
+==92==            Not yet, I thee beseech.
+==93== Forever will I walk upon my knees,
+==94== And never see day that the happy sees,
+==95== Till thou give joy, until thou bid me joy
+==96== By pardoning Rutland, my transgressing boy.
 
 **AUM.**
-Unto my mother’s prayers I bend my knee.
+==97== Unto my mother’s prayers I bend my knee.
 
 *Kneels.*
 
 **YORK.**
-Against them both my true joints bended be.
+==98== Against them both my true joints bended be.
 *(Kneels.)*
-Ill mayst thou thrive if thou grant any grace!
+==99== Ill mayst thou thrive if thou grant any grace!
 
 **DUCH. YORK.**
-Pleads he in earnest? Look upon his face:
-His eyes do drop no tears, his prayers are in jest,
-His words come from his mouth, ours from our breast;
-He prays but faintly, and would be denied,
-We pray with heart and soul, and all beside;
-His weary joints would gladly rise, I know,
-Our knees still kneel till to the ground they grow;
-His prayers are full of false hypocrisy,
-Ours of true zeal and deep integrity;
-Our prayers do outpray his, then let them have
-That mercy which true prayer ought to have.
+==100== Pleads he in earnest? Look upon his face:
+==101== His eyes do drop no tears, his prayers are in jest,
+==102== His words come from his mouth, ours from our breast;
+==103== He prays but faintly, and would be denied,
+==104== We pray with heart and soul, and all beside;
+==105== His weary joints would gladly rise, I know,
+==106== Our knees still kneel till to the ground they grow;
+==107== His prayers are full of false hypocrisy,
+==108== Ours of true zeal and deep integrity;
+==109== Our prayers do outpray his, then let them have
+==110== That mercy which true prayer ought to have.
 
 **K. HEN.**
-Good aunt, stand up.
+==111== Good aunt, stand up.
 
 **DUCH. YORK.**
-           Nay, do not say “stand up”;
-Say “pardon” first, and afterwards “stand up.”
-And if I were thy nurse, thy tongue to teach,
-“Pardon” should be the first word of thy speech.
-I never long’d to hear a word till now,
-Say “pardon,” King, let pity teach thee how.
-The word is short, but not so short as sweet,
-No word like “pardon” for kings’ mouths so meet.
+==111==            Nay, do not say “stand up”;
+==112== Say “pardon” first, and afterwards “stand up.”
+==113== And if I were thy nurse, thy tongue to teach,
+==114== “Pardon” should be the first word of thy speech.
+==115== I never long’d to hear a word till now,
+==116== Say “pardon,” King, let pity teach thee how.
+==117== The word is short, but not so short as sweet,
+==118== No word like “pardon” for kings’ mouths so meet.
 
 **YORK.**
-Speak it in French, King, say *“pardonne moy”*.
+==119== Speak it in French, King, say *“pardonne moy”*.
 
 **DUCH. YORK.**
-Dost thou teach pardon pardon to destroy?
-Ah, my sour husband, my hard-hearted lord,
-That sets the word itself against the word!
-Speak “pardon” as ’tis current in our land,
-The chopping French we do not understand.
-Thine eye begins to speak, set thy tongue there;
-Or in thy piteous heart plant thou thine ear,
-That hearing how our plaints and prayers do pierce,
-Pity may move thee “pardon” to rehearse.
+==120== Dost thou teach pardon pardon to destroy?
+==121== Ah, my sour husband, my hard-hearted lord,
+==122== That sets the word itself against the word!
+==123== Speak “pardon” as ’tis current in our land,
+==124== The chopping French we do not understand.
+==125== Thine eye begins to speak, set thy tongue there;
+==126== Or in thy piteous heart plant thou thine ear,
+==127== That hearing how our plaints and prayers do pierce,
+==128== Pity may move thee “pardon” to rehearse.
 
 **K. HEN.**
-Good aunt, stand up.
+==129== Good aunt, stand up.
 
 **DUCH. YORK.**
-           I do not sue to stand;
-Pardon is all the suit I have in hand.
+==129==            I do not sue to stand;
+==130== Pardon is all the suit I have in hand.
 
 **K. HEN.**
-I pardon him as God shall pardon me.
+==131== I pardon him as God shall pardon me.
 
 **DUCH. YORK.**
-O happy vantage of a kneeling knee!
-Yet am I sick for fear, speak it again,
-Twice saying “pardon” doth not pardon twain,
-But makes one pardon strong.
+==132== O happy vantage of a kneeling knee!
+==133== Yet am I sick for fear, speak it again,
+==134== Twice saying “pardon” doth not pardon twain,
+==135== But makes one pardon strong.
 
 **K. HEN.**
-                With all my heart
-I pardon him.
+==135==                 With all my heart
+==136== I pardon him.
 
 **DUCH. YORK.**
-        A god on earth thou art.
+==136==         A god on earth thou art.
 
 **K. HEN.**
-But for our trusty brother-in-law and the abbot,
-With all the rest of that consorted crew,
-Destruction straight shall dog them at the heels.
-Good uncle, help to order several powers
-To Oxford, or where e’er these traitors are.
-They shall not live within this world, I swear,
-But I will have them if I once know where.
-Uncle, farewell, and, cousin, *adieu*!
-Your mother well hath pray’d, and prove you true.
+==137== But for our trusty brother-in-law and the abbot,
+==138== With all the rest of that consorted crew,
+==139== Destruction straight shall dog them at the heels.
+==140== Good uncle, help to order several powers
+==141== To Oxford, or where e’er these traitors are.
+==142== They shall not live within this world, I swear,
+==143== But I will have them if I once know where.
+==144== Uncle, farewell, and, cousin, *adieu*!
+==145== Your mother well hath pray’d, and prove you true.
 
 **DUCH. YORK.**
-Come, my old son, I pray God make thee new.
+==146== Come, my old son, I pray God make thee new.
 
 *Exeunt.*
 

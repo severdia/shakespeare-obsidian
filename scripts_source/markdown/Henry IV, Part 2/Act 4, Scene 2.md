@@ -21,210 +21,210 @@ ID: henry-iv-part-ii-4-2
 *Enter Prince John of Lancaster and his army.*
 
 **P. JOHN.**
-You are well encount’red here, my cousin Mowbray,
-Good day to you, gentle Lord Archbishop,
-And so to you, Lord Hastings, and to all.
-My Lord of York, it better show’d with you
-When that your flock, assembled by the bell,
-Encircled you to hear with reverence
-Your exposition on the holy text
-Than now to see you here an iron man, talking,
-Cheering a rout of rebels with your drum,
-Turning the word to sword and life to death.
-That man that sits within a monarch’s heart
-And ripens in the sunshine of his favor,
-Would he abuse the countenance of the King,
-Alack, what mischiefs might he set abroach
-In shadow of such greatness? With you, Lord Bishop,
-It is even so. Who hath not heard it spoken
-How deep you were within the books of God?
-To us the speaker in his parliament,
-To us th’ imagin’d voice of God himself,
-The very opener and intelligencer
-Between the grace, the sanctities of heaven,
-And our dull workings? O, who shall believe
-But you misuse the reverence of your place,
-Employ the countenance and grace of heav’n,
-As a false favorite doth his prince’s name,
-In deeds dishonorable? You have ta’en up,
-Under the counterfeited zeal of God,
-The subjects of his substitute, my father,
-And both against the peace of heaven and him
-Have here upswarm’d them.
+==1== You are well encount’red here, my cousin Mowbray,
+==2== Good day to you, gentle Lord Archbishop,
+==3== And so to you, Lord Hastings, and to all.
+==4== My Lord of York, it better show’d with you
+==5== When that your flock, assembled by the bell,
+==6== Encircled you to hear with reverence
+==7== Your exposition on the holy text
+==8== Than now to see you here an iron man, talking,
+==9== Cheering a rout of rebels with your drum,
+==10== Turning the word to sword and life to death.
+==11== That man that sits within a monarch’s heart
+==12== And ripens in the sunshine of his favor,
+==13== Would he abuse the countenance of the King,
+==14== Alack, what mischiefs might he set abroach
+==15== In shadow of such greatness? With you, Lord Bishop,
+==16== It is even so. Who hath not heard it spoken
+==17== How deep you were within the books of God?
+==18== To us the speaker in his parliament,
+==19== To us th’ imagin’d voice of God himself,
+==20== The very opener and intelligencer
+==21== Between the grace, the sanctities of heaven,
+==22== And our dull workings? O, who shall believe
+==23== But you misuse the reverence of your place,
+==24== Employ the countenance and grace of heav’n,
+==25== As a false favorite doth his prince’s name,
+==26== In deeds dishonorable? You have ta’en up,
+==27== Under the counterfeited zeal of God,
+==28== The subjects of his substitute, my father,
+==29== And both against the peace of heaven and him
+==30== Have here upswarm’d them.
 
 **ARCH.**
-              Good my Lord of Lancaster,
-I am not here against your father’s peace,
-But as I told my Lord of Westmorland,
-The time misord’red doth, in common sense,
-Crowd us and crush us to this monstrous form
-To hold our safety up. I sent your Grace
-The parcels and particulars of our grief,
-The which hath been with scorn shov’d from the court,
-Whereon this Hydra son of war is born,
-Whose dangerous eyes may well be charm’d asleep
-With grant of our most just and right desires,
-And true obedience, of this madness cured,
-Stoop tamely to the foot of majesty.
+==30==               Good my Lord of Lancaster,
+==31== I am not here against your father’s peace,
+==32== But as I told my Lord of Westmorland,
+==33== The time misord’red doth, in common sense,
+==34== Crowd us and crush us to this monstrous form
+==35== To hold our safety up. I sent your Grace
+==36== The parcels and particulars of our grief,
+==37== The which hath been with scorn shov’d from the court,
+==38== Whereon this Hydra son of war is born,
+==39== Whose dangerous eyes may well be charm’d asleep
+==40== With grant of our most just and right desires,
+==41== And true obedience, of this madness cured,
+==42== Stoop tamely to the foot of majesty.
 
 **MOWB.**
-If not, we ready are to try our fortunes
-To the last man.
+==43== If not, we ready are to try our fortunes
+==44== To the last man.
 
 **HAST.**
-        And though we here fall down,
-We have supplies to second our attempt;
-If they miscarry, theirs shall second them,
-And so success of mischief shall be born,
-And heir from heir shall hold his quarrel up
-Whiles England shall have generation.
+==44==         And though we here fall down,
+==45== We have supplies to second our attempt;
+==46== If they miscarry, theirs shall second them,
+==47== And so success of mischief shall be born,
+==48== And heir from heir shall hold his quarrel up
+==49== Whiles England shall have generation.
 
 **P. JOHN.**
-You are too shallow, Hastings, much too shallow,
-To sound the bottom of the after-times.
+==50== You are too shallow, Hastings, much too shallow,
+==51== To sound the bottom of the after-times.
 
 **WEST.**
-Pleaseth your Grace to answer them directly
-How far forth you do like their articles.
+==52== Pleaseth your Grace to answer them directly
+==53== How far forth you do like their articles.
 
 **P. JOHN.**
-I like them all, and do allow them well,
-And swear here, by the honor of my blood,
-My father’s purposes have been mistook,
-And some about him have too lavishly
-Wrested his meaning and authority.
-My lord, these griefs shall be with speed redress’d,
-Upon my soul they shall. If this may please you,
-Discharge your powers unto their several counties,
-As we will ours, and here between the armies
-Let’s drink together friendly and embrace,
-That all their eyes may bear those tokens home
-Of our restored love and amity.
+==54== I like them all, and do allow them well,
+==55== And swear here, by the honor of my blood,
+==56== My father’s purposes have been mistook,
+==57== And some about him have too lavishly
+==58== Wrested his meaning and authority.
+==59== My lord, these griefs shall be with speed redress’d,
+==60== Upon my soul they shall. If this may please you,
+==61== Discharge your powers unto their several counties,
+==62== As we will ours, and here between the armies
+==63== Let’s drink together friendly and embrace,
+==64== That all their eyes may bear those tokens home
+==65== Of our restored love and amity.
 
 **ARCH.**
-I take your princely word for these redresses.
+==66== I take your princely word for these redresses.
 
 **P. JOHN.**
-I give it you, and will maintain my word,
-And thereupon I drink unto your Grace.
+==67== I give it you, and will maintain my word,
+==68== And thereupon I drink unto your Grace.
 
 **HAST.**
-Go, captain, and deliver to the army
-This news of peace. Let them have pay, and part.
-I know it will well please them. Hie thee, captain.
+==69== Go, captain, and deliver to the army
+==70== This news of peace. Let them have pay, and part.
+==71== I know it will well please them. Hie thee, captain.
 
 *Exit Officer.*
 
 **ARCH.**
-To you, my noble Lord of Westmorland.
+==72== To you, my noble Lord of Westmorland.
 
 **WEST.**
-I pledge your Grace, and if you knew what pains
-I have bestowed to breed this present peace,
-You would drink freely. But my love to ye
-Shall show itself more openly hereafter.
+==73== I pledge your Grace, and if you knew what pains
+==74== I have bestowed to breed this present peace,
+==75== You would drink freely. But my love to ye
+==76== Shall show itself more openly hereafter.
 
 **ARCH.**
-I do not doubt you.
+==77== I do not doubt you.
 
 **WEST.**
-           I am glad of it.
-Health to my lord, and gentle cousin, Mowbray.
+==77==            I am glad of it.
+==78== Health to my lord, and gentle cousin, Mowbray.
 
 **MOWB.**
-You wish me health in very happy season,
-For I am on the sudden something ill.
+==79== You wish me health in very happy season,
+==80== For I am on the sudden something ill.
 
 **ARCH.**
-Against ill chances men are ever merry,
-But heaviness foreruns the good event.
+==81== Against ill chances men are ever merry,
+==82== But heaviness foreruns the good event.
 
 **WEST.**
-Therefore be merry, coz, since sudden sorrow
-Serves to say thus, some good thing comes tomorrow.
+==83== Therefore be merry, coz, since sudden sorrow
+==84== Serves to say thus, some good thing comes tomorrow.
 
 **ARCH.**
-Believe me, I am passing light in spirit.
+==85== Believe me, I am passing light in spirit.
 
 **MOWB.**
-So much the worse, if your own rule be true.
+==86== So much the worse, if your own rule be true.
 
 *Shout within.*
 
 **P. JOHN.**
-The word of peace is rend’red. Hark how they shout!
+==87== The word of peace is rend’red. Hark how they shout!
 
 **MOWB.**
-This had been cheerful after victory.
+==88== This had been cheerful after victory.
 
 **ARCH.**
-A peace is of the nature of a conquest,
-For then both parties nobly are subdued,
-And neither party loser.
+==89== A peace is of the nature of a conquest,
+==90== For then both parties nobly are subdued,
+==91== And neither party loser.
 
 **P. JOHN.**
-              Go, my lord,
-And let our army be discharged too.
+==91==               Go, my lord,
+==92== And let our army be discharged too.
 *(Exit Westmorland.)*
-And, good my lord, so please you, let our trains
-March by us, that we may peruse the men
-We should have cop’d withal.
+==93== And, good my lord, so please you, let our trains
+==94== March by us, that we may peruse the men
+==95== We should have cop’d withal.
 
 **ARCH.**
-                Go, good Lord Hastings,
-And ere they be dismiss’d, let them march by.
+==95==                 Go, good Lord Hastings,
+==96== And ere they be dismiss’d, let them march by.
 
 *Exit Hastings.*
 
 *Enter Westmorland.*
 
 **P. JOHN.**
-I trust, lords, we shall lie tonight together.
-Now, cousin, wherefore stands our army still?
+==97== I trust, lords, we shall lie tonight together.
+==98== Now, cousin, wherefore stands our army still?
 
 **WEST.**
-The leaders, having charge from you to stand,
-Will not go off until they hear you speak.
+==99== The leaders, having charge from you to stand,
+==100== Will not go off until they hear you speak.
 
 **P. JOHN.**
-They know their duties.
+==101== They know their duties.
 
 *Enter Hastings.*
 
 **HAST.**
-My lord, our army is dispers’d already:
-Like youthful steers unyok’d, they take their courses
-East, west, north, south, or, like a school broke up,
-Each hurries toward his home and sporting-place.
+==102== My lord, our army is dispers’d already:
+==103== Like youthful steers unyok’d, they take their courses
+==104== East, west, north, south, or, like a school broke up,
+==105== Each hurries toward his home and sporting-place.
 
 **WEST.**
-Good tidings, my Lord Hastings! For the which
-I do arrest thee, traitor, of high treason,
-And you, Lord Archbishop, and you, Lord Mowbray,
-Of capital treason I attach you both.
+==106== Good tidings, my Lord Hastings! For the which
+==107== I do arrest thee, traitor, of high treason,
+==108== And you, Lord Archbishop, and you, Lord Mowbray,
+==109== Of capital treason I attach you both.
 
 **MOWB.**
-Is this proceeding just and honorable?
+==110== Is this proceeding just and honorable?
 
 **WEST.**
-Is your assembly so?
+==111== Is your assembly so?
 
 **ARCH.**
-Will you thus break your faith?
+==112== Will you thus break your faith?
 
 **P. JOHN.**
-                I pawn’d thee none.
-I promis’d you redress of these same grievances
-Whereof you did complain, which, by mine honor,
-I will perform with a most Christian care.
-But for you rebels, look to taste the due
-Meet for rebellion and such acts as yours.
-Most shallowly did you these arms commence,
-Fondly brought here and foolishly sent hence.
-Strike up our drums, pursue the scatt’red stray;
-God, and not we, hath safely fought today.
-Some guard these traitors to the block of death,
-Treason’s true bed and yielder-up of breath.
+==112==                 I pawn’d thee none.
+==113== I promis’d you redress of these same grievances
+==114== Whereof you did complain, which, by mine honor,
+==115== I will perform with a most Christian care.
+==116== But for you rebels, look to taste the due
+==117== Meet for rebellion and such acts as yours.
+==118== Most shallowly did you these arms commence,
+==119== Fondly brought here and foolishly sent hence.
+==120== Strike up our drums, pursue the scatt’red stray;
+==121== God, and not we, hath safely fought today.
+==122== Some guard these traitors to the block of death,
+==123== Treason’s true bed and yielder-up of breath.
 
 *Exeunt.*
 

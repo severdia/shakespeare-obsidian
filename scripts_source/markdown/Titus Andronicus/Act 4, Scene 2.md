@@ -22,329 +22,329 @@ ID: titus-andronicus-4-2
 *Enter Aaron, Chiron, and Demetrius at one door; and at the other door Young Lucius and another with a bundle of weapons, and verses writ upon them.*
 
 **CHI.**
-Demetrius, here’s the son of Lucius,
-He hath some message to deliver us.
+==1== Demetrius, here’s the son of Lucius,
+==2== He hath some message to deliver us.
 
 **AAR.**
-Ay, some mad message from his mad grandfather.
+==3== Ay, some mad message from his mad grandfather.
 
 **Y. LUC.**
-My lords, with all the humbleness I may,
-I greet your honors from Andronicus⁠—
+==4== My lords, with all the humbleness I may,
+==5== I greet your honors from Andronicus⁠—
 *(Aside.)*
-And pray the Roman gods confound you both!
+==6== And pray the Roman gods confound you both!
 
 **DEM.**
-Gramercy, lovely Lucius. What’s the news?
+==7== Gramercy, lovely Lucius. What’s the news?
 
 **Y. LUC.**
 *(Aside.)*
-That you are both decipher’d, that’s the news,
-For villains mark’d with rape.—May it please you,
-My grandsire, well advis’d, hath sent by me
-The goodliest weapons of his armory
-To gratify your honorable youth,
-The hope of Rome, for so he bid me say;
-And so I do, and with his gifts present
-Your lordships, that, when ever you have need,
-You may be armed and appointed well:
-And so I leave you both⁠—
+==8== That you are both decipher’d, that’s the news,
+==9== For villains mark’d with rape.—May it please you,
+==10== My grandsire, well advis’d, hath sent by me
+==11== The goodliest weapons of his armory
+==12== To gratify your honorable youth,
+==13== The hope of Rome, for so he bid me say;
+==14== And so I do, and with his gifts present
+==15== Your lordships, that, when ever you have need,
+==16== You may be armed and appointed well:
+==17== And so I leave you both⁠—
 *(Aside.)*
-              like bloody villains.
+==17==               like bloody villains.
 
 *Exit with Attendant.*
 
 **DEM.**
-What’s here? A scroll, and written round about.
-Let’s see:
+==18== What’s here? A scroll, and written round about.
+==19== Let’s see:
 *(Reads.)*
-*“Integer vitae, scelerisque purus,*
-*Non eget Mauri jaculis, nec arcu.”*
+==20== *“Integer vitae, scelerisque purus,*
+==21== *Non eget Mauri jaculis, nec arcu.”*
 
 **CHI.**
-O, ’tis a verse in Horace, I know it well,
-I read it in the grammar long ago.
+==22== O, ’tis a verse in Horace, I know it well,
+==23== I read it in the grammar long ago.
 
 **AAR.**
-Ay, just—a verse in Horace, right, you have it.
+==24== Ay, just—a verse in Horace, right, you have it.
 *(Aside.)*
-Now, what a thing it is to be an ass!
-Here’s no sound jest! The old man hath found their guilt,
-And sends them weapons wrapp’d about with lines
-That wound beyond their feeling to the quick.
-But were our witty Empress well afoot,
-She would applaud Andronicus’ conceit,
-But let her rest in her unrest a while.⁠—
-And now, young lords, was’t not a happy star
-Led us to Rome, strangers, and more than so,
-Captives, to be advanced to this height?
-It did me good, before the palace gate
-To brave the tribune in his brother’s hearing.
+==25== Now, what a thing it is to be an ass!
+==26== Here’s no sound jest! The old man hath found their guilt,
+==27== And sends them weapons wrapp’d about with lines
+==28== That wound beyond their feeling to the quick.
+==29== But were our witty Empress well afoot,
+==30== She would applaud Andronicus’ conceit,
+==31== But let her rest in her unrest a while.⁠—
+==32== And now, young lords, was’t not a happy star
+==33== Led us to Rome, strangers, and more than so,
+==34== Captives, to be advanced to this height?
+==35== It did me good, before the palace gate
+==36== To brave the tribune in his brother’s hearing.
 
 **DEM.**
-But me more good to see so great a lord
-Basely insinuate and send us gifts.
+==37== But me more good to see so great a lord
+==38== Basely insinuate and send us gifts.
 
 **AAR.**
-Had he not reason, Lord Demetrius?
-Did you not use his daughter very friendly?
+==39== Had he not reason, Lord Demetrius?
+==40== Did you not use his daughter very friendly?
 
 **DEM.**
-I would we had a thousand Roman dames
-At such a bay, by turn to serve our lust.
+==41== I would we had a thousand Roman dames
+==42== At such a bay, by turn to serve our lust.
 
 **CHI.**
-A charitable wish, and full of love.
+==43== A charitable wish, and full of love.
 
 **AAR.**
-Here lacks but your mother for to say amen.
+==44== Here lacks but your mother for to say amen.
 
 **CHI.**
-And that would she for twenty thousand more.
+==45== And that would she for twenty thousand more.
 
 **DEM.**
-Come let us go and pray to all the gods
-For our beloved mother in her pains.
+==46== Come let us go and pray to all the gods
+==47== For our beloved mother in her pains.
 
 **AAR.**
 *(Aside.)*
-Pray to the devils, the gods have given us over.
+==48== Pray to the devils, the gods have given us over.
 
 *Trumpets sound within.*
 
 **DEM.**
-Why do the Emperor’s trumpets flourish thus?
+==49== Why do the Emperor’s trumpets flourish thus?
 
 **CHI.**
-Belike for joy the Emperor hath a son.
+==50== Belike for joy the Emperor hath a son.
 
 **DEM.**
-Soft, who comes here?
+==51== Soft, who comes here?
 
 *Enter Nurse with a blackamoor child.*
 
 **NUR.**
-              Good morrow, lords.
-O, tell me, did you see Aaron the Moor?
+==51==               Good morrow, lords.
+==52== O, tell me, did you see Aaron the Moor?
 
 **AAR.**
-Well, more or less, or ne’er a whit at all,
-Here Aaron is, and what with Aaron now?
+==53== Well, more or less, or ne’er a whit at all,
+==54== Here Aaron is, and what with Aaron now?
 
 **NUR.**
-O gentle Aaron, we are all undone!
-Now help, or woe betide thee evermore!
+==55== O gentle Aaron, we are all undone!
+==56== Now help, or woe betide thee evermore!
 
 **AAR.**
-Why, what a caterwauling dost thou keep!
-What dost thou wrap and fumble in thy arms?
+==57== Why, what a caterwauling dost thou keep!
+==58== What dost thou wrap and fumble in thy arms?
 
 **NUR.**
-O, that which I would hide from heaven’s eye,
-Our Empress’ shame, and stately Rome’s disgrace!
-She is delivered, lords, she is delivered.
+==59== O, that which I would hide from heaven’s eye,
+==60== Our Empress’ shame, and stately Rome’s disgrace!
+==61== She is delivered, lords, she is delivered.
 
 **AAR.**
-To whom?
+==62== To whom?
 
 **NUR.**
-        I mean she is brought a-bed.
+==62==         I mean she is brought a-bed.
 
 **AAR.**
-Well, God give her good rest! What hath he sent her?
+==63== Well, God give her good rest! What hath he sent her?
 
 **NUR.**
-A devil.
+==64== A devil.
 
 **AAR.**
-Why, then she is the devil’s dam: a joyful issue.
+==65== Why, then she is the devil’s dam: a joyful issue.
 
 **NUR.**
-A joyless, dismal, black, and sorrowful issue!
-Here is the babe, as loathsome as a toad
-Amongst the fair-fac’d breeders of our clime.
-The Empress sends it thee, thy stamp, thy seal,
-And bids thee christen it with thy dagger’s point.
+==66== A joyless, dismal, black, and sorrowful issue!
+==67== Here is the babe, as loathsome as a toad
+==68== Amongst the fair-fac’d breeders of our clime.
+==69== The Empress sends it thee, thy stamp, thy seal,
+==70== And bids thee christen it with thy dagger’s point.
 
 **AAR.**
-’Zounds, ye whore, is black so base a hue?
-Sweet blowse, you are a beauteous blossom sure.
+==71== ’Zounds, ye whore, is black so base a hue?
+==72== Sweet blowse, you are a beauteous blossom sure.
 
 **DEM.**
-Villain, what hast thou done?
+==73== Villain, what hast thou done?
 
 **AAR.**
-That which thou canst not undo.
+==74== That which thou canst not undo.
 
 **CHI.**
-Thou hast undone our mother.
+==75== Thou hast undone our mother.
 
 **AAR.**
-Villain, I have done thy mother.
+==76== Villain, I have done thy mother.
 
 **DEM.**
-And therein, hellish dog, thou hast undone her.
-Woe to her chance, and damn’d her loathed choice!
-Accurs’d the offspring of so foul a fiend!
+==77== And therein, hellish dog, thou hast undone her.
+==78== Woe to her chance, and damn’d her loathed choice!
+==79== Accurs’d the offspring of so foul a fiend!
 
 **CHI.**
-It shall not live.
+==80== It shall not live.
 
 **AAR.**
-It shall not die.
+==81== It shall not die.
 
 **NUR.**
-Aaron, it must, the mother wills it so.
+==82== Aaron, it must, the mother wills it so.
 
 **AAR.**
-What, must it, nurse? Then let no man but I
-Do execution on my flesh and blood.
+==83== What, must it, nurse? Then let no man but I
+==84== Do execution on my flesh and blood.
 
 **DEM.**
-I’ll broach the tadpole on my rapier’s point.
-Nurse, give it me, my sword shall soon dispatch it.
+==85== I’ll broach the tadpole on my rapier’s point.
+==86== Nurse, give it me, my sword shall soon dispatch it.
 
 **AAR.**
-Sooner this sword shall plough thy bowels up.
+==87== Sooner this sword shall plough thy bowels up.
 *(Takes the child from the Nurse, and draws.)*
-Stay, murderous villains, will you kill your brother?
-Now, by the burning tapers of the sky,
-That shone so brightly when this boy was got,
-He dies upon my scimitar’s sharp point,
-That touches this my first-born son and heir!
-I tell you, younglings, not Enceladus,
-With all his threat’ning band of Typhon’s brood,
-Nor great Alcides, nor the god of war,
-Shall seize this prey out of his father’s hands.
-What, what, ye sanguine, shallow-hearted boys!
-Ye white-lim’d walls! Ye alehouse painted signs!
-Coal-black is better than another hue,
-In that it scorns to bear another hue;
-For all the water in the ocean
-Can never turn the swan’s black legs to white,
-Although she lave them hourly in the flood.
-Tell the Empress from me, I am of age
-To keep mine own, excuse it how she can.
+==88== Stay, murderous villains, will you kill your brother?
+==89== Now, by the burning tapers of the sky,
+==90== That shone so brightly when this boy was got,
+==91== He dies upon my scimitar’s sharp point,
+==92== That touches this my first-born son and heir!
+==93== I tell you, younglings, not Enceladus,
+==94== With all his threat’ning band of Typhon’s brood,
+==95== Nor great Alcides, nor the god of war,
+==96== Shall seize this prey out of his father’s hands.
+==97== What, what, ye sanguine, shallow-hearted boys!
+==98== Ye white-lim’d walls! Ye alehouse painted signs!
+==99== Coal-black is better than another hue,
+==100== In that it scorns to bear another hue;
+==101== For all the water in the ocean
+==102== Can never turn the swan’s black legs to white,
+==103== Although she lave them hourly in the flood.
+==104== Tell the Empress from me, I am of age
+==105== To keep mine own, excuse it how she can.
 
 **DEM.**
-Wilt thou betray thy noble mistress thus?
+==106== Wilt thou betray thy noble mistress thus?
 
 **AAR.**
-My mistress is my mistress, this myself,
-The vigor and the picture of my youth:
-This before all the world do I prefer,
-This maugre all the world will I keep safe,
-Or some of you shall smoke for it in Rome.
+==107== My mistress is my mistress, this myself,
+==108== The vigor and the picture of my youth:
+==109== This before all the world do I prefer,
+==110== This maugre all the world will I keep safe,
+==111== Or some of you shall smoke for it in Rome.
 
 **DEM.**
-By this our mother is forever sham’d.
+==112== By this our mother is forever sham’d.
 
 **CHI.**
-Rome will despise her for this foul escape.
+==113== Rome will despise her for this foul escape.
 
 **NUR.**
-The Emperor in his rage will doom her death.
+==114== The Emperor in his rage will doom her death.
 
 **CHI.**
-I blush to think upon this ignomy.
+==115== I blush to think upon this ignomy.
 
 **AAR.**
-Why, there’s the privilege your beauty bears.
-Fie, treacherous hue, that will betray with blushing
-The close enacts and counsels of thy heart!
-Here’s a young lad fram’d of another leer:
-Look how the black slave smiles upon the father,
-As who should say, “Old lad, I am thine own.”
-He is your brother, lords, sensibly fed
-Of that self blood that first gave life to you,
-And from your womb where you imprisoned were
-He is enfranchised and come to light.
-Nay, he is your brother by the surer side,
-Although my seal be stamped in his face.
+==116== Why, there’s the privilege your beauty bears.
+==117== Fie, treacherous hue, that will betray with blushing
+==118== The close enacts and counsels of thy heart!
+==119== Here’s a young lad fram’d of another leer:
+==120== Look how the black slave smiles upon the father,
+==121== As who should say, “Old lad, I am thine own.”
+==122== He is your brother, lords, sensibly fed
+==123== Of that self blood that first gave life to you,
+==124== And from your womb where you imprisoned were
+==125== He is enfranchised and come to light.
+==126== Nay, he is your brother by the surer side,
+==127== Although my seal be stamped in his face.
 
 **NUR.**
-Aaron, what shall I say unto the Empress?
+==128== Aaron, what shall I say unto the Empress?
 
 **DEM.**
-Advise thee, Aaron, what is to be done,
-And we will all subscribe to thy advice:
-Save thou the child, so we may all be safe.
+==129== Advise thee, Aaron, what is to be done,
+==130== And we will all subscribe to thy advice:
+==131== Save thou the child, so we may all be safe.
 
 **AAR.**
-Then sit we down and let us all consult.
-My son and I will have the wind of you;
-Keep there. Now talk at pleasure of your safety.
+==132== Then sit we down and let us all consult.
+==133== My son and I will have the wind of you;
+==134== Keep there. Now talk at pleasure of your safety.
 
 *They sit.*
 
 **DEM.**
-How many women saw this child of his?
+==135== How many women saw this child of his?
 
 **AAR.**
-Why, so, brave lords, when we join in league
-I am a lamb, but if you brave the Moor,
-The chafed boar, the mountain lioness,
-The ocean swells not so as Aaron storms.
-But say again, how many saw the child?
+==136== Why, so, brave lords, when we join in league
+==137== I am a lamb, but if you brave the Moor,
+==138== The chafed boar, the mountain lioness,
+==139== The ocean swells not so as Aaron storms.
+==140== But say again, how many saw the child?
 
 **NUR.**
-Cornelia the midwife, and myself,
-And no one else but the delivered Empress.
+==141== Cornelia the midwife, and myself,
+==142== And no one else but the delivered Empress.
 
 **AAR.**
-The Emperess, the midwife, and yourself.
-Two may keep counsel when the third’s away.
-Go to the Empress, tell her this I said.
+==143== The Emperess, the midwife, and yourself.
+==144== Two may keep counsel when the third’s away.
+==145== Go to the Empress, tell her this I said.
 *(He kills her.)*
-Weeke, weeke!—so cries a pig prepared to the spit.
+==146== Weeke, weeke!—so cries a pig prepared to the spit.
 
 **DEM.**
-What mean’st thou, Aaron? Wherefore didst thou this?
+==147== What mean’st thou, Aaron? Wherefore didst thou this?
 
 **AAR.**
-O Lord, sir, ’tis a deed of policy.
-Shall she live to betray this guilt of ours,
-A long-tongu’d babbling gossip? No, lords, no.
-And now be it known to you my full intent.
-Not far, one Muliteus my countryman
-His wife but yesternight was brought to bed;
-His child is like to her, fair as you are.
-Go pack with him, and give the mother gold,
-And tell them both the circumstance of all,
-And how by this their child shall be advanc’d,
-And be received for the Emperor’s heir,
-And substituted in the place of mine,
-To calm this tempest whirling in the court;
-And let the Emperor dandle him for his own.
-Hark ye, lords, you see I have given her physic,
+==148== O Lord, sir, ’tis a deed of policy.
+==149== Shall she live to betray this guilt of ours,
+==150== A long-tongu’d babbling gossip? No, lords, no.
+==151== And now be it known to you my full intent.
+==152== Not far, one Muliteus my countryman
+==153== His wife but yesternight was brought to bed;
+==154== His child is like to her, fair as you are.
+==155== Go pack with him, and give the mother gold,
+==156== And tell them both the circumstance of all,
+==157== And how by this their child shall be advanc’d,
+==158== And be received for the Emperor’s heir,
+==159== And substituted in the place of mine,
+==160== To calm this tempest whirling in the court;
+==161== And let the Emperor dandle him for his own.
+==162== Hark ye, lords, you see I have given her physic,
 *(Pointing to the Nurse.)*
-And you must needs bestow her funeral;
-The fields are near, and you are gallant grooms.
-This done, see that you take no longer days,
-But send the midwife presently to me.
-The midwife and the nurse well made away,
-Then let the ladies tattle what they please.
+==163== And you must needs bestow her funeral;
+==164== The fields are near, and you are gallant grooms.
+==165== This done, see that you take no longer days,
+==166== But send the midwife presently to me.
+==167== The midwife and the nurse well made away,
+==168== Then let the ladies tattle what they please.
 
 **CHI.**
-Aaron, I see thou wilt not trust the air
-With secrets.
+==169== Aaron, I see thou wilt not trust the air
+==170== With secrets.
 
 **DEM.**
-        For this care of Tamora,
-Herself and hers are highly bound to thee.
+==170==         For this care of Tamora,
+==171== Herself and hers are highly bound to thee.
 
 *Exeunt Demetrius and Chiron, bearing off the Nurse’s body.*
 
 **AAR.**
-Now to the Goths, as swift as swallow flies,
-There to dispose this treasure in mine arms,
-And secretly to greet the Empress’ friends.
-Come on, you thick-lipp’d slave, I’ll bear you hence,
-For it is you that puts us to our shifts.
-I’ll make you feed on berries and on roots,
-And feed on curds and whey, and suck the goat,
-And cabin in a cave, and bring you up
-To be a warrior and command a camp.
+==172== Now to the Goths, as swift as swallow flies,
+==173== There to dispose this treasure in mine arms,
+==174== And secretly to greet the Empress’ friends.
+==175== Come on, you thick-lipp’d slave, I’ll bear you hence,
+==176== For it is you that puts us to our shifts.
+==177== I’ll make you feed on berries and on roots,
+==178== And feed on curds and whey, and suck the goat,
+==179== And cabin in a cave, and bring you up
+==180== To be a warrior and command a camp.
 
 *Exit.*
 

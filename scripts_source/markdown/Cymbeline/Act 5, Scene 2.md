@@ -27,16 +27,16 @@ ID: cymbeline-5-2
 *Posthumus then leaves him.*
 
 **JACH.**
-The heaviness and guilt within my bosom
-Takes off my manhood. I have belied a lady,
-The Princess of this country; and the air on’t
-Revengingly enfeebles me, or could this carl,
-A very drudge of nature’s, have subdu’d me
-In my profession? Knighthoods and honors, borne
-As I wear mine, are titles but of scorn.
-If that thy gentry, Britain, go before
-This lout as he exceeds our lords, the odds
-Is that we scarce are men and you are gods.
+==1== The heaviness and guilt within my bosom
+==2== Takes off my manhood. I have belied a lady,
+==3== The Princess of this country; and the air on’t
+==4== Revengingly enfeebles me, or could this carl,
+==5== A very drudge of nature’s, have subdu’d me
+==6== In my profession? Knighthoods and honors, borne
+==7== As I wear mine, are titles but of scorn.
+==8== If that thy gentry, Britain, go before
+==9== This lout as he exceeds our lords, the odds
+==10== Is that we scarce are men and you are gods.
 
 *Exit.*
 
@@ -45,12 +45,12 @@ Is that we scarce are men and you are gods.
 *Then enter, to his rescue, Belarius, Guiderius, and Arviragus.*
 
 **BEL.**
-Stand, stand! We have th’ advantage of the ground,
-The lane is guarded. Nothing routs us but
-The villainy of our fears.
+==11== Stand, stand! We have th’ advantage of the ground,
+==12== The lane is guarded. Nothing routs us but
+==13== The villainy of our fears.
 
 **BOTH ARV. AND GUI.**
-              Stand, stand, and fight!
+==13==               Stand, stand, and fight!
 
 *Enter Posthumus and seconds the Britains.*
 
@@ -59,16 +59,16 @@ The villainy of our fears.
 *Then enter Lucius, Jachimo, and Imogen.*
 
 **LUC.**
-Away, boy, from the troops, and save thyself;
-For friends kill friends, and the disorder’s such
-As war were hoodwink’d.
+==14== Away, boy, from the troops, and save thyself;
+==15== For friends kill friends, and the disorder’s such
+==16== As war were hoodwink’d.
 
 **JACH.**
-              ’Tis their fresh supplies.
+==16==               ’Tis their fresh supplies.
 
 **LUC.**
-It is a day turn’d strangely. Or betimes
-Let’s reinforce, or fly.
+==17== It is a day turn’d strangely. Or betimes
+==18== Let’s reinforce, or fly.
 
 *Exeunt.*
 

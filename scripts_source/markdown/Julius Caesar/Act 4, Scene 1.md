@@ -19,88 +19,88 @@ ID: julius-caesar-4-1
 *Enter Antony, Octavius, and Lepidus.*
 
 **ANT.**
-These many then shall die, their names are prick’d.
+==1== These many then shall die, their names are prick’d.
 
 **OCT.**
-Your brother too must die; consent you, Lepidus?
+==2== Your brother too must die; consent you, Lepidus?
 
 **LEP.**
-I do consent⁠—
+==3== I do consent⁠—
 
 **OCT.**
-        Prick him down, Antony.
+==3==         Prick him down, Antony.
 
 **LEP.**
-Upon condition Publius shall not live,
-Who is your sister’s son, Mark Antony.
+==4== Upon condition Publius shall not live,
+==5== Who is your sister’s son, Mark Antony.
 
 **ANT.**
-He shall not live; look, with a spot I damn him.
-But, Lepidus, go you to Caesar’s house;
-Fetch the will hither, and we shall determine
-How to cut off some charge in legacies.
+==6== He shall not live; look, with a spot I damn him.
+==7== But, Lepidus, go you to Caesar’s house;
+==8== Fetch the will hither, and we shall determine
+==9== How to cut off some charge in legacies.
 
 **LEP.**
-What? Shall I find you here?
+==10== What? Shall I find you here?
 
 **OCT.**
-Or here or at the Capitol.
+==11== Or here or at the Capitol.
 
 *Exit Lepidus.*
 
 **ANT.**
-This is a slight unmeritable man,
-Meet to be sent on errands; is it fit,
-The threefold world divided, he should stand
-One of the three to share it?
+==12== This is a slight unmeritable man,
+==13== Meet to be sent on errands; is it fit,
+==14== The threefold world divided, he should stand
+==15== One of the three to share it?
 
 **OCT.**
-              So you thought him,
-And took his voice who should be prick’d to die
-In our black sentence and proscription.
+==15==               So you thought him,
+==16== And took his voice who should be prick’d to die
+==17== In our black sentence and proscription.
 
 **ANT.**
-Octavius, I have seen more days than you,
-And though we lay these honors on this man
-To ease ourselves of diverse sland’rous loads,
-He shall but bear them as the ass bears gold,
-To groan and sweat under the business,
-Either led or driven, as we point the way;
-And having brought our treasure where we will,
-Then take we down his load, and turn him off
-(Like to the empty ass) to shake his ears
-And graze in commons.
+==18== Octavius, I have seen more days than you,
+==19== And though we lay these honors on this man
+==20== To ease ourselves of diverse sland’rous loads,
+==21== He shall but bear them as the ass bears gold,
+==22== To groan and sweat under the business,
+==23== Either led or driven, as we point the way;
+==24== And having brought our treasure where we will,
+==25== Then take we down his load, and turn him off
+==26== (Like to the empty ass) to shake his ears
+==27== And graze in commons.
 
 **OCT.**
-              You may do your will;
-But he’s a tried and valiant soldier.
+==27==               You may do your will;
+==28== But he’s a tried and valiant soldier.
 
 **ANT.**
-So is my horse, Octavius, and for that
-I do appoint him store of provender.
-It is a creature that I teach to fight,
-To wind, to stop, to run directly on,
-His corporal motion govern’d by my spirit;
-And in some taste is Lepidus but so:
-He must be taught, and train’d, and bid go forth;
-A barren-spirited fellow; one that feeds
-On objects, arts, and imitations,
-Which, out of use and stal’d by other men,
-Begin his fashion. Do not talk of him
-But as a property. And now, Octavius,
-Listen great things. Brutus and Cassius
-Are levying powers; we must straight make head;
-Therefore let our alliance be combin’d,
-Our best friends made, our means stretch’d,
-And let us presently go sit in council,
-How covert matters may be best disclos’d,
-And open perils surest answered.
+==29== So is my horse, Octavius, and for that
+==30== I do appoint him store of provender.
+==31== It is a creature that I teach to fight,
+==32== To wind, to stop, to run directly on,
+==33== His corporal motion govern’d by my spirit;
+==34== And in some taste is Lepidus but so:
+==35== He must be taught, and train’d, and bid go forth;
+==36== A barren-spirited fellow; one that feeds
+==37== On objects, arts, and imitations,
+==38== Which, out of use and stal’d by other men,
+==39== Begin his fashion. Do not talk of him
+==40== But as a property. And now, Octavius,
+==41== Listen great things. Brutus and Cassius
+==42== Are levying powers; we must straight make head;
+==43== Therefore let our alliance be combin’d,
+==44== Our best friends made, our means stretch’d,
+==45== And let us presently go sit in council,
+==46== How covert matters may be best disclos’d,
+==47== And open perils surest answered.
 
 **OCT.**
-Let us do so; for we are at the stake,
-And bay’d about with many enemies,
-And some that smile have in their hearts, I fear,
-Millions of mischiefs.
+==48== Let us do so; for we are at the stake,
+==49== And bay’d about with many enemies,
+==50== And some that smile have in their hearts, I fear,
+==51== Millions of mischiefs.
 
 *Exeunt.*
 

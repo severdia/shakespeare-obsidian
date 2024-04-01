@@ -22,67 +22,67 @@ ID: romeo-and-juliet-4-4
 *Enter lady of the house Lady Capulet and Nurse with herbs.*
 
 **L. CAP.**
-Hold, take these keys and fetch more spices, nurse.
+==1== Hold, take these keys and fetch more spices, nurse.
 
 **NURSE.**
-They call for dates and quinces in the pastry.
+==2== They call for dates and quinces in the pastry.
 
 *Enter old Capulet.*
 
 **CAP.**
-Come, stir, stir, stir! The second cock hath crowed,
-The curfew-bell hath rung, ’tis three a’ clock.
-Look to the bak’d meats, good Angelica,
-Spare not for cost.
+==3== Come, stir, stir, stir! The second cock hath crowed,
+==4== The curfew-bell hath rung, ’tis three a’ clock.
+==5== Look to the bak’d meats, good Angelica,
+==6== Spare not for cost.
 
 **NURSE.**
-           Go, you cot-quean, go,
-Get you to bed. Faith, you’ll be sick tomorrow
-For this night’s watching.
+==6==            Go, you cot-quean, go,
+==7== Get you to bed. Faith, you’ll be sick tomorrow
+==8== For this night’s watching.
 
 **CAP.**
-No, not a whit. What, I have watch’d ere now
-All night for lesser cause, and ne’er been sick.
+==9== No, not a whit. What, I have watch’d ere now
+==10== All night for lesser cause, and ne’er been sick.
 
 **L. CAP.**
-Ay, you have been a mouse-hunt in your time,
-But I will watch you from such watching now.
+==11== Ay, you have been a mouse-hunt in your time,
+==12== But I will watch you from such watching now.
 
 *Exeunt Lady Capulet and Nurse.*
 
 **CAP.**
-A jealous hood, a jealous hood!
+==13== A jealous hood, a jealous hood!
 *(Enter three or four Servingmen with spits and logs and baskets.)*
-Now, fellow, what is there?
+==14== Now, fellow, what is there?
 
 **1. SERV.**
-Things for the cook, sir, but I know not what.
+==15== Things for the cook, sir, but I know not what.
 
 **CAP.**
-Make haste, make haste.
+==16== Make haste, make haste.
 *(Exit First Servant.)*
-              Sirrah, fetch drier logs.
-Call Peter, he will show thee where they are.
+==16==               Sirrah, fetch drier logs.
+==17== Call Peter, he will show thee where they are.
 
 **2. SERV.**
-I have a head, sir, that will find out logs,
-And never trouble Peter for the matter.
+==18== I have a head, sir, that will find out logs,
+==19== And never trouble Peter for the matter.
 
 **CAP.**
-Mass, and well said, a merry whoreson, ha!
-Thou shalt be logger-head.
+==20== Mass, and well said, a merry whoreson, ha!
+==21== Thou shalt be logger-head.
 *(Exit Second Servant.)*
-              Good faith, ’tis day.
-The County will be here with music straight,
-For so he said he would.
+==21==               Good faith, ’tis day.
+==22== The County will be here with music straight,
+==23== For so he said he would.
 *(Play music within.)*
-              I hear him near.
-Nurse! Wife! What ho! What, nurse, I say!
+==23==               I hear him near.
+==24== Nurse! Wife! What ho! What, nurse, I say!
 *(Enter Nurse.)*
-Go waken Juliet, go and trim her up,
-I’ll go and chat with Paris. Hie, make haste,
-Make haste, the bridegroom he is come already,
-Make haste, I say.
+==25== Go waken Juliet, go and trim her up,
+==26== I’ll go and chat with Paris. Hie, make haste,
+==27== Make haste, the bridegroom he is come already,
+==28== Make haste, I say.
 
 *Exit.*
 

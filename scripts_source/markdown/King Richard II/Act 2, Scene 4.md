@@ -22,38 +22,38 @@ ID: king-richard-ii-2-4
 *Enter Earl of Salisbury and a Welsh Captain.*
 
 **CAP.**
-My Lord of Salisbury, we have stay’d ten days,
-And hardly kept our countrymen together,
-And yet we hear no tidings from the King,
-Therefore we will disperse ourselves. Farewell!
+==1== My Lord of Salisbury, we have stay’d ten days,
+==2== And hardly kept our countrymen together,
+==3== And yet we hear no tidings from the King,
+==4== Therefore we will disperse ourselves. Farewell!
 
 **SAL.**
-Stay yet another day, thou trusty Welshman.
-The King reposeth all his confidence in thee.
+==5== Stay yet another day, thou trusty Welshman.
+==6== The King reposeth all his confidence in thee.
 
 **CAP.**
-’Tis thought the King is dead; we will not stay.
-The bay-trees in our country are all wither’d,
-And meteors fright the fixed stars of heaven,
-The pale-fac’d moon looks bloody on the earth,
-And lean-look’d prophets whisper fearful change,
-Rich men look sad, and ruffians dance and leap,
-The one in fear to lose what they enjoy,
-The other to enjoy by rage and war.
-These signs forerun the death or fall of kings.
-Farewell! Our countrymen are gone and fled,
-As well assured Richard their king is dead.
+==7== ’Tis thought the King is dead; we will not stay.
+==8== The bay-trees in our country are all wither’d,
+==9== And meteors fright the fixed stars of heaven,
+==10== The pale-fac’d moon looks bloody on the earth,
+==11== And lean-look’d prophets whisper fearful change,
+==12== Rich men look sad, and ruffians dance and leap,
+==13== The one in fear to lose what they enjoy,
+==14== The other to enjoy by rage and war.
+==15== These signs forerun the death or fall of kings.
+==16== Farewell! Our countrymen are gone and fled,
+==17== As well assured Richard their king is dead.
 
 *Exit.*
 
 **SAL.**
-Ah, Richard! With the eyes of heavy mind
-I see thy glory like a shooting star
-Fall to the base earth from the firmament.
-Thy sun sets weeping in the lowly west,
-Witnessing storms to come, woe, and unrest.
-Thy friends are fled to wait upon thy foes,
-And crossly to thy good all fortune goes.
+==18== Ah, Richard! With the eyes of heavy mind
+==19== I see thy glory like a shooting star
+==20== Fall to the base earth from the firmament.
+==21== Thy sun sets weeping in the lowly west,
+==22== Witnessing storms to come, woe, and unrest.
+==23== Thy friends are fled to wait upon thy foes,
+==24== And crossly to thy good all fortune goes.
 
 *Exit.*
 

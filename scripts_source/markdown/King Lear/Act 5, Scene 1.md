@@ -22,160 +22,160 @@ ID: king-lear-5-1
 *Enter, with Drum and Colors, Edmund, Regan, Gentlemen, and Soldiers.*
 
 **EDM.**
-Know of the Duke if his last purpose hold,
-Or whether since he is advis’d by aught
-To change the course. He’s full of alteration
-And self-reproving—bring his constant pleasure.
+==1== Know of the Duke if his last purpose hold,
+==2== Or whether since he is advis’d by aught
+==3== To change the course. He’s full of alteration
+==4== And self-reproving—bring his constant pleasure.
 
 *To Second Gentleman, who goes out.*
 
 **REG.**
-Our sister’s man is certainly miscarried.
+==5== Our sister’s man is certainly miscarried.
 
 **EDM.**
-’Tis to be doubted, madam.
+==6== ’Tis to be doubted, madam.
 
 **REG.**
-              Now, sweet lord,
-You know the goodness I intend upon you:
-Tell me but truly, but then speak the truth,
-Do you not love my sister?
+==6==               Now, sweet lord,
+==7== You know the goodness I intend upon you:
+==8== Tell me but truly, but then speak the truth,
+==9== Do you not love my sister?
 
 **EDM.**
-              In honor’d love.
+==9==               In honor’d love.
 
 **REG.**
-But have you never found my brother’s way
-To the forfended place?
+==10== But have you never found my brother’s way
+==11== To the forfended place?
 
 **EDM.**
-              That thought abuses you.
+==11==               That thought abuses you.
 
 **REG.**
-I am doubtful that you have been conjunct
-And bosom’d with her—as far as we call hers.
+==12== I am doubtful that you have been conjunct
+==13== And bosom’d with her—as far as we call hers.
 
 **EDM.**
-No, by mine honor, madam.
+==14== No, by mine honor, madam.
 
 **REG.**
-I never shall endure her. Dear my lord,
-Be not familiar with her.
+==15== I never shall endure her. Dear my lord,
+==16== Be not familiar with her.
 
 **EDM.**
-              Fear me not.
-She and the Duke her husband!
+==16==               Fear me not.
+==17== She and the Duke her husband!
 
 *Enter, with Drum and Colors, Albany, Goneril, Soldiers.*
 
 **GON.**
 *(Aside.)*
-I had rather lose the battle than that sister
-Should loosen him and me.
+==18== I had rather lose the battle than that sister
+==19== Should loosen him and me.
 
 **ALB.**
-Our very loving sister, well bemet.
-Sir, this I heard: the King is come to his daughter,
-With others whom the rigor of our state
-Forc’d to cry out. Where I could not be honest,
-I never yet was valiant. For this business,
-It touches us as France invades our land,
-Not bolds the King, with others whom, I fear,
-Most just and heavy causes make oppose.
+==20== Our very loving sister, well bemet.
+==21== Sir, this I heard: the King is come to his daughter,
+==22== With others whom the rigor of our state
+==23== Forc’d to cry out. Where I could not be honest,
+==24== I never yet was valiant. For this business,
+==25== It touches us as France invades our land,
+==26== Not bolds the King, with others whom, I fear,
+==27== Most just and heavy causes make oppose.
 
 **EDM.**
-Sir, you speak nobly.
+==28== Sir, you speak nobly.
 
 **REG.**
-           Why is this reason’d?
+==28==            Why is this reason’d?
 
 **GON.**
-Combine together ’gainst the enemy;
-For these domestic and particular broils
-Are not the question here.
+==29== Combine together ’gainst the enemy;
+==30== For these domestic and particular broils
+==31== Are not the question here.
 
 **ALB.**
-              Let’s then determine
-With th’ ancient of war on our proceeding.
+==31==               Let’s then determine
+==32== With th’ ancient of war on our proceeding.
 
 **EDM.**
-I shall attend you presently at your tent.
+==33== I shall attend you presently at your tent.
 
 **REG.**
-Sister, you’ll go with us?
+==34== Sister, you’ll go with us?
 
 **GON.**
-No.
+==35== No.
 
 **REG.**
-’Tis most convenient, pray go with us.
+==36== ’Tis most convenient, pray go with us.
 
 **GON.**
 *(Aside.)*
-O ho, I know the riddle.—I will go.
+==37== O ho, I know the riddle.—I will go.
 
 *Exeunt both the armies.*
 
 *As they are going out, enter Edgar disguised. Albany remains.*
 
 **EDG.**
-If e’er your Grace had speech with man so poor,
-Hear me one word.
+==38== If e’er your Grace had speech with man so poor,
+==39== Hear me one word.
 
 **ALB.**
-           I’ll overtake you.—Speak.
+==39==            I’ll overtake you.—Speak.
 
 **EDG.**
-Before you fight the battle, ope this letter.
-If you have victory, let the trumpet sound
-For him that brought it. Wretched though I seem,
-I can produce a champion that will prove
-What is avouched there. If you miscarry,
-Your business of the world hath so an end,
-And machination ceases. Fortune love you!
+==40== Before you fight the battle, ope this letter.
+==41== If you have victory, let the trumpet sound
+==42== For him that brought it. Wretched though I seem,
+==43== I can produce a champion that will prove
+==44== What is avouched there. If you miscarry,
+==45== Your business of the world hath so an end,
+==46== And machination ceases. Fortune love you!
 
 **ALB.**
-Stay till I have read the letter.
+==47== Stay till I have read the letter.
 
 **EDG.**
-                I was forbid it.
-When time shall serve, let but the herald cry,
-And I’ll appear again.
+==47==                 I was forbid it.
+==48== When time shall serve, let but the herald cry,
+==49== And I’ll appear again.
 
 **ALB.**
-Why, fare thee well, I will o’erlook thy paper.
+==50== Why, fare thee well, I will o’erlook thy paper.
 
 *Exit Edgar.*
 
 *Enter Edmund.*
 
 **EDM.**
-The enemy’s in view, draw up your powers.
-Here is the guess of their true strength and forces,
-By diligent discovery, but your haste
-Is now urg’d on you.
+==51== The enemy’s in view, draw up your powers.
+==52== Here is the guess of their true strength and forces,
+==53== By diligent discovery, but your haste
+==54== Is now urg’d on you.
 
 **ALB.**
-           We will greet the time.
+==54==            We will greet the time.
 
 *Exit.*
 
 **EDM.**
-To both these sisters have I sworn my love;
-Each jealous of the other, as the stung
-Are of the adder. Which of them shall I take?
-Both? One? Or neither? Neither can be enjoy’d
-If both remain alive: to take the widow
-Exasperates, makes mad her sister Goneril,
-And hardly shall I carry out my side,
-Her husband being alive. Now then, we’ll use
-His countenance for the battle, which being done,
-Let her who would be rid of him devise
-His speedy taking off. As for the mercy
-Which he intends to Lear and to Cordelia,
-The battle done, and they within our power,
-Shall never see his pardon; for my state
-Stands on me to defend, not to debate.
+==55== To both these sisters have I sworn my love;
+==56== Each jealous of the other, as the stung
+==57== Are of the adder. Which of them shall I take?
+==58== Both? One? Or neither? Neither can be enjoy’d
+==59== If both remain alive: to take the widow
+==60== Exasperates, makes mad her sister Goneril,
+==61== And hardly shall I carry out my side,
+==62== Her husband being alive. Now then, we’ll use
+==63== His countenance for the battle, which being done,
+==64== Let her who would be rid of him devise
+==65== His speedy taking off. As for the mercy
+==66== Which he intends to Lear and to Cordelia,
+==67== The battle done, and they within our power,
+==68== Shall never see his pardon; for my state
+==69== Stands on me to defend, not to debate.
 
 *Exit.*
 

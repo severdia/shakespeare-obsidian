@@ -25,202 +25,202 @@ ID: sir-thomas-more-4-1
 *Clerk of the Council waiting bareheaded.*
 
 **SURREY.**
-Good morrow to my Lord of Shrewsbury.
+==1== Good morrow to my Lord of Shrewsbury.
 
 **SHREWSBURY.**
-The like unto the honored Earl of Surrey.
-Yond comes my Lord of Rochester.
+==2== The like unto the honored Earl of Surrey.
+==3== Yond comes my Lord of Rochester.
 
 **ROCHESTER.**
-Good morrow, my good lords.
+==4== Good morrow, my good lords.
 
 **SURREY.**
-Clerk of the Council, what time is’t of day?
+==5== Clerk of the Council, what time is’t of day?
 
 **CLERK.**
-Past eight of clock, my lord.
+==6== Past eight of clock, my lord.
 
 **SHREWSBURY.**
-I wonder that my good Lord Chancellor
-Doth stay so long, considering there’s matters
-Of high importance to be scanned upon.
+==7== I wonder that my good Lord Chancellor
+==8== Doth stay so long, considering there’s matters
+==9== Of high importance to be scanned upon.
 
 **SURREY.**
-Clerk of the Council, certify his lordship
-The lords expect him here.
+==10== Clerk of the Council, certify his lordship
+==11== The lords expect him here.
 
 **ROCHESTER.**
-                It shall not need;
-Yond comes his lordship.
+==11==                 It shall not need;
+==12== Yond comes his lordship.
 
 *Enter Sir Thomas More, with Purse and Mace borne before him.*
 
 **MORE.**
-Good morrow to this fair assembly.
-Come, my good lords, let’s sit. Oh serious square!
+==13== Good morrow to this fair assembly.
+==14== Come, my good lords, let’s sit. Oh serious square!
 *(They sit.)*
-Upon this little board is daily scanned
-The health and preservation of the land;
-We the physicians that effect this good,
-Now by choice diet, anon by letting blood;
-Our toil and careful watching brings the king
-In league with slumbers, to which peace doth sing.
-Avoid the room there!⁠—
-What business, lords, today?
+==15== Upon this little board is daily scanned
+==16== The health and preservation of the land;
+==17== We the physicians that effect this good,
+==18== Now by choice diet, anon by letting blood;
+==19== Our toil and careful watching brings the king
+==20== In league with slumbers, to which peace doth sing.
+==21== Avoid the room there!⁠—
+==22== What business, lords, today?
 
 **SHREWSBURY.**
-              This, my good lord;
-About the entertainment of the Emperor
-’Gainst the perfidious French into our pay.
+==22==               This, my good lord;
+==23== About the entertainment of the Emperor
+==24== ’Gainst the perfidious French into our pay.
 
 **SURREY.**
-My lords, as ’tis the custom in this place
-The youngest should speak first, so, if I chance
-In this case to speak youngly, pardon me.
-I will agree, France now hath her full strength,
-As having new recovered the pale blood
-Which war sluiced forth; and I consent to this,
-That the conjunction of our English forces
-With arms of Germany may soon bring
-This prize of conquest in. But, then, my lords,
-As in the moral hunting ’twixt the lion
-And other beasts, force joined with greed
-Frighted the weaker sharers from their parts;
-So, if the empire’s sovereign chance to put
-His plea of partnership into war’s court,
-Swords should decide the difference, and our blood
-In private tears lament his entertainment.
+==25== My lords, as ’tis the custom in this place
+==26== The youngest should speak first, so, if I chance
+==27== In this case to speak youngly, pardon me.
+==28== I will agree, France now hath her full strength,
+==29== As having new recovered the pale blood
+==30== Which war sluiced forth; and I consent to this,
+==31== That the conjunction of our English forces
+==32== With arms of Germany may soon bring
+==33== This prize of conquest in. But, then, my lords,
+==34== As in the moral hunting ’twixt the lion
+==35== And other beasts, force joined with greed
+==36== Frighted the weaker sharers from their parts;
+==37== So, if the empire’s sovereign chance to put
+==38== His plea of partnership into war’s court,
+==39== Swords should decide the difference, and our blood
+==40== In private tears lament his entertainment.
 
 **SHREWSBURY.**
-To doubt the worst is still the wise man’s shield,
-That arms him safely. But the world knows this,
-The Emperor is a man of royal faith;
-His love unto our sovereign brings him down
-From his imperial seat, to march in pay
-Under our English flag, and wear the cross,
-Like some high order, on his manly breast;
-Thus serving, he’s not master of himself,
-But, like a colonel commanding other,
-Is by the general over-awed himself.
+==41== To doubt the worst is still the wise man’s shield,
+==42== That arms him safely. But the world knows this,
+==43== The Emperor is a man of royal faith;
+==44== His love unto our sovereign brings him down
+==45== From his imperial seat, to march in pay
+==46== Under our English flag, and wear the cross,
+==47== Like some high order, on his manly breast;
+==48== Thus serving, he’s not master of himself,
+==49== But, like a colonel commanding other,
+==50== Is by the general over-awed himself.
 
 **ROCHESTER.**
-Yet, my good lord⁠—
+==51== Yet, my good lord⁠—
 
 **SHREWSBURY.**
-           Let me conclude my speech.
-As subjects share no portion in the conquest
-Of their true sovereign, other than the merit
-That from the sovereign guerdons the true subject;
-So the good Emperor, in a friendly league
-Of amity with England, will not soil
-His honor with the theft of English spoil.
+==51==            Let me conclude my speech.
+==52== As subjects share no portion in the conquest
+==53== Of their true sovereign, other than the merit
+==54== That from the sovereign guerdons the true subject;
+==55== So the good Emperor, in a friendly league
+==56== Of amity with England, will not soil
+==57== His honor with the theft of English spoil.
 
 **MORE.**
-There is no question but this entertainment
-Will be most honorable, most commodious.
-I have oft heard good captains wish to have
-Rich soldiers to attend them, such as would fight
-Both for their lives and livings; such a one
-Is the good Emperor. I would to God,
-We had ten thousand of such able men!
-Hah, then there would appear no court, no city,
-But, where the wars were, they would pay themselves.
-Then, to prevent in French wars England’s loss,
-Let German flags wave with our English cross.
+==58== There is no question but this entertainment
+==59== Will be most honorable, most commodious.
+==60== I have oft heard good captains wish to have
+==61== Rich soldiers to attend them, such as would fight
+==62== Both for their lives and livings; such a one
+==63== Is the good Emperor. I would to God,
+==64== We had ten thousand of such able men!
+==65== Hah, then there would appear no court, no city,
+==66== But, where the wars were, they would pay themselves.
+==67== Then, to prevent in French wars England’s loss,
+==68== Let German flags wave with our English cross.
 
 *Enter Sir Thomas Palmer.*
 
 **PALMER.**
-My lords, his majesty hath sent by me
-These articles enclosed, first to be viewed,
-And then to be subscribed to. I tender them
-In that due reverence which befits this place.
+==69== My lords, his majesty hath sent by me
+==70== These articles enclosed, first to be viewed,
+==71== And then to be subscribed to. I tender them
+==72== In that due reverence which befits this place.
 
 *With great reverence.*
 
 **MORE.**
-Subscribe these articles! Stay, let us pause;
-Our conscience first shall parley with our laws.
-My Lord of Rochester, view you the paper.
+==73== Subscribe these articles! Stay, let us pause;
+==74== Our conscience first shall parley with our laws.
+==75== My Lord of Rochester, view you the paper.
 
 **ROCHESTER.**
-Subscribe to these! Now, good Sir Thomas Palmer,
-Beseech the king that he will pardon me:
-My heart will check my hand whilst I do write;
-Subscribing so, I were an hypocrite.
+==76== Subscribe to these! Now, good Sir Thomas Palmer,
+==77== Beseech the king that he will pardon me:
+==78== My heart will check my hand whilst I do write;
+==79== Subscribing so, I were an hypocrite.
 
 **PALMER.**
-Do you refuse it, then, my lord?
+==80== Do you refuse it, then, my lord?
 
 **ROCHESTER.**
-                I do, Sir Thomas.
+==80==                 I do, Sir Thomas.
 
 **PALMER.**
-Then here I summon you forthwith t’ appear
-Before his majesty, to answer there
-This capital contempt.
+==81== Then here I summon you forthwith t’ appear
+==82== Before his majesty, to answer there
+==83== This capital contempt.
 
 **ROCHESTER.**
-                I rise and part,
-In lieu of this to tender him my heart.
+==83==                 I rise and part,
+==84== In lieu of this to tender him my heart.
 
 *He riseth.*
 
 **PALMER.**
-Wilt please your honor to subscribe, my lord?
+==85== Wilt please your honor to subscribe, my lord?
 
 **MORE.**
-Sir, tell his highness, I entreat
-Some time for to bethink me of this task:
-In the meanwhile I do resign mine office
-Into my sovereign’s hands.
+==86== Sir, tell his highness, I entreat
+==87== Some time for to bethink me of this task:
+==88== In the meanwhile I do resign mine office
+==89== Into my sovereign’s hands.
 
 **PALMER.**
-                Then, my lord,
-Hear the prepared order from the king:
-On your refusal, you shall straight depart
-Unto your house at Chelsea, till you know
-Our sovereign’s further pleasure.
+==89==                 Then, my lord,
+==90== Hear the prepared order from the king:
+==91== On your refusal, you shall straight depart
+==92== Unto your house at Chelsea, till you know
+==93== Our sovereign’s further pleasure.
 
 **MORE.**
-                Most willingly I go.
-My lords, if you will visit me at Chelsea,
-We’ll go a-fishing, and with a cunning net,
-Not like weak film, we’ll catch none but the great:
-Farewell, my noble lords. Why, this is right:
-Good morrow to the sun, to state good night!
+==93==                 Most willingly I go.
+==94== My lords, if you will visit me at Chelsea,
+==95== We’ll go a-fishing, and with a cunning net,
+==96== Not like weak film, we’ll catch none but the great:
+==97== Farewell, my noble lords. Why, this is right:
+==98== Good morrow to the sun, to state good night!
 
 *Exit More.*
 
 **PALMER.**
-Will you subscribe, my lords?
+==99== Will you subscribe, my lords?
 
 **SURREY.**
-              Instantly, good Sir Thomas,
-We’ll bring the writing unto our sovereign.
+==99==               Instantly, good Sir Thomas,
+==100== We’ll bring the writing unto our sovereign.
 
 *They write.*
 
 **PALMER.**
-My Lord of Rochester,
-You must with me, to answer this contempt.
+==101== My Lord of Rochester,
+==102== You must with me, to answer this contempt.
 
 **ROCHESTER.**
-This is the worst,
-Who’s freed from life is from all care exempt.
+==103== This is the worst,
+==104== Who’s freed from life is from all care exempt.
 
 *Exit Rochester and Palmer.*
 
 **SURREY.**
-Now let us hasten to our sovereign.
-Tis strange that my Lord Chancellor should refuse
-The duty that the law of God bequeaths
-Unto the king.
+==105== Now let us hasten to our sovereign.
+==106== Tis strange that my Lord Chancellor should refuse
+==107== The duty that the law of God bequeaths
+==108== Unto the king.
 
 **SHREWSBURY.**
-Come, let us in. No doubt
-His mind will alter, and the bishop’s too:
-Error in learned heads hath much to do.
+==109== Come, let us in. No doubt
+==110== His mind will alter, and the bishop’s too:
+==111== Error in learned heads hath much to do.
 
 *Exeunt.*
 

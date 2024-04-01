@@ -20,37 +20,37 @@ ID: timon-of-athens-5-2
 *Enter two other Senators with a Messenger.*
 
 **3. SEN.**
-Thou hast painfully discover’d; are his files
-As full as thy report?
+==1== Thou hast painfully discover’d; are his files
+==2== As full as thy report?
 
 **MESS.**
-           I have spoke the least.
-Besides, his expedition promises
-Present approach.
+==2==            I have spoke the least.
+==3== Besides, his expedition promises
+==4== Present approach.
 
 **4. SEN.**
-We stand much hazard if they bring not Timon.
+==5== We stand much hazard if they bring not Timon.
 
 **MESS.**
-I met a courier, one mine ancient friend,
-Whom, though in general part we were oppos’d,
-Yet our old love made a particular force,
-And made us speak like friends. This man was riding
-From Alcibiades to Timon’s cave
-With letters of entreaty, which imported
-His fellowship i’ th’ cause against your city,
-In part for his sake mov’d.
+==6== I met a courier, one mine ancient friend,
+==7== Whom, though in general part we were oppos’d,
+==8== Yet our old love made a particular force,
+==9== And made us speak like friends. This man was riding
+==10== From Alcibiades to Timon’s cave
+==11== With letters of entreaty, which imported
+==12== His fellowship i’ th’ cause against your city,
+==13== In part for his sake mov’d.
 
 *Enter the other Senators.*
 
 **3. SEN.**
-              Here come our brothers.
+==13==               Here come our brothers.
 
 **1. SEN.**
-No talk of Timon, nothing of him expect.
-The enemy’s drum is heard, and fearful scouring
-Doth choke the air with dust. In, and prepare:
-Ours is the fall, I fear, our foes the snare.
+==14== No talk of Timon, nothing of him expect.
+==15== The enemy’s drum is heard, and fearful scouring
+==16== Doth choke the air with dust. In, and prepare:
+==17== Ours is the fall, I fear, our foes the snare.
 
 *Exeunt.*
 

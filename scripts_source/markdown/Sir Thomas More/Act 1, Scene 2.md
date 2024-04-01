@@ -23,362 +23,362 @@ ID: sir-thomas-more-1-2
 *An arras is drawn, and behind it as in sessions sit the Lord Mayor, Justice Suresby, and other Justices; Sheriff More and the other Sheriff sitting by. Smart is the plaintiff, Lifter the prisoner at the bar. Recorder, Officers.*
 
 **LORD MAYOR.**
-Having dispatched our weightier businesses,
-We may give ear to petty felonies.
-Master Sheriff More, what is this fellow?
+==1== Having dispatched our weightier businesses,
+==2== We may give ear to petty felonies.
+==3== Master Sheriff More, what is this fellow?
 
 **MORE.**
-My lord, he stands indicted for a purse;
-He hath been tried, the jury is together.
+==4== My lord, he stands indicted for a purse;
+==5== He hath been tried, the jury is together.
 
 **LORD MAYOR.**
-Who sent him in?
+==6== Who sent him in?
 
 **SURESBY.**
-           That did I, my lord:
-Had he had right, he had been hanged ere this;
-The only captain of the cutpurse crew.
+==6==            That did I, my lord:
+==7== Had he had right, he had been hanged ere this;
+==8== The only captain of the cutpurse crew.
 
 **LORD MAYOR.**
-What is his name?
+==9== What is his name?
 
 **SURESBY.**
-As his profession is, Lifter, my lord,
-One that can lift a purse right cunningly.
+==10== As his profession is, Lifter, my lord,
+==11== One that can lift a purse right cunningly.
 
 **LORD MAYOR.**
-And is that he accuses him?
+==12== And is that he accuses him?
 
 **SURESBY.**
-The same, my lord, whom, by your honors leave,
-I must say somewhat too, because I find
-In some respects he is well worthy blame.
+==13== The same, my lord, whom, by your honors leave,
+==14== I must say somewhat too, because I find
+==15== In some respects he is well worthy blame.
 
 **LORD MAYOR.**
-Good Master Justice Suresby, speak your mind;
-We are well pleased to give you audience.
+==16== Good Master Justice Suresby, speak your mind;
+==17== We are well pleased to give you audience.
 
 **SURESBY.**
-Hear me, Smart; thou art a foolish fellow:
-If Lifter be convicted by the law,
-As I see not how the jury can acquit him,
-I’ll stand too ’t thou art guilty of his death.
+==18== Hear me, Smart; thou art a foolish fellow:
+==19== If Lifter be convicted by the law,
+==20== As I see not how the jury can acquit him,
+==21== I’ll stand too ’t thou art guilty of his death.
 
 **MORE.**
-My lord, that’s worthy the hearing.
+==22== My lord, that’s worthy the hearing.
 
 **LORD MAYOR.**
-        Listen, then, good Master More.
+==22==         Listen, then, good Master More.
 
 **SURESBY.**
-I tell thee plain, it is a shame for thee,
-With such a sum to tempt necessity;
-No less than ten pounds, sir, will serve your turn,
-To carry in your purse about with ye,
-To crake and brag in taverns of your money:
-I promise ye, a man that goes abroad
-With an intent of truth, meeting such a booty,
-May be provoked to that he never meant.
-What makes so many pilferers and felons,
-But such fond baits that foolish people lay
-To tempt the needy miserable wretch?
-Ten pounds, odd money; this is a pretty sum
-To bear about, which were more safe at home.
-’Fore God, ’twere well to fine ye as much more.
+==23== I tell thee plain, it is a shame for thee,
+==24== With such a sum to tempt necessity;
+==25== No less than ten pounds, sir, will serve your turn,
+==26== To carry in your purse about with ye,
+==27== To crake and brag in taverns of your money:
+==28== I promise ye, a man that goes abroad
+==29== With an intent of truth, meeting such a booty,
+==30== May be provoked to that he never meant.
+==31== What makes so many pilferers and felons,
+==32== But such fond baits that foolish people lay
+==33== To tempt the needy miserable wretch?
+==34== Ten pounds, odd money; this is a pretty sum
+==35== To bear about, which were more safe at home.
+==36== ’Fore God, ’twere well to fine ye as much more.
 *(Lord Mayor and More whisper.)*
-To the relief of the poor prisoners,
-To teach ye be more careful of your own,
-In sooth, I say ye were but rightly served,
-If ye had lost as much as twice ten pounds.
+==37== To the relief of the poor prisoners,
+==38== To teach ye be more careful of your own,
+==39== In sooth, I say ye were but rightly served,
+==40== If ye had lost as much as twice ten pounds.
 
 **MORE.**
-Good my lord, sooth a point or two for once,
-Only to try conclusions in this case.
+==41== Good my lord, sooth a point or two for once,
+==42== Only to try conclusions in this case.
 
 **LORD MAYOR.**
-Content, good Master More. We’ll rise awhile,
-And, till the jury can return their verdict,
-Walk in the garden. How say ye, Justices?
+==43== Content, good Master More. We’ll rise awhile,
+==44== And, till the jury can return their verdict,
+==45== Walk in the garden. How say ye, Justices?
 
 **ALL.**
-We like it well, my lord; we’ll follow ye.
+==46== We like it well, my lord; we’ll follow ye.
 
 *Exeunt Lord Mayor and Justices.*
 
 **MORE.**
-Nay, plaintiff, go you too;—and officers,
+==47== Nay, plaintiff, go you too;—and officers,
 *(Exit Smart.)*
-Stand you aside, and leave the prisoner
-To me awhile. Lifter, come hither.
+==48== Stand you aside, and leave the prisoner
+==49== To me awhile. Lifter, come hither.
 
 **LIFTER.**
-What is your worship’s pleasure?
+==50== What is your worship’s pleasure?
 
 **MORE.**
-Sirrah, you know that you are known to me,
-And I have often saved ye from this place,
-Since first I came in office. Thou seest beside,
-That Justice Suresby is thy heavy friend,
-By all the blame that he pretends to Smart,
-For tempting thee with such a sum of money.
-I tell thee what; devise me but a means
-To pick or cut his purse, and, on my credit,
-And as I am a Christian and a man,
-I will procure they pardon for that jest.
+==51== Sirrah, you know that you are known to me,
+==52== And I have often saved ye from this place,
+==53== Since first I came in office. Thou seest beside,
+==54== That Justice Suresby is thy heavy friend,
+==55== By all the blame that he pretends to Smart,
+==56== For tempting thee with such a sum of money.
+==57== I tell thee what; devise me but a means
+==58== To pick or cut his purse, and, on my credit,
+==59== And as I am a Christian and a man,
+==60== I will procure they pardon for that jest.
 
 **LIFTER.**
-Good Master Sheriff, seek not my overthrow:
-You know, sir, I have many heavy friends,
-And more indictments like to come upon me.
-You are too deep for me to deal withal;
-You are known to be one of the wisest men
-That is in England. I pray ye, Master Sheriff,
-Go not about to undermine my life.
+==61== Good Master Sheriff, seek not my overthrow:
+==62== You know, sir, I have many heavy friends,
+==63== And more indictments like to come upon me.
+==64== You are too deep for me to deal withal;
+==65== You are known to be one of the wisest men
+==66== That is in England. I pray ye, Master Sheriff,
+==67== Go not about to undermine my life.
 
 **MORE.**
-Lifter, I am true subject to my king;
-Thou much mistak’st me. And, for thou shall not think
-I mean by this to hurt thy life at all,
-I will maintain the act when thou hast done it.
-Thou knowest there are such matters in my hands,
-As if I pleased to give them to the jury,
-I should not need this way to circumvent thee.
-All that I aim at is a merry jest:
-Perform it, Lifter, and expect my best.
+==68== Lifter, I am true subject to my king;
+==69== Thou much mistak’st me. And, for thou shall not think
+==70== I mean by this to hurt thy life at all,
+==71== I will maintain the act when thou hast done it.
+==72== Thou knowest there are such matters in my hands,
+==73== As if I pleased to give them to the jury,
+==74== I should not need this way to circumvent thee.
+==75== All that I aim at is a merry jest:
+==76== Perform it, Lifter, and expect my best.
 
 **LIFTER.**
-I thank your worship. God preserve your life!
-But Master Justice Suresby is gone in;
-I know not how to come near where he is.
+==77== I thank your worship. God preserve your life!
+==78== But Master Justice Suresby is gone in;
+==79== I know not how to come near where he is.
 
 **MORE.**
-Let me alone for that; I’ll be thy setter;
-I’ll send him hither to thee presently,
-Under the color of thine own request
-Of private matters to acquaint him with.
+==80== Let me alone for that; I’ll be thy setter;
+==81== I’ll send him hither to thee presently,
+==82== Under the color of thine own request
+==83== Of private matters to acquaint him with.
 
 **LIFTER.**
-If ye do so, sir, then let me alone;
-Forty to one but then his purse is gone.
+==84== If ye do so, sir, then let me alone;
+==85== Forty to one but then his purse is gone.
 
 **MORE.**
-Well said. But see that thou diminish not
-One penny of the money, but give it me;
-It is the cunning act that credits thee.
+==86== Well said. But see that thou diminish not
+==87== One penny of the money, but give it me;
+==88== It is the cunning act that credits thee.
 
 **LIFTER.**
-I will, good Master Sheriff, I assure ye.
+==89== I will, good Master Sheriff, I assure ye.
 *(Exit More.)*
-I see the purpose of this gentleman
-Is but to check the folly of the Justice,
-For blaming others in a desperate case,
-Wherein himself may fall as soon as any.
-To save my life, it is a good adventure:
-Silence there, ho! Now doth the Justice enter.
+==90== I see the purpose of this gentleman
+==91== Is but to check the folly of the Justice,
+==92== For blaming others in a desperate case,
+==93== Wherein himself may fall as soon as any.
+==94== To save my life, it is a good adventure:
+==95== Silence there, ho! Now doth the Justice enter.
 
 *Enter Justice Suresby.*
 
 **SURESBY.**
-Now, sirrah, now, what is your will with me?
-Wilt thou discharge thy conscience like an honest man?
-What sayest to me, sirrah? Be brief, be brief.
+==96== Now, sirrah, now, what is your will with me?
+==97== Wilt thou discharge thy conscience like an honest man?
+==98== What sayest to me, sirrah? Be brief, be brief.
 
 **LIFTER.**
-As brief, sir, as I can.
+==99== As brief, sir, as I can.
 *(Aside.)*
-If ye stand fair, I will be brief anon.
+==100== If ye stand fair, I will be brief anon.
 
 **SURESBY.**
-Speak out, and mumble not. What sayest thou, sirrah?
+==101== Speak out, and mumble not. What sayest thou, sirrah?
 
 **LIFTER.**
-Sir, I am charged, as God shall be my comfort,
-With more than’s true.
+==102== Sir, I am charged, as God shall be my comfort,
+==103== With more than’s true.
 
 **SURESBY.**
-Sir, sir, ye are indeed, with more than’s true,
-For you are flatly charged with felony;
-You’re charged with more than truth, and that is theft;
-More than a true man should be charged withal;
-Thou art a varlet, that’s no more than true.
-Trifle not with me; do not, do not, sirrah;
-Confess but what thou knowest, I ask no more.
+==104== Sir, sir, ye are indeed, with more than’s true,
+==105== For you are flatly charged with felony;
+==106== You’re charged with more than truth, and that is theft;
+==107== More than a true man should be charged withal;
+==108== Thou art a varlet, that’s no more than true.
+==109== Trifle not with me; do not, do not, sirrah;
+==110== Confess but what thou knowest, I ask no more.
 
 **LIFTER.**
-There be, sir, there be, if’t shall please your worship⁠—
+==111== There be, sir, there be, if’t shall please your worship⁠—
 
 **SURESBY.**
-‘There be,’ varlet! What be there? Tell me what there be.
-Come off or on. ‘There be!’ What be there, knave?
+==112== ‘There be,’ varlet! What be there? Tell me what there be.
+==113== Come off or on. ‘There be!’ What be there, knave?
 
 **LIFTER.**
-There be, sir, diverse very cunning fellows,
-That, while you stand and look them in the face,
-Will have your purse.
+==114== There be, sir, diverse very cunning fellows,
+==115== That, while you stand and look them in the face,
+==116== Will have your purse.
 
 **SURESBY.**
-              Th’art an honest knave:
-Tell me what are they? Where they may be caught?
-Aye, those are they I look for.
+==116==               Th’art an honest knave:
+==117== Tell me what are they? Where they may be caught?
+==118== Aye, those are they I look for.
 
 **LIFTER.**
-              You talk of me, sir;
-Alas, I am a puny! There’s one indeed
-Goes by my name, he puts down all for purses;
-He’ll steal your worship’s purse under your nose.
+==118==               You talk of me, sir;
+==119== Alas, I am a puny! There’s one indeed
+==120== Goes by my name, he puts down all for purses;
+==121== He’ll steal your worship’s purse under your nose.
 
 **SURESBY.**
-Ha, ha! Art thou so sure, varlet?
-Well, well,
-Be as familiar as thou wilt, my knave;
-Tis this I long to know.
+==122== Ha, ha! Art thou so sure, varlet?
+==123== Well, well,
+==124== Be as familiar as thou wilt, my knave;
+==125== Tis this I long to know.
 
 **LIFTER.**
-And you shall have your longing ere ye go.
-This fellow, sir, perhaps will meet ye thus,
-Or thus, or thus, and in kind compliment
-Pretend acquaintance, somewhat doubtfully;
-And these embraces serve⁠—
+==126== And you shall have your longing ere ye go.
+==127== This fellow, sir, perhaps will meet ye thus,
+==128== Or thus, or thus, and in kind compliment
+==129== Pretend acquaintance, somewhat doubtfully;
+==130== And these embraces serve⁠—
 
 **SURESBY.**
-Aye, marry, Lifter, wherefore serve they?
+==131== Aye, marry, Lifter, wherefore serve they?
 
 *Shrugging gladly.*
 
 **LIFTER.**
-Only to feel
-Whether you go full under sail or no,
-Or that your lading be aboard your bark.
+==132== Only to feel
+==133== Whether you go full under sail or no,
+==134== Or that your lading be aboard your bark.
 
 **SURESBY.**
-In plainer English, Lifter, if my purse
-Be stored or no?
+==135== In plainer English, Lifter, if my purse
+==136== Be stored or no?
 
 **LIFTER.**
-        Ye have it, sir.
+==136==         Ye have it, sir.
 
 **SURESBY.**
-                Excellent, excellent.
+==136==                 Excellent, excellent.
 
 **LIFTER.**
-Then, sir, you cannot but for manner’s sake
-Walk on with him; for he will walk your way,
-Alleging either you have much forgot him,
-Or he mistakes you.
+==137== Then, sir, you cannot but for manner’s sake
+==138== Walk on with him; for he will walk your way,
+==139== Alleging either you have much forgot him,
+==140== Or he mistakes you.
 
 **SURESBY.**
-But in this time has he my purse or no?
+==141== But in this time has he my purse or no?
 
 **LIFTER.**
-Not yet, sir, fie!⁠—
+==142== Not yet, sir, fie!⁠—
 *(Aside.)*
-No, nor I have not yours.
+==143== No, nor I have not yours.
 *(Enter Lord Mayor, and c.)*
-But now we must forbear; my lords return.
+==144== But now we must forbear; my lords return.
 
 **SURESBY.**
-A murrain on’t!—Lifter, we’ll more anon:
-Aye, thou sayest true, there are shrewd knaves indeed:
+==145== A murrain on’t!—Lifter, we’ll more anon:
+==146== Aye, thou sayest true, there are shrewd knaves indeed:
 *(He sits down.)*
-But let them gull me, widgen me, rook me, fop me!
-I’faith, i’faith, they are too short for me.
-Knaves and fools meet when purses go:
-Wise men look to their purses well enough.
+==147== But let them gull me, widgen me, rook me, fop me!
+==148== I’faith, i’faith, they are too short for me.
+==149== Knaves and fools meet when purses go:
+==150== Wise men look to their purses well enough.
 
 **MORE.**
 *(Aside.)*
-Lifter, is it done?
+==151== Lifter, is it done?
 
 **LIFTER.**
 *(Aside.)*
-        Done, Master Sheriff; and there it is.
+==151==         Done, Master Sheriff; and there it is.
 
 **MORE.**
 *(Aside.)*
-Then build upon my word. I’ll save thy life.
+==152== Then build upon my word. I’ll save thy life.
 
 **RECORDER.**
-Lifter, stand to the bar:
-The jury have returned the guilty; thou must die,
-According to the custom. Look to it, Master Shreeve.
+==153== Lifter, stand to the bar:
+==154== The jury have returned the guilty; thou must die,
+==155== According to the custom. Look to it, Master Shreeve.
 
 **LORD MAYOR.**
-Then, gentlemen, as you are wont to do,
-Because as yet we have no burial place,
-What charity your meaning’s to bestow
-Toward burial of the prisoners now condemned,
-Let it be given. There is first for me.
+==156== Then, gentlemen, as you are wont to do,
+==157== Because as yet we have no burial place,
+==158== What charity your meaning’s to bestow
+==159== Toward burial of the prisoners now condemned,
+==160== Let it be given. There is first for me.
 
 **RECORDER.**
-And there for me.
+==161== And there for me.
 
 **1. OFF.**
-           And me.
+==161==            And me.
 
 **SURESBY.**
-                  Body of me,
-My purse is gone!
+==161==                   Body of me,
+==162== My purse is gone!
 
 **MORE.**
-           Gone, sir! What, here! How can that be?
+==162==            Gone, sir! What, here! How can that be?
 
 **LORD MAYOR.**
-Against all reason, sitting on the bench.
+==163== Against all reason, sitting on the bench.
 
 **SURESBY.**
-Lifter, I talked with you; you have not lifted me? Ha?
+==164== Lifter, I talked with you; you have not lifted me? Ha?
 
 **LIFTER.**
-Suspect ye me, sir? Oh, what a world is this!
+==165== Suspect ye me, sir? Oh, what a world is this!
 
 **MORE.**
-But hear ye, master Suresby; are ye sure
-Ye had a purse about ye?
+==166== But hear ye, master Suresby; are ye sure
+==167== Ye had a purse about ye?
 
 **SURESBY.**
-Sure, Master Sheriff! As sure as you are there,
-And in it seven pounds, odd money, on my faith.
+==168== Sure, Master Sheriff! As sure as you are there,
+==169== And in it seven pounds, odd money, on my faith.
 
 **MORE.**
-Seven pounds, odd money! What, were you so mad,
-Being a wise man and a magistrate,
-To trust your purse with such a liberal sum?
-Seven pounds, odd money! ’Fore God, it is a shame,
-With such a sum to tempt necessity:
-I promise ye, a man that goes abroad
-With an intent of truth, meeting such a booty,
-May be wrought to that he never thought.
-What makes so many pilferers and felons,
-But these fond baits that foolish people lay
-To tempt the needy miserable wretch?
-Should he be taken now that has your purse,
-I’d stand to’t, you are guilty of his death;
-For, questionless, he would be cast by law.
-Twere a good deed to fine ye as much more,
-To the relief of the poor prisoners,
-To teach ye lock your money up at home.
+==170== Seven pounds, odd money! What, were you so mad,
+==171== Being a wise man and a magistrate,
+==172== To trust your purse with such a liberal sum?
+==173== Seven pounds, odd money! ’Fore God, it is a shame,
+==174== With such a sum to tempt necessity:
+==175== I promise ye, a man that goes abroad
+==176== With an intent of truth, meeting such a booty,
+==177== May be wrought to that he never thought.
+==178== What makes so many pilferers and felons,
+==179== But these fond baits that foolish people lay
+==180== To tempt the needy miserable wretch?
+==181== Should he be taken now that has your purse,
+==182== I’d stand to’t, you are guilty of his death;
+==183== For, questionless, he would be cast by law.
+==184== Twere a good deed to fine ye as much more,
+==185== To the relief of the poor prisoners,
+==186== To teach ye lock your money up at home.
 
 **SURESBY.**
-Well, Master More, you are a merry man;
-I find ye, sir, I find ye well enough.
+==187== Well, Master More, you are a merry man;
+==188== I find ye, sir, I find ye well enough.
 
 **MORE.**
-Nay, ye shall see, sir, trusting thus your money,
-And Lifter here in trial for like case,
-But that the poor man is a prisoner,
-It would be now suspected that he had it.
-Thus may ye see what mischief often comes
-By the fond carriage of such needless sums.
+==189== Nay, ye shall see, sir, trusting thus your money,
+==190== And Lifter here in trial for like case,
+==191== But that the poor man is a prisoner,
+==192== It would be now suspected that he had it.
+==193== Thus may ye see what mischief often comes
+==194== By the fond carriage of such needless sums.
 
 **LORD MAYOR.**
-Believe me, Master Suresby, this is strange,
-You, being a man so settled in assurance,
-Will fall in that which you condemned in other.
+==195== Believe me, Master Suresby, this is strange,
+==196== You, being a man so settled in assurance,
+==197== Will fall in that which you condemned in other.
 
 **MORE.**
-Well, Master Suresby, there’s your purse again,
-And all your money. Fear nothing of More;
-Wisdom still keeps the mean and locks the door.
+==198== Well, Master Suresby, there’s your purse again,
+==199== And all your money. Fear nothing of More;
+==200== Wisdom still keeps the mean and locks the door.
 
 *Exeunt.*
 

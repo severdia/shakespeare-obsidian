@@ -20,37 +20,37 @@ ID: macbeth-1-1
 *Thunder and lightning. Enter three Witches.*
 
 **1. WITCH.**
-When shall we three meet again?
-In thunder, lightning, or in rain?
+==1== When shall we three meet again?
+==2== In thunder, lightning, or in rain?
 
 **2. WITCH.**
-When the hurly-burly’s done,
-When the battle’s lost and won.
+==3== When the hurly-burly’s done,
+==4== When the battle’s lost and won.
 
 **3. WITCH.**
-That will be ere the set of sun.
+==5== That will be ere the set of sun.
 
 **1. WITCH.**
-Where the place?
+==6== Where the place?
 
 **2. WITCH.**
-              Upon the heath.
+==6==               Upon the heath.
 
 **3. WITCH.**
-There to meet with Macbeth.
+==7== There to meet with Macbeth.
 
 **1. WITCH.**
-I come, Graymalkin.
+==8== I come, Graymalkin.
 
 **2. WITCH.**
-Paddock calls.
+==9== Paddock calls.
 
 **3. WITCH.**
-Anon.
+==10== Anon.
 
 **THREE WITCHES**
-Fair is foul, and foul is fair,
-Hover through the fog and filthy air.
+==11== Fair is foul, and foul is fair,
+==12== Hover through the fog and filthy air.
 
 *Exeunt.*
 

@@ -20,61 +20,61 @@ ID: macbeth-5-2
 *Drum and Colors. Enter Menteth, Cathness, Angus, Lennox, Soldiers.*
 
 **MENT.**
-The English pow’r is near, led on by Malcolm,
-His uncle Siward, and the good Macduff.
-Revenges burn in them; for their dear causes
-Would to the bleeding and the grim alarm
-Excite the mortified man.
+==1== The English pow’r is near, led on by Malcolm,
+==2== His uncle Siward, and the good Macduff.
+==3== Revenges burn in them; for their dear causes
+==4== Would to the bleeding and the grim alarm
+==5== Excite the mortified man.
 
 **ANG.**
-              Near Birnan wood
-Shall we well meet them; that way are they coming.
+==5==               Near Birnan wood
+==6== Shall we well meet them; that way are they coming.
 
 **CATH.**
-Who knows if Donalbain be with his brother?
+==7== Who knows if Donalbain be with his brother?
 
 **LEN.**
-For certain, sir, he is not; I have a file
-Of all the gentry. There is Siward’s son,
-And many unrough youths that even now
-Protest their first of manhood.
+==8== For certain, sir, he is not; I have a file
+==9== Of all the gentry. There is Siward’s son,
+==10== And many unrough youths that even now
+==11== Protest their first of manhood.
 
 **MENT.**
-                What does the tyrant?
+==11==                 What does the tyrant?
 
 **CATH.**
-Great Dunsinane he strongly fortifies.
-Some say he’s mad; others that lesser hate him
-Do call it valiant fury; but for certain
-He cannot buckle his distemper’d cause
-Within the belt of rule.
+==12== Great Dunsinane he strongly fortifies.
+==13== Some say he’s mad; others that lesser hate him
+==14== Do call it valiant fury; but for certain
+==15== He cannot buckle his distemper’d cause
+==16== Within the belt of rule.
 
 **ANG.**
-              Now does he feel
-His secret murders sticking on his hands;
-Now minutely revolts upbraid his faith-breach;
-Those he commands move only in command,
-Nothing in love. Now does he feel his title
-Hang loose about him, like a giant’s robe
-Upon a dwarfish thief.
+==16==               Now does he feel
+==17== His secret murders sticking on his hands;
+==18== Now minutely revolts upbraid his faith-breach;
+==19== Those he commands move only in command,
+==20== Nothing in love. Now does he feel his title
+==21== Hang loose about him, like a giant’s robe
+==22== Upon a dwarfish thief.
 
 **MENT.**
-           Who then shall blame
-His pester’d senses to recoil and start,
-When all that is within him does condemn
-Itself for being there?
+==22==            Who then shall blame
+==23== His pester’d senses to recoil and start,
+==24== When all that is within him does condemn
+==25== Itself for being there?
 
 **CATH.**
-           Well, march we on
-To give obedience where ’tis truly ow’d.
-Meet we the med’cine of the sickly weal,
-And with him pour we, in our country’s purge,
-Each drop of us.
+==25==            Well, march we on
+==26== To give obedience where ’tis truly ow’d.
+==27== Meet we the med’cine of the sickly weal,
+==28== And with him pour we, in our country’s purge,
+==29== Each drop of us.
 
 **LEN.**
-        Or so much as it needs
-To dew the sovereign flower and drown the weeds.
-Make we our march towards Birnan.
+==29==         Or so much as it needs
+==30== To dew the sovereign flower and drown the weeds.
+==31== Make we our march towards Birnan.
 
 *Exeunt marching.*
 

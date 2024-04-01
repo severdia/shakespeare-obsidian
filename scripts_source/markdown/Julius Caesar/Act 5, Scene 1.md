@@ -19,238 +19,238 @@ ID: julius-caesar-5-1
 *Enter Octavius, Antony, and their army.*
 
 **OCT.**
-Now, Antony, our hopes are answered.
-You said the enemy would not come down,
-But keep the hills and upper regions.
-It proves not so: their battles are at hand;
-They mean to warn us at Philippi here,
-Answering before we do demand of them.
+==1== Now, Antony, our hopes are answered.
+==2== You said the enemy would not come down,
+==3== But keep the hills and upper regions.
+==4== It proves not so: their battles are at hand;
+==5== They mean to warn us at Philippi here,
+==6== Answering before we do demand of them.
 
 **ANT.**
-Tut, I am in their bosoms, and I know
-Wherefore they do it. They could be content
-To visit other places, and come down
-With fearful bravery, thinking by this face
-To fasten in our thoughts that they have courage;
-But ’tis not so.
+==7== Tut, I am in their bosoms, and I know
+==8== Wherefore they do it. They could be content
+==9== To visit other places, and come down
+==10== With fearful bravery, thinking by this face
+==11== To fasten in our thoughts that they have courage;
+==12== But ’tis not so.
 
 *Enter a Messenger.*
 
 **MESS.**
-        Prepare you, generals.
-The enemy comes on in gallant show;
-Their bloody sign of battle is hung out,
-And something to be done immediately.
+==12==         Prepare you, generals.
+==13== The enemy comes on in gallant show;
+==14== Their bloody sign of battle is hung out,
+==15== And something to be done immediately.
 
 **ANT.**
-Octavius, lead your battle softly on
-Upon the left hand of the even field.
+==16== Octavius, lead your battle softly on
+==17== Upon the left hand of the even field.
 
 **OCT.**
-Upon the right hand I, keep thou the left.
+==18== Upon the right hand I, keep thou the left.
 
 **ANT.**
-Why do you cross me in this exigent?
+==19== Why do you cross me in this exigent?
 
 **OCT.**
-I do not cross you; but I will do so.
+==20== I do not cross you; but I will do so.
 
 *March.*
 
 *Drum. Enter Brutus, Cassius, and their army; Lucilius, Titinius, Messala, and others.*
 
 **BRU.**
-They stand, and would have parley.
+==21== They stand, and would have parley.
 
 **CAS.**
-Stand fast, Titinius; we must out and talk.
+==22== Stand fast, Titinius; we must out and talk.
 
 **OCT.**
-Mark Antony, shall we give sign of battle?
+==23== Mark Antony, shall we give sign of battle?
 
 **ANT.**
-No, Caesar, we will answer on their charge.
-Make forth, the generals would have some words.
+==24== No, Caesar, we will answer on their charge.
+==25== Make forth, the generals would have some words.
 
 **OCT.**
-Stir not until the signal.
+==26== Stir not until the signal.
 
 **BRU.**
-Words before blows; is it so, countrymen?
+==27== Words before blows; is it so, countrymen?
 
 **OCT.**
-Not that we love words better, as you do.
+==28== Not that we love words better, as you do.
 
 **BRU.**
-Good words are better than bad strokes, Octavius.
+==29== Good words are better than bad strokes, Octavius.
 
 **ANT.**
-In your bad strokes, Brutus, you give good words;
-Witness the hole you made in Caesar’s heart,
-Crying, “Long live! Hail, Caesar!”
+==30== In your bad strokes, Brutus, you give good words;
+==31== Witness the hole you made in Caesar’s heart,
+==32== Crying, “Long live! Hail, Caesar!”
 
 **CAS.**
-                  Antony,
-The posture of your blows are yet unknown;
-But for your words, they rob the Hybla bees,
-And leave them honeyless.
+==32==                   Antony,
+==33== The posture of your blows are yet unknown;
+==34== But for your words, they rob the Hybla bees,
+==35== And leave them honeyless.
 
 **ANT.**
-              Not stingless too?
+==35==               Not stingless too?
 
 **BRU.**
-O yes, and soundless too;
-For you have stol’n their buzzing, Antony,
-And very wisely threat before you sting.
+==36== O yes, and soundless too;
+==37== For you have stol’n their buzzing, Antony,
+==38== And very wisely threat before you sting.
 
 **ANT.**
-Villains! You did not so, when your vile daggers
-Hack’d one another in the sides of Caesar.
-You show’d your teeth like apes, and fawn’d like hounds,
-And bow’d like bondmen, kissing Caesar’s feet;
-Whilst damned Casca, like a cur, behind
-Struck Caesar on the neck. O you flatterers!
+==39== Villains! You did not so, when your vile daggers
+==40== Hack’d one another in the sides of Caesar.
+==41== You show’d your teeth like apes, and fawn’d like hounds,
+==42== And bow’d like bondmen, kissing Caesar’s feet;
+==43== Whilst damned Casca, like a cur, behind
+==44== Struck Caesar on the neck. O you flatterers!
 
 **CAS.**
-Flatterers? Now, Brutus, thank yourself;
-This tongue had not offended so today,
-If Cassius might have rul’d.
+==45== Flatterers? Now, Brutus, thank yourself;
+==46== This tongue had not offended so today,
+==47== If Cassius might have rul’d.
 
 **OCT.**
-Come, come, the cause. If arguing make us sweat,
-The proof of it will turn to redder drops.
-Look,
-I draw a sword against conspirators;
-When think you that the sword goes up again?
-Never, till Caesar’s three and thirty wounds
-Be well aveng’d; or till another Caesar
-Have added slaughter to the sword of traitors.
+==48== Come, come, the cause. If arguing make us sweat,
+==49== The proof of it will turn to redder drops.
+==50== Look,
+==51== I draw a sword against conspirators;
+==52== When think you that the sword goes up again?
+==53== Never, till Caesar’s three and thirty wounds
+==54== Be well aveng’d; or till another Caesar
+==55== Have added slaughter to the sword of traitors.
 
 **BRU.**
-Caesar, thou canst not die by traitors’ hands,
-Unless thou bring’st them with thee.
+==56== Caesar, thou canst not die by traitors’ hands,
+==57== Unless thou bring’st them with thee.
 
 **OCT.**
-                  So I hope;
-I was not born to die on Brutus’ sword.
+==57==                   So I hope;
+==58== I was not born to die on Brutus’ sword.
 
 **BRU.**
-O, if thou wert the noblest of thy strain,
-Young man, thou couldst not die more honorable.
+==59== O, if thou wert the noblest of thy strain,
+==60== Young man, thou couldst not die more honorable.
 
 **CAS.**
-A peevish schoolboy, worthless of such honor,
-Join’d with a masker and a reveller!
+==61== A peevish schoolboy, worthless of such honor,
+==62== Join’d with a masker and a reveller!
 
 **ANT.**
-Old Cassius still!
+==63== Old Cassius still!
 
 **OCT.**
-           Come, Antony; away!
-Defiance, traitors, hurl we in your teeth.
-If you dare fight today, come to the field;
-If not, when you have stomachs.
+==63==            Come, Antony; away!
+==64== Defiance, traitors, hurl we in your teeth.
+==65== If you dare fight today, come to the field;
+==66== If not, when you have stomachs.
 
 *Exeunt Octavius, Antony, and army.*
 
 **CAS.**
-Why now blow wind, swell billow, and swim bark!
-The storm is up, and all is on the hazard.
+==67== Why now blow wind, swell billow, and swim bark!
+==68== The storm is up, and all is on the hazard.
 
 **BRU.**
-Ho, Lucilius, hark, a word with you.
+==69== Ho, Lucilius, hark, a word with you.
 
 *Lucilius and then Messala stand forth.*
 
 **LUCIL.**
-My lord.
+==70== My lord.
 
 *Brutus and Lucilius converse apart.*
 
 **CAS.**
-Messala!
+==71== Messala!
 
 **MES.**
-    What says my general?
+==71==     What says my general?
 
 **CAS.**
-                  Messala,
-This is my birthday; as this very day
-Was Cassius born. Give me thy hand, Messala.
-Be thou my witness that against my will
-(As Pompey was) am I compell’d to set
-Upon one battle all our liberties.
-You know that I held Epicurus strong,
-And his opinion; now I change my mind,
-And partly credit things that do presage.
-Coming from Sardis, on our former ensign
-Two mighty eagles fell, and there they perch’d,
-Gorging and feeding from our soldiers’ hands,
-Who to Philippi here consorted us.
-This morning are they fled away and gone,
-And in their steads do ravens, crows, and kites
-Fly o’er our heads, and downward look on us
-As we were sickly prey. Their shadows seem
-A canopy most fatal, under which
-Our army lies, ready to give up the ghost.
+==71==                   Messala,
+==72== This is my birthday; as this very day
+==73== Was Cassius born. Give me thy hand, Messala.
+==74== Be thou my witness that against my will
+==75== (As Pompey was) am I compell’d to set
+==76== Upon one battle all our liberties.
+==77== You know that I held Epicurus strong,
+==78== And his opinion; now I change my mind,
+==79== And partly credit things that do presage.
+==80== Coming from Sardis, on our former ensign
+==81== Two mighty eagles fell, and there they perch’d,
+==82== Gorging and feeding from our soldiers’ hands,
+==83== Who to Philippi here consorted us.
+==84== This morning are they fled away and gone,
+==85== And in their steads do ravens, crows, and kites
+==86== Fly o’er our heads, and downward look on us
+==87== As we were sickly prey. Their shadows seem
+==88== A canopy most fatal, under which
+==89== Our army lies, ready to give up the ghost.
 
 **MES.**
-Believe not so.
+==90== Believe not so.
 
 **CAS.**
-        I but believe it partly,
-For I am fresh of spirit, and resolv’d
-To meet all perils very constantly.
+==90==         I but believe it partly,
+==91== For I am fresh of spirit, and resolv’d
+==92== To meet all perils very constantly.
 
 **BRU.**
-Even so, Lucilius.
+==93== Even so, Lucilius.
 
 **CAS.**
-           Now, most noble Brutus,
-The gods today stand friendly, that we may,
-Lovers in peace, lead on our days to age!
-But since the affairs of men rests still incertain,
-Let’s reason with the worst that may befall.
-If we do lose this battle, then is this
-The very last time we shall speak together:
-What are you then determined to do?
+==93==            Now, most noble Brutus,
+==94== The gods today stand friendly, that we may,
+==95== Lovers in peace, lead on our days to age!
+==96== But since the affairs of men rests still incertain,
+==97== Let’s reason with the worst that may befall.
+==98== If we do lose this battle, then is this
+==99== The very last time we shall speak together:
+==100== What are you then determined to do?
 
 **BRU.**
-Even by the rule of that philosophy
-By which I did blame Cato for the death
-Which he did give himself—I know not how,
-But I do find it cowardly and vile,
-For fear of what might fall, so to prevent
-The time of life—arming myself with patience
-To stay the providence of some high powers
-That govern us below.
+==101== Even by the rule of that philosophy
+==102== By which I did blame Cato for the death
+==103== Which he did give himself—I know not how,
+==104== But I do find it cowardly and vile,
+==105== For fear of what might fall, so to prevent
+==106== The time of life—arming myself with patience
+==107== To stay the providence of some high powers
+==108== That govern us below.
 
 **CAS.**
-           Then, if we lose this battle,
-You are contented to be led in triumph
-Thorough the streets of Rome?
+==108==            Then, if we lose this battle,
+==109== You are contented to be led in triumph
+==110== Thorough the streets of Rome?
 
 **BRU.**
-No, Cassius, no. Think not, thou Roman,
-That ever Brutus will go bound to Rome;
-He bears too great a mind. But this same day
-Must end that work the ides of March begun.
-And whether we shall meet again I know not;
-Therefore our everlasting farewell take:
-For ever, and forever, farewell, Cassius!
-If we do meet again, why, we shall smile;
-If not, why then this parting was well made.
+==111== No, Cassius, no. Think not, thou Roman,
+==112== That ever Brutus will go bound to Rome;
+==113== He bears too great a mind. But this same day
+==114== Must end that work the ides of March begun.
+==115== And whether we shall meet again I know not;
+==116== Therefore our everlasting farewell take:
+==117== For ever, and forever, farewell, Cassius!
+==118== If we do meet again, why, we shall smile;
+==119== If not, why then this parting was well made.
 
 **CAS.**
-For ever, and forever, farewell, Brutus!
-If we do meet again, we’ll smile indeed;
-If not, ’tis true this parting was well made.
+==120== For ever, and forever, farewell, Brutus!
+==121== If we do meet again, we’ll smile indeed;
+==122== If not, ’tis true this parting was well made.
 
 **BRU.**
-Why then lead on. O that a man might know
-The end of this day’s business ere it come!
-But it sufficeth that the day will end,
-And then the end is known. Come ho, away!
+==123== Why then lead on. O that a man might know
+==124== The end of this day’s business ere it come!
+==125== But it sufficeth that the day will end,
+==126== And then the end is known. Come ho, away!
 
 *Exeunt.*
 

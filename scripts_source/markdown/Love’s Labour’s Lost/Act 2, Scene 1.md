@@ -21,519 +21,519 @@ ID: loves-labours-lost-2-1
 *Enter the Princess of France with three attending Ladies (Rosaline, Maria, Katherine) and three Lords, one named Boyet.*
 
 **BOYET.**
-Now, madam, summon up your dearest spirits;
-Consider who the King your father sends,
-To whom he sends, and what’s his embassy:
-Yourself, held precious in the world’s esteem,
-To parley with the sole inheritor
-Of all perfections that a man may owe,
-Matchless Navarre; the plea of no less weight
-Than Aquitaine, a dowry for a queen.
-Be now as prodigal of all dear grace
-As Nature was in making graces dear,
-When she did starve the general world beside
-And prodigally gave them all to you.
+==1== Now, madam, summon up your dearest spirits;
+==2== Consider who the King your father sends,
+==3== To whom he sends, and what’s his embassy:
+==4== Yourself, held precious in the world’s esteem,
+==5== To parley with the sole inheritor
+==6== Of all perfections that a man may owe,
+==7== Matchless Navarre; the plea of no less weight
+==8== Than Aquitaine, a dowry for a queen.
+==9== Be now as prodigal of all dear grace
+==10== As Nature was in making graces dear,
+==11== When she did starve the general world beside
+==12== And prodigally gave them all to you.
 
 **PRIN.**
-Good Lord Boyet, my beauty, though but mean,
-Needs not the painted flourish of your praise:
-Beauty is bought by judgment of the eye,
-Not utt’red by base sale of chapmen’s tongues.
-I am less proud to hear you tell my worth
-Than you much willing to be counted wise
-In spending your wit in the praise of mine.
-But now to task the tasker: good Boyet,
-You are not ignorant all-telling fame
-Doth noise abroad Navarre hath made a vow,
-Till painful study shall outwear three years,
-No woman may approach his silent court;
-Therefore to ’s seemeth it a needful course,
-Before we enter his forbidden gates,
-To know his pleasure; and in that behalf,
-Bold of your worthiness, we single you
-As our best-moving fair solicitor.
-Tell him, the daughter of the King of France,
-On serious business craving quick dispatch,
-Importunes personal conference with his Grace.
-Haste, signify so much, while we attend,
-Like humble-visag’d suitors, his high will.
+==13== Good Lord Boyet, my beauty, though but mean,
+==14== Needs not the painted flourish of your praise:
+==15== Beauty is bought by judgment of the eye,
+==16== Not utt’red by base sale of chapmen’s tongues.
+==17== I am less proud to hear you tell my worth
+==18== Than you much willing to be counted wise
+==19== In spending your wit in the praise of mine.
+==20== But now to task the tasker: good Boyet,
+==21== You are not ignorant all-telling fame
+==22== Doth noise abroad Navarre hath made a vow,
+==23== Till painful study shall outwear three years,
+==24== No woman may approach his silent court;
+==25== Therefore to ’s seemeth it a needful course,
+==26== Before we enter his forbidden gates,
+==27== To know his pleasure; and in that behalf,
+==28== Bold of your worthiness, we single you
+==29== As our best-moving fair solicitor.
+==30== Tell him, the daughter of the King of France,
+==31== On serious business craving quick dispatch,
+==32== Importunes personal conference with his Grace.
+==33== Haste, signify so much, while we attend,
+==34== Like humble-visag’d suitors, his high will.
 
 **BOYET.**
-Proud of employment, willingly I go.
+==35== Proud of employment, willingly I go.
 
 *Exit Boyet.*
 
 **PRIN.**
-All pride is willing pride, and yours is so.
-Who are the votaries, my loving lords,
-That are vow-fellows with this virtuous Duke?
+==36== All pride is willing pride, and yours is so.
+==37== Who are the votaries, my loving lords,
+==38== That are vow-fellows with this virtuous Duke?
 
 **1. FR. LORD.**
-Lord Longaville is one.
+==39== Lord Longaville is one.
 
 **PRIN.**
-              Know you the man?
+==39==               Know you the man?
 
 **MAR.**
-I know him, madam; at a marriage-feast,
-Between Lord Perigort and the beauteous heir
-Of Jaques Falconbridge, solemnized
-In Normandy, saw I this Longaville,
-A man of sovereign parts, peerless esteem’d,
-Well fitted in arts, glorious in arms;
-Nothing becomes him ill that he would well.
-The only soil of his fair virtue’s gloss,
-If virtue’s gloss will stain with any soil,
-Is a sharp wit match’d with too blunt a will,
-Whose edge hath power to cut, whose will still wills
-It should none spare that come within his power.
+==40== I know him, madam; at a marriage-feast,
+==41== Between Lord Perigort and the beauteous heir
+==42== Of Jaques Falconbridge, solemnized
+==43== In Normandy, saw I this Longaville,
+==44== A man of sovereign parts, peerless esteem’d,
+==45== Well fitted in arts, glorious in arms;
+==46== Nothing becomes him ill that he would well.
+==47== The only soil of his fair virtue’s gloss,
+==48== If virtue’s gloss will stain with any soil,
+==49== Is a sharp wit match’d with too blunt a will,
+==50== Whose edge hath power to cut, whose will still wills
+==51== It should none spare that come within his power.
 
 **PRIN.**
-Some merry mocking lord belike, is’t so?
+==52== Some merry mocking lord belike, is’t so?
 
 **MAR.**
-They say so most that most his humors know.
+==53== They say so most that most his humors know.
 
 **PRIN.**
-Such short-liv’d wits do wither as they grow.
-Who are the rest?
+==54== Such short-liv’d wits do wither as they grow.
+==55== Who are the rest?
 
 **KATH.**
-The young Dumaine, a well-accomplish’d youth,
-Of all that virtue love for virtue loved;
-Most power to do most harm, least knowing ill;
-For he hath wit to make an ill shape good,
-And shape to win grace though he had no wit.
-I saw him at the Duke Alanson’s once,
-And much too little of that good I saw
-Is my report to his great worthiness.
+==56== The young Dumaine, a well-accomplish’d youth,
+==57== Of all that virtue love for virtue loved;
+==58== Most power to do most harm, least knowing ill;
+==59== For he hath wit to make an ill shape good,
+==60== And shape to win grace though he had no wit.
+==61== I saw him at the Duke Alanson’s once,
+==62== And much too little of that good I saw
+==63== Is my report to his great worthiness.
 
 **ROS.**
-Another of these students at that time
-Was there with him, if I have heard a truth.
-Berowne they call him, but a merrier man,
-Within the limit of becoming mirth,
-I never spent an hour’s talk withal.
-His eye begets occasion for his wit,
-For every object that the one doth catch
-The other turns to a mirth-moving jest,
-Which his fair tongue, conceit’s expositor,
-Delivers in such apt and gracious words
-That aged ears play truant at his tales,
-And younger hearings are quite ravished,
-So sweet and voluble is his discourse.
+==64== Another of these students at that time
+==65== Was there with him, if I have heard a truth.
+==66== Berowne they call him, but a merrier man,
+==67== Within the limit of becoming mirth,
+==68== I never spent an hour’s talk withal.
+==69== His eye begets occasion for his wit,
+==70== For every object that the one doth catch
+==71== The other turns to a mirth-moving jest,
+==72== Which his fair tongue, conceit’s expositor,
+==73== Delivers in such apt and gracious words
+==74== That aged ears play truant at his tales,
+==75== And younger hearings are quite ravished,
+==76== So sweet and voluble is his discourse.
 
 **PRIN.**
-God bless my ladies! Are they all in love,
-That every one her own hath garnished
-With such bedecking ornaments of praise?
+==77== God bless my ladies! Are they all in love,
+==78== That every one her own hath garnished
+==79== With such bedecking ornaments of praise?
 
 **1. FR. LORD.**
-Here comes Boyet.
+==80== Here comes Boyet.
 
 *Enter Boyet.*
 
 **PRIN.**
-           Now, what admittance, lord?
+==80==            Now, what admittance, lord?
 
 **BOYET.**
-Navarre had notice of your fair approach,
-And he and his competitors in oath
-Were all address’d to meet you, gentle lady,
-Before I came. Marry, thus much I have learnt:
-He rather means to lodge you in the field,
-Like one that comes here to besiege his court,
-Than seek a dispensation for his oath,
-To let you enter his unpeopled house.
+==81== Navarre had notice of your fair approach,
+==82== And he and his competitors in oath
+==83== Were all address’d to meet you, gentle lady,
+==84== Before I came. Marry, thus much I have learnt:
+==85== He rather means to lodge you in the field,
+==86== Like one that comes here to besiege his court,
+==87== Than seek a dispensation for his oath,
+==88== To let you enter his unpeopled house.
 *(Enter Ferdinand, King of Navarre, Longaville, Dumaine, and Berowne, and Attendants.)*
-Here comes Navarre.
+==89== Here comes Navarre.
 
 *The ladies-in-waiting mask.*
 
 **KING.**
-Fair Princess, welcome to the court of Navarre.
+==90== Fair Princess, welcome to the court of Navarre.
 
 **PRIN.**
-“Fair” I give you back again, and “welcome” I have not yet. The roof of this court is too high to be yours, and welcome to the wide fields too base to be mine.
+==91== “Fair” I give you back again, and “welcome” I have not yet. The roof of this court is too high to be yours, and welcome to the wide fields too base to be mine.
 
 **KING.**
-You shall be welcome, madam, to my court.
+==92== You shall be welcome, madam, to my court.
 
 **PRIN.**
-I will be welcome then—conduct me thither.
+==93== I will be welcome then—conduct me thither.
 
 **KING.**
-Hear me, dear lady: I have sworn an oath.
+==94== Hear me, dear lady: I have sworn an oath.
 
 **PRIN.**
-Our Lady help my lord! He’ll be forsworn.
+==95== Our Lady help my lord! He’ll be forsworn.
 
 **KING.**
-Not for the world, fair madam, by my will.
+==96== Not for the world, fair madam, by my will.
 
 **PRIN.**
-Why, will shall break it, will, and nothing else.
+==97== Why, will shall break it, will, and nothing else.
 
 **KING.**
-Your ladyship is ignorant what it is.
+==98== Your ladyship is ignorant what it is.
 
 **PRIN.**
-Were my lord so, his ignorance were wise,
-Where now his knowledge must prove ignorance.
-I hear your Grace hath sworn out house-keeping:
-’Tis deadly sin to keep that oath, my lord,
-And sin to break it.
-But pardon me, I am too sudden bold;
-To teach a teacher ill beseemeth me.
-Vouchsafe to read the purpose of my coming,
-And suddenly resolve me in my suit.
+==99== Were my lord so, his ignorance were wise,
+==100== Where now his knowledge must prove ignorance.
+==101== I hear your Grace hath sworn out house-keeping:
+==102== ’Tis deadly sin to keep that oath, my lord,
+==103== And sin to break it.
+==104== But pardon me, I am too sudden bold;
+==105== To teach a teacher ill beseemeth me.
+==106== Vouchsafe to read the purpose of my coming,
+==107== And suddenly resolve me in my suit.
 
 *Giving a paper.*
 
 **KING.**
-Madam, I will, if suddenly I may.
+==108== Madam, I will, if suddenly I may.
 
 **PRIN.**
-You will the sooner, that I were away,
-For you’ll prove perjur’d if you make me stay.
+==109== You will the sooner, that I were away,
+==110== For you’ll prove perjur’d if you make me stay.
 
 **BER.**
-Did not I dance with you in Brabant once?
+==111== Did not I dance with you in Brabant once?
 
 **ROS.**
-Did not I dance with you in Brabant once?
+==112== Did not I dance with you in Brabant once?
 
 **BER.**
-I know you did.
+==113== I know you did.
 
 **ROS.**
-        How needless was it then
-To ask the question?
+==113==         How needless was it then
+==114== To ask the question?
 
 **BER.**
-           You must not be so quick.
+==114==            You must not be so quick.
 
 **ROS.**
-’Tis long of you that spur me with such questions.
+==115== ’Tis long of you that spur me with such questions.
 
 **BER.**
-Your wit’s too hot, it speeds too fast, ’twill tire.
+==116== Your wit’s too hot, it speeds too fast, ’twill tire.
 
 **ROS.**
-Not till it leave the rider in the mire.
+==117== Not till it leave the rider in the mire.
 
 **BER.**
-What time a’ day?
+==118== What time a’ day?
 
 **ROS.**
-The hour that fools should ask.
+==119== The hour that fools should ask.
 
 **BER.**
-Now fair befall your mask!
+==120== Now fair befall your mask!
 
 **ROS.**
-Fair fall the face it covers!
+==121== Fair fall the face it covers!
 
 **BER.**
-And send you many lovers!
+==122== And send you many lovers!
 
 **ROS.**
-Amen, so you be none.
+==123== Amen, so you be none.
 
 **BER.**
-Nay then will I be gone.
+==124== Nay then will I be gone.
 
 **KING.**
-Madam, your father here doth intimate
-The payment of a hundred thousand crowns,
-Being but the one half of an entire sum
-Disbursed by my father in his wars.
-But say that he, or we, as neither have,
-Receiv’d that sum, yet there remains unpaid
-A hundred thousand more, in surety of the which
-One part of Aquitaine is bound to us,
-Although not valued to the money’s worth.
-If then the King your father will restore
-But that one half which is unsatisfied,
-We will give up our right in Aquitaine,
-And hold fair friendship with his Majesty.
-But that, it seems, he little purposeth:
-For here he doth demand to have repaid
-A hundred thousand crowns, and not demands,
-On payment of a hundred thousand crowns,
-To have his title live in Aquitaine;
-Which we much rather had depart withal,
-And have the money by our father lent,
-Than Aquitaine, so gelded as it is.
-Dear Princess, were not his requests so far
-From reason’s yielding, your fair self should make
-A yielding ’gainst some reason in my breast,
-And go well satisfied to France again.
+==125== Madam, your father here doth intimate
+==126== The payment of a hundred thousand crowns,
+==127== Being but the one half of an entire sum
+==128== Disbursed by my father in his wars.
+==129== But say that he, or we, as neither have,
+==130== Receiv’d that sum, yet there remains unpaid
+==131== A hundred thousand more, in surety of the which
+==132== One part of Aquitaine is bound to us,
+==133== Although not valued to the money’s worth.
+==134== If then the King your father will restore
+==135== But that one half which is unsatisfied,
+==136== We will give up our right in Aquitaine,
+==137== And hold fair friendship with his Majesty.
+==138== But that, it seems, he little purposeth:
+==139== For here he doth demand to have repaid
+==140== A hundred thousand crowns, and not demands,
+==141== On payment of a hundred thousand crowns,
+==142== To have his title live in Aquitaine;
+==143== Which we much rather had depart withal,
+==144== And have the money by our father lent,
+==145== Than Aquitaine, so gelded as it is.
+==146== Dear Princess, were not his requests so far
+==147== From reason’s yielding, your fair self should make
+==148== A yielding ’gainst some reason in my breast,
+==149== And go well satisfied to France again.
 
 **PRIN.**
-You do the King my father too much wrong,
-And wrong the reputation of your name,
-In so unseeming to confess receipt
-Of that which hath so faithfully been paid.
+==150== You do the King my father too much wrong,
+==151== And wrong the reputation of your name,
+==152== In so unseeming to confess receipt
+==153== Of that which hath so faithfully been paid.
 
 **KING.**
-I do protest I never heard of it;
-And, if you prove it, I’ll repay it back,
-Or yield up Aquitaine.
+==154== I do protest I never heard of it;
+==155== And, if you prove it, I’ll repay it back,
+==156== Or yield up Aquitaine.
 
 **PRIN.**
-           We arrest your word.
-Boyet, you can produce acquittances
-For such a sum from special officers
-Of Charles his father.
+==156==            We arrest your word.
+==157== Boyet, you can produce acquittances
+==158== For such a sum from special officers
+==159== Of Charles his father.
 
 **KING.**
-           Satisfy me so.
+==159==            Satisfy me so.
 
 **BOYET.**
-So please your Grace, the packet is not come
-Where that and other specialties are bound:
-Tomorrow you shall have a sight of them.
+==160== So please your Grace, the packet is not come
+==161== Where that and other specialties are bound:
+==162== Tomorrow you shall have a sight of them.
 
 **KING.**
-It shall suffice me; at which interview
-All liberal reason I will yield unto.
-Mean time receive such welcome at my hand
-As honor (without breach of honor) may
-Make tender of to thy true worthiness.
-You may not come, fair Princess, within my gates,
-But here without you shall be so receiv’d
-As you shall deem yourself lodg’d in my heart,
-Though so denied fair harbor in my house.
-Your own good thoughts excuse me, and farewell.
-Tomorrow shall we visit you again.
+==163== It shall suffice me; at which interview
+==164== All liberal reason I will yield unto.
+==165== Mean time receive such welcome at my hand
+==166== As honor (without breach of honor) may
+==167== Make tender of to thy true worthiness.
+==168== You may not come, fair Princess, within my gates,
+==169== But here without you shall be so receiv’d
+==170== As you shall deem yourself lodg’d in my heart,
+==171== Though so denied fair harbor in my house.
+==172== Your own good thoughts excuse me, and farewell.
+==173== Tomorrow shall we visit you again.
 
 **PRIN.**
-Sweet health and fair desires consort your Grace!
+==174== Sweet health and fair desires consort your Grace!
 
 **KING.**
-Thy own wish wish I thee in every place.
+==175== Thy own wish wish I thee in every place.
 
 *Exit with Longaville, Dumaine, and Attendants.*
 
 **BOYET.**
-Lady, I will commend you to mine own heart.
+==176== Lady, I will commend you to mine own heart.
 
 **ROS.**
-Pray you, do my commendations—I would be glad to see it.
+==177== Pray you, do my commendations—I would be glad to see it.
 
 **BOYET.**
-I would you heard it groan.
+==178== I would you heard it groan.
 
 **ROS.**
-Is the fool sick?
+==179== Is the fool sick?
 
 **BOYET.**
-Sick at the heart.
+==180== Sick at the heart.
 
 **ROS.**
-Alack, let it blood.
+==181== Alack, let it blood.
 
 **BOYET.**
-Would that do it good?
+==182== Would that do it good?
 
 **ROS.**
-My physic says ay.
+==183== My physic says ay.
 
 **BOYET.**
-Will you prick’t with your eye?
+==184== Will you prick’t with your eye?
 
 **ROS.**
-No point, with my knife.
+==185== No point, with my knife.
 
 **BOYET.**
-Now God save thy life!
+==186== Now God save thy life!
 
 **ROS.**
-And yours from long living!
+==187== And yours from long living!
 
 **BER.**
-I cannot stay thanksgiving.
+==188== I cannot stay thanksgiving.
 
 *Exit.*
 
 *Enter Dumaine.*
 
 **DUM.**
-Sir, I pray you a word. What lady is that same?
+==189== Sir, I pray you a word. What lady is that same?
 
 **BOYET.**
-The heir of Alanson, Katherine her name.
+==190== The heir of Alanson, Katherine her name.
 
 **DUM.**
-A gallant lady. *Monsieur*, fare you well.
+==191== A gallant lady. *Monsieur*, fare you well.
 
 *Exit.*
 
 *Enter Longaville.*
 
 **LONG.**
-I beseech you a word. What is she in the white?
+==192== I beseech you a word. What is she in the white?
 
 **BOYET.**
-A woman sometimes, and you saw her in the light.
+==193== A woman sometimes, and you saw her in the light.
 
 **LONG.**
-Perchance light in the light. I desire her name.
+==194== Perchance light in the light. I desire her name.
 
 **BOYET.**
-She hath but one for herself, to desire that were a shame.
+==195== She hath but one for herself, to desire that were a shame.
 
 **LONG.**
-Pray you, sir, whose daughter?
+==196== Pray you, sir, whose daughter?
 
 **BOYET.**
-Her mother’s, I have heard.
+==197== Her mother’s, I have heard.
 
 **LONG.**
-God’s blessing on your beard!
+==198== God’s blessing on your beard!
 
 **BOYET.**
-Good sir, be not offended,
-She is an heir of Falconbridge.
+==199== Good sir, be not offended,
+==200== She is an heir of Falconbridge.
 
 **LONG.**
-Nay, my choler is ended.
-She is a most sweet lady.
+==201== Nay, my choler is ended.
+==202== She is a most sweet lady.
 
 **BOYET.**
-Not unlike, sir, that may be.
+==203== Not unlike, sir, that may be.
 
 *Exit Longaville.*
 
 *Enter Berowne.*
 
 **BER.**
-What’s her name in the cap?
+==204== What’s her name in the cap?
 
 **BOYET.**
-Rosaline, by good hap.
+==205== Rosaline, by good hap.
 
 **BER.**
-Is she wedded or no?
+==206== Is she wedded or no?
 
 **BOYET.**
-To her will, sir, or so.
+==207== To her will, sir, or so.
 
 **BER.**
-O, you are welcome, sir, *adieu*.
+==208== O, you are welcome, sir, *adieu*.
 
 **BOYET.**
-Farewell to me, sir, and welcome to you.
+==209== Farewell to me, sir, and welcome to you.
 
 *Exit Berowne.*
 
 **MAR.**
-That last is Berowne, the merry madcap lord.
-Not a word with him but a jest.
+==210== That last is Berowne, the merry madcap lord.
+==211== Not a word with him but a jest.
 
 **BOYET.**
-                And every jest but a word.
+==211==                 And every jest but a word.
 
 **PRIN.**
-It was well done of you to take him at his word.
+==212== It was well done of you to take him at his word.
 
 **BOYET.**
-I was as willing to grapple as he was to board.
+==213== I was as willing to grapple as he was to board.
 
 **KATH.**
-Two hot sheeps, marry.
+==214== Two hot sheeps, marry.
 
 **BOYET.**
-           And wherefore not ships?
-No sheep, sweet lamb, unless we feed on your lips.
+==214==            And wherefore not ships?
+==215== No sheep, sweet lamb, unless we feed on your lips.
 
 **KATH.**
-You sheep, and I pasture: shall that finish the jest?
+==216== You sheep, and I pasture: shall that finish the jest?
 
 **BOYET.**
-So you grant pasture for me.
+==217== So you grant pasture for me.
 
 *Offering to kiss her.*
 
 **KATH.**
-                Not so, gentle beast.
-My lips are no common, though several they be.
+==217==                 Not so, gentle beast.
+==218== My lips are no common, though several they be.
 
 **BOYET.**
-Belonging to whom?
+==219== Belonging to whom?
 
 **KATH.**
-           To my fortunes and me.
+==219==            To my fortunes and me.
 
 **PRIN.**
-Good wits will be jangling, but, gentles, agree:
-This civil war of wits were much better used
-On Navarre and his book-men, for here ’tis abused.
+==220== Good wits will be jangling, but, gentles, agree:
+==221== This civil war of wits were much better used
+==222== On Navarre and his book-men, for here ’tis abused.
 
 **BOYET.**
-If my observation (which very seldom lies),
-By the heart’s still rhetoric, disclosed with eyes,
-Deceive me not now, Navarre is infected.
+==223== If my observation (which very seldom lies),
+==224== By the heart’s still rhetoric, disclosed with eyes,
+==225== Deceive me not now, Navarre is infected.
 
 **PRIN.**
-With what?
+==226== With what?
 
 **BOYET.**
-With that which we lovers entitle “affected.”
+==227== With that which we lovers entitle “affected.”
 
 **PRIN.**
-Your reason?
+==228== Your reason?
 
 **BOYET.**
-Why, all his behaviors did make their retire
-To the court of his eye, peeping thorough desire:
-His heart like an agot with your print impressed,
-Proud with his form, in his eye pride expressed;
-His tongue, all impatient to speak and not see,
-Did stumble with haste in his eyesight to be;
-All senses to that sense did make their repair,
-To feel only looking on fairest of fair:
-Methought all his senses were lock’d in his eye,
-As jewels in crystal for some prince to buy,
-Who tend’ring their own worth from where they were glass’d,
-Did point you to buy them, along as you pass’d;
-His face’s own margent did quote such amazes
-That all eyes saw his eyes enchanted with gazes.
-I’ll give you Aquitaine and all that is his,
-And you give him for my sake but one loving kiss.
+==229== Why, all his behaviors did make their retire
+==230== To the court of his eye, peeping thorough desire:
+==231== His heart like an agot with your print impressed,
+==232== Proud with his form, in his eye pride expressed;
+==233== His tongue, all impatient to speak and not see,
+==234== Did stumble with haste in his eyesight to be;
+==235== All senses to that sense did make their repair,
+==236== To feel only looking on fairest of fair:
+==237== Methought all his senses were lock’d in his eye,
+==238== As jewels in crystal for some prince to buy,
+==239== Who tend’ring their own worth from where they were glass’d,
+==240== Did point you to buy them, along as you pass’d;
+==241== His face’s own margent did quote such amazes
+==242== That all eyes saw his eyes enchanted with gazes.
+==243== I’ll give you Aquitaine and all that is his,
+==244== And you give him for my sake but one loving kiss.
 
 **PRIN.**
-Come to our pavilion—Boyet is dispos’d.
+==245== Come to our pavilion—Boyet is dispos’d.
 
 **BOYET.**
-But to speak that in words which his eye hath disclos’d.
-I only have made a mouth of his eye,
-By adding a tongue which I know will not lie.
+==246== But to speak that in words which his eye hath disclos’d.
+==247== I only have made a mouth of his eye,
+==248== By adding a tongue which I know will not lie.
 
 **MAR.**
-Thou art an old love-monger and speakest skillfully.
+==249== Thou art an old love-monger and speakest skillfully.
 
 **KATH.**
-He is Cupid’s grandfather, and learns news of him.
+==250== He is Cupid’s grandfather, and learns news of him.
 
 **ROS.**
-Then was Venus like her mother, for her father is but grim.
+==251== Then was Venus like her mother, for her father is but grim.
 
 **BOYET.**
-Do you hear, my mad wenches?
+==252== Do you hear, my mad wenches?
 
 **MAR.**
-                  No.
+==252==                   No.
 
 **BOYET.**
-                     What then, do you see?
+==252==                      What then, do you see?
 
 **MAR.**
-Ay, our way to be gone.
+==253== Ay, our way to be gone.
 
 **BOYET.**
-              You are too hard for me.
+==253==               You are too hard for me.
 
 *Exeunt omnes.*
 

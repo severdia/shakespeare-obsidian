@@ -20,232 +20,232 @@ ID: macbeth-3-1
 *Enter Banquo.*
 
 **BAN.**
-Thou hast it now: King, Cawdor, Glamis, all,
-As the weird women promis’d, and I fear
-Thou play’dst most foully for’t; yet it was said
-It should not stand in thy posterity,
-But that myself should be the root and father
-Of many kings. If there come truth from them⁠—
-As upon thee, Macbeth, their speeches shine⁠—
-Why, by the verities on thee made good,
-May they not be my oracles as well,
-And set me up in hope? But hush, no more.
+==1== Thou hast it now: King, Cawdor, Glamis, all,
+==2== As the weird women promis’d, and I fear
+==3== Thou play’dst most foully for’t; yet it was said
+==4== It should not stand in thy posterity,
+==5== But that myself should be the root and father
+==6== Of many kings. If there come truth from them⁠—
+==7== As upon thee, Macbeth, their speeches shine⁠—
+==8== Why, by the verities on thee made good,
+==9== May they not be my oracles as well,
+==10== And set me up in hope? But hush, no more.
 
 *Sennet sounded. Enter Macbeth as King, Lady Macbeth as Queen, Lennox, Rosse, Lords, and Attendants.*
 
 **K. MACB.**
-Here’s our chief guest.
+==11== Here’s our chief guest.
 
 **QUEEN. MACB.**
-           If he had been forgotten,
-It had been as a gap in our great feast,
-And all-thing unbecoming.
+==11==            If he had been forgotten,
+==12== It had been as a gap in our great feast,
+==13== And all-thing unbecoming.
 
 **K. MACB.**
-Tonight we hold a solemn supper, sir,
-And I’ll request your presence.
+==14== Tonight we hold a solemn supper, sir,
+==15== And I’ll request your presence.
 
 **BAN.**
-                Let your Highness
-Command upon me, to the which my duties
-Are with a most indissoluble tie
-Forever knit.
+==15==                 Let your Highness
+==16== Command upon me, to the which my duties
+==17== Are with a most indissoluble tie
+==18== Forever knit.
 
 **K. MACB.**
-Ride you this afternoon?
+==19== Ride you this afternoon?
 
 **BAN.**
-              Ay, my good lord.
+==19==               Ay, my good lord.
 
 **K. MACB.**
-We should have else desir’d your good advice
-(Which still hath been both grave and prosperous) 
-In this day’s council; but we’ll take tomorrow.
-Is’t far you ride?
+==20== We should have else desir’d your good advice
+==21== (Which still hath been both grave and prosperous) 
+==22== In this day’s council; but we’ll take tomorrow.
+==23== Is’t far you ride?
 
 **BAN.**
-As far, my lord, as will fill up the time
-’Twixt this and supper. Go not my horse the better,
-I must become a borrower of the night
-For a dark hour or twain.
+==24== As far, my lord, as will fill up the time
+==25== ’Twixt this and supper. Go not my horse the better,
+==26== I must become a borrower of the night
+==27== For a dark hour or twain.
 
 **K. MACB.**
-              Fail not our feast.
+==27==               Fail not our feast.
 
 **BAN.**
-My lord, I will not.
+==28== My lord, I will not.
 
 **K. MACB.**
-We hear our bloody cousins are bestow’d
-In England and in Ireland, not confessing
-Their cruel parricide, filling their hearers
-With strange invention. But of that tomorrow,
-When therewithal we shall have cause of state
-Craving us jointly. Hie you to horse; *adieu*,
-Till you return at night. Goes Fleance with you?
+==29== We hear our bloody cousins are bestow’d
+==30== In England and in Ireland, not confessing
+==31== Their cruel parricide, filling their hearers
+==32== With strange invention. But of that tomorrow,
+==33== When therewithal we shall have cause of state
+==34== Craving us jointly. Hie you to horse; *adieu*,
+==35== Till you return at night. Goes Fleance with you?
 
 **BAN.**
-Ay, my good lord. Our time does call upon’s.
+==36== Ay, my good lord. Our time does call upon’s.
 
 **K. MACB.**
-I wish your horses swift and sure of foot;
-And so I do commend you to their backs.
-Farewell.
+==37== I wish your horses swift and sure of foot;
+==38== And so I do commend you to their backs.
+==39== Farewell.
 *(Exit Banquo.)*
-Let every man be master of his time
-Till seven at night. To make society
-The sweeter welcome, we will keep ourself
-Till supper-time alone; while then, God be with you!
+==40== Let every man be master of his time
+==41== Till seven at night. To make society
+==42== The sweeter welcome, we will keep ourself
+==43== Till supper-time alone; while then, God be with you!
 *(Exeunt Lords with Lady Macbeth and others. Manent Macbeth and a Servant.)*
-Sirrah, a word with you. Attend those men
-Our pleasure?
+==44== Sirrah, a word with you. Attend those men
+==45== Our pleasure?
 
 **SERV.**
-They are, my lord, without the palace gate.
+==46== They are, my lord, without the palace gate.
 
 **K. MACB.**
-Bring them before us.
+==47== Bring them before us.
 *(Exit Servant.)*
-           To be thus is nothing,
-But to be safely thus. Our fears in Banquo
-Stick deep, and in his royalty of nature
-Reigns that which would be fear’d. ’Tis much he dares,
-And to that dauntless temper of his mind,
-He hath a wisdom that doth guide his valor
-To act in safety. There is none but he
-Whose being I do fear; and under him
-My Genius is rebuk’d, as it is said
-Mark Antony’s was by Caesar. He chid the sisters
-When first they put the name of king upon me,
-And bade them speak to him; then prophet-like
-They hail’d him father to a line of kings.
-Upon my head they plac’d a fruitless crown,
-And put a barren scepter in my gripe,
-Thence to be wrench’d with an unlineal hand,
-No son of mine succeeding. If’t be so,
-For Banquo’s issue have I fil’d my mind,
-For them the gracious Duncan have I murder’d,
-Put rancors in the vessel of my peace
-Only for them, and mine eternal jewel
-Given to the common enemy of man,
-To make them kings—the seeds of Banquo kings!
-Rather than so, come fate into the list,
-And champion me to th’ utterance! Who’s there?
+==47==            To be thus is nothing,
+==48== But to be safely thus. Our fears in Banquo
+==49== Stick deep, and in his royalty of nature
+==50== Reigns that which would be fear’d. ’Tis much he dares,
+==51== And to that dauntless temper of his mind,
+==52== He hath a wisdom that doth guide his valor
+==53== To act in safety. There is none but he
+==54== Whose being I do fear; and under him
+==55== My Genius is rebuk’d, as it is said
+==56== Mark Antony’s was by Caesar. He chid the sisters
+==57== When first they put the name of king upon me,
+==58== And bade them speak to him; then prophet-like
+==59== They hail’d him father to a line of kings.
+==60== Upon my head they plac’d a fruitless crown,
+==61== And put a barren scepter in my gripe,
+==62== Thence to be wrench’d with an unlineal hand,
+==63== No son of mine succeeding. If’t be so,
+==64== For Banquo’s issue have I fil’d my mind,
+==65== For them the gracious Duncan have I murder’d,
+==66== Put rancors in the vessel of my peace
+==67== Only for them, and mine eternal jewel
+==68== Given to the common enemy of man,
+==69== To make them kings—the seeds of Banquo kings!
+==70== Rather than so, come fate into the list,
+==71== And champion me to th’ utterance! Who’s there?
 *(Enter Servant and two Murderers.)*
-Now go to the door, and stay there till we call.
+==72== Now go to the door, and stay there till we call.
 *(Exit Servant.)*
-Was it not yesterday we spoke together?
+==73== Was it not yesterday we spoke together?
 
 **BOTH 1. MUR. AND 2. MUR.**
-It was, so please your Highness.
+==74== It was, so please your Highness.
 
 **K. MACB.**
-                  Well then, now
-Have you consider’d of my speeches?—know
-That it was he in the times past which held you
-So under fortune, which you thought had been
-Our innocent self? This I made good to you
-In our last conference, pass’d in probation with you:
-How you were borne in hand, how cross’d, the instruments,
-Who wrought with them, and all things else that might
-To half a soul and to a notion craz’d
-Say, “Thus did Banquo.”
+==74==                   Well then, now
+==75== Have you consider’d of my speeches?—know
+==76== That it was he in the times past which held you
+==77== So under fortune, which you thought had been
+==78== Our innocent self? This I made good to you
+==79== In our last conference, pass’d in probation with you:
+==80== How you were borne in hand, how cross’d, the instruments,
+==81== Who wrought with them, and all things else that might
+==82== To half a soul and to a notion craz’d
+==83== Say, “Thus did Banquo.”
 
 **1. MUR.**
-              You made it known to us.
+==83==               You made it known to us.
 
 **K. MACB.**
-I did so; and went further, which is now
-Our point of second meeting. Do you find
-Your patience so predominant in your nature
-That you can let this go? Are you so gospell’d,
-To pray for this good man, and for his issue,
-Whose heavy hand hath bow’d you to the grave,
-And beggar’d yours forever?
+==84== I did so; and went further, which is now
+==85== Our point of second meeting. Do you find
+==86== Your patience so predominant in your nature
+==87== That you can let this go? Are you so gospell’d,
+==88== To pray for this good man, and for his issue,
+==89== Whose heavy hand hath bow’d you to the grave,
+==90== And beggar’d yours forever?
 
 **1. MUR.**
-                We are men, my liege.
+==90==                 We are men, my liege.
 
 **K. MACB.**
-Ay, in the catalogue ye go for men,
-As hounds and greyhounds, mongrels, spaniels, curs,
-Shoughs, water-rugs, and demi-wolves are clipt
-All by the name of dogs; the valued file
-Distinguishes the swift, the slow, the subtle,
-The house-keeper, the hunter, every one,
-According to the gift which bounteous nature
-Hath in him clos’d; whereby he does receive
-Particular addition, from the bill
-That writes them all alike: and so of men.
-Now, if you have a station in the file,
-Not i’ th’ worst rank of manhood, say’t,
-And I will put that business in your bosoms,
-Whose execution takes your enemy off,
-Grapples you to the heart and love of us,
-Who wear our health but sickly in his life,
-Which in his death were perfect.
+==91== Ay, in the catalogue ye go for men,
+==92== As hounds and greyhounds, mongrels, spaniels, curs,
+==93== Shoughs, water-rugs, and demi-wolves are clipt
+==94== All by the name of dogs; the valued file
+==95== Distinguishes the swift, the slow, the subtle,
+==96== The house-keeper, the hunter, every one,
+==97== According to the gift which bounteous nature
+==98== Hath in him clos’d; whereby he does receive
+==99== Particular addition, from the bill
+==100== That writes them all alike: and so of men.
+==101== Now, if you have a station in the file,
+==102== Not i’ th’ worst rank of manhood, say’t,
+==103== And I will put that business in your bosoms,
+==104== Whose execution takes your enemy off,
+==105== Grapples you to the heart and love of us,
+==106== Who wear our health but sickly in his life,
+==107== Which in his death were perfect.
 
 **2. MUR.**
-                  I am one, my liege,
-Whom the vile blows and buffets of the world
-Hath so incens’d that I am reckless what
-I do to spite the world.
+==107==                   I am one, my liege,
+==108== Whom the vile blows and buffets of the world
+==109== Hath so incens’d that I am reckless what
+==110== I do to spite the world.
 
 **1. MUR.**
-              And I another,
-So weary with disasters, tugg’d with fortune,
-That I would set my life on any chance,
-To mend it, or be rid on’t.
+==110==               And I another,
+==111== So weary with disasters, tugg’d with fortune,
+==112== That I would set my life on any chance,
+==113== To mend it, or be rid on’t.
 
 **K. MACB.**
-              Both of you
-Know Banquo was your enemy.
+==113==               Both of you
+==114== Know Banquo was your enemy.
 
 **BOTH 1. MUR. AND 2. MUR.**
-                  True, my lord.
+==114==                   True, my lord.
 
 **K. MACB.**
-So is he mine; and in such bloody distance,
-That every minute of his being thrusts
-Against my near’st of life; and though I could
-With barefac’d power sweep him from my sight,
-And bid my will avouch it, yet I must not,
-For certain friends that are both his and mine,
-Whose loves I may not drop, but wail his fall
-Who I myself struck down. And thence it is
-That I to your assistance do make love,
-Masking the business from the common eye
-For sundry weighty reasons.
+==115== So is he mine; and in such bloody distance,
+==116== That every minute of his being thrusts
+==117== Against my near’st of life; and though I could
+==118== With barefac’d power sweep him from my sight,
+==119== And bid my will avouch it, yet I must not,
+==120== For certain friends that are both his and mine,
+==121== Whose loves I may not drop, but wail his fall
+==122== Who I myself struck down. And thence it is
+==123== That I to your assistance do make love,
+==124== Masking the business from the common eye
+==125== For sundry weighty reasons.
 
 **2. MUR.**
-                We shall, my lord,
-Perform what you command us.
+==125==                 We shall, my lord,
+==126== Perform what you command us.
 
 **1. MUR.**
-                  Though our lives⁠—
+==126==                   Though our lives⁠—
 
 **K. MACB.**
-Your spirits shine through you. Within this hour, at most,
-I will advise you where to plant yourselves,
-Acquaint you with the perfect spy o’ th’ time,
-The moment on’t, for’t must be done tonight,
-And something from the palace; always thought
-That I require a clearness: and with him⁠—
-To leave no rubs nor botches in the work⁠—
-Fleance his son, that keeps him company,
-Whose absence is no less material to me
-Than is his father’s, must embrace the fate
-Of that dark hour. Resolve yourselves apart,
-I’ll come to you anon.
+==127== Your spirits shine through you. Within this hour, at most,
+==128== I will advise you where to plant yourselves,
+==129== Acquaint you with the perfect spy o’ th’ time,
+==130== The moment on’t, for’t must be done tonight,
+==131== And something from the palace; always thought
+==132== That I require a clearness: and with him⁠—
+==133== To leave no rubs nor botches in the work⁠—
+==134== Fleance his son, that keeps him company,
+==135== Whose absence is no less material to me
+==136== Than is his father’s, must embrace the fate
+==137== Of that dark hour. Resolve yourselves apart,
+==138== I’ll come to you anon.
 
 **BOTH 1. MUR. AND 2. MUR.**
-           We are resolv’d, my lord.
+==138==            We are resolv’d, my lord.
 
 **K. MACB.**
-I’ll call upon you straight; abide within.
+==139== I’ll call upon you straight; abide within.
 *(Exeunt Murderers.)*
-It is concluded: Banquo, thy soul’s flight,
-If it find heaven, must find it out tonight.
+==140== It is concluded: Banquo, thy soul’s flight,
+==141== If it find heaven, must find it out tonight.
 
 *Exit.*
 

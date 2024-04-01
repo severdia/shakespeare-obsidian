@@ -21,829 +21,829 @@ ID: othello-5-2
 *Enter Othello with a light and Desdemona in her bed asleep.*
 
 **OTH.**
-It is the cause, it is the cause, my soul;
-Let me not name it to you, you chaste stars,
-It is the cause. Yet I’ll not shed her blood,
-Nor scar that whiter skin of hers than snow,
-And smooth as monumental alabaster.
-Yet she must die, else she’ll betray more men.
-Put out the light, and then put out the light:
-If I quench thee, thou flaming minister,
-I can again thy former light restore,
-Should I repent me; but once put out thy light,
-Thou cunning’st pattern of excelling nature,
-I know not where is that Promethean heat
-That can thy light relume. When I have pluck’d thy rose,
-I cannot give it vital growth again,
-It needs must wither. I’ll smell thee on the tree.
+==1== It is the cause, it is the cause, my soul;
+==2== Let me not name it to you, you chaste stars,
+==3== It is the cause. Yet I’ll not shed her blood,
+==4== Nor scar that whiter skin of hers than snow,
+==5== And smooth as monumental alabaster.
+==6== Yet she must die, else she’ll betray more men.
+==7== Put out the light, and then put out the light:
+==8== If I quench thee, thou flaming minister,
+==9== I can again thy former light restore,
+==10== Should I repent me; but once put out thy light,
+==11== Thou cunning’st pattern of excelling nature,
+==12== I know not where is that Promethean heat
+==13== That can thy light relume. When I have pluck’d thy rose,
+==14== I cannot give it vital growth again,
+==15== It needs must wither. I’ll smell thee on the tree.
 *(Kisses her.)*
-O balmy breath, that dost almost persuade
-Justice to break her sword! One more, one more.
-Be thus when thou art dead, and I will kill thee
-And love thee after. One more, and that’s the last.
-So sweet was ne’er so fatal. I must weep,
-But they are cruel tears. This sorrow’s heavenly,
-It strikes where it doth love. She wakes.
+==16== O balmy breath, that dost almost persuade
+==17== Justice to break her sword! One more, one more.
+==18== Be thus when thou art dead, and I will kill thee
+==19== And love thee after. One more, and that’s the last.
+==20== So sweet was ne’er so fatal. I must weep,
+==21== But they are cruel tears. This sorrow’s heavenly,
+==22== It strikes where it doth love. She wakes.
 
 **DES.**
-Who’s there? Othello?
+==23== Who’s there? Othello?
 
 **OTH.**
-              Ay, Desdemona.
+==23==               Ay, Desdemona.
 
 **DES.**
-Will you come to bed, my lord?
+==24== Will you come to bed, my lord?
 
 **OTH.**
-Have you pray’d tonight, Desdemon?
+==25== Have you pray’d tonight, Desdemon?
 
 **DES.**
-                     Ay, my lord.
+==25==                      Ay, my lord.
 
 **OTH.**
-If you bethink yourself of any crime
-Unreconcil’d as yet to heaven and grace,
-Solicit for it straight.
+==26== If you bethink yourself of any crime
+==27== Unreconcil’d as yet to heaven and grace,
+==28== Solicit for it straight.
 
 **DES.**
-Alack, my lord, what may you mean by that?
+==29== Alack, my lord, what may you mean by that?
 
 **OTH.**
-Well, do it, and be brief, I will walk by.
-I would not kill thy unprepared spirit,
-No, heaven forfend! I would not kill thy soul.
+==30== Well, do it, and be brief, I will walk by.
+==31== I would not kill thy unprepared spirit,
+==32== No, heaven forfend! I would not kill thy soul.
 
 **DES.**
-Talk you of killing?
+==33== Talk you of killing?
 
 **OTH.**
-           Ay, I do.
+==33==            Ay, I do.
 
 **DES.**
-                  Then heaven
-Have mercy on me!
+==33==                   Then heaven
+==34== Have mercy on me!
 
 **OTH.**
-           Amen, with all my heart!
+==34==            Amen, with all my heart!
 
 **DES.**
-If you say so, I hope you will not kill me.
+==35== If you say so, I hope you will not kill me.
 
 **OTH.**
-Humh!
+==36== Humh!
 
 **DES.**
-And yet I fear you; for you’re fatal then
-When your eyes roll so. Why I should fear I know not,
-Since guiltiness I know not; but yet I feel I fear.
+==37== And yet I fear you; for you’re fatal then
+==38== When your eyes roll so. Why I should fear I know not,
+==39== Since guiltiness I know not; but yet I feel I fear.
 
 **OTH.**
-Think on thy sins.
+==40== Think on thy sins.
 
 **DES.**
-           They are loves I bear to you.
+==40==            They are loves I bear to you.
 
 **OTH.**
-Ay, and for that thou di’st.
+==41== Ay, and for that thou di’st.
 
 **DES.**
-That death’s unnatural that kills for loving.
-Alas, why gnaw you so your nether lip?
-Some bloody passion shakes your very frame.
-These are portents; but yet I hope, I hope,
-They do not point on me.
+==42== That death’s unnatural that kills for loving.
+==43== Alas, why gnaw you so your nether lip?
+==44== Some bloody passion shakes your very frame.
+==45== These are portents; but yet I hope, I hope,
+==46== They do not point on me.
 
 **OTH.**
-              Peace, and be still!
+==46==               Peace, and be still!
 
 **DES.**
-I will so. What’s the matter?
+==47== I will so. What’s the matter?
 
 **OTH.**
-That handkerchief which I so lov’d, and gave thee,
-Thou gav’st to Cassio.
+==48== That handkerchief which I so lov’d, and gave thee,
+==49== Thou gav’st to Cassio.
 
 **DES.**
-              No, by my life and soul!
-Send for the man, and ask him.
+==49==               No, by my life and soul!
+==50== Send for the man, and ask him.
 
 **OTH.**
-                Sweet soul, take heed,
-Take heed of perjury, thou art on thy death-bed.
+==50==                 Sweet soul, take heed,
+==51== Take heed of perjury, thou art on thy death-bed.
 
 **DES.**
-Ay, but not yet to die.
+==52== Ay, but not yet to die.
 
 **OTH.**
-              Yes, presently:
-Therefore confess thee freely of thy sin;
-For to deny each article with oath
-Cannot remove nor choke the strong conception
-That I do groan withal. Thou art to die.
+==52==               Yes, presently:
+==53== Therefore confess thee freely of thy sin;
+==54== For to deny each article with oath
+==55== Cannot remove nor choke the strong conception
+==56== That I do groan withal. Thou art to die.
 
 **DES.**
-Then Lord have mercy on me!
+==57== Then Lord have mercy on me!
 
 **OTH.**
-                  I say, amen.
+==57==                   I say, amen.
 
 **DES.**
-And have you mercy too! I never did
-Offend you in my life; never lov’d Cassio
-But with such general warranty of heaven
-As I might love. I never gave him token.
+==58== And have you mercy too! I never did
+==59== Offend you in my life; never lov’d Cassio
+==60== But with such general warranty of heaven
+==61== As I might love. I never gave him token.
 
 **OTH.**
-By heaven, I saw my handkerchief in ’s hand.
-O perjur’d woman, thou dost stone my heart,
-And mak’st me call what I intend to do
-A murder, which I thought a sacrifice.
-I saw the handkerchief.
+==62== By heaven, I saw my handkerchief in ’s hand.
+==63== O perjur’d woman, thou dost stone my heart,
+==64== And mak’st me call what I intend to do
+==65== A murder, which I thought a sacrifice.
+==66== I saw the handkerchief.
 
 **DES.**
-              He found it then;
-I never gave it him. Send for him hither;
-Let him confess a truth.
+==66==               He found it then;
+==67== I never gave it him. Send for him hither;
+==68== Let him confess a truth.
 
 **OTH.**
-              He hath confess’d.
+==68==               He hath confess’d.
 
 **DES.**
-What, my lord?
+==69== What, my lord?
 
 **OTH.**
-That he hath us’d thee.
+==70== That he hath us’d thee.
 
 **DES.**
-              How? Unlawfully?
+==70==               How? Unlawfully?
 
 **OTH.**
-                         Ay.
+==70==                          Ay.
 
 **DES.**
-He will not say so.
+==71== He will not say so.
 
 **OTH.**
-           No—his mouth is stopp’d;
-Honest Iago hath ta’en order for’t.
+==71==            No—his mouth is stopp’d;
+==72== Honest Iago hath ta’en order for’t.
 
 **DES.**
-O, my fear interprets. What, is he dead?
+==73== O, my fear interprets. What, is he dead?
 
 **OTH.**
-Had all his hairs been lives, my great revenge
-Had stomach for them all.
+==74== Had all his hairs been lives, my great revenge
+==75== Had stomach for them all.
 
 **DES.**
-Alas, he is betray’d and I undone!
+==76== Alas, he is betray’d and I undone!
 
 **OTH.**
-Out, strumpet! Weep’st thou for him to my face?
+==77== Out, strumpet! Weep’st thou for him to my face?
 
 **DES.**
-O, banish me, my lord, but kill me not!
+==78== O, banish me, my lord, but kill me not!
 
 **OTH.**
-Down, strumpet!d
+==79== Down, strumpet!d
 
 **DES.**
-Kill me tomorrow, let me live tonight!
+==80== Kill me tomorrow, let me live tonight!
 
 **OTH.**
-Nay, an’ you strive⁠—
+==81== Nay, an’ you strive⁠—
 
 **DES.**
-But half an hour!
+==82== But half an hour!
 
 **OTH.**
-           Being done, there is no pause.
+==82==            Being done, there is no pause.
 
 **DES.**
-But while I say one prayer!
+==83== But while I say one prayer!
 
 **OTH.**
-                It is too late.
+==83==                 It is too late.
 
 *Smothers her.*
 
 **DES.**
-O Lord, Lord, Lord!
+==84== O Lord, Lord, Lord!
 
 **EMIL.**
 *(At the door, within.)*
-My lord, my lord!
-What ho! My lord, my lord!
+==85== My lord, my lord!
+==86== What ho! My lord, my lord!
 
 **OTH.**
-What noise is this? Not dead? Not yet quite dead?
-I that am cruel am yet merciful,
-I would not have thee linger in thy pain.
-So, so.
+==87== What noise is this? Not dead? Not yet quite dead?
+==88== I that am cruel am yet merciful,
+==89== I would not have thee linger in thy pain.
+==90== So, so.
 
 **EMIL.**
 *(Within.)*
-    What ho! My lord, my lord!
+==90==     What ho! My lord, my lord!
 
 **OTH.**
-                  Who’s there?
+==90==                   Who’s there?
 
 **EMIL.**
 *(Within.)*
-O, good my lord, I would speak a word with you!
+==91== O, good my lord, I would speak a word with you!
 
 **OTH.**
-Yes.—’Tis Emilia.—By and by.—She’s dead.
-’Tis like she comes to speak of Cassio’s death;
-The noise was high. Hah, no more moving?
-Still as the grave. Shall she come in? Were’t good?
-I think she stirs again. No. What’s best to do?
-If she come in, she’ll sure speak to my wife.
-My wife, my wife! What wife? I have no wife.
-O insupportable! O heavy hour!
-Methinks it should be now a huge eclipse
-Of sun and moon, and that th’ affrighted globe
-Did yawn at alteration.
+==92== Yes.—’Tis Emilia.—By and by.—She’s dead.
+==93== ’Tis like she comes to speak of Cassio’s death;
+==94== The noise was high. Hah, no more moving?
+==95== Still as the grave. Shall she come in? Were’t good?
+==96== I think she stirs again. No. What’s best to do?
+==97== If she come in, she’ll sure speak to my wife.
+==98== My wife, my wife! What wife? I have no wife.
+==99== O insupportable! O heavy hour!
+==100== Methinks it should be now a huge eclipse
+==101== Of sun and moon, and that th’ affrighted globe
+==102== Did yawn at alteration.
 
 **EMIL.**
 *(Within.)*
-              I do beseech you
-That I may speak with you. O, good my lord!
+==102==               I do beseech you
+==103== That I may speak with you. O, good my lord!
 
 **OTH.**
-I had forgot thee. O, come in, Emilia.⁠—
-Soft, by and by, let me the curtains draw.⁠—
-Where art thou?
+==104== I had forgot thee. O, come in, Emilia.⁠—
+==105== Soft, by and by, let me the curtains draw.⁠—
+==106== Where art thou?
 *(Unlocks the door.)*
 *(Enter Emilia.)*
-        What’s the matter with thee now?
+==106==         What’s the matter with thee now?
 
 **EMIL.**
-O, my good lord, yonder’s foul murders done!
+==107== O, my good lord, yonder’s foul murders done!
 
 **OTH.**
-What? Now?
+==108== What? Now?
 
 **EMIL.**
-But now, my lord.
+==109== But now, my lord.
 
 **OTH.**
-It is the very error of the moon,
-She comes more nearer earth than she was wont,
-And makes men mad.
+==110== It is the very error of the moon,
+==111== She comes more nearer earth than she was wont,
+==112== And makes men mad.
 
 **EMIL.**
-Cassio, my lord, hath kill’d a young Venetian
-Call’d Roderigo.
+==113== Cassio, my lord, hath kill’d a young Venetian
+==114== Call’d Roderigo.
 
 **OTH.**
-        Roderigo kill’d?
-And Cassio kill’d?
+==114==         Roderigo kill’d?
+==115== And Cassio kill’d?
 
 **EMIL.**
-                No, Cassio is not kill’d.
+==115==                 No, Cassio is not kill’d.
 
 **OTH.**
-Not Cassio kill’d? Then murder’s out of tune,
-And sweet revenge grows harsh.
+==116== Not Cassio kill’d? Then murder’s out of tune,
+==117== And sweet revenge grows harsh.
 
 **DES.**
-O, falsely, falsely murder’d!
+==118== O, falsely, falsely murder’d!
 
 **EMIL.**
-              O Lord, what cry is that?
+==118==               O Lord, what cry is that?
 
 **OTH.**
-That? What?
+==119== That? What?
 
 **EMIL.**
-Out, and alas, that was my lady’s voice.
-Help, help, ho, help! O lady, speak again!
-Sweet Desdemona, O sweet mistress, speak!
+==120== Out, and alas, that was my lady’s voice.
+==121== Help, help, ho, help! O lady, speak again!
+==122== Sweet Desdemona, O sweet mistress, speak!
 
 **DES.**
-A guiltless death I die.
+==123== A guiltless death I die.
 
 **EMIL.**
-O, who hath done this deed?
+==124== O, who hath done this deed?
 
 **DES.**
-Nobody; I myself. Farewell!
-Commend me to my kind lord. O, farewell!
+==125== Nobody; I myself. Farewell!
+==126== Commend me to my kind lord. O, farewell!
 
 *Dies.*
 
 **OTH.**
-Why, how should she be murd’red?
+==127== Why, how should she be murd’red?
 
 **EMIL.**
-                  Alas! Who knows?
+==127==                   Alas! Who knows?
 
 **OTH.**
-You heard her say herself, it was not I.
+==128== You heard her say herself, it was not I.
 
 **EMIL.**
-She said so; I must needs report the truth.
+==129== She said so; I must needs report the truth.
 
 **OTH.**
-She’s like a liar gone to burning hell:
-’Twas I that kill’d her.
+==130== She’s like a liar gone to burning hell:
+==131== ’Twas I that kill’d her.
 
 **EMIL.**
-           O, the more angel she,
-And you the blacker devil!
+==131==            O, the more angel she,
+==132== And you the blacker devil!
 
 **OTH.**
-She turn’d to folly, and she was a whore.
+==133== She turn’d to folly, and she was a whore.
 
 **EMIL.**
-Thou dost belie her, and thou art a devil.
+==134== Thou dost belie her, and thou art a devil.
 
 **OTH.**
-She was false as water.
+==135== She was false as water.
 
 **EMIL.**
-           Thou art rash as fire to say
-That she was false. O, she was heavenly true!
+==135==            Thou art rash as fire to say
+==136== That she was false. O, she was heavenly true!
 
 **OTH.**
-Cassio did top her; ask thy husband else.
-O, I were damn’d beneath all depth in hell
-But that I did proceed upon just grounds
-To this extremity. Thy husband knew it all.
+==137== Cassio did top her; ask thy husband else.
+==138== O, I were damn’d beneath all depth in hell
+==139== But that I did proceed upon just grounds
+==140== To this extremity. Thy husband knew it all.
 
 **EMIL.**
-My husband?
+==141== My husband?
 
 **OTH.**
-Thy husband.
+==142== Thy husband.
 
 **EMIL.**
-That she was false to wedlock?
+==143== That she was false to wedlock?
 
 **OTH.**
-Ay, with Cassio. Nay, had she been true,
-If heaven would make me such another world
-Of one entire and perfect chrysolite,
-I’ld not have sold her for it.
+==144== Ay, with Cassio. Nay, had she been true,
+==145== If heaven would make me such another world
+==146== Of one entire and perfect chrysolite,
+==147== I’ld not have sold her for it.
 
 **EMIL.**
-                My husband?
+==147==                 My husband?
 
 **OTH.**
-Ay, ’twas he that told me on her first.
-An honest man he is, and hates the slime
-That sticks on filthy deeds.
+==148== Ay, ’twas he that told me on her first.
+==149== An honest man he is, and hates the slime
+==150== That sticks on filthy deeds.
 
 **EMIL.**
-                  My husband?
+==150==                   My husband?
 
 **OTH.**
-What needs this iterance, woman? I say thy husband.
+==151== What needs this iterance, woman? I say thy husband.
 
 **EMIL.**
-O mistress, villainy hath made mocks with love!
-My husband say she was false?
+==152== O mistress, villainy hath made mocks with love!
+==153== My husband say she was false?
 
 **OTH.**
-                  He, woman:
-I say thy husband; dost understand the word?
-My friend, thy husband, honest, honest Iago.
+==153==                   He, woman:
+==154== I say thy husband; dost understand the word?
+==155== My friend, thy husband, honest, honest Iago.
 
 **EMIL.**
-If he say so, may his pernicious soul
-Rot half a grain a day! He lies to th’ heart.
-She was too fond of her most filthy bargain.
+==156== If he say so, may his pernicious soul
+==157== Rot half a grain a day! He lies to th’ heart.
+==158== She was too fond of her most filthy bargain.
 
 **OTH.**
-Hah?
+==159== Hah?
 
 **EMIL.**
-Do thy worst!
-This deed of thine is no more worthy heaven
-Than thou wast worthy her.
+==160== Do thy worst!
+==161== This deed of thine is no more worthy heaven
+==162== Than thou wast worthy her.
 
 **OTH.**
-              Peace, you were best.
+==162==               Peace, you were best.
 
 **EMIL.**
-Thou hast not half that pow’r to do me harm
-As I have to be hurt. O gull, O dolt,
-As ignorant as dirt! Thou hast done a deed⁠—
-I care not for thy sword, I’ll make thee known,
-Though I lost twenty lives. Help, help, ho, help!
-The Moor hath kill’d my mistress! Murder, murder!
+==163== Thou hast not half that pow’r to do me harm
+==164== As I have to be hurt. O gull, O dolt,
+==165== As ignorant as dirt! Thou hast done a deed⁠—
+==166== I care not for thy sword, I’ll make thee known,
+==167== Though I lost twenty lives. Help, help, ho, help!
+==168== The Moor hath kill’d my mistress! Murder, murder!
 
 *Enter Montano, Gratiano, and Iago, with others.*
 
 **MON.**
-What is the matter? How now, general?
+==169== What is the matter? How now, general?
 
 **EMIL.**
-O, are you come, Iago? You have done well,
-That men must lay their murders on your neck.
+==170== O, are you come, Iago? You have done well,
+==171== That men must lay their murders on your neck.
 
 **GRA.**
-What is the matter?
+==172== What is the matter?
 
 **EMIL.**
-Disprove this villain, if thou be’st a man.
-He says thou toldst him that his wife was false.
-I know thou didst not; thou’rt not such a villain.
-Speak, for my heart is full.
+==173== Disprove this villain, if thou be’st a man.
+==174== He says thou toldst him that his wife was false.
+==175== I know thou didst not; thou’rt not such a villain.
+==176== Speak, for my heart is full.
 
 **IAGO.**
-I told him what I thought, and told no more
-Than what he found himself was apt and true.
+==177== I told him what I thought, and told no more
+==178== Than what he found himself was apt and true.
 
 **EMIL.**
-But did you ever tell him she was false?
+==179== But did you ever tell him she was false?
 
 **IAGO.**
-I did.
+==180== I did.
 
 **EMIL.**
-You told a lie, an odious, damned lie;
-Upon my soul, a lie, a wicked lie.
-She false with Cassio? Did you say with Cassio?
+==181== You told a lie, an odious, damned lie;
+==182== Upon my soul, a lie, a wicked lie.
+==183== She false with Cassio? Did you say with Cassio?
 
 **IAGO.**
-With Cassio, mistress. Go to, charm your tongue.
+==184== With Cassio, mistress. Go to, charm your tongue.
 
 **EMIL.**
-I will not charm my tongue; I am bound to speak.
-My mistress here lies murdered in her bed⁠—
+==185== I will not charm my tongue; I am bound to speak.
+==186== My mistress here lies murdered in her bed⁠—
 
 **ALL.**
-O heavens forfend!
+==187== O heavens forfend!
 
 **EMIL.**
-And your reports have set the murder on.
+==188== And your reports have set the murder on.
 
 **OTH.**
-Nay, stare not, masters, it is true indeed.
+==189== Nay, stare not, masters, it is true indeed.
 
 **GRA.**
-’Tis a strange truth.
+==190== ’Tis a strange truth.
 
 **MON.**
-O monstrous act!
+==191== O monstrous act!
 
 **EMIL.**
-           Villainy, villainy, villainy!
-I think upon’t, I think—I smell’t—O villainy!
-I thought so then—I’ll kill myself for grief⁠—
-O villainy! Villainy!
+==191==            Villainy, villainy, villainy!
+==192== I think upon’t, I think—I smell’t—O villainy!
+==193== I thought so then—I’ll kill myself for grief⁠—
+==194== O villainy! Villainy!
 
 **IAGO.**
-What, are you mad? I charge you get you home.
+==195== What, are you mad? I charge you get you home.
 
 **EMIL.**
-Good gentlemen, let me have leave to speak.
-’Tis proper I obey him; but not now.
-Perchance, Iago, I will ne’er go home.
+==196== Good gentlemen, let me have leave to speak.
+==197== ’Tis proper I obey him; but not now.
+==198== Perchance, Iago, I will ne’er go home.
 
 **OTH.**
-O, O, O!
+==199== O, O, O!
 
 *Othello falls on the bed.*
 
 **EMIL.**
-        Nay, lay thee down and roar;
-For thou hast kill’d the sweetest innocent
-That e’er did lift up eye.
+==199==         Nay, lay thee down and roar;
+==200== For thou hast kill’d the sweetest innocent
+==201== That e’er did lift up eye.
 
 **OTH.**
 *(Rising.)*
-              O, she was foul!
-I scarce did know you, uncle; there lies your niece,
-Whose breath, indeed, these hands have newly stopp’d.
-I know this act shows horrible and grim.
+==201==               O, she was foul!
+==202== I scarce did know you, uncle; there lies your niece,
+==203== Whose breath, indeed, these hands have newly stopp’d.
+==204== I know this act shows horrible and grim.
 
 **GRA.**
-Poor Desdemon! I am glad thy father’s dead.
-Thy match was mortal to him, and pure grief
-Shore his old thread in twain. Did he live now,
-This sight would make him do a desperate turn,
-Yea, curse his better angel from his side,
-And fall to reprobance.
+==205== Poor Desdemon! I am glad thy father’s dead.
+==206== Thy match was mortal to him, and pure grief
+==207== Shore his old thread in twain. Did he live now,
+==208== This sight would make him do a desperate turn,
+==209== Yea, curse his better angel from his side,
+==210== And fall to reprobance.
 
 **OTH.**
-’Tis pitiful; but yet Iago knows
-That she with Cassio hath the act of shame
-A thousand times committed. Cassio confess’d it,
-And she did gratify his amorous works
-With that recognizance and pledge of love
-Which I first gave her. I saw it in his hand;
-It was a handkerchief, an antique token
-My father gave my mother.
+==211== ’Tis pitiful; but yet Iago knows
+==212== That she with Cassio hath the act of shame
+==213== A thousand times committed. Cassio confess’d it,
+==214== And she did gratify his amorous works
+==215== With that recognizance and pledge of love
+==216== Which I first gave her. I saw it in his hand;
+==217== It was a handkerchief, an antique token
+==218== My father gave my mother.
 
 **EMIL.**
-O God! O heavenly God!
+==219== O God! O heavenly God!
 
 **IAGO.**
-’Zounds, hold your peace.
+==220== ’Zounds, hold your peace.
 
 **EMIL.**
-              ’Twill out, ’twill out! I peace?
-No, I will speak as liberal as the north:
-Let heaven and men and devils, let them all,
-All, all, cry shame against me, yet I’ll speak.
+==220==               ’Twill out, ’twill out! I peace?
+==221== No, I will speak as liberal as the north:
+==222== Let heaven and men and devils, let them all,
+==223== All, all, cry shame against me, yet I’ll speak.
 
 **IAGO.**
-Be wise, and get you home.
+==224== Be wise, and get you home.
 
 **EMIL.**
-                  I will not.
+==224==                   I will not.
 
 *Iago offers to stab Emilia.*
 
 **GRA.**
-                         Fie,
-Your sword upon a woman?
+==224==                          Fie,
+==225== Your sword upon a woman?
 
 **EMIL.**
-O thou dull Moor, that handkerchief thou speak’st of
-I found by fortune, and did give my husband;
-For often, with a solemn earnestness
-(More than indeed belong’d to such a trifle),
-He begg’d of me to steal’t.
+==226== O thou dull Moor, that handkerchief thou speak’st of
+==227== I found by fortune, and did give my husband;
+==228== For often, with a solemn earnestness
+==229== (More than indeed belong’d to such a trifle),
+==230== He begg’d of me to steal’t.
 
 **IAGO.**
-              Villainous whore!
+==230==               Villainous whore!
 
 **EMIL.**
-She give it Cassio? No, alas, I found it,
-And I did give’t my husband.
+==231== She give it Cassio? No, alas, I found it,
+==232== And I did give’t my husband.
 
 **IAGO.**
-                Filth, thou liest!
+==232==                 Filth, thou liest!
 
 **EMIL.**
-By heaven, I do not, I do not, gentlemen.
-O murd’rous coxcomb, what should such a fool
-Do with so good a wife?
+==233== By heaven, I do not, I do not, gentlemen.
+==234== O murd’rous coxcomb, what should such a fool
+==235== Do with so good a wife?
 
 **OTH.**
-              Are there no stones in heaven
-But what serves for the thunder?—Precious villain!
+==235==               Are there no stones in heaven
+==236== But what serves for the thunder?—Precious villain!
 
 *The Moor runs at Iago; Montano disarms Othello.*
 
 *Iago kills his wife.*
 
 **GRA.**
-The woman falls; sure he hath kill’d his wife.
+==237== The woman falls; sure he hath kill’d his wife.
 
 **EMIL.**
-Ay, ay! O, lay me by my mistress’ side.
+==238== Ay, ay! O, lay me by my mistress’ side.
 
 *Exit Iago.*
 
 **GRA.**
-He’s gone, but his wife’s kill’d.
+==239== He’s gone, but his wife’s kill’d.
 
 **MON.**
-’Tis a notorious villain. Take you this weapon
-Which I have here recover’d from the Moor.
-Come guard the door without; let him not pass,
-But kill him rather. I’ll after that same villain,
-For ’tis a damned slave.
+==240== ’Tis a notorious villain. Take you this weapon
+==241== Which I have here recover’d from the Moor.
+==242== Come guard the door without; let him not pass,
+==243== But kill him rather. I’ll after that same villain,
+==244== For ’tis a damned slave.
 
 *Exit with all but Othello and Emilia.*
 
 **OTH.**
-              I am not valiant neither,
-But every puny whipster gets my sword.
-But why should honor outlive honesty?
-Let it go all.
+==244==               I am not valiant neither,
+==245== But every puny whipster gets my sword.
+==246== But why should honor outlive honesty?
+==247== Let it go all.
 
 **EMIL.**
-        What did thy song bode, lady?
-Hark, canst thou hear me? I will play the swan,
-And die in music.
+==247==         What did thy song bode, lady?
+==248== Hark, canst thou hear me? I will play the swan,
+==249== And die in music.
 *(Sings.)*
-*Willow, willow, willow.*
-Moor, she was chaste; she lov’d thee, cruel Moor;
-So come my soul to bliss, as I speak true;
-So speaking as I think, alas, I die.
+==250== *Willow, willow, willow.*
+==251== Moor, she was chaste; she lov’d thee, cruel Moor;
+==252== So come my soul to bliss, as I speak true;
+==253== So speaking as I think, alas, I die.
 
 *Dies.*
 
 **OTH.**
-I have another weapon in this chamber;
-It was a sword of Spain, the ice-brook’s temper⁠—
-O, here it is. Uncle, I must come forth.
+==254== I have another weapon in this chamber;
+==255== It was a sword of Spain, the ice-brook’s temper⁠—
+==256== O, here it is. Uncle, I must come forth.
 
 **GRA.**
 *(Within.)*
-If thou attempt it, it will cost thee dear:
-Thou hast no weapon, and perforce must suffer.
+==257== If thou attempt it, it will cost thee dear:
+==258== Thou hast no weapon, and perforce must suffer.
 
 **OTH.**
-Look in upon me then and speak with me,
-Or naked as I am I will assault thee.
+==259== Look in upon me then and speak with me,
+==260== Or naked as I am I will assault thee.
 
 *Enter Gratiano.*
 
 **GRA.**
-What is the matter?
+==261== What is the matter?
 
 **OTH.**
-           Behold, I have a weapon;
-A better never did itself sustain
-Upon a soldier’s thigh. I have seen the day
-That with this little arm, and this good sword,
-I have made my way through more impediments
-Than twenty times your stop. But (O vain boast!) 
-Who can control his fate? ’Tis not so now.
-Be not afraid though you do see me weapon’d;
-Here is my journey’s end, here is my butt
-And very sea-mark of my utmost sail.
-Do you go back dismay’d? ’Tis a lost fear;
-Man but a rush against Othello’s breast,
-And he retires. Where should Othello go?
-Now—how dost thou look now? O ill-starr’d wench,
-Pale as thy smock! When we shall meet at compt,
-This look of thine will hurl my soul from heaven,
-And fiends will snatch at it. Cold, cold, my girl?
-Even like thy chastity. O cursed, cursed slave!
-Whip me, ye devils,
-From the possession of this heavenly sight!
-Blow me about in winds! Roast me in sulphur!
-Wash me in steep-down gulfs of liquid fire!
-O Desdemon! Dead, Desdemon! Dead!
-O, O!
+==261==            Behold, I have a weapon;
+==262== A better never did itself sustain
+==263== Upon a soldier’s thigh. I have seen the day
+==264== That with this little arm, and this good sword,
+==265== I have made my way through more impediments
+==266== Than twenty times your stop. But (O vain boast!) 
+==267== Who can control his fate? ’Tis not so now.
+==268== Be not afraid though you do see me weapon’d;
+==269== Here is my journey’s end, here is my butt
+==270== And very sea-mark of my utmost sail.
+==271== Do you go back dismay’d? ’Tis a lost fear;
+==272== Man but a rush against Othello’s breast,
+==273== And he retires. Where should Othello go?
+==274== Now—how dost thou look now? O ill-starr’d wench,
+==275== Pale as thy smock! When we shall meet at compt,
+==276== This look of thine will hurl my soul from heaven,
+==277== And fiends will snatch at it. Cold, cold, my girl?
+==278== Even like thy chastity. O cursed, cursed slave!
+==279== Whip me, ye devils,
+==280== From the possession of this heavenly sight!
+==281== Blow me about in winds! Roast me in sulphur!
+==282== Wash me in steep-down gulfs of liquid fire!
+==283== O Desdemon! Dead, Desdemon! Dead!
+==284== O, O!
 
 *Enter Lodovico, Cassio in a chair, Montano, and Iago guarded, with Officers.*
 
 **LOD.**
-Where is this rash and most unfortunate man?
+==285== Where is this rash and most unfortunate man?
 
 **OTH.**
-That’s he that was Othello; here I am.
+==286== That’s he that was Othello; here I am.
 
 **LOD.**
-Where is that viper? Bring the villain forth.
+==287== Where is that viper? Bring the villain forth.
 
 **OTH.**
-I look down towards his feet; but that’s a fable.
-If that thou be’st a devil, I cannot kill thee.
+==288== I look down towards his feet; but that’s a fable.
+==289== If that thou be’st a devil, I cannot kill thee.
 
 *Wounds Iago.*
 
 **LOD.**
-Wrench his sword from him.
+==290== Wrench his sword from him.
 
 **IAGO.**
-              I bleed, sir, but not kill’d.
+==290==               I bleed, sir, but not kill’d.
 
 **OTH.**
-I am not sorry neither, I’ld have thee live;
-For in my sense, ’tis happiness to die.
+==291== I am not sorry neither, I’ld have thee live;
+==292== For in my sense, ’tis happiness to die.
 
 **LOD.**
-O thou Othello, that was once so good,
-Fall’n in the practice of a damned slave,
-What shall be said to thee?
+==293== O thou Othello, that was once so good,
+==294== Fall’n in the practice of a damned slave,
+==295== What shall be said to thee?
 
 **OTH.**
-              Why, any thing:
-An honorable murderer, if you will;
-For nought I did in hate, but all in honor.
+==295==               Why, any thing:
+==296== An honorable murderer, if you will;
+==297== For nought I did in hate, but all in honor.
 
 **LOD.**
-This wretch hath part confess’d his villainy.
-Did you and he consent in Cassio’s death?
+==298== This wretch hath part confess’d his villainy.
+==299== Did you and he consent in Cassio’s death?
 
 **OTH.**
-Ay.
+==300== Ay.
 
 **CAS.**
-Dear general, I never gave you cause.
+==301== Dear general, I never gave you cause.
 
 **OTH.**
-I do believe it, and I ask your pardon.
-Will you, I pray, demand that demi-devil
-Why he hath thus ensnar’d my soul and body?
+==302== I do believe it, and I ask your pardon.
+==303== Will you, I pray, demand that demi-devil
+==304== Why he hath thus ensnar’d my soul and body?
 
 **IAGO.**
-Demand me nothing; what you know, you know:
-From this time forth I never will speak word.
+==305== Demand me nothing; what you know, you know:
+==306== From this time forth I never will speak word.
 
 **LOD.**
-What? Not to pray?
+==307== What? Not to pray?
 
 **GRA.**
-           Torments will ope your lips.
+==307==            Torments will ope your lips.
 
 **OTH.**
-Well, thou dost best.
+==308== Well, thou dost best.
 
 **LOD.**
-Sir, you shall understand what hath befall’n,
-Which, as I think, you know not. Here is a letter
-Found in the pocket of the slain Roderigo,
-And here another. The one of them imports
-The death of Cassio to be undertook
-By Roderigo.
+==309== Sir, you shall understand what hath befall’n,
+==310== Which, as I think, you know not. Here is a letter
+==311== Found in the pocket of the slain Roderigo,
+==312== And here another. The one of them imports
+==313== The death of Cassio to be undertook
+==314== By Roderigo.
 
 **OTH.**
-O villain!
+==315== O villain!
 
 **CAS.**
-        Most heathenish and most gross!
+==315==         Most heathenish and most gross!
 
 **LOD.**
-Now here’s another discontented paper,
-Found in his pocket too; and this it seems
-Roderigo meant t’ have sent this damned villain;
-But that, belike, Iago in the nick
-Came in and satisfied him.
+==316== Now here’s another discontented paper,
+==317== Found in his pocket too; and this it seems
+==318== Roderigo meant t’ have sent this damned villain;
+==319== But that, belike, Iago in the nick
+==320== Came in and satisfied him.
 
 **OTH.**
-              O thou pernicious caitiff!⁠—
-How came you, Cassio, by that handkerchief
-That was my wive’s?
+==320==               O thou pernicious caitiff!⁠—
+==321== How came you, Cassio, by that handkerchief
+==322== That was my wive’s?
 
 **CAS.**
-           I found it in my chamber:
-And he himself confess’d it but even now,
-That there he dropp’d it for a special purpose
-Which wrought to his desire.
+==322==            I found it in my chamber:
+==323== And he himself confess’d it but even now,
+==324== That there he dropp’d it for a special purpose
+==325== Which wrought to his desire.
 
 **OTH.**
-                O fool, fool, fool!
+==325==                 O fool, fool, fool!
 
 **CAS.**
-There is besides, in Roderigo’s letter,
-How he upbraids Iago, that he made him
-Brave me upon the watch, whereon it came
-That I was cast; and even but now he spake
-(After long seeming dead) Iago hurt him,
-Iago set him on.
+==326== There is besides, in Roderigo’s letter,
+==327== How he upbraids Iago, that he made him
+==328== Brave me upon the watch, whereon it came
+==329== That I was cast; and even but now he spake
+==330== (After long seeming dead) Iago hurt him,
+==331== Iago set him on.
 
 **LOD.**
-You must forsake this room and go with us.
-Your power and your command is taken off,
-And Cassio rules in Cyprus. For this slave,
-If there be any cunning cruelty
-That can torment him much, and hold him long,
-It shall be his. You shall close prisoner rest,
-Till that the nature of your fault be known
-To the Venetian state. Come, bring away.
+==332== You must forsake this room and go with us.
+==333== Your power and your command is taken off,
+==334== And Cassio rules in Cyprus. For this slave,
+==335== If there be any cunning cruelty
+==336== That can torment him much, and hold him long,
+==337== It shall be his. You shall close prisoner rest,
+==338== Till that the nature of your fault be known
+==339== To the Venetian state. Come, bring away.
 
 **OTH.**
-Soft you; a word or two before you go.
-I have done the state some service, and they know’t⁠—
-No more of that. I pray you, in your letters,
-When you shall these unlucky deeds relate,
-Speak of me as I am; nothing extenuate,
-Nor set down aught in malice. Then must you speak
-Of one that lov’d not wisely but too well;
-Of one not easily jealous, but being wrought,
-Perplexed in the extreme; of one whose hand
-(Like the base Indian) threw a pearl away
-Richer than all his tribe; of one whose subdu’d eyes,
-Albeit unused to the melting mood,
-Drops tears as fast as the Arabian trees
-Their medicinable gum. Set you down this;
-And say besides, that in Aleppo once,
-Where a malignant and a turban’d Turk
-Beat a Venetian and traduc’d the state,
-I took by th’ throat the circumcised dog,
-And smote him—thus.
+==340== Soft you; a word or two before you go.
+==341== I have done the state some service, and they know’t⁠—
+==342== No more of that. I pray you, in your letters,
+==343== When you shall these unlucky deeds relate,
+==344== Speak of me as I am; nothing extenuate,
+==345== Nor set down aught in malice. Then must you speak
+==346== Of one that lov’d not wisely but too well;
+==347== Of one not easily jealous, but being wrought,
+==348== Perplexed in the extreme; of one whose hand
+==349== (Like the base Indian) threw a pearl away
+==350== Richer than all his tribe; of one whose subdu’d eyes,
+==351== Albeit unused to the melting mood,
+==352== Drops tears as fast as the Arabian trees
+==353== Their medicinable gum. Set you down this;
+==354== And say besides, that in Aleppo once,
+==355== Where a malignant and a turban’d Turk
+==356== Beat a Venetian and traduc’d the state,
+==357== I took by th’ throat the circumcised dog,
+==358== And smote him—thus.
 
 *He stabs himself.*
 
 **LOD.**
-O bloody period!
+==359== O bloody period!
 
 **GRA.**
-           All that is spoke is marr’d.
+==359==            All that is spoke is marr’d.
 
 **OTH.**
-I kiss’d thee ere I kill’d thee. No way but this,
-Killing myself, to die upon a kiss.
+==360== I kiss’d thee ere I kill’d thee. No way but this,
+==361== Killing myself, to die upon a kiss.
 
 *Falls on the bed and dies.*
 
 **CAS.**
-This did I fear, but thought he had no weapon;
-For he was great of heart.
+==362== This did I fear, but thought he had no weapon;
+==363== For he was great of heart.
 
 **LOD.**
 *(To Iago.)*
-              O Spartan dog,
-More fell than anguish, hunger, or the sea!
-Look on the tragic loading of this bed;
-This is thy work. The object poisons sight,
-Let it be hid. Gratiano, keep the house,
-And seize upon the fortunes of the Moor,
-For they succeed on you. To you, Lord Governor,
-Remains the censure of this hellish villain,
-The time, the place, the torture, O, enforce it!
-Myself will straight aboard, and to the state
-This heavy act with heavy heart relate.
+==363==               O Spartan dog,
+==364== More fell than anguish, hunger, or the sea!
+==365== Look on the tragic loading of this bed;
+==366== This is thy work. The object poisons sight,
+==367== Let it be hid. Gratiano, keep the house,
+==368== And seize upon the fortunes of the Moor,
+==369== For they succeed on you. To you, Lord Governor,
+==370== Remains the censure of this hellish villain,
+==371== The time, the place, the torture, O, enforce it!
+==372== Myself will straight aboard, and to the state
+==373== This heavy act with heavy heart relate.
 
 *Exeunt.*
 

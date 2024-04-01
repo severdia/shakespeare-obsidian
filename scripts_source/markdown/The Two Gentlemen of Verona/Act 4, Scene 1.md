@@ -19,156 +19,156 @@ ID: two-gentlemen-of-verona-4-1
 *Enter Valentine, Speed, and certain Outlaws.*
 
 **1. OUT.**
-Fellows, stand fast; I see a passenger.
+==1== Fellows, stand fast; I see a passenger.
 
 **2. OUT.**
-If there be ten, shrink not, but down with ’em.
+==2== If there be ten, shrink not, but down with ’em.
 
 **3. OUT.**
-Stand, sir, and throw us that you have about ye.
-If not, we’ll make you sit, and rifle you.
+==3== Stand, sir, and throw us that you have about ye.
+==4== If not, we’ll make you sit, and rifle you.
 
 **SPEED.**
-Sir, we are undone; these are the villains
-That all the travelers do fear so much.
+==5== Sir, we are undone; these are the villains
+==6== That all the travelers do fear so much.
 
 **VAL.**
-My friends⁠—
+==7== My friends⁠—
 
 **1. OUT.**
-That’s not so, sir; we are your enemies.
+==8== That’s not so, sir; we are your enemies.
 
 **2. OUT.**
-Peace! We’ll hear him.
+==9== Peace! We’ll hear him.
 
 **3. OUT.**
-Ay, by my beard, will we, for he is a proper man.
+==10== Ay, by my beard, will we, for he is a proper man.
 
 **VAL.**
-Then know that I have little wealth to lose.
-A man I am cross’d with adversity;
-My riches are these poor habiliments,
-Of which if you should here disfurnish me,
-You take the sum and substance that I have.
+==11== Then know that I have little wealth to lose.
+==12== A man I am cross’d with adversity;
+==13== My riches are these poor habiliments,
+==14== Of which if you should here disfurnish me,
+==15== You take the sum and substance that I have.
 
 **2. OUT.**
-Whither travel you?
+==16== Whither travel you?
 
 **VAL.**
-To Verona.
+==17== To Verona.
 
 **1. OUT.**
-Whence came you?
+==18== Whence came you?
 
 **VAL.**
-From Milan.
+==19== From Milan.
 
 **3. OUT.**
-Have you long sojourn’d there?
+==20== Have you long sojourn’d there?
 
 **VAL.**
-Some sixteen months, and longer might have stay’d,
-If crooked fortune had not thwarted me.
+==21== Some sixteen months, and longer might have stay’d,
+==22== If crooked fortune had not thwarted me.
 
 **1. OUT.**
-What, were you banish’d thence?
+==23== What, were you banish’d thence?
 
 **VAL.**
-I was.
+==24== I was.
 
 **2. OUT.**
-For what offense?
+==25== For what offense?
 
 **VAL.**
-For that which now torments me to rehearse:
-I kill’d a man, whose death I much repent,
-But yet I slew him manfully in fight,
-Without false vantage, or base treachery.
+==26== For that which now torments me to rehearse:
+==27== I kill’d a man, whose death I much repent,
+==28== But yet I slew him manfully in fight,
+==29== Without false vantage, or base treachery.
 
 **1. OUT.**
-Why, ne’er repent it, if it were done so.
-But were you banish’d for so small a fault?
+==30== Why, ne’er repent it, if it were done so.
+==31== But were you banish’d for so small a fault?
 
 **VAL.**
-I was, and held me glad of such a doom.
+==32== I was, and held me glad of such a doom.
 
 **2. OUT.**
-Have you the tongues?
+==33== Have you the tongues?
 
 **VAL.**
-My youthful travel therein made me happy,
-Or else I often had been miserable.
+==34== My youthful travel therein made me happy,
+==35== Or else I often had been miserable.
 
 **3. OUT.**
-By the bare scalp of Robin Hood’s fat friar,
-This fellow were a king for our wild faction!
+==36== By the bare scalp of Robin Hood’s fat friar,
+==37== This fellow were a king for our wild faction!
 
 **1. OUT.**
-We’ll have him. Sirs, a word.
+==38== We’ll have him. Sirs, a word.
 
 **SPEED.**
-              Master, be one of them;
-It’s an honorable kind of thievery.
+==38==               Master, be one of them;
+==39== It’s an honorable kind of thievery.
 
 **VAL.**
-                  Peace, villain.
+==39==                   Peace, villain.
 
 **2. OUT.**
-Tell us this: have you any thing to take to?
+==40== Tell us this: have you any thing to take to?
 
 **VAL.**
-Nothing but my fortune.
+==41== Nothing but my fortune.
 
 **3. OUT.**
-Know then, that some of us are gentlemen,
-Such as the fury of ungovern’d youth
-Thrust from the company of awful men.
-Myself was from Verona banished
-For practicing to steal away a lady,
-An heir, and near allied unto the Duke.
+==42== Know then, that some of us are gentlemen,
+==43== Such as the fury of ungovern’d youth
+==44== Thrust from the company of awful men.
+==45== Myself was from Verona banished
+==46== For practicing to steal away a lady,
+==47== An heir, and near allied unto the Duke.
 
 **2. OUT.**
-And I from Mantua, for a gentleman,
-Who, in my mood, I stabb’d unto the heart.
+==48== And I from Mantua, for a gentleman,
+==49== Who, in my mood, I stabb’d unto the heart.
 
 **1. OUT.**
-And I for such like petty crimes as these.
-But to the purpose—for we cite our faults
-That they may hold excus’d our lawless lives;
-And partly, seeing you are beautified
-With goodly shape, and by your own report
-A linguist, and a man of such perfection
-As we do in our quality much want⁠—
+==50== And I for such like petty crimes as these.
+==51== But to the purpose—for we cite our faults
+==52== That they may hold excus’d our lawless lives;
+==53== And partly, seeing you are beautified
+==54== With goodly shape, and by your own report
+==55== A linguist, and a man of such perfection
+==56== As we do in our quality much want⁠—
 
 **2. OUT.**
-Indeed because you are a banish’d man,
-Therefore, above the rest, we parley to you:
-Are you content to be our general?
-To make a virtue of necessity
-And live as we do in this wilderness?
+==57== Indeed because you are a banish’d man,
+==58== Therefore, above the rest, we parley to you:
+==59== Are you content to be our general?
+==60== To make a virtue of necessity
+==61== And live as we do in this wilderness?
 
 **3. OUT.**
-What say’st thou? Wilt thou be of our consort?
-Say “ay” and be the captain of us all:
-We’ll do thee homage and be rul’d by thee,
-Love thee as our commander and our king.
+==62== What say’st thou? Wilt thou be of our consort?
+==63== Say “ay” and be the captain of us all:
+==64== We’ll do thee homage and be rul’d by thee,
+==65== Love thee as our commander and our king.
 
 **1. OUT.**
-But if thou scorn our courtesy, thou diest.
+==66== But if thou scorn our courtesy, thou diest.
 
 **2. OUT.**
-Thou shalt not live to brag what we have offer’d.
+==67== Thou shalt not live to brag what we have offer’d.
 
 **VAL.**
-I take your offer, and will live with you,
-Provided that you do no outrages
-On silly women or poor passengers.
+==68== I take your offer, and will live with you,
+==69== Provided that you do no outrages
+==70== On silly women or poor passengers.
 
 **3. OUT.**
-No, we detest such vile base practices.
-Come, go with us, we’ll bring thee to our crews,
-And show thee all the treasure we have got;
-Which, with ourselves, all rest at thy dispose.
+==71== No, we detest such vile base practices.
+==72== Come, go with us, we’ll bring thee to our crews,
+==73== And show thee all the treasure we have got;
+==74== Which, with ourselves, all rest at thy dispose.
 
 *Exeunt.*
 

@@ -21,64 +21,64 @@ ID: henry-iv-part-i-4-4
 *Enter Archbishop of York, Sir Michael.*
 
 **ARCH.**
-Hie, good Sir Michael, bear this sealed brief
-With winged haste to the Lord Marshal,
-This to my cousin Scroop, and all the rest
-To whom they are directed. If you knew
-How much they do import, you would make haste.
+==1== Hie, good Sir Michael, bear this sealed brief
+==2== With winged haste to the Lord Marshal,
+==3== This to my cousin Scroop, and all the rest
+==4== To whom they are directed. If you knew
+==5== How much they do import, you would make haste.
 
 **SIR M.**
-My good lord,
-I guess their tenor.
+==6== My good lord,
+==7== I guess their tenor.
 
 **ARCH.**
-           Like enough you do.
-Tomorrow, good Sir Michael, is a day
-Wherein the fortune of ten thousand men
-Must bide the touch; for, sir, at Shrewsbury,
-As I am truly given to understand,
-The King with mighty and quick-raised power
-Meets with Lord Harry; and I fear, Sir Michael,
-What with the sickness of Northumberland,
-Whose power was in the first proportion,
-And what with Owen Glendower’s absence thence,
-Who with them was a rated sinew too,
-And comes not in, overrul’d by prophecies,
-I fear the power of Percy is too weak
-To wage an instant trial with the King.
+==7==            Like enough you do.
+==8== Tomorrow, good Sir Michael, is a day
+==9== Wherein the fortune of ten thousand men
+==10== Must bide the touch; for, sir, at Shrewsbury,
+==11== As I am truly given to understand,
+==12== The King with mighty and quick-raised power
+==13== Meets with Lord Harry; and I fear, Sir Michael,
+==14== What with the sickness of Northumberland,
+==15== Whose power was in the first proportion,
+==16== And what with Owen Glendower’s absence thence,
+==17== Who with them was a rated sinew too,
+==18== And comes not in, overrul’d by prophecies,
+==19== I fear the power of Percy is too weak
+==20== To wage an instant trial with the King.
 
 **SIR M.**
-Why, my good lord, you need not fear,
-There is Douglas and Lord Mortimer.
+==21== Why, my good lord, you need not fear,
+==22== There is Douglas and Lord Mortimer.
 
 **ARCH.**
-No, Mortimer is not there.
+==23== No, Mortimer is not there.
 
 **SIR M.**
-But there is Mordake, Vernon, Lord Harry Percy,
-And there is my Lord of Worcester, and a head
-Of gallant warriors, noble gentlemen.
+==24== But there is Mordake, Vernon, Lord Harry Percy,
+==25== And there is my Lord of Worcester, and a head
+==26== Of gallant warriors, noble gentlemen.
 
 **ARCH.**
-And so there is; but yet the King hath drawn
-The special head of all the land together:
-The Prince of Wales, Lord John of Lancaster,
-The noble Westmorland, and warlike Blunt,
-And many more corrivals and dear men
-Of estimation and command in arms.
+==27== And so there is; but yet the King hath drawn
+==28== The special head of all the land together:
+==29== The Prince of Wales, Lord John of Lancaster,
+==30== The noble Westmorland, and warlike Blunt,
+==31== And many more corrivals and dear men
+==32== Of estimation and command in arms.
 
 **SIR M.**
-Doubt not, my lord, they shall be well oppos’d.
+==33== Doubt not, my lord, they shall be well oppos’d.
 
 **ARCH.**
-I hope no less, yet needful ’tis to fear,
-And to prevent the worst, Sir Michael, speed;
-For if Lord Percy thrive not, ere the King
-Dismiss his power he means to visit us,
-For he hath heard of our confederacy,
-And ’tis but wisdom to make strong against him.
-Therefore make haste. I must go write again
-To other friends, and so farewell, Sir Michael.
+==34== I hope no less, yet needful ’tis to fear,
+==35== And to prevent the worst, Sir Michael, speed;
+==36== For if Lord Percy thrive not, ere the King
+==37== Dismiss his power he means to visit us,
+==38== For he hath heard of our confederacy,
+==39== And ’tis but wisdom to make strong against him.
+==40== Therefore make haste. I must go write again
+==41== To other friends, and so farewell, Sir Michael.
 
 *Exeunt.*
 

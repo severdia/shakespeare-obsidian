@@ -20,26 +20,26 @@ ID: alls-well-that-ends-well-3-3
 *Flourish. Enter the Duke of Florence, Bertram Count of Roussillon, Drum and Trumpets, Soldiers, Parolles.*
 
 **DUKE.**
-The general of our horse thou art, and we,
-Great in our hope, lay our best love and credence
-Upon thy promising fortune.
+==1== The general of our horse thou art, and we,
+==2== Great in our hope, lay our best love and credence
+==3== Upon thy promising fortune.
 
 **BER.**
-                Sir, it is
-A charge too heavy for my strength, but yet
-We’ll strive to bear it for your worthy sake
-To th’ extreme edge of hazard.
+==3==                 Sir, it is
+==4== A charge too heavy for my strength, but yet
+==5== We’ll strive to bear it for your worthy sake
+==6== To th’ extreme edge of hazard.
 
 **DUKE.**
-                Then go thou forth,
-And Fortune play upon thy prosperous helm
-As thy auspicious mistress!
+==6==                 Then go thou forth,
+==7== And Fortune play upon thy prosperous helm
+==8== As thy auspicious mistress!
 
 **BER.**
-              This very day,
-Great Mars, I put myself into thy file;
-Make me but like my thoughts, and I shall prove
-A lover of thy drum, hater of love.
+==8==               This very day,
+==9== Great Mars, I put myself into thy file;
+==10== Make me but like my thoughts, and I shall prove
+==11== A lover of thy drum, hater of love.
 
 *Exeunt omnes.*
 

@@ -19,773 +19,773 @@ ID: winters-tale-1-2
 *Enter Leontes, Hermione, Mamillius, Polixenes, Camillo, and Attendants.*
 
 **POL.**
-Nine changes of the wat’ry star hath been
-The shepherd’s note since we have left our throne
-Without a burden. Time as long again
-Would be fill’d up, my brother, with our thanks,
-And yet we should, for perpetuity,
-Go hence in debt. And therefore, like a cipher
-(Yet standing in rich place), I multiply
-With one “We thank you” many thousands more
-That go before it.
+==1== Nine changes of the wat’ry star hath been
+==2== The shepherd’s note since we have left our throne
+==3== Without a burden. Time as long again
+==4== Would be fill’d up, my brother, with our thanks,
+==5== And yet we should, for perpetuity,
+==6== Go hence in debt. And therefore, like a cipher
+==7== (Yet standing in rich place), I multiply
+==8== With one “We thank you” many thousands more
+==9== That go before it.
 
 **LEON.**
-           Stay your thanks a while,
-And pay them when you part.
+==9==            Stay your thanks a while,
+==10== And pay them when you part.
 
 **POL.**
-                Sir, that’s tomorrow.
-I am question’d by my fears of what may chance
-Or breed upon our absence, that may blow
-No sneaping winds at home, to make us say,
-“This is put forth too truly.” Besides, I have stay’d
-To tire your royalty.
+==10==                 Sir, that’s tomorrow.
+==11== I am question’d by my fears of what may chance
+==12== Or breed upon our absence, that may blow
+==13== No sneaping winds at home, to make us say,
+==14== “This is put forth too truly.” Besides, I have stay’d
+==15== To tire your royalty.
 
 **LEON.**
-           We are tougher, brother,
-Than you can put us to’t.
+==15==            We are tougher, brother,
+==16== Than you can put us to’t.
 
 **POL.**
-              No longer stay.
+==16==               No longer stay.
 
 **LEON.**
-One sev’nnight longer.
+==17== One sev’nnight longer.
 
 **POL.**
-              Very sooth, tomorrow.
+==17==               Very sooth, tomorrow.
 
 **LEON.**
-We’ll part the time between ’s then; and in that
-I’ll no gainsaying.
+==18== We’ll part the time between ’s then; and in that
+==19== I’ll no gainsaying.
 
 **POL.**
-           Press me not, beseech you, so.
-There is no tongue that moves, none, none i’ th’ world,
-So soon as yours could win me. So it should now,
-Were there necessity in your request, although
-’Twere needful I denied it. My affairs
-Do even drag me homeward; which to hinder
-Were (in your love) a whip to me; my stay,
-To you a charge and trouble. To save both,
-Farewell, our brother.
+==19==            Press me not, beseech you, so.
+==20== There is no tongue that moves, none, none i’ th’ world,
+==21== So soon as yours could win me. So it should now,
+==22== Were there necessity in your request, although
+==23== ’Twere needful I denied it. My affairs
+==24== Do even drag me homeward; which to hinder
+==25== Were (in your love) a whip to me; my stay,
+==26== To you a charge and trouble. To save both,
+==27== Farewell, our brother.
 
 **LEON.**
-           Tongue-tied our queen? Speak you.
+==27==            Tongue-tied our queen? Speak you.
 
 **HER.**
-I had thought, sir, to have held my peace until
-You had drawn oaths from him not to stay. You, sir,
-Charge him too coldly. Tell him you are sure
-All in Bohemia’s well; this satisfaction
-The by-gone day proclaim’d. Say this to him,
-He’s beat from his best ward.
+==28== I had thought, sir, to have held my peace until
+==29== You had drawn oaths from him not to stay. You, sir,
+==30== Charge him too coldly. Tell him you are sure
+==31== All in Bohemia’s well; this satisfaction
+==32== The by-gone day proclaim’d. Say this to him,
+==33== He’s beat from his best ward.
 
 **LEON.**
-                Well said, Hermione.
+==33==                 Well said, Hermione.
 
 **HER.**
-To tell he longs to see his son were strong;
-But let him say so then, and let him go;
-But let him swear so, and he shall not stay,
-We’ll thwack him hence with distaffs.
-Yet of your royal presence I’ll adventure
-The borrow of a week. When at Bohemia
-You take my lord, I’ll give him my commission
-To let him there a month behind the gest
-Prefix’d for ’s parting; yet, good deed, Leontes,
-I love thee not a jar o’ th’ clock behind
-What lady she her lord. You’ll stay?
+==34== To tell he longs to see his son were strong;
+==35== But let him say so then, and let him go;
+==36== But let him swear so, and he shall not stay,
+==37== We’ll thwack him hence with distaffs.
+==38== Yet of your royal presence I’ll adventure
+==39== The borrow of a week. When at Bohemia
+==40== You take my lord, I’ll give him my commission
+==41== To let him there a month behind the gest
+==42== Prefix’d for ’s parting; yet, good deed, Leontes,
+==43== I love thee not a jar o’ th’ clock behind
+==44== What lady she her lord. You’ll stay?
 
 **POL.**
-                  No, madam.
+==44==                   No, madam.
 
 **HER.**
-Nay, but you will?
+==45== Nay, but you will?
 
 **POL.**
-           I may not, verily.
+==45==            I may not, verily.
 
 **HER.**
-Verily?
-You put me off with limber vows; but I,
-Though you would seek t’ unsphere the stars with oaths,
-Should yet say, “Sir, no going.” Verily,
-You shall not go; a lady’s “verily” is
-As potent as a lord’s. Will you go yet?
-Force me to keep you as a prisoner,
-Not like a guest: so you shall pay your fees
-When you depart, and save your thanks. How say you?
-My prisoner? Or my guest? By your dread “verily,”
-One of them you shall be.
+==46== Verily?
+==47== You put me off with limber vows; but I,
+==48== Though you would seek t’ unsphere the stars with oaths,
+==49== Should yet say, “Sir, no going.” Verily,
+==50== You shall not go; a lady’s “verily” is
+==51== As potent as a lord’s. Will you go yet?
+==52== Force me to keep you as a prisoner,
+==53== Not like a guest: so you shall pay your fees
+==54== When you depart, and save your thanks. How say you?
+==55== My prisoner? Or my guest? By your dread “verily,”
+==56== One of them you shall be.
 
 **POL.**
-              Your guest then, madam.
-To be your prisoner should import offending,
-Which is for me less easy to commit
-Than you to punish.
+==56==               Your guest then, madam.
+==57== To be your prisoner should import offending,
+==58== Which is for me less easy to commit
+==59== Than you to punish.
 
 **HER.**
-           Not your jailer then,
-But your kind hostess. Come, I’ll question you
-Of my lord’s tricks and yours when you were boys.
-You were pretty lordings then?
+==59==            Not your jailer then,
+==60== But your kind hostess. Come, I’ll question you
+==61== Of my lord’s tricks and yours when you were boys.
+==62== You were pretty lordings then?
 
 **POL.**
-                We were, fair queen,
-Two lads that thought there was no more behind
-But such a day tomorrow as today,
-And to be boy eternal.
+==62==                 We were, fair queen,
+==63== Two lads that thought there was no more behind
+==64== But such a day tomorrow as today,
+==65== And to be boy eternal.
 
 **HER.**
-              Was not my lord
-The verier wag o’ th’ two?
+==65==               Was not my lord
+==66== The verier wag o’ th’ two?
 
 **POL.**
-We were as twinn’d lambs that did frisk i’ th’ sun,
-And bleat the one at th’ other. What we chang’d
-Was innocence for innocence; we knew not
-The doctrine of ill-doing, nor dream’d
-That any did. Had we pursu’d that life,
-And our weak spirits ne’er been higher rear’d
-With stronger blood, we should have answer’d heaven
-Boldly, “Not guilty”; the imposition clear’d,
-Hereditary ours.
+==67== We were as twinn’d lambs that did frisk i’ th’ sun,
+==68== And bleat the one at th’ other. What we chang’d
+==69== Was innocence for innocence; we knew not
+==70== The doctrine of ill-doing, nor dream’d
+==71== That any did. Had we pursu’d that life,
+==72== And our weak spirits ne’er been higher rear’d
+==73== With stronger blood, we should have answer’d heaven
+==74== Boldly, “Not guilty”; the imposition clear’d,
+==75== Hereditary ours.
 
 **HER.**
-           By this we gather
-You have tripp’d since.
+==75==            By this we gather
+==76== You have tripp’d since.
 
 **POL.**
-              O my most sacred lady,
-Temptations have since then been born to ’s: for
-In those unfledg’d days was my wife a girl;
-Your precious self had then not cross’d the eyes
-Of my young playfellow.
+==76==               O my most sacred lady,
+==77== Temptations have since then been born to ’s: for
+==78== In those unfledg’d days was my wife a girl;
+==79== Your precious self had then not cross’d the eyes
+==80== Of my young playfellow.
 
 **HER.**
-              Grace to boot!
-Of this make no conclusion, lest you say
-Your queen and I are devils. Yet go on,
-Th’ offenses we have made you do we’ll answer,
-If you first sinn’d with us, and that with us
-You did continue fault, and that you slipp’d not
-With any but with us.
+==80==               Grace to boot!
+==81== Of this make no conclusion, lest you say
+==82== Your queen and I are devils. Yet go on,
+==83== Th’ offenses we have made you do we’ll answer,
+==84== If you first sinn’d with us, and that with us
+==85== You did continue fault, and that you slipp’d not
+==86== With any but with us.
 
 **LEON.**
-           Is he won yet?
+==86==            Is he won yet?
 
 **HER.**
-He’ll stay, my lord.
+==87== He’ll stay, my lord.
 
 **LEON.**
-           At my request he would not.
-Hermione, my dearest, thou never spok’st
-To better purpose.
+==87==            At my request he would not.
+==88== Hermione, my dearest, thou never spok’st
+==89== To better purpose.
 
 **HER.**
-           Never?
+==89==            Never?
 
 **LEON.**
-                Never, but once.
+==89==                 Never, but once.
 
 **HER.**
-What? Have I twice said well? When was’t before?
-I prithee tell me; cram ’s with praise, and make ’s
-As fat as tame things. One good deed dying tongueless
-Slaughters a thousand waiting upon that.
-Our praises are our wages. You may ride ’s
-With one soft kiss a thousand furlongs ere
-With spur we heat an acre. But to th’ goal:
-My last good deed was to entreat his stay;
-What was my first? It has an elder sister,
-Or I mistake you. O, would her name were Grace!
-But once before I spoke to th’ purpose? When?
-Nay, let me have’t; I long.
+==90== What? Have I twice said well? When was’t before?
+==91== I prithee tell me; cram ’s with praise, and make ’s
+==92== As fat as tame things. One good deed dying tongueless
+==93== Slaughters a thousand waiting upon that.
+==94== Our praises are our wages. You may ride ’s
+==95== With one soft kiss a thousand furlongs ere
+==96== With spur we heat an acre. But to th’ goal:
+==97== My last good deed was to entreat his stay;
+==98== What was my first? It has an elder sister,
+==99== Or I mistake you. O, would her name were Grace!
+==100== But once before I spoke to th’ purpose? When?
+==101== Nay, let me have’t; I long.
 
 **LEON.**
-              Why, that was when
-Three crabbed months had sour’d themselves to death,
-Ere I could make thee open thy white hand,
-And clap thyself my love; then didst thou utter,
-“I am yours forever.”
+==101==               Why, that was when
+==102== Three crabbed months had sour’d themselves to death,
+==103== Ere I could make thee open thy white hand,
+==104== And clap thyself my love; then didst thou utter,
+==105== “I am yours forever.”
 
 **HER.**
-              ’Tis Grace indeed.
-Why, lo you now! I have spoke to th’ purpose twice:
-The one forever earn’d a royal husband;
-Th’ other for some while a friend.
+==105==               ’Tis Grace indeed.
+==106== Why, lo you now! I have spoke to th’ purpose twice:
+==107== The one forever earn’d a royal husband;
+==108== Th’ other for some while a friend.
 
 *Gives her hand to Polixenes.*
 
 **LEON.**
 *(Aside.)*
-                  Too hot, too hot!
-To mingle friendship far is mingling bloods.
-I have *tremor cordis* on me; my heart dances,
-But not for joy; not joy. This entertainment
-May a free face put on, derive a liberty
-From heartiness, from bounty, fertile bosom,
-And well become the agent; ’t may—I grant.
-But to be paddling palms and pinching fingers,
-As now they are, and making practic’d smiles,
-As in a looking-glass; and then to sigh, as ’twere
-The mort o’ th’ deer—O, that is entertainment
-My bosom likes not, nor my brows! Mamillius,
-Art thou my boy?
+==108==                   Too hot, too hot!
+==109== To mingle friendship far is mingling bloods.
+==110== I have *tremor cordis* on me; my heart dances,
+==111== But not for joy; not joy. This entertainment
+==112== May a free face put on, derive a liberty
+==113== From heartiness, from bounty, fertile bosom,
+==114== And well become the agent; ’t may—I grant.
+==115== But to be paddling palms and pinching fingers,
+==116== As now they are, and making practic’d smiles,
+==117== As in a looking-glass; and then to sigh, as ’twere
+==118== The mort o’ th’ deer—O, that is entertainment
+==119== My bosom likes not, nor my brows! Mamillius,
+==120== Art thou my boy?
 
 **MAM.**
-        Ay, my good lord.
+==120==         Ay, my good lord.
 
 **LEON.**
-                     I’ fecks!
-Why, that’s my bawcock. What? Hast smutch’d thy nose?
-They say it is a copy out of mine. Come, captain,
-We must be neat; not neat, but cleanly, captain:
-And yet the steer, the heckfer, and the calf
-Are all call’d neat.—Still virginalling
-Upon his palm?—How now, you wanton calf,
-Art thou my calf?
+==120==                      I’ fecks!
+==121== Why, that’s my bawcock. What? Hast smutch’d thy nose?
+==122== They say it is a copy out of mine. Come, captain,
+==123== We must be neat; not neat, but cleanly, captain:
+==124== And yet the steer, the heckfer, and the calf
+==125== Are all call’d neat.—Still virginalling
+==126== Upon his palm?—How now, you wanton calf,
+==127== Art thou my calf?
 
 **MAM.**
-           Yes, if you will, my lord.
+==127==            Yes, if you will, my lord.
 
 **LEON.**
-Thou want’st a rough pash and the shoots that I have,
-To be full like me; yet they say we are
-Almost as like as eggs; women say so⁠—
-That will say any thing. But were they false
-As o’er-dy’d blacks, as wind, as waters, false
-As dice are to be wish’d by one that fixes
-No bourn ’twixt his and mine, yet were it true
-To say this boy were like me. Come, sir page,
-Look on me with your welkin eye. Sweet villain!
-Most dear’st! My collop! Can thy dam?—may’t be?⁠—
-Affection! Thy intention stabs the center.
-Thou dost make possible things not so held,
-Communicat’st with dreams (how can this be?),
-With what’s unreal thou co-active art,
-And fellow’st nothing. Then ’tis very credent
-Thou mayst co-join with something, and thou dost
-(And that beyond commission), and I find it
-(And that to the infection of my brains
-And hard’ning of my brows).
+==128== Thou want’st a rough pash and the shoots that I have,
+==129== To be full like me; yet they say we are
+==130== Almost as like as eggs; women say so⁠—
+==131== That will say any thing. But were they false
+==132== As o’er-dy’d blacks, as wind, as waters, false
+==133== As dice are to be wish’d by one that fixes
+==134== No bourn ’twixt his and mine, yet were it true
+==135== To say this boy were like me. Come, sir page,
+==136== Look on me with your welkin eye. Sweet villain!
+==137== Most dear’st! My collop! Can thy dam?—may’t be?⁠—
+==138== Affection! Thy intention stabs the center.
+==139== Thou dost make possible things not so held,
+==140== Communicat’st with dreams (how can this be?),
+==141== With what’s unreal thou co-active art,
+==142== And fellow’st nothing. Then ’tis very credent
+==143== Thou mayst co-join with something, and thou dost
+==144== (And that beyond commission), and I find it
+==145== (And that to the infection of my brains
+==146== And hard’ning of my brows).
 
 **POL.**
-                What means Sicilia?
+==146==                 What means Sicilia?
 
 **HER.**
-He something seems unsettled.
+==147== He something seems unsettled.
 
 **POL.**
-                How? My lord?
+==147==                 How? My lord?
 
 **LEON.**
-What cheer? How is’t with you, best brother?
+==148== What cheer? How is’t with you, best brother?
 
 **HER.**
-                       You look
-As if you held a brow of much distraction.
-Are you mov’d, my lord?
+==148==                        You look
+==149== As if you held a brow of much distraction.
+==150== Are you mov’d, my lord?
 
 **LEON.**
-              No, in good earnest.
-How sometimes nature will betray its folly!
-Its tenderness! And make itself a pastime
-To harder bosoms! Looking on the lines
-Of my boy’s face, methoughts I did recoil
-Twenty-three years, and saw myself unbreech’d
-In my green velvet coat, my dagger muzzled,
-Lest it should bite its master, and so prove
-(As ornament oft does) too dangerous.
-How like (methought) I then was to this kernel,
-This squash, this gentleman. Mine honest friend,
-Will you take eggs for money?
+==150==               No, in good earnest.
+==151== How sometimes nature will betray its folly!
+==152== Its tenderness! And make itself a pastime
+==153== To harder bosoms! Looking on the lines
+==154== Of my boy’s face, methoughts I did recoil
+==155== Twenty-three years, and saw myself unbreech’d
+==156== In my green velvet coat, my dagger muzzled,
+==157== Lest it should bite its master, and so prove
+==158== (As ornament oft does) too dangerous.
+==159== How like (methought) I then was to this kernel,
+==160== This squash, this gentleman. Mine honest friend,
+==161== Will you take eggs for money?
 
 **MAM.**
-No, my lord, I’ll fight.
+==162== No, my lord, I’ll fight.
 
 **LEON.**
-You will? Why, happy man be ’s dole! My brother,
-Are you so fond of your young prince as we
-Do seem to be of ours?
+==163== You will? Why, happy man be ’s dole! My brother,
+==164== Are you so fond of your young prince as we
+==165== Do seem to be of ours?
 
 **POL.**
-              If at home, sir,
-He’s all my exercise, my mirth, my matter;
-Now my sworn friend, and then mine enemy;
-My parasite, my soldier, statesman, all.
-He makes a July’s day short as December,
-And with his varying childness cures in me
-Thoughts that would thick my blood.
+==165==               If at home, sir,
+==166== He’s all my exercise, my mirth, my matter;
+==167== Now my sworn friend, and then mine enemy;
+==168== My parasite, my soldier, statesman, all.
+==169== He makes a July’s day short as December,
+==170== And with his varying childness cures in me
+==171== Thoughts that would thick my blood.
 
 **LEON.**
-                     So stands this squire
-Offic’d with me. We two will walk, my lord,
-And leave you to your graver steps. Hermione,
-How thou lov’st us, show in our brother’s welcome;
-Let what is dear in Sicily be cheap.
-Next to thyself and my young rover, he’s
-Apparent to my heart.
+==171==                      So stands this squire
+==172== Offic’d with me. We two will walk, my lord,
+==173== And leave you to your graver steps. Hermione,
+==174== How thou lov’st us, show in our brother’s welcome;
+==175== Let what is dear in Sicily be cheap.
+==176== Next to thyself and my young rover, he’s
+==177== Apparent to my heart.
 
 **HER.**
-              If you would seek us,
-We are yours i’ th’ garden. Shall ’s attend you there?
+==177==               If you would seek us,
+==178== We are yours i’ th’ garden. Shall ’s attend you there?
 
 **LEON.**
-To your own bents dispose you; you’ll be found,
-Be you beneath the sky.
+==179== To your own bents dispose you; you’ll be found,
+==180== Be you beneath the sky.
 *(Aside.)*
-              I am angling now,
-Though you perceive me not how I give line.
-Go to, go to!
-How she holds up the neb! The bill to him!
-And arms her with the boldness of a wife
-To her allowing husband!
+==180==               I am angling now,
+==181== Though you perceive me not how I give line.
+==182== Go to, go to!
+==183== How she holds up the neb! The bill to him!
+==184== And arms her with the boldness of a wife
+==185== To her allowing husband!
 *(Exeunt Polixenes, Hermione, and Attendants.)*
-                Gone already!
-Inch-thick, knee-deep, o’er head and ears a fork’d one!
-Go play, boy, play. Thy mother plays, and I
-Play too, but so disgrac’d a part, whose issue
-Will hiss me to my grave: contempt and clamor
-Will be my knell. Go play, boy, play. There have been
-(Or I am much deceiv’d) cuckolds ere now,
-And many a man there is (even at this present,
-Now, while I speak this) holds his wife by th’ arm,
-That little thinks she has been sluic’d in ’s absence,
-And his pond fish’d by his next neighbor—by
-Sir Smile, his neighbor. Nay, there’s comfort in’t,
-Whiles other men have gates, and those gates open’d,
-As mine, against their will. Should all despair
-That have revolted wives, the tenth of mankind
-Would hang themselves. Physic for’t there’s none.
-It is a bawdy planet, that will strike
-Where ’tis predominant; and ’tis pow’rful—think it⁠—
-From east, west, north, and south. Be it concluded,
-No barricado for a belly. Know’t,
-It will let in and out the enemy,
-With bag and baggage. Many thousand on ’s
-Have the disease, and feel’t not. How now, boy?
+==185==                 Gone already!
+==186== Inch-thick, knee-deep, o’er head and ears a fork’d one!
+==187== Go play, boy, play. Thy mother plays, and I
+==188== Play too, but so disgrac’d a part, whose issue
+==189== Will hiss me to my grave: contempt and clamor
+==190== Will be my knell. Go play, boy, play. There have been
+==191== (Or I am much deceiv’d) cuckolds ere now,
+==192== And many a man there is (even at this present,
+==193== Now, while I speak this) holds his wife by th’ arm,
+==194== That little thinks she has been sluic’d in ’s absence,
+==195== And his pond fish’d by his next neighbor—by
+==196== Sir Smile, his neighbor. Nay, there’s comfort in’t,
+==197== Whiles other men have gates, and those gates open’d,
+==198== As mine, against their will. Should all despair
+==199== That have revolted wives, the tenth of mankind
+==200== Would hang themselves. Physic for’t there’s none.
+==201== It is a bawdy planet, that will strike
+==202== Where ’tis predominant; and ’tis pow’rful—think it⁠—
+==203== From east, west, north, and south. Be it concluded,
+==204== No barricado for a belly. Know’t,
+==205== It will let in and out the enemy,
+==206== With bag and baggage. Many thousand on ’s
+==207== Have the disease, and feel’t not. How now, boy?
 
 **MAM.**
-I am like you, they say.
+==208== I am like you, they say.
 
 **LEON.**
-              Why, that’s some comfort.
-What? Camillo there?
+==208==               Why, that’s some comfort.
+==209== What? Camillo there?
 
 **CAM.**
-Ay, my good lord.
+==210== Ay, my good lord.
 
 **LEON.**
-Go play, Mamillius, thou’rt an honest man.
+==211== Go play, Mamillius, thou’rt an honest man.
 *(Exit Mamillius.)*
-Camillo, this great sir will yet stay longer.
+==212== Camillo, this great sir will yet stay longer.
 
 **CAM.**
-You had much ado to make his anchor hold,
-When you cast out, it still came home.
+==213== You had much ado to make his anchor hold,
+==214== When you cast out, it still came home.
 
 **LEON.**
-                     Didst note it?
+==214==                      Didst note it?
 
 **CAM.**
-He would not stay at your petitions, made
-His business more material.
+==215== He would not stay at your petitions, made
+==216== His business more material.
 
 **LEON.**
-                Didst perceive it?
+==216==                 Didst perceive it?
 *(Aside.)*
-They’re here with me already, whisp’ring, rounding:
-“Sicilia is a so-forth.” ’Tis far gone,
-When I shall gust it last.—How came’t, Camillo,
-That he did stay?
+==217== They’re here with me already, whisp’ring, rounding:
+==218== “Sicilia is a so-forth.” ’Tis far gone,
+==219== When I shall gust it last.—How came’t, Camillo,
+==220== That he did stay?
 
 **CAM.**
-           At the good Queen’s entreaty.
+==220==            At the good Queen’s entreaty.
 
 **LEON.**
-At the Queen’s be’t; “good” should be pertinent,
-But so it is, it is not. Was this taken
-By any understanding pate but thine?
-For thy conceit is soaking, will draw in
-More than the common blocks. Not noted, is’t,
-But of the finer natures? By some severals
-Of head-piece extraordinary? Lower messes
-Perchance are to this business purblind? Say.
+==221== At the Queen’s be’t; “good” should be pertinent,
+==222== But so it is, it is not. Was this taken
+==223== By any understanding pate but thine?
+==224== For thy conceit is soaking, will draw in
+==225== More than the common blocks. Not noted, is’t,
+==226== But of the finer natures? By some severals
+==227== Of head-piece extraordinary? Lower messes
+==228== Perchance are to this business purblind? Say.
 
 **CAM.**
-Business, my lord? I think most understand
-Bohemia stays here longer.
+==229== Business, my lord? I think most understand
+==230== Bohemia stays here longer.
 
 **LEON.**
-                Ha?
+==230==                 Ha?
 
 **CAM.**
-                  Stays here longer.
+==230==                   Stays here longer.
 
 **LEON.**
-Ay, but why?
+==231== Ay, but why?
 
 **CAM.**
-To satisfy your Highness and the entreaties
-Of our most gracious mistress.
+==232== To satisfy your Highness and the entreaties
+==233== Of our most gracious mistress.
 
 **LEON.**
-                  Satisfy?
-Th’ entreaties of your mistress? Satisfy?
-Let that suffice. I have trusted thee, Camillo,
-With all the nearest things to my heart, as well
-My chamber-councils, wherein, priest-like, thou
-Hast cleans’d my bosom: I from thee departed
-Thy penitent reform’d. But we have been
-Deceiv’d in thy integrity, deceiv’d
-In that which seems so.
+==233==                   Satisfy?
+==234== Th’ entreaties of your mistress? Satisfy?
+==235== Let that suffice. I have trusted thee, Camillo,
+==236== With all the nearest things to my heart, as well
+==237== My chamber-councils, wherein, priest-like, thou
+==238== Hast cleans’d my bosom: I from thee departed
+==239== Thy penitent reform’d. But we have been
+==240== Deceiv’d in thy integrity, deceiv’d
+==241== In that which seems so.
 
 **CAM.**
-           Be it forbid, my lord!
+==241==            Be it forbid, my lord!
 
 **LEON.**
-To bide upon’t: thou art not honest; or
-If thou inclin’st that way, thou art a coward,
-Which hoxes honesty behind, restraining
-From course requir’d; or else thou must be counted
-A servant grafted in my serious trust
-And therein negligent; or else a fool,
-That seest a game play’d home, the rich stake drawn,
-And tak’st it all for jest.
+==242== To bide upon’t: thou art not honest; or
+==243== If thou inclin’st that way, thou art a coward,
+==244== Which hoxes honesty behind, restraining
+==245== From course requir’d; or else thou must be counted
+==246== A servant grafted in my serious trust
+==247== And therein negligent; or else a fool,
+==248== That seest a game play’d home, the rich stake drawn,
+==249== And tak’st it all for jest.
 
 **CAM.**
-              My gracious lord,
-I may be negligent, foolish, and fearful:
-In every one of these no man is free
-But that his negligence, his folly, fear,
-Among the infinite doings of the world,
-Sometime puts forth. In your affairs, my lord,
-If ever I were willful-negligent,
-It was my folly; if industriously
-I play’d the fool, it was my negligence,
-Not weighing well the end; if ever fearful
-To do a thing, where I the issue doubted,
-Whereof the execution did cry out
-Against the non-performance, ’twas a fear
-Which oft infects the wisest: these, my lord,
-Are such allow’d infirmities that honesty
-Is never free of. But beseech your Grace
-Be plainer with me, let me know my trespass
-By its own visage. If I then deny it,
-’Tis none of mine.
+==249==               My gracious lord,
+==250== I may be negligent, foolish, and fearful:
+==251== In every one of these no man is free
+==252== But that his negligence, his folly, fear,
+==253== Among the infinite doings of the world,
+==254== Sometime puts forth. In your affairs, my lord,
+==255== If ever I were willful-negligent,
+==256== It was my folly; if industriously
+==257== I play’d the fool, it was my negligence,
+==258== Not weighing well the end; if ever fearful
+==259== To do a thing, where I the issue doubted,
+==260== Whereof the execution did cry out
+==261== Against the non-performance, ’twas a fear
+==262== Which oft infects the wisest: these, my lord,
+==263== Are such allow’d infirmities that honesty
+==264== Is never free of. But beseech your Grace
+==265== Be plainer with me, let me know my trespass
+==266== By its own visage. If I then deny it,
+==267== ’Tis none of mine.
 
 **LEON.**
-           Ha’ not you seen, Camillo
-(But that’s past doubt; you have, or your eye-glass
-Is thicker than a cuckold’s horn), or heard
-(For to a vision so apparent rumor
-Cannot be mute), or thought (for cogitation
-Resides not in that man that does not think) 
-My wife is slippery? If thou wilt confess,
-Or else be impudently negative,
-To have nor eyes nor ears nor thought, then say
-My wife’s a hobby-horse, deserves a name
-As rank as any flax-wench that puts to
-Before her troth-plight: say’t and justify’t.
+==267==            Ha’ not you seen, Camillo
+==268== (But that’s past doubt; you have, or your eye-glass
+==269== Is thicker than a cuckold’s horn), or heard
+==270== (For to a vision so apparent rumor
+==271== Cannot be mute), or thought (for cogitation
+==272== Resides not in that man that does not think) 
+==273== My wife is slippery? If thou wilt confess,
+==274== Or else be impudently negative,
+==275== To have nor eyes nor ears nor thought, then say
+==276== My wife’s a hobby-horse, deserves a name
+==277== As rank as any flax-wench that puts to
+==278== Before her troth-plight: say’t and justify’t.
 
 **CAM.**
-I would not be a stander-by to hear
-My sovereign mistress clouded so, without
-My present vengeance taken. ’Shrew my heart,
-You never spoke what did become you less
-Than this; which to reiterate were sin
-As deep as that, though true.
+==279== I would not be a stander-by to hear
+==280== My sovereign mistress clouded so, without
+==281== My present vengeance taken. ’Shrew my heart,
+==282== You never spoke what did become you less
+==283== Than this; which to reiterate were sin
+==284== As deep as that, though true.
 
 **LEON.**
-                Is whispering nothing?
-Is leaning cheek to cheek? Is meeting noses?
-Kissing with inside lip? Stopping the career
-Of laughter with a sigh (a note infallible
-Of breaking honesty)? Horsing foot on foot?
-Skulking in corners? Wishing clocks more swift?
-Hours, minutes? Noon, midnight? And all eyes
-Blind with the pin and web but theirs, theirs only,
-That would unseen be wicked? Is this nothing?
-Why then the world and all that’s in’t is nothing,
-The covering sky is nothing, Bohemia nothing,
-My wife is nothing, nor nothing have these nothings,
-If this be nothing.
+==284==                 Is whispering nothing?
+==285== Is leaning cheek to cheek? Is meeting noses?
+==286== Kissing with inside lip? Stopping the career
+==287== Of laughter with a sigh (a note infallible
+==288== Of breaking honesty)? Horsing foot on foot?
+==289== Skulking in corners? Wishing clocks more swift?
+==290== Hours, minutes? Noon, midnight? And all eyes
+==291== Blind with the pin and web but theirs, theirs only,
+==292== That would unseen be wicked? Is this nothing?
+==293== Why then the world and all that’s in’t is nothing,
+==294== The covering sky is nothing, Bohemia nothing,
+==295== My wife is nothing, nor nothing have these nothings,
+==296== If this be nothing.
 
 **CAM.**
-           Good my lord, be cur’d
-Of this diseas’d opinion, and betimes,
-For ’tis most dangerous.
+==296==            Good my lord, be cur’d
+==297== Of this diseas’d opinion, and betimes,
+==298== For ’tis most dangerous.
 
 **LEON.**
-              Say it be, ’tis true.
+==298==               Say it be, ’tis true.
 
 **CAM.**
-No, no, my lord.
+==299== No, no, my lord.
 
 **LEON.**
-           It is: you lie, you lie!
-I say thou liest, Camillo, and I hate thee,
-Pronounce thee a gross lout, a mindless slave,
-Or else a hovering temporizer, that
-Canst with thine eyes at once see good and evil,
-Inclining to them both. Were my wive’s liver
-Infected as her life, she would not live
-The running of one glass.
+==299==            It is: you lie, you lie!
+==300== I say thou liest, Camillo, and I hate thee,
+==301== Pronounce thee a gross lout, a mindless slave,
+==302== Or else a hovering temporizer, that
+==303== Canst with thine eyes at once see good and evil,
+==304== Inclining to them both. Were my wive’s liver
+==305== Infected as her life, she would not live
+==306== The running of one glass.
 
 **CAM.**
-              Who does infect her?
+==306==               Who does infect her?
 
 **LEON.**
-Why, he that wears her like her medal hanging
-About his neck, Bohemia—who, if I
-Had servants true about me, that bare eyes
-To see alike mine honor as their profits
-(Their own particular thrifts), they would do that
-Which should undo more doing; ay, and thou,
-His cupbearer—whom I from meaner form
-Have bench’d and rear’d to worship, who mayst see
-Plainly as heaven sees earth and earth sees heaven,
-How I am gall’d—mightst bespice a cup,
-To give mine enemy a lasting wink;
-Which draught to me were cordial.
+==307== Why, he that wears her like her medal hanging
+==308== About his neck, Bohemia—who, if I
+==309== Had servants true about me, that bare eyes
+==310== To see alike mine honor as their profits
+==311== (Their own particular thrifts), they would do that
+==312== Which should undo more doing; ay, and thou,
+==313== His cupbearer—whom I from meaner form
+==314== Have bench’d and rear’d to worship, who mayst see
+==315== Plainly as heaven sees earth and earth sees heaven,
+==316== How I am gall’d—mightst bespice a cup,
+==317== To give mine enemy a lasting wink;
+==318== Which draught to me were cordial.
 
 **CAM.**
-                  Sir, my lord,
-I could do this, and that with no rash potion,
-But with a ling’ring dram that should not work
-Maliciously, like poison; but I cannot
-Believe this crack to be in my dread mistress
-(So sovereignly being honorable).
-I have lov’d thee⁠—
+==318==                   Sir, my lord,
+==319== I could do this, and that with no rash potion,
+==320== But with a ling’ring dram that should not work
+==321== Maliciously, like poison; but I cannot
+==322== Believe this crack to be in my dread mistress
+==323== (So sovereignly being honorable).
+==324== I have lov’d thee⁠—
 
 **LEON.**
-        Make that thy question, and go rot!
-Dost think I am so muddy, so unsettled,
-To appoint myself in this vexation, sully
-The purity and whiteness of my sheets
-(Which to preserve is sleep, which being spotted
-Is goads, thorns, nettles, tails of wasps),
-Give scandal to the blood o’ th’ Prince my son
-(Who I do think is mine and love as mine),
-Without ripe moving to’t? Would I do this?
-Could man so blench?
+==324==         Make that thy question, and go rot!
+==325== Dost think I am so muddy, so unsettled,
+==326== To appoint myself in this vexation, sully
+==327== The purity and whiteness of my sheets
+==328== (Which to preserve is sleep, which being spotted
+==329== Is goads, thorns, nettles, tails of wasps),
+==330== Give scandal to the blood o’ th’ Prince my son
+==331== (Who I do think is mine and love as mine),
+==332== Without ripe moving to’t? Would I do this?
+==333== Could man so blench?
 
 **CAM.**
-           I must believe you, sir.
-I do, and will fetch off Bohemia for’t;
-Provided that, when he’s remov’d, your Highness
-Will take again your queen as yours at first,
-Even for your son’s sake, and thereby for sealing
-The injury of tongues in courts and kingdoms
-Known and allied to yours.
+==333==            I must believe you, sir.
+==334== I do, and will fetch off Bohemia for’t;
+==335== Provided that, when he’s remov’d, your Highness
+==336== Will take again your queen as yours at first,
+==337== Even for your son’s sake, and thereby for sealing
+==338== The injury of tongues in courts and kingdoms
+==339== Known and allied to yours.
 
 **LEON.**
-              Thou dost advise me
-Even so as I mine own course have set down.
-I’ll give no blemish to her honor, none.
+==339==               Thou dost advise me
+==340== Even so as I mine own course have set down.
+==341== I’ll give no blemish to her honor, none.
 
 **CAM.**
-My lord,
-Go then; and with a countenance as clear
-As friendship wears at feasts, keep with Bohemia
-And with your queen. I am his cupbearer:
-If from me he have wholesome beverage,
-Account me not your servant.
+==342== My lord,
+==343== Go then; and with a countenance as clear
+==344== As friendship wears at feasts, keep with Bohemia
+==345== And with your queen. I am his cupbearer:
+==346== If from me he have wholesome beverage,
+==347== Account me not your servant.
 
 **LEON.**
-                  This is all:
-Do’t, and thou hast the one half of my heart;
-Do’t not, thou split’st thine own.
+==347==                   This is all:
+==348== Do’t, and thou hast the one half of my heart;
+==349== Do’t not, thou split’st thine own.
 
 **CAM.**
-                  I’ll do’t, my lord.
+==349==                   I’ll do’t, my lord.
 
 **LEON.**
-I will seem friendly, as thou hast advis’d me.
+==350== I will seem friendly, as thou hast advis’d me.
 
 *Exit.*
 
 **CAM.**
-O miserable lady! But for me,
-What case stand I in? I must be the poisoner
-Of good Polixenes, and my ground to do’t
-Is the obedience to a master; one
-Who, in rebellion with himself, will have
-All that are his so too. To do this deed,
-Promotion follows. If I could find example
-Of thousands that had struck anointed kings
-And flourish’d after, I’ld not do’t; but since
-Nor brass nor stone nor parchment bears not one,
-Let villainy itself forswear’t. I must
-Forsake the court. To do’t, or no, is certain
-To me a break-neck. Happy star reign now!
-Here comes Bohemia.
+==351== O miserable lady! But for me,
+==352== What case stand I in? I must be the poisoner
+==353== Of good Polixenes, and my ground to do’t
+==354== Is the obedience to a master; one
+==355== Who, in rebellion with himself, will have
+==356== All that are his so too. To do this deed,
+==357== Promotion follows. If I could find example
+==358== Of thousands that had struck anointed kings
+==359== And flourish’d after, I’ld not do’t; but since
+==360== Nor brass nor stone nor parchment bears not one,
+==361== Let villainy itself forswear’t. I must
+==362== Forsake the court. To do’t, or no, is certain
+==363== To me a break-neck. Happy star reign now!
+==364== Here comes Bohemia.
 
 *Enter Polixenes.*
 
 **POL.**
-              This is strange; methinks
-My favor here begins to warp. Not speak?
-Good day, Camillo.
+==364==               This is strange; methinks
+==365== My favor here begins to warp. Not speak?
+==366== Good day, Camillo.
 
 **CAM.**
-           Hail, most royal sir!
+==366==            Hail, most royal sir!
 
 **POL.**
-What is the news i’ th’ court?
+==367== What is the news i’ th’ court?
 
 **CAM.**
-                None rare, my lord.
+==367==                 None rare, my lord.
 
 **POL.**
-The King hath on him such a countenance
-As he had lost some province and a region
-Lov’d as he loves himself. Even now I met him
-With customary compliment, when he,
-Wafting his eyes to th’ contrary and falling
-A lip of much contempt, speeds from me, and
-So leaves me to consider what is breeding
-That changes thus his manners.
+==368== The King hath on him such a countenance
+==369== As he had lost some province and a region
+==370== Lov’d as he loves himself. Even now I met him
+==371== With customary compliment, when he,
+==372== Wafting his eyes to th’ contrary and falling
+==373== A lip of much contempt, speeds from me, and
+==374== So leaves me to consider what is breeding
+==375== That changes thus his manners.
 
 **CAM.**
-I dare not know, my lord.
+==376== I dare not know, my lord.
 
 **POL.**
-How, dare not? Do not? Do you know, and dare not?
-Be intelligent to me, ’tis thereabouts:
-For to yourself, what you do know, you must,
-And cannot say you dare not. Good Camillo,
-Your chang’d complexions are to me a mirror
-Which shows me mine chang’d too; for I must be
-A party in this alteration, finding
-Myself thus alter’d with’t.
+==377== How, dare not? Do not? Do you know, and dare not?
+==378== Be intelligent to me, ’tis thereabouts:
+==379== For to yourself, what you do know, you must,
+==380== And cannot say you dare not. Good Camillo,
+==381== Your chang’d complexions are to me a mirror
+==382== Which shows me mine chang’d too; for I must be
+==383== A party in this alteration, finding
+==384== Myself thus alter’d with’t.
 
 **CAM.**
-              There is a sickness
-Which puts some of us in distemper, but
-I cannot name the disease, and it is caught
-Of you that yet are well.
+==384==               There is a sickness
+==385== Which puts some of us in distemper, but
+==386== I cannot name the disease, and it is caught
+==387== Of you that yet are well.
 
 **POL.**
-              How caught of me?
-Make me not sighted like the basilisk.
-I have look’d on thousands, who have sped the better
-By my regard, but kill’d none so. Camillo,
-As you are certainly a gentleman, thereto
-Clerk-like experienc’d, which no less adorns
-Our gentry than our parents’ noble names,
-In whose success we are gentle, I beseech you,
-If you know aught which does behove my knowledge
-Thereof to be inform’d, imprison’t not
-In ignorant concealment.
+==387==               How caught of me?
+==388== Make me not sighted like the basilisk.
+==389== I have look’d on thousands, who have sped the better
+==390== By my regard, but kill’d none so. Camillo,
+==391== As you are certainly a gentleman, thereto
+==392== Clerk-like experienc’d, which no less adorns
+==393== Our gentry than our parents’ noble names,
+==394== In whose success we are gentle, I beseech you,
+==395== If you know aught which does behove my knowledge
+==396== Thereof to be inform’d, imprison’t not
+==397== In ignorant concealment.
 
 **CAM.**
-              I may not answer.
+==397==               I may not answer.
 
 **POL.**
-A sickness caught of me, and yet I well?
-I must be answer’d. Dost thou hear, Camillo,
-I conjure thee, by all the parts of man
-Which honor does acknowledge, whereof the least
-Is not this suit of mine, that thou declare
-What incidency thou dost guess of harm
-Is creeping toward me; how far off, how near,
-Which way to be prevented, if to be;
-If not, how best to bear it.
+==398== A sickness caught of me, and yet I well?
+==399== I must be answer’d. Dost thou hear, Camillo,
+==400== I conjure thee, by all the parts of man
+==401== Which honor does acknowledge, whereof the least
+==402== Is not this suit of mine, that thou declare
+==403== What incidency thou dost guess of harm
+==404== Is creeping toward me; how far off, how near,
+==405== Which way to be prevented, if to be;
+==406== If not, how best to bear it.
 
 **CAM.**
-              Sir, I will tell you,
-Since I am charg’d in honor and by him
-That I think honorable. Therefore mark my counsel,
-Which must be ev’n as swiftly followed as
-I mean to utter it; or both yourself and me
-Cry lost, and so good night!
+==406==               Sir, I will tell you,
+==407== Since I am charg’d in honor and by him
+==408== That I think honorable. Therefore mark my counsel,
+==409== Which must be ev’n as swiftly followed as
+==410== I mean to utter it; or both yourself and me
+==411== Cry lost, and so good night!
 
 **POL.**
-                On, good Camillo.
+==411==                 On, good Camillo.
 
 **CAM.**
-I am appointed him to murder you.
+==412== I am appointed him to murder you.
 
 **POL.**
-By whom, Camillo?
+==413== By whom, Camillo?
 
 **CAM.**
-           By the King.
+==413==            By the King.
 
 **POL.**
-                     For what?
+==413==                      For what?
 
 **CAM.**
-He thinks, nay, with all confidence he swears,
-As he had seen’t or been an instrument
-To vice you to’t, that you have touch’d his queen
-Forbiddenly.
+==414== He thinks, nay, with all confidence he swears,
+==415== As he had seen’t or been an instrument
+==416== To vice you to’t, that you have touch’d his queen
+==417== Forbiddenly.
 
 **POL.**
-        O then, my best blood turn
-To an infected jelly, and my name
-Be yok’d with his that did betray the Best!
-Turn then my freshest reputation to
-A savor that may strike the dullest nostril
-Where I arrive, and my approach be shunn’d,
-Nay, hated too, worse than the great’st infection
-That e’er was heard or read!
+==417==         O then, my best blood turn
+==418== To an infected jelly, and my name
+==419== Be yok’d with his that did betray the Best!
+==420== Turn then my freshest reputation to
+==421== A savor that may strike the dullest nostril
+==422== Where I arrive, and my approach be shunn’d,
+==423== Nay, hated too, worse than the great’st infection
+==424== That e’er was heard or read!
 
 **CAM.**
-                Swear his thought over
-By each particular star in heaven, and
-By all their influences, you may as well
-Forbid the sea for to obey the moon
-As or by oath remove or counsel shake
-The fabric of his folly, whose foundation
-Is pil’d upon his faith, and will continue
-The standing of his body.
+==424==                 Swear his thought over
+==425== By each particular star in heaven, and
+==426== By all their influences, you may as well
+==427== Forbid the sea for to obey the moon
+==428== As or by oath remove or counsel shake
+==429== The fabric of his folly, whose foundation
+==430== Is pil’d upon his faith, and will continue
+==431== The standing of his body.
 
 **POL.**
-              How should this grow?
+==431==               How should this grow?
 
 **CAM.**
-I know not; but I am sure ’tis safer to
-Avoid what’s grown than question how ’tis born.
-If therefore you dare trust my honesty,
-That lies enclosed in this trunk which you
-Shall bear along impawn’d, away tonight!
-Your followers I will whisper to the business,
-And will by twos and threes at several posterns
-Clear them o’ th’ city. For myself, I’ll put
-My fortunes to your service, which are here
-By this discovery lost. Be not uncertain,
-For by the honor of my parents, I
-Have utt’red truth; which if you seek to prove,
-I dare not stand by; nor shall you be safer
-Than one condemn’d by the King’s own mouth—thereon
-His execution sworn.
+==432== I know not; but I am sure ’tis safer to
+==433== Avoid what’s grown than question how ’tis born.
+==434== If therefore you dare trust my honesty,
+==435== That lies enclosed in this trunk which you
+==436== Shall bear along impawn’d, away tonight!
+==437== Your followers I will whisper to the business,
+==438== And will by twos and threes at several posterns
+==439== Clear them o’ th’ city. For myself, I’ll put
+==440== My fortunes to your service, which are here
+==441== By this discovery lost. Be not uncertain,
+==442== For by the honor of my parents, I
+==443== Have utt’red truth; which if you seek to prove,
+==444== I dare not stand by; nor shall you be safer
+==445== Than one condemn’d by the King’s own mouth—thereon
+==446== His execution sworn.
 
 **POL.**
-              I do believe thee:
-I saw his heart in ’s face. Give me thy hand,
-Be pilot to me, and thy places shall
-Still neighbor mine. My ships are ready, and
-My people did expect my hence departure
-Two days ago. This jealousy
-Is for a precious creature: as she’s rare,
-Must it be great; and as his person’s mighty,
-Must it be violent; and as he does conceive
-He is dishonor’d by a man which ever
-Profess’d to him, why, his revenges must
-In that be made more bitter. Fear o’ershades me.
-Good expedition be my friend, and comfort
-The gracious queen, part of his theme, but nothing
-Of his ill-ta’en suspicion! Come, Camillo,
-I will respect thee as a father, if
-Thou bear’st my life off. Hence! Let us avoid.
+==446==               I do believe thee:
+==447== I saw his heart in ’s face. Give me thy hand,
+==448== Be pilot to me, and thy places shall
+==449== Still neighbor mine. My ships are ready, and
+==450== My people did expect my hence departure
+==451== Two days ago. This jealousy
+==452== Is for a precious creature: as she’s rare,
+==453== Must it be great; and as his person’s mighty,
+==454== Must it be violent; and as he does conceive
+==455== He is dishonor’d by a man which ever
+==456== Profess’d to him, why, his revenges must
+==457== In that be made more bitter. Fear o’ershades me.
+==458== Good expedition be my friend, and comfort
+==459== The gracious queen, part of his theme, but nothing
+==460== Of his ill-ta’en suspicion! Come, Camillo,
+==461== I will respect thee as a father, if
+==462== Thou bear’st my life off. Hence! Let us avoid.
 
 **CAM.**
-It is in mine authority to command
-The keys of all the posterns. Please your Highness
-To take the urgent hour. Come, sir, away.
+==463== It is in mine authority to command
+==464== The keys of all the posterns. Please your Highness
+==465== To take the urgent hour. Come, sir, away.
 
 *Exeunt.*
 

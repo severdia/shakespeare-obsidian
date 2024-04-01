@@ -19,45 +19,45 @@ ID: henry-vi-part-i-1-6
 *Flourish. Enter on the walls Pucelle, Charles the Dauphin, Reignier, Alanson, and Soldiers.*
 
 **PUC.**
-Advance our waving colors on the walls,
-Rescu’d is Orléans from the English!
-Thus Joan de Pucelle hath perform’d her word.
+==1== Advance our waving colors on the walls,
+==2== Rescu’d is Orléans from the English!
+==3== Thus Joan de Pucelle hath perform’d her word.
 
 **CHAR.**
-Divinest creature, Astraea’s daughter,
-How shall I honor thee for this success?
-Thy promises are like Adonis’ garden,
-That one day bloom’d and fruitful were the next.
-France, triumph in thy glorious prophetess!
-Recover’d is the town of Orléans.
-More blessed hap did ne’er befall our state.
+==4== Divinest creature, Astraea’s daughter,
+==5== How shall I honor thee for this success?
+==6== Thy promises are like Adonis’ garden,
+==7== That one day bloom’d and fruitful were the next.
+==8== France, triumph in thy glorious prophetess!
+==9== Recover’d is the town of Orléans.
+==10== More blessed hap did ne’er befall our state.
 
 **REIG.**
-Why ring not out the bells aloud throughout the town?
-Dauphin, command the citizens make bonfires,
-And feast and banquet in the open streets,
-To celebrate the joy that God hath given us.
+==11== Why ring not out the bells aloud throughout the town?
+==12== Dauphin, command the citizens make bonfires,
+==13== And feast and banquet in the open streets,
+==14== To celebrate the joy that God hath given us.
 
 **ALAN.**
-All France will be replete with mirth and joy,
-When they shall hear how we have play’d the men.
+==15== All France will be replete with mirth and joy,
+==16== When they shall hear how we have play’d the men.
 
 **CHAR.**
-’Tis Joan, not we, by whom the day is won;
-For which I will divide my crown with her,
-And all the priests and friars in my realm
-Shall in procession sing her endless praise.
-A statelier pyramis to her I’ll rear
-Than Rhodope’s of Memphis ever was.
-In memory of her when she is dead,
-Her ashes, in an urn more precious
-Than the rich-jewell’d coffer of Darius,
-Transported shall be at high festivals
-Before the kings and queens of France.
-No longer on Saint Denis will we cry,
-But Joan de Pucelle shall be France’s saint.
-Come in, and let us banquet royally,
-After this golden day of victory.
+==17== ’Tis Joan, not we, by whom the day is won;
+==18== For which I will divide my crown with her,
+==19== And all the priests and friars in my realm
+==20== Shall in procession sing her endless praise.
+==21== A statelier pyramis to her I’ll rear
+==22== Than Rhodope’s of Memphis ever was.
+==23== In memory of her when she is dead,
+==24== Her ashes, in an urn more precious
+==25== Than the rich-jewell’d coffer of Darius,
+==26== Transported shall be at high festivals
+==27== Before the kings and queens of France.
+==28== No longer on Saint Denis will we cry,
+==29== But Joan de Pucelle shall be France’s saint.
+==30== Come in, and let us banquet royally,
+==31== After this golden day of victory.
 
 *Flourish. Exeunt.*
 

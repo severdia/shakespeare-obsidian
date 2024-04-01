@@ -23,61 +23,61 @@ ID: henry-vi-part-i-1-5
 *Then enter Talbot.*
 
 **TAL.**
-Where is my strength, my valor, and my force?
-Our English troops retire, I cannot stay them;
-A woman clad in armor chaseth them.
+==1== Where is my strength, my valor, and my force?
+==2== Our English troops retire, I cannot stay them;
+==3== A woman clad in armor chaseth them.
 *(Enter Pucelle.)*
-Here, here she comes. I’ll have a bout with thee;
-Devil or devil’s dam, I’ll conjure thee.
-Blood will I draw on thee—thou art a witch⁠—
-And straightway give thy soul to him thou serv’st.
+==4== Here, here she comes. I’ll have a bout with thee;
+==5== Devil or devil’s dam, I’ll conjure thee.
+==6== Blood will I draw on thee—thou art a witch⁠—
+==7== And straightway give thy soul to him thou serv’st.
 
 **PUC.**
-Come, come, ’tis only I that must disgrace thee.
+==8== Come, come, ’tis only I that must disgrace thee.
 
 *Here they fight.*
 
 **TAL.**
-Heavens, can you suffer hell so to prevail?
-My breast I’ll burst with straining of my courage,
-And from my shoulders crack my arms asunder,
-But I will chastise this high-minded strumpet.
+==9== Heavens, can you suffer hell so to prevail?
+==10== My breast I’ll burst with straining of my courage,
+==11== And from my shoulders crack my arms asunder,
+==12== But I will chastise this high-minded strumpet.
 
 **PUC.**
-Talbot, farewell, thy hour is not yet come.
-I must go victual Orléans forthwith.
+==13== Talbot, farewell, thy hour is not yet come.
+==14== I must go victual Orléans forthwith.
 *(A short alarum: then enter the town with soldiers.)*
-O’ertake me if thou canst, I scorn thy strength.
-Go, go, cheer up thy hungry-starved men;
-Help Salisbury to make his testament.
-This day is ours, as many more shall be.
+==15== O’ertake me if thou canst, I scorn thy strength.
+==16== Go, go, cheer up thy hungry-starved men;
+==17== Help Salisbury to make his testament.
+==18== This day is ours, as many more shall be.
 
 *Exit.*
 
 **TAL.**
-My thoughts are whirled like a potter’s wheel,
-I know not where I am, nor what I do.
-A witch by fear, not force, like Hannibal,
-Drives back our troops and conquers as she lists:
-So bees with smoke and doves with noisome stench
-Are from their hives and houses driven away.
-They call’d us for our fierceness English dogs,
-Now, like to whelps, we crying run away.
+==19== My thoughts are whirled like a potter’s wheel,
+==20== I know not where I am, nor what I do.
+==21== A witch by fear, not force, like Hannibal,
+==22== Drives back our troops and conquers as she lists:
+==23== So bees with smoke and doves with noisome stench
+==24== Are from their hives and houses driven away.
+==25== They call’d us for our fierceness English dogs,
+==26== Now, like to whelps, we crying run away.
 *(A short alarum.)*
-Hark, countrymen, either renew the fight,
-Or tear the lions out of England’s coat;
-Renounce your soil, give sheep in lions’ stead:
-Sheep run not half so treacherous from the wolf,
-Or horse or oxen from the leopard,
-As you fly from your oft-subdued slaves.
+==27== Hark, countrymen, either renew the fight,
+==28== Or tear the lions out of England’s coat;
+==29== Renounce your soil, give sheep in lions’ stead:
+==30== Sheep run not half so treacherous from the wolf,
+==31== Or horse or oxen from the leopard,
+==32== As you fly from your oft-subdued slaves.
 *(Alarum. Here another skirmish.)*
-It will not be, retire into your trenches.
-You all consented unto Salisbury’s death,
-For none would strike a stroke in his revenge.
-Pucelle is ent’red into Orléans
-In spite of us, or aught that we could do.
-O would I were to die with Salisbury!
-The shame hereof will make me hide my head.
+==33== It will not be, retire into your trenches.
+==34== You all consented unto Salisbury’s death,
+==35== For none would strike a stroke in his revenge.
+==36== Pucelle is ent’red into Orléans
+==37== In spite of us, or aught that we could do.
+==38== O would I were to die with Salisbury!
+==39== The shame hereof will make me hide my head.
 
 *Exit Talbot. Alarum; retreat.*
 

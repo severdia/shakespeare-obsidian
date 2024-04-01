@@ -22,50 +22,50 @@ ID: richard-iii-3-3
 *Enter Sir Richard Ratcliffe with Halberdiers, carrying the nobles Rivers, Grey, and Vaughan to death at Pomfret.*
 
 **RAT.**
-Come, bring forth the prisoners.
+==1== Come, bring forth the prisoners.
 
 **RIV.**
-Sir Richard Ratcliffe, let me tell thee this:
-Today shalt thou behold a subject die
-For truth, for duty, and for loyalty.
+==2== Sir Richard Ratcliffe, let me tell thee this:
+==3== Today shalt thou behold a subject die
+==4== For truth, for duty, and for loyalty.
 
 **GREY.**
-God bless the Prince from all the pack of you!
-A knot you are of damned blood-suckers.
+==5== God bless the Prince from all the pack of you!
+==6== A knot you are of damned blood-suckers.
 
 **VAUG.**
-You live that shall cry woe for this hereafter.
+==7== You live that shall cry woe for this hereafter.
 
 **RAT.**
-Dispatch, the limit of your lives is out.
+==8== Dispatch, the limit of your lives is out.
 
 **RIV.**
-O Pomfret, Pomfret! O thou bloody prison!
-Fatal and ominous to noble peers!
-Within the guilty closure of thy walls
-Richard the Second here was hack’d to death;
-And for more slander to thy dismal seat,
-We give to thee our guiltless blood to drink.
+==9== O Pomfret, Pomfret! O thou bloody prison!
+==10== Fatal and ominous to noble peers!
+==11== Within the guilty closure of thy walls
+==12== Richard the Second here was hack’d to death;
+==13== And for more slander to thy dismal seat,
+==14== We give to thee our guiltless blood to drink.
 
 **GREY.**
-Now Margaret’s curse is fall’n upon our heads,
-When she exclaim’d on Hastings, you, and I,
-For standing by when Richard stabb’d her son.
+==15== Now Margaret’s curse is fall’n upon our heads,
+==16== When she exclaim’d on Hastings, you, and I,
+==17== For standing by when Richard stabb’d her son.
 
 **RIV.**
-Then curs’d she Richard, then curs’d she Buckingham,
-Then curs’d she Hastings. O, remember, God,
-To hear her prayer for them, as now for us!
-And for my sister and her princely sons,
-Be satisfied, dear God, with our true blood,
-Which, as thou know’st, unjustly must be spilt.
+==18== Then curs’d she Richard, then curs’d she Buckingham,
+==19== Then curs’d she Hastings. O, remember, God,
+==20== To hear her prayer for them, as now for us!
+==21== And for my sister and her princely sons,
+==22== Be satisfied, dear God, with our true blood,
+==23== Which, as thou know’st, unjustly must be spilt.
 
 **RAT.**
-Make haste, the hour of death is expiate.
+==24== Make haste, the hour of death is expiate.
 
 **RIV.**
-Come, Grey, come, Vaughan, let us here embrace.
-Farewell, until we meet again in heaven.
+==25== Come, Grey, come, Vaughan, let us here embrace.
+==26== Farewell, until we meet again in heaven.
 
 *Exeunt.*
 

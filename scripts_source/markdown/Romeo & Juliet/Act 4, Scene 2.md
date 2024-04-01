@@ -22,93 +22,93 @@ ID: romeo-and-juliet-4-2
 *Enter Capulet, Mother Lady Capulet, Nurse, and Servingmen, two or three.*
 
 **CAP.**
-So many guests invite as here are writ.
+==1== So many guests invite as here are writ.
 *(Exit First Servant.)*
-Sirrah, go hire me twenty cunning cooks.
+==2== Sirrah, go hire me twenty cunning cooks.
 
 **2. SERV.**
-You shall have none ill, sir, for I’ll try if they can lick their fingers.
+==3== You shall have none ill, sir, for I’ll try if they can lick their fingers.
 
 **CAP.**
-How canst thou try them so?
+==4== How canst thou try them so?
 
 **2. SERV.**
-Marry, sir, ’tis an ill cook that cannot lick his own fingers; therefore he that cannot lick his fingers goes not with me.
+==5== Marry, sir, ’tis an ill cook that cannot lick his own fingers; therefore he that cannot lick his fingers goes not with me.
 
 **CAP.**
-Go, be gone.
+==6== Go, be gone.
 *(Exit Second Servant.)*
-We shall be much unfurnish’d for this time.
-What, is my daughter gone to Friar Lawrence?
+==7== We shall be much unfurnish’d for this time.
+==8== What, is my daughter gone to Friar Lawrence?
 
 **NURSE.**
-Ay forsooth.
+==9== Ay forsooth.
 
 **CAP.**
-Well, he may chance to do some good on her.
-A peevish self-will’d harlotry it is.
+==10== Well, he may chance to do some good on her.
+==11== A peevish self-will’d harlotry it is.
 
 *Enter Juliet.*
 
 **NURSE.**
-See where she comes from shrift with merry look.
+==12== See where she comes from shrift with merry look.
 
 **CAP.**
-How now, my headstrong, where have you been gadding?
+==13== How now, my headstrong, where have you been gadding?
 
 **JUL.**
-Where I have learnt me to repent the sin
-Of disobedient opposition
-To you and your behests, and am enjoin’d
-By holy Lawrence to fall prostrate here
-To beg your pardon.
+==14== Where I have learnt me to repent the sin
+==15== Of disobedient opposition
+==16== To you and your behests, and am enjoin’d
+==17== By holy Lawrence to fall prostrate here
+==18== To beg your pardon.
 *(She kneels down.)*
-Pardon, I beseech you!
-Henceforward I am ever rul’d by you.
+==19== Pardon, I beseech you!
+==20== Henceforward I am ever rul’d by you.
 
 **CAP.**
-Send for the County, go tell him of this.
-I’ll have this knot knit up tomorrow morning.
+==21== Send for the County, go tell him of this.
+==22== I’ll have this knot knit up tomorrow morning.
 
 **JUL.**
-I met the youthful lord at Lawrence’ cell,
-And gave him what becomed love I might,
-Not stepping o’er the bounds of modesty.
+==23== I met the youthful lord at Lawrence’ cell,
+==24== And gave him what becomed love I might,
+==25== Not stepping o’er the bounds of modesty.
 
 **CAP.**
-Why, I am glad on’t, this is well, stand up.
-This is as’t should be. Let me see the County;
-Ay, marry, go, I say, and fetch him hither.
-Now, afore God, this reverend holy friar,
-All our whole city is much bound to him.
+==26== Why, I am glad on’t, this is well, stand up.
+==27== This is as’t should be. Let me see the County;
+==28== Ay, marry, go, I say, and fetch him hither.
+==29== Now, afore God, this reverend holy friar,
+==30== All our whole city is much bound to him.
 
 **JUL.**
-Nurse, will you go with me into my closet
-To help me sort such needful ornaments
-As you think fit to furnish me tomorrow?
+==31== Nurse, will you go with me into my closet
+==32== To help me sort such needful ornaments
+==33== As you think fit to furnish me tomorrow?
 
 **L. CAP.**
-No, not till Thursday, there is time enough.
+==34== No, not till Thursday, there is time enough.
 
 **CAP.**
-Go, nurse, go with her, we’ll to church tomorrow.
+==35== Go, nurse, go with her, we’ll to church tomorrow.
 
 *Exeunt Juliet and Nurse.*
 
 **L. CAP.**
-We shall be short in our provision,
-’Tis now near night.
+==36== We shall be short in our provision,
+==37== ’Tis now near night.
 
 **CAP.**
-           Tush, I will stir about,
-And all things shall be well, I warrant thee, wife;
-Go thou to Juliet, help to deck up her.
-I’ll not to bed tonight; let me alone,
-I’ll play the huswife for this once. What ho!
-They are all forth. Well, I will walk myself
-To County Paris, to prepare up him
-Against tomorrow. My heart is wondrous light,
-Since this same wayward girl is so reclaim’d.
+==37==            Tush, I will stir about,
+==38== And all things shall be well, I warrant thee, wife;
+==39== Go thou to Juliet, help to deck up her.
+==40== I’ll not to bed tonight; let me alone,
+==41== I’ll play the huswife for this once. What ho!
+==42== They are all forth. Well, I will walk myself
+==43== To County Paris, to prepare up him
+==44== Against tomorrow. My heart is wondrous light,
+==45== Since this same wayward girl is so reclaim’d.
 
 *Exeunt.*
 

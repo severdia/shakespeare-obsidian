@@ -21,140 +21,140 @@ ID: taming-of-the-shrew-4-5
 *Enter Petruchio, Kate, Hortensio, and Servants.*
 
 **PETR.**
-Come on a’ God’s name, once more toward our father’s.
-Good Lord, how bright and goodly shines the moon!
+==1== Come on a’ God’s name, once more toward our father’s.
+==2== Good Lord, how bright and goodly shines the moon!
 
 **KATH.**
-The moon! The sun—it is not moonlight now.
+==3== The moon! The sun—it is not moonlight now.
 
 **PETR.**
-I say it is the moon that shines so bright.
+==4== I say it is the moon that shines so bright.
 
 **KATH.**
-I know it is the sun that shines so bright.
+==5== I know it is the sun that shines so bright.
 
 **PETR.**
-Now by my mother’s son, and that’s myself,
-It shall be moon, or star, or what I list,
-Or ere I journey to your father’s house.⁠—
-Go on, and fetch our horses back again.⁠—
-Evermore cross’d and cross’d, nothing but cross’d!
+==6== Now by my mother’s son, and that’s myself,
+==7== It shall be moon, or star, or what I list,
+==8== Or ere I journey to your father’s house.⁠—
+==9== Go on, and fetch our horses back again.⁠—
+==10== Evermore cross’d and cross’d, nothing but cross’d!
 
 **HOR.**
-Say as he says, or we shall never go.
+==11== Say as he says, or we shall never go.
 
 **KATH.**
-Forward, I pray, since we have come so far,
-And be it moon, or sun, or what you please;
-And if you please to call it a rush-candle,
-Henceforth I vow it shall be so for me.
+==12== Forward, I pray, since we have come so far,
+==13== And be it moon, or sun, or what you please;
+==14== And if you please to call it a rush-candle,
+==15== Henceforth I vow it shall be so for me.
 
 **PETR.**
-I say it is the moon.
+==16== I say it is the moon.
 
 **KATH.**
-           I know it is the moon.
+==16==            I know it is the moon.
 
 **PETR.**
-Nay then you lie; it is the blessed sun.
+==17== Nay then you lie; it is the blessed sun.
 
 **KATH.**
-Then God be blest, it is the blessed sun,
-But sun it is not, when you say it is not;
-And the moon changes even as your mind.
-What you will have it nam’d, even that it is,
-And so it shall be so for Katherine.
+==18== Then God be blest, it is the blessed sun,
+==19== But sun it is not, when you say it is not;
+==20== And the moon changes even as your mind.
+==21== What you will have it nam’d, even that it is,
+==22== And so it shall be so for Katherine.
 
 **HOR.**
-Petruchio, go thy ways, the field is won.
+==23== Petruchio, go thy ways, the field is won.
 
 **PETR.**
-Well, forward, forward, thus the bowl should run,
-And not unluckily against the bias.
-But soft, company is coming here.
+==24== Well, forward, forward, thus the bowl should run,
+==25== And not unluckily against the bias.
+==26== But soft, company is coming here.
 *(Enter Vincentio.)*
 *(To Vincentio.)*
-Good morrow, gentle mistress, where away?
-Tell me, sweet Kate, and tell me truly too,
-Hast thou beheld a fresher gentlewoman?
-Such war of white and red within her cheeks!
-What stars do spangle heaven with such beauty,
-As those two eyes become that heavenly face?
-Fair lovely maid, once more good day to thee.
-Sweet Kate, embrace her for her beauty’s sake.
+==27== Good morrow, gentle mistress, where away?
+==28== Tell me, sweet Kate, and tell me truly too,
+==29== Hast thou beheld a fresher gentlewoman?
+==30== Such war of white and red within her cheeks!
+==31== What stars do spangle heaven with such beauty,
+==32== As those two eyes become that heavenly face?
+==33== Fair lovely maid, once more good day to thee.
+==34== Sweet Kate, embrace her for her beauty’s sake.
 
 **HOR.**
-’A will make the man mad, to make a woman of him.
+==35== ’A will make the man mad, to make a woman of him.
 
 **KATH.**
-Young budding virgin, fair, and fresh, and sweet,
-Whither away, or where is thy abode?
-Happy the parents of so fair a child!
-Happier the man whom favorable stars
-Allots thee for his lovely bedfellow!
+==36== Young budding virgin, fair, and fresh, and sweet,
+==37== Whither away, or where is thy abode?
+==38== Happy the parents of so fair a child!
+==39== Happier the man whom favorable stars
+==40== Allots thee for his lovely bedfellow!
 
 **PETR.**
-Why, how now, Kate, I hope thou art not mad.
-This is a man, old, wrinkled, faded, withered,
-And not a maiden, as thou say’st he is.
+==41== Why, how now, Kate, I hope thou art not mad.
+==42== This is a man, old, wrinkled, faded, withered,
+==43== And not a maiden, as thou say’st he is.
 
 **KATH.**
-Pardon, old father, my mistaking eyes,
-That have been so bedazzled with the sun,
-That every thing I look on seemeth green;
-Now I perceive thou are a reverend father.
-Pardon, I pray thee, for my mad mistaking.
+==44== Pardon, old father, my mistaking eyes,
+==45== That have been so bedazzled with the sun,
+==46== That every thing I look on seemeth green;
+==47== Now I perceive thou are a reverend father.
+==48== Pardon, I pray thee, for my mad mistaking.
 
 **PETR.**
-Do, good old grandsire, and withal make known
-Which way thou travelest—if along with us,
-We shall be joyful of thy company.
+==49== Do, good old grandsire, and withal make known
+==50== Which way thou travelest—if along with us,
+==51== We shall be joyful of thy company.
 
 **LORD.**
-Fair sir, and you my merry mistress,
-That with your strange encounter much amaz’d me,
-My name is call’d Vincentio, my dwelling Pisa,
-And bound I am to Padua, there to visit
-A son of mine, which long I have not seen.
+==52== Fair sir, and you my merry mistress,
+==53== That with your strange encounter much amaz’d me,
+==54== My name is call’d Vincentio, my dwelling Pisa,
+==55== And bound I am to Padua, there to visit
+==56== A son of mine, which long I have not seen.
 
 **PETR.**
-What is his name?
+==57== What is his name?
 
 **LORD.**
-           Lucentio, gentle sir.
+==57==            Lucentio, gentle sir.
 
 **PETR.**
-Happily met, the happier for thy son.
-And now by law, as well as reverend age,
-I may entitle thee my loving father.
-The sister to my wife, this gentlewoman,
-Thy son by this hath married. Wonder not,
-Nor be not grieved; she is of good esteem,
-Her dowry wealthy, and of worthy birth;
-Beside, so qualified as may beseem
-The spouse of any noble gentleman.
-Let me embrace with old Vincentio,
-And wander we to see thy honest son,
-Who will of thy arrival be full joyous.
+==58== Happily met, the happier for thy son.
+==59== And now by law, as well as reverend age,
+==60== I may entitle thee my loving father.
+==61== The sister to my wife, this gentlewoman,
+==62== Thy son by this hath married. Wonder not,
+==63== Nor be not grieved; she is of good esteem,
+==64== Her dowry wealthy, and of worthy birth;
+==65== Beside, so qualified as may beseem
+==66== The spouse of any noble gentleman.
+==67== Let me embrace with old Vincentio,
+==68== And wander we to see thy honest son,
+==69== Who will of thy arrival be full joyous.
 
 **LORD.**
-But is this true, or is it else your pleasure,
-Like pleasant travelers, to break a jest
-Upon the company you overtake?
+==70== But is this true, or is it else your pleasure,
+==71== Like pleasant travelers, to break a jest
+==72== Upon the company you overtake?
 
 **HOR.**
-I do assure thee, father, so it is.
+==73== I do assure thee, father, so it is.
 
 **PETR.**
-Come go along and see the truth hereof,
-For our first merriment hath made thee jealous.
+==74== Come go along and see the truth hereof,
+==75== For our first merriment hath made thee jealous.
 
 *Exeunt all but Hortensio.*
 
 **HOR.**
-Well, Petruchio, this has put me in heart.
-Have to my widow! And if she be froward,
-Then hast thou taught Hortensio to be untoward.
+==76== Well, Petruchio, this has put me in heart.
+==77== Have to my widow! And if she be froward,
+==78== Then hast thou taught Hortensio to be untoward.
 
 *Exit.*
 

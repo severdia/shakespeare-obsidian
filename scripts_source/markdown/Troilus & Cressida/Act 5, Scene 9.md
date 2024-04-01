@@ -21,27 +21,27 @@ ID: troilus-and-cressida-5-9
 *Sound retreat. Shout. Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, marching.*
 
 **AGAM.**
-Hark, hark, what shout is this?
+==1== Hark, hark, what shout is this?
 
 **NEST.**
-Peace, drums!
+==2== Peace, drums!
 
 **MYRMIDONS.**
 *(Within.)*
-Achilles! Achilles! Hector’s slain! Achilles!
+==3== Achilles! Achilles! Hector’s slain! Achilles!
 
 **DIO.**
-The bruit is, Hector’s slain, and by Achilles.
+==4== The bruit is, Hector’s slain, and by Achilles.
 
 **AJAX.**
-If it be so, yet bragless let it be,
-Great Hector was as good a man as he.
+==5== If it be so, yet bragless let it be,
+==6== Great Hector was as good a man as he.
 
 **AGAM.**
-March patiently along; let one be sent
-To pray Achilles see us at our tent.
-If in his death the gods have us befriended,
-Great Troy is ours, and our sharp wars are ended.
+==7== March patiently along; let one be sent
+==8== To pray Achilles see us at our tent.
+==9== If in his death the gods have us befriended,
+==10== Great Troy is ours, and our sharp wars are ended.
 
 *Exeunt.*
 

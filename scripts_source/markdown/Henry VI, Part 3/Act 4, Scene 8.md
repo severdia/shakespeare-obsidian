@@ -21,111 +21,111 @@ ID: henry-vi-part-iii-4-8
 *Flourish. Enter the King Henry, Warwick, Montague, Clarence, Oxford, and Exeter.*
 
 **WAR.**
-What counsel, lords? Edward from Belgia,
-With hasty Germans and blunt Hollanders,
-Hath pass’d in safety through the Narrow Seas,
-And with his troops doth march amain to London,
-And many giddy people flock to him.
+==1== What counsel, lords? Edward from Belgia,
+==2== With hasty Germans and blunt Hollanders,
+==3== Hath pass’d in safety through the Narrow Seas,
+==4== And with his troops doth march amain to London,
+==5== And many giddy people flock to him.
 
 **KING.**
-Let’s levy men, and beat him back again.
+==6== Let’s levy men, and beat him back again.
 
 **CLAR.**
-A little fire is quickly trodden out,
-Which being suffer’d, rivers cannot quench.
+==7== A little fire is quickly trodden out,
+==8== Which being suffer’d, rivers cannot quench.
 
 **WAR.**
-In Warwickshire I have true-hearted friends,
-Not mutinous in peace, yet bold in war;
-Those will I muster up; and thou, son Clarence,
-Shalt stir up in Suffolk, Norfolk, and in Kent,
-The knights and gentlemen to come with thee.
-Thou, brother Montague, in Buckingham,
-Northampton, and in Leicestershire, shalt find
-Men well inclin’d to hear what thou command’st;
-And thou, brave Oxford, wondrous well belov’d,
-In Oxfordshire shalt muster up thy friends.
-My sovereign, with the loving citizens,
-Like to his island, girt in with the ocean,
-Or modest Dian, circled with her nymphs,
-Shall rest in London till we come to him.
-Fair lords, take leave and stand not to reply.
-Farewell, my sovereign.
+==9== In Warwickshire I have true-hearted friends,
+==10== Not mutinous in peace, yet bold in war;
+==11== Those will I muster up; and thou, son Clarence,
+==12== Shalt stir up in Suffolk, Norfolk, and in Kent,
+==13== The knights and gentlemen to come with thee.
+==14== Thou, brother Montague, in Buckingham,
+==15== Northampton, and in Leicestershire, shalt find
+==16== Men well inclin’d to hear what thou command’st;
+==17== And thou, brave Oxford, wondrous well belov’d,
+==18== In Oxfordshire shalt muster up thy friends.
+==19== My sovereign, with the loving citizens,
+==20== Like to his island, girt in with the ocean,
+==21== Or modest Dian, circled with her nymphs,
+==22== Shall rest in London till we come to him.
+==23== Fair lords, take leave and stand not to reply.
+==24== Farewell, my sovereign.
 
 **KING.**
-Farewell, my Hector, and my Troy’s true hope.
+==25== Farewell, my Hector, and my Troy’s true hope.
 
 **CLAR.**
-In sign of truth, I kiss your Highness’ hand.
+==26== In sign of truth, I kiss your Highness’ hand.
 
 **KING.**
-Well-minded Clarence, be thou fortunate!
+==27== Well-minded Clarence, be thou fortunate!
 
 **MONT.**
-Comfort, my lord! And so I take my leave.
+==28== Comfort, my lord! And so I take my leave.
 
 **OXF.**
-And thus
+==29== And thus
 *(Kissing Henry’s hand.)*
-        I seal my truth, and bid *adieu*.
+==29==         I seal my truth, and bid *adieu*.
 
 **KING.**
-Sweet Oxford, and my loving Montague,
-And all at once, once more a happy farewell.
+==30== Sweet Oxford, and my loving Montague,
+==31== And all at once, once more a happy farewell.
 
 **WAR.**
-Farewell, sweet lords, let’s meet at Coventry.
+==32== Farewell, sweet lords, let’s meet at Coventry.
 
 *Exeunt all but King Henry and Exeter.*
 
 **KING.**
-Here at the palace will I rest a while.
-Cousin of Exeter, what thinks your lordship?
-Methinks the power that Edward hath in field
-Should not be able to encounter mine.
+==33== Here at the palace will I rest a while.
+==34== Cousin of Exeter, what thinks your lordship?
+==35== Methinks the power that Edward hath in field
+==36== Should not be able to encounter mine.
 
 **EXE.**
-The doubt is that he will seduce the rest.
+==37== The doubt is that he will seduce the rest.
 
 **KING.**
-That’s not my fear, my meed hath got me fame:
-I have not stopp’d mine ears to their demands,
-Nor posted off their suits with slow delays;
-My pity hath been balm to heal their wounds,
-My mildness hath allay’d their swelling griefs,
-My mercy dried their water-flowing tears;
-I have not been desirous of their wealth,
-Nor much oppress’d them with great subsidies,
-Nor forward of revenge, though they much err’d.
-Then why should they love Edward more than me?
-No, Exeter, these graces challenge grace;
-And when the lion fawns upon the lamb,
-The lamb will never cease to follow him.
+==38== That’s not my fear, my meed hath got me fame:
+==39== I have not stopp’d mine ears to their demands,
+==40== Nor posted off their suits with slow delays;
+==41== My pity hath been balm to heal their wounds,
+==42== My mildness hath allay’d their swelling griefs,
+==43== My mercy dried their water-flowing tears;
+==44== I have not been desirous of their wealth,
+==45== Nor much oppress’d them with great subsidies,
+==46== Nor forward of revenge, though they much err’d.
+==47== Then why should they love Edward more than me?
+==48== No, Exeter, these graces challenge grace;
+==49== And when the lion fawns upon the lamb,
+==50== The lamb will never cease to follow him.
 
 *Shout within, “A Lancaster! A Lancaster!” *
 
 **EXE.**
-Hark, hark, my lord, what shouts are these?
+==51== Hark, hark, my lord, what shouts are these?
 
 *Enter King Edward and his Soldiers with Gloucester and others.*
 
 **K. EDW.**
-Seize on the shame-fac’d Henry, bear him hence,
-And once again proclaim us King of England.
-You are the fount that makes small brooks to flow;
-Now stops thy spring, my sea shall suck them dry,
-And swell so much the higher by their ebb.
-Hence with him to the Tower, let him not speak.
+==52== Seize on the shame-fac’d Henry, bear him hence,
+==53== And once again proclaim us King of England.
+==54== You are the fount that makes small brooks to flow;
+==55== Now stops thy spring, my sea shall suck them dry,
+==56== And swell so much the higher by their ebb.
+==57== Hence with him to the Tower, let him not speak.
 *(Exit Exeter with King Henry guarded.)*
-And, lords, towards Coventry bend we our course,
-Where peremptory Warwick now remains.
-The sun shines hot, and, if we use delay,
-Cold biting winter mars our hop’d-for hay.
+==58== And, lords, towards Coventry bend we our course,
+==59== Where peremptory Warwick now remains.
+==60== The sun shines hot, and, if we use delay,
+==61== Cold biting winter mars our hop’d-for hay.
 
 **GLOU.**
-Away betimes, before his forces join,
-And take the great-grown traitor unawares.
-Brave warriors, march amain towards Coventry.
+==62== Away betimes, before his forces join,
+==63== And take the great-grown traitor unawares.
+==64== Brave warriors, march amain towards Coventry.
 
 *Exeunt.*
 

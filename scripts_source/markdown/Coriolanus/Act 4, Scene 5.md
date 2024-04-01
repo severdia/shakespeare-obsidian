@@ -21,124 +21,124 @@ ID: coriolanus-4-5
 *Enter a Servingman.*
 
 **1. SERV.**
-Wine, wine, wine! What service is here?
-I think our fellows are asleep.
+==1== Wine, wine, wine! What service is here?
+==2== I think our fellows are asleep.
 
 *Exit.*
 
 *Enter another Servingman.*
 
 **2. SERV.**
-Where’s Cotus? My master calls for him.
-Cotus!
+==3== Where’s Cotus? My master calls for him.
+==4== Cotus!
 
 *Exit.*
 
 *Enter Coriolanus.*
 
 **COR.**
-A goodly house! The feast smells well, but I
-Appear not like a guest.
+==5== A goodly house! The feast smells well, but I
+==6== Appear not like a guest.
 
 *Enter the First Servingman.*
 
 **1. SERV.**
-What would you have, friend? Whence are you? Here’s no place for you; pray go to the door.
+==7== What would you have, friend? Whence are you? Here’s no place for you; pray go to the door.
 
 *Exit.*
 
 **COR.**
-I have deserv’d no better entertainment
-In being Coriolanus.
+==8== I have deserv’d no better entertainment
+==9== In being Coriolanus.
 
 *Enter Second Servant.*
 
 **2. SERV.**
-Whence are you, sir? Has the porter his eyes in his head, that he gives entrance to such companions? Pray get you out.
+==10== Whence are you, sir? Has the porter his eyes in his head, that he gives entrance to such companions? Pray get you out.
 
 **COR.**
-Away!
+==11== Away!
 
 **2. SERV.**
-Away? Get you away.
+==12== Away? Get you away.
 
 **COR.**
-Now th’ art troublesome.
+==13== Now th’ art troublesome.
 
 **2. SERV.**
-Are you so brave? I’ll have you talk’d with anon.
+==14== Are you so brave? I’ll have you talk’d with anon.
 
 *Enter Third Servingman; the First, entering, meets him.*
 
 **3. SERV.**
-What fellow’s this?
+==15== What fellow’s this?
 
 **1. SERV.**
-A strange one as ever I look’d on. I cannot get him out o’ th’ house. Prithee call my master to him.
+==16== A strange one as ever I look’d on. I cannot get him out o’ th’ house. Prithee call my master to him.
 
 **3. SERV.**
-What have you to do here, fellow? Pray you avoid the house.
+==17== What have you to do here, fellow? Pray you avoid the house.
 
 **COR.**
-Let me but stand, I will not hurt your hearth.
+==18== Let me but stand, I will not hurt your hearth.
 
 **3. SERV.**
-What are you?
+==19== What are you?
 
 **COR.**
-A gentleman.
+==20== A gentleman.
 
 **3. SERV.**
-A marv’lous poor one.
+==21== A marv’lous poor one.
 
 **COR.**
-True, so I am.
+==22== True, so I am.
 
 **3. SERV.**
-Pray you, poor gentleman, take up some other station; here’s no place for you. Pray you avoid. Come.
+==23== Pray you, poor gentleman, take up some other station; here’s no place for you. Pray you avoid. Come.
 
 **COR.**
-Follow your function, go, and batten on cold bits.
+==24== Follow your function, go, and batten on cold bits.
 
 *Pushes him away from him.*
 
 **3. SERV.**
-What, you will not? Prithee tell my master what a strange guest he has here.
+==25== What, you will not? Prithee tell my master what a strange guest he has here.
 
 **2. SERV.**
-And I shall.
+==26== And I shall.
 
 *Exit Second Servingman.*
 
 **3. SERV.**
-Where dwell’st thou?
+==27== Where dwell’st thou?
 
 **COR.**
-Under the canopy.
+==28== Under the canopy.
 
 **3. SERV.**
-Under the canopy?
+==29== Under the canopy?
 
 **COR.**
-Ay.
+==30== Ay.
 
 **3. SERV.**
-Where’s that?
+==31== Where’s that?
 
 **COR.**
-I’ th’ city of kites and crows.
+==32== I’ th’ city of kites and crows.
 
 **3. SERV.**
-I’ th’ city of kites and crows? What an ass it is! Then thou dwell’st with daws too?
+==33== I’ th’ city of kites and crows? What an ass it is! Then thou dwell’st with daws too?
 
 **COR.**
-No, I serve not thy master.
+==34== No, I serve not thy master.
 
 **3. SERV.**
-How, sir? Do you meddle with my master?
+==35== How, sir? Do you meddle with my master?
 
 **COR.**
-Ay, ’tis an honester service than to meddle with thy mistress. Thou prat’st, and prat’st; serve with thy trencher. Hence!
+==36== Ay, ’tis an honester service than to meddle with thy mistress. Thou prat’st, and prat’st; serve with thy trencher. Hence!
 
 *Beats him away.*
 
@@ -147,250 +147,250 @@ Ay, ’tis an honester service than to meddle with thy mistress. Thou prat’st,
 *Enter Aufidius with the Second Servingman.*
 
 **AUF.**
-Where is this fellow?
+==37== Where is this fellow?
 
 **2. SERV.**
-Here, sir. I’d have beaten him like a dog, but for disturbing the lords within.
+==38== Here, sir. I’d have beaten him like a dog, but for disturbing the lords within.
 
 *First and Second Servingmen stand aside.*
 
 **AUF.**
-Whence com’st thou? What wouldst thou? Thy name?
-Why speak’st not? Speak, man: what’s thy name?
+==39== Whence com’st thou? What wouldst thou? Thy name?
+==40== Why speak’st not? Speak, man: what’s thy name?
 
 **COR.**
 *(Unmuffling.)*
-                       If, Tullus,
-Not yet thou know’st me, and, seeing me, dost not
-Think me for the man I am, necessity
-Commands me name myself.
+==40==                        If, Tullus,
+==41== Not yet thou know’st me, and, seeing me, dost not
+==42== Think me for the man I am, necessity
+==43== Commands me name myself.
 
 **AUF.**
-                What is thy name?
+==43==                 What is thy name?
 
 **COR.**
-A name unmusical to the Volscians’ ears,
-And harsh in sound to thine.
+==44== A name unmusical to the Volscians’ ears,
+==45== And harsh in sound to thine.
 
 **AUF.**
-                Say, what’s thy name?
-Thou hast a grim appearance, and thy face
-Bears a command in’t; though thy tackle’s torn,
-Thou show’st a noble vessel. What’s thy name?
+==45==                 Say, what’s thy name?
+==46== Thou hast a grim appearance, and thy face
+==47== Bears a command in’t; though thy tackle’s torn,
+==48== Thou show’st a noble vessel. What’s thy name?
 
 **COR.**
-Prepare thy brow to frown. Know’st thou me yet?
+==49== Prepare thy brow to frown. Know’st thou me yet?
 
 **AUF.**
-I know thee not. Thy name?
+==50== I know thee not. Thy name?
 
 **COR.**
-My name is Caius Martius, who hath done
-To thee particularly, and to all the Volsces,
-Great hurt and mischief; thereto witness may
-My surname, Coriolanus. The painful service,
-The extreme dangers, and the drops of blood
-Shed for my thankless country are requited
-But with that surname—a good memory
-And witness of the malice and displeasure
-Which thou shouldst bear me. Only that name remains;
-The cruelty and envy of the people,
-Permitted by our dastard nobles, who
-Have all forsook me, hath devour’d the rest,
-And suffer’d me by th’ voice of slaves to be
-Hoop’d out of Rome. Now this extremity
-Hath brought me to thy hearth; not out of hope
-(Mistake me not) to save my life, for if
-I had fear’d death, of all the men i’ th’ world
-I would have ’voided thee; but in mere spite,
-To be full quit of those my banishers,
-Stand I before thee here. Then if thou hast
-A heart of wreak in thee, that wilt revenge
-Thine own particular wrongs, and stop those maims
-Of shame seen through thy country, speed thee straight
-And make my misery serve thy turn. So use it
-That my revengeful services may prove
-As benefits to thee; for I will fight
-Against my cank’red country with the spleen
-Of all the under fiends. But if so be
-Thou dar’st not this, and that to prove more fortunes
-Th’ art tir’d, then, in a word, I also am
-Longer to live most weary, and present
-My throat to thee and to thy ancient malice;
-Which not to cut would show thee but a fool,
-Since I have ever followed thee with hate,
-Drawn tuns of blood out of thy country’s breast,
-And cannot live but to thy shame, unless
-It be to do thee service.
+==51== My name is Caius Martius, who hath done
+==52== To thee particularly, and to all the Volsces,
+==53== Great hurt and mischief; thereto witness may
+==54== My surname, Coriolanus. The painful service,
+==55== The extreme dangers, and the drops of blood
+==56== Shed for my thankless country are requited
+==57== But with that surname—a good memory
+==58== And witness of the malice and displeasure
+==59== Which thou shouldst bear me. Only that name remains;
+==60== The cruelty and envy of the people,
+==61== Permitted by our dastard nobles, who
+==62== Have all forsook me, hath devour’d the rest,
+==63== And suffer’d me by th’ voice of slaves to be
+==64== Hoop’d out of Rome. Now this extremity
+==65== Hath brought me to thy hearth; not out of hope
+==66== (Mistake me not) to save my life, for if
+==67== I had fear’d death, of all the men i’ th’ world
+==68== I would have ’voided thee; but in mere spite,
+==69== To be full quit of those my banishers,
+==70== Stand I before thee here. Then if thou hast
+==71== A heart of wreak in thee, that wilt revenge
+==72== Thine own particular wrongs, and stop those maims
+==73== Of shame seen through thy country, speed thee straight
+==74== And make my misery serve thy turn. So use it
+==75== That my revengeful services may prove
+==76== As benefits to thee; for I will fight
+==77== Against my cank’red country with the spleen
+==78== Of all the under fiends. But if so be
+==79== Thou dar’st not this, and that to prove more fortunes
+==80== Th’ art tir’d, then, in a word, I also am
+==81== Longer to live most weary, and present
+==82== My throat to thee and to thy ancient malice;
+==83== Which not to cut would show thee but a fool,
+==84== Since I have ever followed thee with hate,
+==85== Drawn tuns of blood out of thy country’s breast,
+==86== And cannot live but to thy shame, unless
+==87== It be to do thee service.
 
 **AUF.**
-              O Martius, Martius!
-Each word thou hast spoke hath weeded from my heart
-A root of ancient envy. If Jupiter
-Should from yond cloud speak divine things,
-And say “’Tis true,” I’d not believe them more
-Than thee, all-noble Martius. Let me twine
-Mine arms about that body, where against
-My grained ash an hundred times hath broke,
-And scarr’d the moon with splinters. Here I clip
-The anvil of my sword, and do contest
-As hotly and as nobly with thy love
-As ever in ambitious strength I did
-Contend against thy valor. Know thou first,
-I lov’d the maid I married; never man
-Sigh’d truer breath; but that I see thee here,
-Thou noble thing, more dances my rapt heart
-Than when I first my wedded mistress saw
-Bestride my threshold. Why, thou Mars, I tell thee,
-We have a power on foot; and I had purpose
-Once more to hew thy target from thy brawn,
-Or lose mine arm for’t. Thou hast beat me out
-Twelve several times, and I have nightly since
-Dreamt of encounters ’twixt thyself and me;
-We have been down together in my sleep,
-Unbuckling helms, fisting each other’s throat,
-And wak’d half dead with nothing. Worthy Martius,
-Had we no other quarrel else to Rome but that
-Thou art thence banish’d, we would muster all
-From twelve to seventy, and pouring war
-Into the bowels of ungrateful Rome,
-Like a bold flood o’er-beat. O, come, go in,
-And take our friendly senators by th’ hands,
-Who now are here, taking their leaves of me,
-Who am prepar’d against your territories,
-Though not for Rome itself.
+==87==               O Martius, Martius!
+==88== Each word thou hast spoke hath weeded from my heart
+==89== A root of ancient envy. If Jupiter
+==90== Should from yond cloud speak divine things,
+==91== And say “’Tis true,” I’d not believe them more
+==92== Than thee, all-noble Martius. Let me twine
+==93== Mine arms about that body, where against
+==94== My grained ash an hundred times hath broke,
+==95== And scarr’d the moon with splinters. Here I clip
+==96== The anvil of my sword, and do contest
+==97== As hotly and as nobly with thy love
+==98== As ever in ambitious strength I did
+==99== Contend against thy valor. Know thou first,
+==100== I lov’d the maid I married; never man
+==101== Sigh’d truer breath; but that I see thee here,
+==102== Thou noble thing, more dances my rapt heart
+==103== Than when I first my wedded mistress saw
+==104== Bestride my threshold. Why, thou Mars, I tell thee,
+==105== We have a power on foot; and I had purpose
+==106== Once more to hew thy target from thy brawn,
+==107== Or lose mine arm for’t. Thou hast beat me out
+==108== Twelve several times, and I have nightly since
+==109== Dreamt of encounters ’twixt thyself and me;
+==110== We have been down together in my sleep,
+==111== Unbuckling helms, fisting each other’s throat,
+==112== And wak’d half dead with nothing. Worthy Martius,
+==113== Had we no other quarrel else to Rome but that
+==114== Thou art thence banish’d, we would muster all
+==115== From twelve to seventy, and pouring war
+==116== Into the bowels of ungrateful Rome,
+==117== Like a bold flood o’er-beat. O, come, go in,
+==118== And take our friendly senators by th’ hands,
+==119== Who now are here, taking their leaves of me,
+==120== Who am prepar’d against your territories,
+==121== Though not for Rome itself.
 
 **COR.**
-                You bless me, gods!
+==121==                 You bless me, gods!
 
 **AUF.**
-Therefore, most absolute sir, if thou wilt have
-The leading of thine own revenges, take
-Th’ one half of my commission, and set down⁠—
-As best thou art experienc’d, since thou know’st
-Thy country’s strength and weakness—thine own ways:
-Whether to knock against the gates of Rome,
-Or rudely visit them in parts remote,
-To fright them, ere destroy. But come in,
-Let me commend thee first to those that shall
-Say yea to thy desires. A thousand welcomes!
-And more a friend than e’er an enemy;
-Yet, Martius, that was much. Your hand; most welcome!
+==122== Therefore, most absolute sir, if thou wilt have
+==123== The leading of thine own revenges, take
+==124== Th’ one half of my commission, and set down⁠—
+==125== As best thou art experienc’d, since thou know’st
+==126== Thy country’s strength and weakness—thine own ways:
+==127== Whether to knock against the gates of Rome,
+==128== Or rudely visit them in parts remote,
+==129== To fright them, ere destroy. But come in,
+==130== Let me commend thee first to those that shall
+==131== Say yea to thy desires. A thousand welcomes!
+==132== And more a friend than e’er an enemy;
+==133== Yet, Martius, that was much. Your hand; most welcome!
 
 *Exeunt Coriolanus and Aufidius. The First and Second Servingmen come forward.*
 
 **1. SERV.**
-Here’s a strange alteration!
+==134== Here’s a strange alteration!
 
 **2. SERV.**
-By my hand, I had thought to have strucken him with a cudgel, and yet my mind gave me his clothes made a false report of him.
+==135== By my hand, I had thought to have strucken him with a cudgel, and yet my mind gave me his clothes made a false report of him.
 
 **1. SERV.**
-What an arm he has! He turn’d me about with his finger and his thumb as one would set up a top.
+==136== What an arm he has! He turn’d me about with his finger and his thumb as one would set up a top.
 
 **2. SERV.**
-Nay, I knew by his face that there was something in him. He had, sir, a kind of face, me-thought—I cannot tell how to term it.
+==137== Nay, I knew by his face that there was something in him. He had, sir, a kind of face, me-thought—I cannot tell how to term it.
 
 **1. SERV.**
-He had so, looking as it were—Would I were hang’d but I thought there was more in him than I could think.
+==138== He had so, looking as it were—Would I were hang’d but I thought there was more in him than I could think.
 
 **2. SERV.**
-So did I, I’ll be sworn. He is simply the rarest man i’ th’ world.
+==139== So did I, I’ll be sworn. He is simply the rarest man i’ th’ world.
 
 **1. SERV.**
-I think he is; but a greater soldier than he, you wot one.
+==140== I think he is; but a greater soldier than he, you wot one.
 
 **2. SERV.**
-Who, my master?
+==141== Who, my master?
 
 **1. SERV.**
-Nay, it’s no matter for that.
+==142== Nay, it’s no matter for that.
 
 **2. SERV.**
-Worth six on him.
+==143== Worth six on him.
 
 **1. SERV.**
-Nay, not so neither; but I take him to be the greater soldier.
+==144== Nay, not so neither; but I take him to be the greater soldier.
 
 **2. SERV.**
-Faith, look you, one cannot tell how to say that. For the defense of a town, our general is excellent.
+==145== Faith, look you, one cannot tell how to say that. For the defense of a town, our general is excellent.
 
 **1. SERV.**
-Ay, and for an assault too.
+==146== Ay, and for an assault too.
 
 *Enter the Third Servingman.*
 
 **3. SERV.**
-O slaves, I can tell you news—news, you rascals!
+==147== O slaves, I can tell you news—news, you rascals!
 
 **BOTH 1. SERV. AND 2. SERV.**
-What, what, what? Let’s partake.
+==148== What, what, what? Let’s partake.
 
 **3. SERV.**
-I would not be a Roman, of all nations; I had as lief be a condemn’d man.
+==149== I would not be a Roman, of all nations; I had as lief be a condemn’d man.
 
 **BOTH 1. SERV. AND 2. SERV.**
-Wherefore? Wherefore?
+==150== Wherefore? Wherefore?
 
 **3. SERV.**
-Why, here’s he that was wont to thwack our general, Caius Martius.
+==151== Why, here’s he that was wont to thwack our general, Caius Martius.
 
 **1. SERV.**
-Why do you say “thwack our general”?
+==152== Why do you say “thwack our general”?
 
 **3. SERV.**
-I do not say “thwack our general,” but he was always good enough for him.
+==153== I do not say “thwack our general,” but he was always good enough for him.
 
 **2. SERV.**
-Come, we are fellows and friends: he was ever too hard for him; I have heard him say so himself.
+==154== Come, we are fellows and friends: he was ever too hard for him; I have heard him say so himself.
 
 **1. SERV.**
-He was too hard for him, directly to say the troth on’t,before Corioles; he scotch’d him and notch’d him like a carbonado.
+==155== He was too hard for him, directly to say the troth on’t,before Corioles; he scotch’d him and notch’d him like a carbonado.
 
 **2. SERV.**
-And he had been cannibally given, he might have boil’d and eaten him too.
+==156== And he had been cannibally given, he might have boil’d and eaten him too.
 
 **1. SERV.**
-But more of thy news.
+==157== But more of thy news.
 
 **3. SERV.**
-Why, he is so made on here within as if he were son and heir to Mars; set at upper end o’ th’ table; no question ask’d him by any of the senators but they stand bald before him. Our general himself makes a mistress of him, sanctifies himself with ’s hand, and turns up the white o’ th’ eye to his discourse. But the bottom of the news is, our general is cut i’ th’ middle, and but one half of what he was yesterday; for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage poll’d.
+==158== Why, he is so made on here within as if he were son and heir to Mars; set at upper end o’ th’ table; no question ask’d him by any of the senators but they stand bald before him. Our general himself makes a mistress of him, sanctifies himself with ’s hand, and turns up the white o’ th’ eye to his discourse. But the bottom of the news is, our general is cut i’ th’ middle, and but one half of what he was yesterday; for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage poll’d.
 
 **2. SERV.**
-And he’s as like to do’t as any man I can imagine.
+==159== And he’s as like to do’t as any man I can imagine.
 
 **3. SERV.**
-Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were, durst not (look you, sir) show themselves (as we term it) his friends whilest he’s in directitude.
+==160== Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were, durst not (look you, sir) show themselves (as we term it) his friends whilest he’s in directitude.
 
 **1. SERV.**
-Directitude? What’s that?
+==161== Directitude? What’s that?
 
 **3. SERV.**
-But when they shall see, sir, his crest up again and the man in blood, they will out of their burrows, like conies after rain, and revel all with him.
+==162== But when they shall see, sir, his crest up again and the man in blood, they will out of their burrows, like conies after rain, and revel all with him.
 
 **1. SERV.**
-But when goes this forward?
+==163== But when goes this forward?
 
 **3. SERV.**
-Tomorrow, today, presently; you shall have the drum struck up this afternoon. ’Tis, as it were, a parcel of their feast, and to be executed ere they wipe their lips.
+==164== Tomorrow, today, presently; you shall have the drum struck up this afternoon. ’Tis, as it were, a parcel of their feast, and to be executed ere they wipe their lips.
 
 **2. SERV.**
-Why then we shall have a stirring world again. This peace is nothing but to rust iron, increase tailors, and breed ballad-makers.
+==165== Why then we shall have a stirring world again. This peace is nothing but to rust iron, increase tailors, and breed ballad-makers.
 
 **1. SERV.**
-Let me have war, say I, it exceeds peace as far as day does night; it’s sprightly, waking, audible, and full of vent. Peace is a very apoplexy, lethargy, mull’d, deaf, sleepy, insensible, a getter of more bastard children than war’s a destroyer of men.
+==166== Let me have war, say I, it exceeds peace as far as day does night; it’s sprightly, waking, audible, and full of vent. Peace is a very apoplexy, lethargy, mull’d, deaf, sleepy, insensible, a getter of more bastard children than war’s a destroyer of men.
 
 **2. SERV.**
-’Tis so, and as wars, in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds.
+==167== ’Tis so, and as wars, in some sort, may be said to be a ravisher, so it cannot be denied but peace is a great maker of cuckolds.
 
 **1. SERV.**
-Ay, and it makes men hate one another.
+==168== Ay, and it makes men hate one another.
 
 **3. SERV.**
-Reason: because they then less need one another. The wars for my money! I hope to see Romans as cheap as Volscians.—They are rising, they are rising.
+==169== Reason: because they then less need one another. The wars for my money! I hope to see Romans as cheap as Volscians.—They are rising, they are rising.
 
 **BOTH 1. SERV. AND 2. SERV.**
-In, in, in, in!
+==170== In, in, in, in!
 
 *Exeunt.*
 

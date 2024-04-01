@@ -19,92 +19,92 @@ ID: antony-and-cleopatra-4-4
 *Enter Antony and Cleopatra, Charmian, with others.*
 
 **ANT.**
-Eros, mine armor, Eros!
+==1== Eros, mine armor, Eros!
 
 **CLEO.**
-              Sleep a little.
+==1==               Sleep a little.
 
 **ANT.**
-No, my chuck. Eros, come, mine armor, Eros!
+==2== No, my chuck. Eros, come, mine armor, Eros!
 *(Enter Eros with armor.)*
-Come, good fellow, put thine iron on.
-If Fortune be not ours today, it is
-Because we brave her. Come.
+==3== Come, good fellow, put thine iron on.
+==4== If Fortune be not ours today, it is
+==5== Because we brave her. Come.
 
 **CLEO.**
-                Nay, I’ll help too.
-What’s this for?
+==5==                 Nay, I’ll help too.
+==6== What’s this for?
 
 **ANT.**
-        Ah, let be, let be! Thou art
-The armorer of my heart. False, false; this, this.
+==6==         Ah, let be, let be! Thou art
+==7== The armorer of my heart. False, false; this, this.
 
 **CLEO.**
-Sooth law, I’ll help. Thus it must be.
+==8== Sooth law, I’ll help. Thus it must be.
 
 **ANT.**
-                     Well, well,
-We shall thrive now. Seest thou, my good fellow?
-Go, put on thy defenses.
+==8==                      Well, well,
+==9== We shall thrive now. Seest thou, my good fellow?
+==10== Go, put on thy defenses.
 
 **EROS.**
-              Briefly, sir.
+==10==               Briefly, sir.
 
 **CLEO.**
-Is not this buckled well?
+==11== Is not this buckled well?
 
 **ANT.**
-              Rarely, rarely:
-He that unbuckles this, till we do please
-To daff’t for our repose, shall hear a storm.
-Thou fumblest, Eros, and my queen’s a squire
-More tight at this than thou; dispatch. O love,
-That thou couldst see my wars today, and knew’st
-The royal occupation, thou shouldst see
-A workman in’t.
+==11==               Rarely, rarely:
+==12== He that unbuckles this, till we do please
+==13== To daff’t for our repose, shall hear a storm.
+==14== Thou fumblest, Eros, and my queen’s a squire
+==15== More tight at this than thou; dispatch. O love,
+==16== That thou couldst see my wars today, and knew’st
+==17== The royal occupation, thou shouldst see
+==18== A workman in’t.
 *(Enter an armed Scarus.)*
-        Good morrow to thee, welcome.
-Thou look’st like him that knows a warlike charge.
-To business that we love we rise betime,
-And go to’t with delight.
+==18==         Good morrow to thee, welcome.
+==19== Thou look’st like him that knows a warlike charge.
+==20== To business that we love we rise betime,
+==21== And go to’t with delight.
 
 **SCAR.**
-              A thousand, sir,
-Early though’t be, have on their riveted trim,
-And at the port expect you.
+==21==               A thousand, sir,
+==22== Early though’t be, have on their riveted trim,
+==23== And at the port expect you.
 
 *Shout. Trumpets flourish.*
 
 *Enter Captain of Antony’s Army, Captains and Soldiers.*
 
 **CAPT. ANT. ARMY.**
-The morn is fair. Good morrow, general.
+==24== The morn is fair. Good morrow, general.
 
 **ALL ANT. SOLD.**
-Good morrow, general.
+==25== Good morrow, general.
 
 **ANT.**
-              ’Tis well blown, lads.
-This morning, like the spirit of a youth
-That means to be of note, begins betimes.
-So, so; come give me that: this way—well said.
-Fare thee well, dame, what e’er becomes of me.
-This is a soldier’s kiss; rebukable
-And worthy shameful check it were, to stand
-On more mechanic compliment. I’ll leave thee
-Now like a man of steel. You that will fight,
-Follow me close, I’ll bring you to’t. *Adieu*.
+==25==               ’Tis well blown, lads.
+==26== This morning, like the spirit of a youth
+==27== That means to be of note, begins betimes.
+==28== So, so; come give me that: this way—well said.
+==29== Fare thee well, dame, what e’er becomes of me.
+==30== This is a soldier’s kiss; rebukable
+==31== And worthy shameful check it were, to stand
+==32== On more mechanic compliment. I’ll leave thee
+==33== Now like a man of steel. You that will fight,
+==34== Follow me close, I’ll bring you to’t. *Adieu*.
 
 *Exeunt Antony, Eros, Scarus, Captains, and Soldiers.*
 
 **CHAR.**
-Please you retire to your chamber?
+==35== Please you retire to your chamber?
 
 **CLEO.**
-                  Lead me.
-He goes forth gallantly. That he and Caesar might
-Determine this great war in single fight!
-Then, Antony—but now—Well, on.
+==35==                   Lead me.
+==36== He goes forth gallantly. That he and Caesar might
+==37== Determine this great war in single fight!
+==38== Then, Antony—but now—Well, on.
 
 *Exeunt.*
 

@@ -20,44 +20,44 @@ ID: two-noble-kinsmen-3-2
 *Enter Jailer’s Daughter alone.*
 
 **DAUGH.**
-He has mistook the brake I meant, is gone
-After his fancy. ’Tis now well-nigh morning;
-No matter, would it were perpetual night,
-And darkness lord o’ th’ world! Hark, ’tis a wolf!
-In me hath grief slain fear, and but for one thing,
-I care for nothing, and that’s Palamon.
-I reck not if the wolves would jaw me, so
-He had this file. What if I hallow’d for him?
-I cannot hallow. If I whoop’d, what then?
-If he not answer’d, I should call a wolf,
-And do him but that service. I have heard
-Strange howls this livelong night; why may’t not be
-They have made prey of him? He has no weapons,
-He cannot run, the jingling of his gyves
-Might call fell things to listen, who have in them
-A sense to know a man unarm’d, and can
-Smell where resistance is. I’ll set it down
-He’s torn to pieces. They howl’d many together,
-And then they fed on him. So much for that,
-Be bold to ring the bell. How stand I then?
-All’s char’d when he is gone. No, no, I lie:
-My father’s to be hang’d for his escape,
-Myself to beg, if I priz’d life so much
-As to deny my act, but that I would not,
-Should I try death by dozens. I am mop’d:
-Food took I none these two days⁠—
-Sipp’d some water. I have not clos’d mine eyes
-Save when my lids scour’d off their brine. Alas,
-Dissolve, my life, let not my sense unsettle
-Lest I should drown, or stab, or hang myself.
-O state of nature, fail together in me,
-Since thy best props are warp’d! So which way now?
-The best way is, the next way to a grave;
-Each errant step beside is torment. Lo
-The moon is down, the crickets chirp, the screech owl
-Calls in the dawn! All offices are done
-Save what I fail in. But the point is this⁠—
-An end, and that is all.
+==1== He has mistook the brake I meant, is gone
+==2== After his fancy. ’Tis now well-nigh morning;
+==3== No matter, would it were perpetual night,
+==4== And darkness lord o’ th’ world! Hark, ’tis a wolf!
+==5== In me hath grief slain fear, and but for one thing,
+==6== I care for nothing, and that’s Palamon.
+==7== I reck not if the wolves would jaw me, so
+==8== He had this file. What if I hallow’d for him?
+==9== I cannot hallow. If I whoop’d, what then?
+==10== If he not answer’d, I should call a wolf,
+==11== And do him but that service. I have heard
+==12== Strange howls this livelong night; why may’t not be
+==13== They have made prey of him? He has no weapons,
+==14== He cannot run, the jingling of his gyves
+==15== Might call fell things to listen, who have in them
+==16== A sense to know a man unarm’d, and can
+==17== Smell where resistance is. I’ll set it down
+==18== He’s torn to pieces. They howl’d many together,
+==19== And then they fed on him. So much for that,
+==20== Be bold to ring the bell. How stand I then?
+==21== All’s char’d when he is gone. No, no, I lie:
+==22== My father’s to be hang’d for his escape,
+==23== Myself to beg, if I priz’d life so much
+==24== As to deny my act, but that I would not,
+==25== Should I try death by dozens. I am mop’d:
+==26== Food took I none these two days⁠—
+==27== Sipp’d some water. I have not clos’d mine eyes
+==28== Save when my lids scour’d off their brine. Alas,
+==29== Dissolve, my life, let not my sense unsettle
+==30== Lest I should drown, or stab, or hang myself.
+==31== O state of nature, fail together in me,
+==32== Since thy best props are warp’d! So which way now?
+==33== The best way is, the next way to a grave;
+==34== Each errant step beside is torment. Lo
+==35== The moon is down, the crickets chirp, the screech owl
+==36== Calls in the dawn! All offices are done
+==37== Save what I fail in. But the point is this⁠—
+==38== An end, and that is all.
 
 *Exit.*
 
