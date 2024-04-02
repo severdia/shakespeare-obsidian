@@ -15,6 +15,25 @@
 	white-space: pre-wrap;
 }
 
+/* Speech Line Numbers */
+.markdown-preview-view mark, 
+.markdown-source-view.is-live-preview .cm-highlight {
+	padding: 0.3em;
+	margin-right: 0.5em;
+	font-variant-numeric: tabular-nums;
+	font-size: 0.8em;
+	border-radius: 2px;
+}
+.theme-light .markdown-preview-view mark, 
+.theme-light .markdown-source-view.is-live-preview .cm-highlight {
+	background-color: #d5dbdb !important;
+}
+.theme-dark .markdown-preview-view mark, 
+.theme-dark .markdown-source-view.is-live-preview .cm-highlight {
+	background-color: #505152 !important;
+	color: #e1e1e3 !important;
+}
+
 /* Styles for Full Play (Editing) view */
 
 /* Hide scene links */
