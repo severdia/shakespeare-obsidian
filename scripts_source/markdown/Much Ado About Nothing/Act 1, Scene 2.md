@@ -21,27 +21,27 @@ ID: much-ado-about-nothing-1-2
 *Enter Leonato and an old man Antonio, brother to Leonato, meeting.*
 
 **LEON.**
-==1== How now, brother, where is my cousin, your son? Hath he provided this music?
+==1==How now, brother, where is my cousin, your son? Hath he provided this music?
 
 **ANT.**
-==2== He is very busy about it. But, brother, I can tell you strange news that you yet dreamt not of.
+==2==He is very busy about it. But, brother, I can tell you strange news that you yet dreamt not of.
 
 **LEON.**
-==3== Are they good?
+==3==Are they good?
 
 **ANT.**
-==4== As the event stamps them, but they have a good cover; they show well outward. The Prince and Count Claudio, walking in a thick-pleach’d alley in mine orchard, were thus much overheard by a man of mine. The Prince discover’d to Claudio that he lov’d my niece your daughter, and meant to acknowledge it this night in a dance; and if he found her accordant, he meant to take the present time by the top, and instantly break with you of it.
+==4==As the event stamps them, but they have a good cover; they show well outward. The Prince and Count Claudio, walking in a thick-pleach’d alley in mine orchard, were thus much overheard by a man of mine. The Prince discover’d to Claudio that he lov’d my niece your daughter, and meant to acknowledge it this night in a dance; and if he found her accordant, he meant to take the present time by the top, and instantly break with you of it.
 
 **LEON.**
-==5== Hath the fellow any wit that told you this?
+==5==Hath the fellow any wit that told you this?
 
 **ANT.**
-==6== A good sharp fellow. I will send for him, and question him yourself.
+==6==A good sharp fellow. I will send for him, and question him yourself.
 
 **LEON.**
-==7== No, no, we will hold it as a dream till it appear itself; but I will acquaint my daughter withal, that she may be the better prepar’d for an answer, if peradventure this be true. Go you and tell her of it.
+==7==No, no, we will hold it as a dream till it appear itself; but I will acquaint my daughter withal, that she may be the better prepar’d for an answer, if peradventure this be true. Go you and tell her of it.
 *(Several persons cross the stage.)*
-==8== Cousins, you know what you have to do. O, I cry you mercy, friend, go you with me, and I will use your skill. Good cousin, have a care this busy time.
+==8==Cousins, you know what you have to do. O, I cry you mercy, friend, go you with me, and I will use your skill. Good cousin, have a care this busy time.
 
 *Exeunt.*
 

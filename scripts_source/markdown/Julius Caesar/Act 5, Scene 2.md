@@ -19,13 +19,13 @@ ID: julius-caesar-5-2
 *Alarum. Enter Brutus and Messala.*
 
 **BRU.**
-==1== Ride, ride, Messala, ride, and give these bills
-==2== Unto the legions on the other side.
+==1==Ride, ride, Messala, ride, and give these bills
+==2==Unto the legions on the other side.
 *(Loud alarum.)*
-==3== Let them set on at once; for I perceive
-==4== But cold demeanor in Octavio’s wing,
-==5== And sudden push gives them the overthrow.
-==6== Ride, ride, Messala, let them all come down.
+==3==Let them set on at once; for I perceive
+==4==But cold demeanor in Octavio’s wing,
+==5==And sudden push gives them the overthrow.
+==6==Ride, ride, Messala, let them all come down.
 
 *Exeunt.*
 

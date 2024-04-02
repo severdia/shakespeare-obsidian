@@ -19,53 +19,53 @@ ID: antony-and-cleopatra-4-7
 *Alarum. Drums and Trumpets. Enter Agrippa and others.*
 
 **AGR.**
-==1== Retire, we have engag’d ourselves too far.
-==2== Caesar himself has work, and our oppression
-==3== Exceeds what we expected.
+==1==Retire, we have engag’d ourselves too far.
+==2==Caesar himself has work, and our oppression
+==3==Exceeds what we expected.
 
 *Exeunt.*
 
 *Alarums. Enter Antony, and Scarus wounded.*
 
 **SCAR.**
-==4== O my brave Emperor, this is fought indeed!
-==5== Had we done so at first, we had droven them home
-==6== With clouts about their heads.
+==4==O my brave Emperor, this is fought indeed!
+==5==Had we done so at first, we had droven them home
+==6==With clouts about their heads.
 
 **ANT.**
-==6==                 Thou bleed’st apace.
+==6==                Thou bleed’st apace.
 
 **SCAR.**
-==7== I had a wound here that was like a T,
-==8== But now ’tis made an H.
+==7==I had a wound here that was like a T,
+==8==But now ’tis made an H.
 
 *Sound retreat far off.*
 
 **ANT.**
-==8==               They do retire.
+==8==              They do retire.
 
 **SCAR.**
-==9== We’ll beat ’em into bench-holes. I have yet
-==10== Room for six scotches more.
+==9==We’ll beat ’em into bench-holes. I have yet
+==10==Room for six scotches more.
 
 *Enter Eros.*
 
 **EROS.**
-==11== They are beaten, sir, and our advantage serves
-==12== For a fair victory.
+==11==They are beaten, sir, and our advantage serves
+==12==For a fair victory.
 
 **SCAR.**
-==12==            Let us score their backs,
-==13== And snatch ’em up, as we take hares, behind:
-==14== ’Tis sport to maul a runner.
+==12==           Let us score their backs,
+==13==And snatch ’em up, as we take hares, behind:
+==14==’Tis sport to maul a runner.
 
 **ANT.**
-==14==                 I will reward thee
-==15== Once for thy sprightly comfort, and tenfold
-==16== For thy good valor. Come thee on.
+==14==                I will reward thee
+==15==Once for thy sprightly comfort, and tenfold
+==16==For thy good valor. Come thee on.
 
 **SCAR.**
-==16==                   I’ll halt after.
+==16==                  I’ll halt after.
 
 *Exeunt.*
 

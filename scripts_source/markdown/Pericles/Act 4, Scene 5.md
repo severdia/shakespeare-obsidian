@@ -22,19 +22,19 @@ ID: pericles-4-5
 *Enter two Gentlemen of Myteline.*
 
 **1. GENT. MYT.**
-==1== Did you ever hear the like?
+==1==Did you ever hear the like?
 
 **2. GENT. MYT.**
-==2== No, nor never shall do in such a place as this, she being once gone.
+==2==No, nor never shall do in such a place as this, she being once gone.
 
 **1. GENT. MYT.**
-==3== But to have divinity preach’d there! Did you ever dream of such a thing?
+==3==But to have divinity preach’d there! Did you ever dream of such a thing?
 
 **2. GENT. MYT.**
-==4== No, no. Come, I am for no more bawdy-houses. Shall ’s go hear the vestals sing?
+==4==No, no. Come, I am for no more bawdy-houses. Shall ’s go hear the vestals sing?
 
 **1. GENT. MYT.**
-==5== I’ll do any thing now that is virtuous, but I am out of the road of rutting forever.
+==5==I’ll do any thing now that is virtuous, but I am out of the road of rutting forever.
 
 *Exeunt.*
 

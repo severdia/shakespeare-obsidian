@@ -20,29 +20,29 @@ ID: measure-for-measure-4-5
 *Enter Duke in his own habit and Friar Peter.*
 
 **DUKE.**
-==1== These letters at fit time deliver me.
+==1==These letters at fit time deliver me.
 *(Giving letters.)*
-==2== The Provost knows our purpose and our plot.
-==3== The matter being afoot, keep your instruction,
-==4== And hold you ever to our special drift,
-==5== Though sometimes you do blench from this to that,
-==6== As cause doth minister. Go call at Flavio’s house,
-==7== And tell him where I stay. Give the like notice
-==8== To Valentius, Rowland, and to Crassus,
-==9== And bid them bring the trumpets to the gate.
-==10== But send me Flavius first.
+==2==The Provost knows our purpose and our plot.
+==3==The matter being afoot, keep your instruction,
+==4==And hold you ever to our special drift,
+==5==Though sometimes you do blench from this to that,
+==6==As cause doth minister. Go call at Flavio’s house,
+==7==And tell him where I stay. Give the like notice
+==8==To Valentius, Rowland, and to Crassus,
+==9==And bid them bring the trumpets to the gate.
+==10==But send me Flavius first.
 
 **FRI. PET.**
-==10==               It shall be speeded well.
+==10==              It shall be speeded well.
 
 *Exit.*
 
 *Enter Varrius.*
 
 **DUKE.**
-==11== I thank thee, Varrius, thou hast made good haste.
-==12== Come, we will walk. There’s other of our friends
-==13== Will greet us here anon. My gentle Varrius!
+==11==I thank thee, Varrius, thou hast made good haste.
+==12==Come, we will walk. There’s other of our friends
+==13==Will greet us here anon. My gentle Varrius!
 
 *Exeunt.*
 

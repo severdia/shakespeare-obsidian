@@ -21,7 +21,7 @@ ID: merry-wives-of-windsor-5-4
 *Enter Evans like a satyr and others as fairies.*
 
 **EVANS.**
-==1== *Trib*, *trib*, fairies; come, and remember your parts. Be *pold*, I pray you. Follow me into the pit, and when I give the watch-ords, do as I *pid* you. Come, come, *trib*, *trib*.
+==1==*Trib*, *trib*, fairies; come, and remember your parts. Be *pold*, I pray you. Follow me into the pit, and when I give the watch-ords, do as I *pid* you. Come, come, *trib*, *trib*.
 
 *Exeunt.*
 

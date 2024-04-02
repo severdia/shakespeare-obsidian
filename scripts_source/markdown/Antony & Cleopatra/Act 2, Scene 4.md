@@ -19,32 +19,32 @@ ID: antony-and-cleopatra-2-4
 *Enter Lepidus, Maecenas, and Agrippa.*
 
 **LEP.**
-==1== Trouble yourselves no further; pray you hasten
-==2== Your generals after.
+==1==Trouble yourselves no further; pray you hasten
+==2==Your generals after.
 
 **AGR.**
-==2==            Sir, Mark Antony
-==3== Will e’en but kiss Octavia, and we’ll follow.
+==2==           Sir, Mark Antony
+==3==Will e’en but kiss Octavia, and we’ll follow.
 
 **LEP.**
-==4== Till I shall see you in your soldier’s dress,
-==5== Which will become you both, farewell.
+==4==Till I shall see you in your soldier’s dress,
+==5==Which will become you both, farewell.
 
 **MAEC.**
-==5==                      We shall,
-==6== As I conceive the journey, be at the Mount
-==7== Before you, Lepidus.
+==5==                     We shall,
+==6==As I conceive the journey, be at the Mount
+==7==Before you, Lepidus.
 
 **LEP.**
-==7==            Your way is shorter,
-==8== My purposes do draw me much about.
-==9== You’ll win two days upon me.
+==7==           Your way is shorter,
+==8==My purposes do draw me much about.
+==9==You’ll win two days upon me.
 
 **BOTH MAEC. AND AGR.**
-==9==                 Sir, good success!
+==9==                Sir, good success!
 
 **LEP.**
-==10== Farewell.
+==10==Farewell.
 
 *Exeunt.*
 

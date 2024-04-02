@@ -21,19 +21,19 @@ ID: henry-vi-part-iii-2-4
 *Excursions. Enter Richard at one door and Clifford at the other.*
 
 **RICH.**
-==1== Now, Clifford, I have singled thee alone:
-==2== Suppose this arm is for the Duke of York,
-==3== And this for Rutland, both bound to revenge,
-==4== Wert thou environ’d with a brazen wall.
+==1==Now, Clifford, I have singled thee alone:
+==2==Suppose this arm is for the Duke of York,
+==3==And this for Rutland, both bound to revenge,
+==4==Wert thou environ’d with a brazen wall.
 
 **CLIF.**
-==5== Now, Richard, I am with thee here alone:
-==6== This is the hand that stabb’d thy father York,
-==7== And this the hand that slew thy brother Rutland,
-==8== And here’s the heart that triumphs in their death,
-==9== And cheers these hands that slew thy sire and brother
-==10== To execute the like upon thyself⁠—
-==11== And so have at thee!
+==5==Now, Richard, I am with thee here alone:
+==6==This is the hand that stabb’d thy father York,
+==7==And this the hand that slew thy brother Rutland,
+==8==And here’s the heart that triumphs in their death,
+==9==And cheers these hands that slew thy sire and brother
+==10==To execute the like upon thyself⁠—
+==11==And so have at thee!
 
 *Alarums. They fight.*
 
@@ -42,8 +42,8 @@ ID: henry-vi-part-iii-2-4
 *Clifford flies.*
 
 **RICH.**
-==12== Nay, Warwick, single out some other chase,
-==13== For I myself will hunt this wolf to death.
+==12==Nay, Warwick, single out some other chase,
+==13==For I myself will hunt this wolf to death.
 
 *Exeunt.*
 

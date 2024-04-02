@@ -24,13 +24,13 @@ ID: king-lear-5-2
 *Enter Edgar and Gloucester.*
 
 **EDG.**
-==1== Here, father, take the shadow of this tree
-==2== For your good host; pray that the right may thrive.
-==3== If ever I return to you again,
-==4== I’ll bring you comfort.
+==1==Here, father, take the shadow of this tree
+==2==For your good host; pray that the right may thrive.
+==3==If ever I return to you again,
+==4==I’ll bring you comfort.
 
 **GLOU.**
-==4==            Grace go with you, sir!
+==4==           Grace go with you, sir!
 
 *Exit Edgar.*
 
@@ -39,20 +39,20 @@ ID: king-lear-5-2
 *Enter Edgar.*
 
 **EDG.**
-==5== Away, old man, give me thy hand, away!
-==6== King Lear hath lost, he and his daughter ta’en.
-==7== Give me thy hand; come on.
+==5==Away, old man, give me thy hand, away!
+==6==King Lear hath lost, he and his daughter ta’en.
+==7==Give me thy hand; come on.
 
 **GLOU.**
-==8== No further, sir, a man may rot even here.
+==8==No further, sir, a man may rot even here.
 
 **EDG.**
-==9== What, in ill thoughts again? Men must endure
-==10== Their going hence even as their coming hither,
-==11== Ripeness is all. Come on.
+==9==What, in ill thoughts again? Men must endure
+==10==Their going hence even as their coming hither,
+==11==Ripeness is all. Come on.
 
 **GLOU.**
-==11==               And that’s true too.
+==11==              And that’s true too.
 
 *Exeunt.*
 
