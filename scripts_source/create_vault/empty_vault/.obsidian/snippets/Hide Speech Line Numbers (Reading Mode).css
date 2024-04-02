@@ -1,0 +1,7 @@
+.markdown-preview-view mark {
+    display: none;
+}
+
+.markdown-source-view.is-live-preview .markdown-embed mark {
+	display: none;
+}
