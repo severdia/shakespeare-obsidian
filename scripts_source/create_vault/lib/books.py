@@ -28,7 +28,9 @@ class BookGenerator:
     def _get_book_info(self):
         output_book_path = self._create_book_folder()
 
-        book_obsidian_path = f'{self.books_folder.name}/{output_book_path.name}'
+        # book_obsidian_path = f'{self.books_folder.name}/{output_book_path.name}' # absolute path
+        book_obsidian_path = output_book_path.name # relative path
+        
         obsidian_paths = {
             'book_path': book_obsidian_path,
             'full_book_path': f'{book_obsidian_path}/{FULL_BOOK_FILE_NAME}',
