@@ -22,35 +22,35 @@ ID: richard-iii-4-5
 *Enter Stanley the Earl of Derby, and Sir Christopher Urswick, a priest.*
 
 **STAN.**
-==1== Sir Christopher, tell Richmond this from me:
-==2== That in the sty of the most deadly boar
-==3== My son George Stanley is frank’d up in hold;
-==4== If I revolt, off goes young George’s head;
-==5== The fear of that holds off my present aid.
-==6== So get thee gone; commend me to thy lord.
-==7== Withal say that the Queen hath heartily consented
-==8== He should espouse Elizabeth her daughter.
-==9== But tell me, where is princely Richmond now?
+==1==Sir Christopher, tell Richmond this from me:
+==2==That in the sty of the most deadly boar
+==3==My son George Stanley is frank’d up in hold;
+==4==If I revolt, off goes young George’s head;
+==5==The fear of that holds off my present aid.
+==6==So get thee gone; commend me to thy lord.
+==7==Withal say that the Queen hath heartily consented
+==8==He should espouse Elizabeth her daughter.
+==9==But tell me, where is princely Richmond now?
 
 **CHRIS.**
-==10== At Pembroke or at Ha’rford-West in Wales.
+==10==At Pembroke or at Ha’rford-West in Wales.
 
 **STAN.**
-==11== What men of name resort to him?
+==11==What men of name resort to him?
 
 **CHRIS.**
-==12== Sir Walter Herbert, a renowned soldier,
-==13== Sir Gilbert Talbot, Sir William Stanley,
-==14== Oxford, redoubted Pembroke, Sir James Blunt,
-==15== And Rice ap Thomas, with a valiant crew,
-==16== And many other of great name and worth;
-==17== And towards London do they bend their power,
-==18== If by the way they be not fought withal.
+==12==Sir Walter Herbert, a renowned soldier,
+==13==Sir Gilbert Talbot, Sir William Stanley,
+==14==Oxford, redoubted Pembroke, Sir James Blunt,
+==15==And Rice ap Thomas, with a valiant crew,
+==16==And many other of great name and worth;
+==17==And towards London do they bend their power,
+==18==If by the way they be not fought withal.
 
 **STAN.**
-==19== Well, hie thee to thy lord; I kiss his hand.
-==20== My letter will resolve him of my mind.
-==21== Farewell.
+==19==Well, hie thee to thy lord; I kiss his hand.
+==20==My letter will resolve him of my mind.
+==21==Farewell.
 
 *Exeunt.*
 

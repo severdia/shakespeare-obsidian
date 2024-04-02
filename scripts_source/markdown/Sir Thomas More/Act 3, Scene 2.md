@@ -23,30 +23,30 @@ ID: sir-thomas-more-3-2
 *Enter Third Messenger to More.*
 
 **3. MESS.**
-==1== My honorable lord, the Mayor of London,
-==2== Accompanied with his lady and her train,
-==3== Are coming hither, and are hard at hand,
-==4== To feast with you. A servant’s come before,
-==5== To tell your lordship of there near approach.
+==1==My honorable lord, the Mayor of London,
+==2==Accompanied with his lady and her train,
+==3==Are coming hither, and are hard at hand,
+==4==To feast with you. A servant’s come before,
+==5==To tell your lordship of there near approach.
 
 **MORE.**
-==6== Why, this is cheerful news. Friends go and come:
-==7== Reverend Erasmus, who delicious words
-==8== Express the very soul and life of wit,
-==9== Newly took sad leave of me, and with tears
-==10== Troubled the silver channel of the Thames,
-==11== Which, glad of such a burden, proudly swelled
-==12== And on her bosom bore him toward the sea:
-==13== He’s gone to Rotterdam; peace go with him!
-==14== He left me heavy when he went from hence;
-==15== But this recomforts me; the kind Lord Mayor,
-==16== His brethren aldermen, with their fair wives,
-==17== Will feast this night with us. Why, so it should be;
-==18== More’s merry heart lives by good company.
-==19== Good gentlemen, be careful; give great charge
-==20== Our diet be made dainty for the taste;
-==21== For, of all people that the earth affords,
-==22== The Londoners fare richest at their boards.
+==6==Why, this is cheerful news. Friends go and come:
+==7==Reverend Erasmus, who delicious words
+==8==Express the very soul and life of wit,
+==9==Newly took sad leave of me, and with tears
+==10==Troubled the silver channel of the Thames,
+==11==Which, glad of such a burden, proudly swelled
+==12==And on her bosom bore him toward the sea:
+==13==He’s gone to Rotterdam; peace go with him!
+==14==He left me heavy when he went from hence;
+==15==But this recomforts me; the kind Lord Mayor,
+==16==His brethren aldermen, with their fair wives,
+==17==Will feast this night with us. Why, so it should be;
+==18==More’s merry heart lives by good company.
+==19==Good gentlemen, be careful; give great charge
+==20==Our diet be made dainty for the taste;
+==21==For, of all people that the earth affords,
+==22==The Londoners fare richest at their boards.
 
 *Exeunt.*
 

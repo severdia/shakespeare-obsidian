@@ -21,22 +21,22 @@ ID: merry-wives-of-windsor-5-1
 *Enter Falstaff, Mistress Quickly.*
 
 **FAL.**
-==1== Prithee no more prattling. Go, I’ll hold. This is the third time; I hope good luck lies in odd numbers. Away, go. They say there is divinity in odd numbers, either in nativity, chance, or death. Away!
+==1==Prithee no more prattling. Go, I’ll hold. This is the third time; I hope good luck lies in odd numbers. Away, go. They say there is divinity in odd numbers, either in nativity, chance, or death. Away!
 
 **QUICK.**
-==2== I’ll provide you a chain, and I’ll do what I can to get you a pair of horns.
+==2==I’ll provide you a chain, and I’ll do what I can to get you a pair of horns.
 
 **FAL.**
-==3== Away, I say, time wears, hold up your head and mince.
+==3==Away, I say, time wears, hold up your head and mince.
 *(Exit Mrs. Quickly.)*
 *(Enter Ford disguised.)*
-==4== How now, Master Brook? Master Brook, the matter will be known tonight, or never. Be you in the park about midnight, at Herne’s oak, and you shall see wonders.
+==4==How now, Master Brook? Master Brook, the matter will be known tonight, or never. Be you in the park about midnight, at Herne’s oak, and you shall see wonders.
 
 **FORD.**
-==5== Went you not to her yesterday, sir, as you told me you had appointed?
+==5==Went you not to her yesterday, sir, as you told me you had appointed?
 
 **FAL.**
-==6== I went to her, Master Brook, as you see, like a poor old man, but I came from her, Master Brook, like a poor old woman. That same knave Ford, her husband, hath the finest mad devil of jealousy in him, Master Brook, that ever govern’d frenzy. I will tell you—he beat me grievously, in the shape of a woman; for in the shape of man, Master Brook, I fear not Goliath with a weaver’s beam, because I know also life is a shuttle. I am in haste, go along with me, I’ll tell you all, Master Brook. Since I pluck’d geese, play’d truant, and whipt top, I knew not what ’twas to be beaten till lately. Follow me, I’ll tell you strange things of this knave Ford, on whom tonight I will be reveng’d, and I will deliver his wife into your hand. Follow. Strange things in hand, Master Brook! Follow.
+==6==I went to her, Master Brook, as you see, like a poor old man, but I came from her, Master Brook, like a poor old woman. That same knave Ford, her husband, hath the finest mad devil of jealousy in him, Master Brook, that ever govern’d frenzy. I will tell you—he beat me grievously, in the shape of a woman; for in the shape of man, Master Brook, I fear not Goliath with a weaver’s beam, because I know also life is a shuttle. I am in haste, go along with me, I’ll tell you all, Master Brook. Since I pluck’d geese, play’d truant, and whipt top, I knew not what ’twas to be beaten till lately. Follow me, I’ll tell you strange things of this knave Ford, on whom tonight I will be reveng’d, and I will deliver his wife into your hand. Follow. Strange things in hand, Master Brook! Follow.
 
 *Exeunt.*
 

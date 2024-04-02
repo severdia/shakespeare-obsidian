@@ -24,26 +24,26 @@ ID: pericles-5-2
 *Enter Gower.*
 
 **GOW.**
-==1== Now our sands are almost run,
-==2== More a little, and then dumb.
-==3== This, my last boon, give me,
-==4== For such kindness must relieve me:
-==5== That you aptly will suppose
-==6== What pageantry, what feats, what shows,
-==7== What minstrelsy, and pretty din,
-==8== The regent made in Mytilene,
-==9== To greet the King. So he thrived
-==10== That he is promis’d to be wived
-==11== To fair Marina, but in no wise
-==12== Till he had done his sacrifice,
-==13== As Dian bade; whereto being bound,
-==14== The interim, pray you, all confound.
-==15== In feather’d briefness sails are fill’d,
-==16== And wishes fall out as they’re will’d.
-==17== At Ephesus the temple see,
-==18== Our King and all his company.
-==19== That he can hither come so soon
-==20== Is by your fancies’ thankful doom.
+==1==Now our sands are almost run,
+==2==More a little, and then dumb.
+==3==This, my last boon, give me,
+==4==For such kindness must relieve me:
+==5==That you aptly will suppose
+==6==What pageantry, what feats, what shows,
+==7==What minstrelsy, and pretty din,
+==8==The regent made in Mytilene,
+==9==To greet the King. So he thrived
+==10==That he is promis’d to be wived
+==11==To fair Marina, but in no wise
+==12==Till he had done his sacrifice,
+==13==As Dian bade; whereto being bound,
+==14==The interim, pray you, all confound.
+==15==In feather’d briefness sails are fill’d,
+==16==And wishes fall out as they’re will’d.
+==17==At Ephesus the temple see,
+==18==Our King and all his company.
+==19==That he can hither come so soon
+==20==Is by your fancies’ thankful doom.
 
 *Exit.*
 

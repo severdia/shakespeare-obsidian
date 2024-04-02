@@ -19,10 +19,10 @@ ID: as-you-like-it-2-6
 *Enter Orlando and Adam.*
 
 **ADAM.**
-==1== Dear master, I can go no further. O, I die for food! Here lie I down, and measure out my grave. Farewell, kind master.
+==1==Dear master, I can go no further. O, I die for food! Here lie I down, and measure out my grave. Farewell, kind master.
 
 **ORL.**
-==2== Why, how now, Adam? No greater heart in thee? Live a little, comfort a little, cheer thyself a little. If this uncouth forest yield any thing savage, I will either be food for it, or bring it for food to thee. Thy conceit is nearer death than thy powers. For my sake be comfortable, hold death a while at the arm’s end. I will here be with thee presently, and if I bring thee not something to eat, I will give thee leave to die; but if thou diest before I come, thou art a mocker of my labor. Well said, thou look’st cheerly, and I’ll be with thee quickly. Yet thou liest in the bleak air. Come, I will bear thee to some shelter, and thou shalt not die for lack of a dinner if there live any thing in this desert. Cheerly, good Adam!
+==2==Why, how now, Adam? No greater heart in thee? Live a little, comfort a little, cheer thyself a little. If this uncouth forest yield any thing savage, I will either be food for it, or bring it for food to thee. Thy conceit is nearer death than thy powers. For my sake be comfortable, hold death a while at the arm’s end. I will here be with thee presently, and if I bring thee not something to eat, I will give thee leave to die; but if thou diest before I come, thou art a mocker of my labor. Well said, thou look’st cheerly, and I’ll be with thee quickly. Yet thou liest in the bleak air. Come, I will bear thee to some shelter, and thou shalt not die for lack of a dinner if there live any thing in this desert. Cheerly, good Adam!
 
 *Exeunt.*
 

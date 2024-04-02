@@ -22,22 +22,22 @@ ID: king-lear-3-3
 *Enter Gloucester and Edmund with lights.*
 
 **GLOU.**
-==1== Alack, alack, Edmund, I like not this unnatural dealing. When I desir’d their leave that I might pity him, they took from me the use of mine own house, charg’d me on pain of perpetual displeasure neither to speak of him, entreat for him, or any way sustain him.
+==1==Alack, alack, Edmund, I like not this unnatural dealing. When I desir’d their leave that I might pity him, they took from me the use of mine own house, charg’d me on pain of perpetual displeasure neither to speak of him, entreat for him, or any way sustain him.
 
 **EDM.**
-==2== Most savage and unnatural!
+==2==Most savage and unnatural!
 
 **GLOU.**
-==3== Go to; say you nothing. There is division between the Dukes, and a worse matter than that. I have receiv’d a letter this night—’tis dangerous to be spoken; I have lock’d the letter in my closet. These injuries the King now bears will be reveng’d home; there is part of a power already footed: we must incline to the King. I will look him and privily relieve him. Go you and maintain talk with the Duke, that my charity be not of him perceiv’d. If he ask for me, I am ill and gone to bed. If I die for’t (as no less is threat’ned me), the King my old master must be reliev’d. There is strange things toward, Edmund, pray you be careful.
+==3==Go to; say you nothing. There is division between the Dukes, and a worse matter than that. I have receiv’d a letter this night—’tis dangerous to be spoken; I have lock’d the letter in my closet. These injuries the King now bears will be reveng’d home; there is part of a power already footed: we must incline to the King. I will look him and privily relieve him. Go you and maintain talk with the Duke, that my charity be not of him perceiv’d. If he ask for me, I am ill and gone to bed. If I die for’t (as no less is threat’ned me), the King my old master must be reliev’d. There is strange things toward, Edmund, pray you be careful.
 
 *Exit.*
 
 **EDM.**
-==4== This courtesy, forbid thee, shall the Duke
-==5== Instantly know, and of that letter too.
-==6== This seems a fair deserving, and must draw me
-==7== That which my father loses: no less than all.
-==8== The younger rises when the old doth fall.
+==4==This courtesy, forbid thee, shall the Duke
+==5==Instantly know, and of that letter too.
+==6==This seems a fair deserving, and must draw me
+==7==That which my father loses: no less than all.
+==8==The younger rises when the old doth fall.
 
 *Exit.*
 

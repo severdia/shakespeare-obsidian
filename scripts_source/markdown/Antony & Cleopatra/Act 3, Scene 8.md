@@ -19,16 +19,16 @@ ID: antony-and-cleopatra-3-8
 *Enter Caesar with his army and Taurus, marching.*
 
 **CAES.**
-==1== Taurus!
+==1==Taurus!
 
 **TAUR.**
-==2== My lord?
+==2==My lord?
 
 **CAES.**
-==3== Strike not by land, keep whole, provoke not battle
-==4== Till we have done at sea. Do not exceed
-==5== The prescript of this scroll. Our fortune lies
-==6== Upon this jump.
+==3==Strike not by land, keep whole, provoke not battle
+==4==Till we have done at sea. Do not exceed
+==5==The prescript of this scroll. Our fortune lies
+==6==Upon this jump.
 
 *Exeunt.*
 

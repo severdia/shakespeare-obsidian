@@ -19,28 +19,28 @@ ID: antony-and-cleopatra-4-1
 *Enter Caesar, Agrippa, and Maecenas, with his army; Caesar reading a letter.*
 
 **CAES.**
-==1== He calls me boy, and chides as he had power
-==2== To beat me out of Egypt. My messenger
-==3== He hath whipt with rods, dares me to personal combat,
-==4== Caesar to Antony. Let the old ruffian know
-==5== I have many other ways to die; mean time
-==6== Laugh at his challenge.
+==1==He calls me boy, and chides as he had power
+==2==To beat me out of Egypt. My messenger
+==3==He hath whipt with rods, dares me to personal combat,
+==4==Caesar to Antony. Let the old ruffian know
+==5==I have many other ways to die; mean time
+==6==Laugh at his challenge.
 
 **MAEC.**
-==6==               Caesar must think,
-==7== When one so great begins to rage, he’s hunted
-==8== Even to falling. Give him no breath, but now
-==9== Make boot of his distraction: never anger
-==10== Made good guard for itself.
+==6==              Caesar must think,
+==7==When one so great begins to rage, he’s hunted
+==8==Even to falling. Give him no breath, but now
+==9==Make boot of his distraction: never anger
+==10==Made good guard for itself.
 
 **CAES.**
-==10==               Let our best heads
-==11== Know that tomorrow the last of many battles
-==12== We mean to fight. Within our files there are,
-==13== Of those that serv’d Mark Antony but late,
-==14== Enough to fetch him in. See it done,
-==15== And feast the army; we have store to do’t,
-==16== And they have earn’d the waste. Poor Antony!
+==10==              Let our best heads
+==11==Know that tomorrow the last of many battles
+==12==We mean to fight. Within our files there are,
+==13==Of those that serv’d Mark Antony but late,
+==14==Enough to fetch him in. See it done,
+==15==And feast the army; we have store to do’t,
+==16==And they have earn’d the waste. Poor Antony!
 
 *Exeunt.*
 

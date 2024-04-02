@@ -21,16 +21,16 @@ ID: merry-wives-of-windsor-4-3
 *Enter Host and Bardolph.*
 
 **BARD.**
-==1== Sir, the Germans desire to have three of your horses. The Duke himself will be tomorrow at court, and they are going to meet him.
+==1==Sir, the Germans desire to have three of your horses. The Duke himself will be tomorrow at court, and they are going to meet him.
 
 **HOST.**
-==2== What duke should that be comes so secretly? I hear not of him in the court. Let me speak with the gentlemen; they speak English?
+==2==What duke should that be comes so secretly? I hear not of him in the court. Let me speak with the gentlemen; they speak English?
 
 **BARD.**
-==3== Ay, sir; I’ll call them to you.
+==3==Ay, sir; I’ll call them to you.
 
 **HOST.**
-==4== They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my house a week at command. I have turn’d away my other guests; they must come off. I’ll sauce them, come.
+==4==They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my house a week at command. I have turn’d away my other guests; they must come off. I’ll sauce them, come.
 
 *Exeunt.*
 

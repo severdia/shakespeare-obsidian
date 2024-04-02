@@ -21,13 +21,13 @@ ID: merry-wives-of-windsor-1-2
 *Enter Evans and Simple from dinner.*
 
 **EVANS.**
-==1== Go your ways, and ask of Doctor Caius’ house which is the way; and there dwells one Mistress Quickly, which is in the manner of his nurse—or his dry nurse—or his cook—or his laundry—his washer and his wringer.
+==1==Go your ways, and ask of Doctor Caius’ house which is the way; and there dwells one Mistress Quickly, which is in the manner of his nurse—or his dry nurse—or his cook—or his laundry—his washer and his wringer.
 
 **SIM.**
-==2== Well, sir.
+==2==Well, sir.
 
 **EVANS.**
-==3== Nay, it is petter yet. Give her this letter; for it is a oman that altogether’s acquaintance with Mistress Anne Page; and the letter is to desire and require her to solicit your master’s desires to Mistress Anne Page. I pray you be gone. I will make an end of my dinner; there’s pippins and cheese to come.
+==3==Nay, it is petter yet. Give her this letter; for it is a oman that altogether’s acquaintance with Mistress Anne Page; and the letter is to desire and require her to solicit your master’s desires to Mistress Anne Page. I pray you be gone. I will make an end of my dinner; there’s pippins and cheese to come.
 
 *Exeunt.*
 

@@ -19,10 +19,10 @@ ID: antony-and-cleopatra-4-11
 *Enter Caesar and his army.*
 
 **CAES.**
-==1== But being charg’d, we will be still by land,
-==2== Which as I take’t we shall, for his best force
-==3== Is forth to man his galleys. To the vales,
-==4== And hold our best advantage.
+==1==But being charg’d, we will be still by land,
+==2==Which as I take’t we shall, for his best force
+==3==Is forth to man his galleys. To the vales,
+==4==And hold our best advantage.
 
 *Exeunt.*
 
