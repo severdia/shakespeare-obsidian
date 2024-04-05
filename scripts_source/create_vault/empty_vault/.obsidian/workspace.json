@@ -128,6 +128,18 @@
               "type": "file-properties",
               "state": {}
             }
+          },
+          {
+            "id": "b32dbde5055784ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 4

@@ -1,0 +1,126 @@
+{
+  "choices": [
+    {
+      "id": "797cadcb-9bdc-46a8-ad2d-46de93bdfecf",
+      "name": "Copy Play",
+      "type": "Macro",
+      "command": true,
+      "macroId": "2e244439-9e62-4173-a12e-713982fc8d57"
+    },
+    {
+      "id": "dbcf2805-455d-49fd-a716-8e286cfbc0b3",
+      "name": "Reorder Paragraph IDs",
+      "type": "Macro",
+      "command": true,
+      "macroId": "818368d7-77de-4928-9cd7-58b554ca3c0f"
+    },
+    {
+      "id": "dc8c62f6-1435-4c8a-b5d1-8775225ba966",
+      "name": "Reorder Speech Line Numbers",
+      "type": "Macro",
+      "command": true,
+      "macroId": "a395ec92-d93a-4c29-b3f5-b66a82fa7550"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Copy Play",
+      "id": "2e244439-9e62-4173-a12e-713982fc8d57",
+      "commands": [
+        {
+          "name": "copy_books",
+          "type": "UserScript",
+          "id": "939664d9-3e49-43ce-bc4f-21d6967c85aa",
+          "path": "js/copy_books.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Reorder Paragraph IDs",
+      "id": "818368d7-77de-4928-9cd7-58b554ca3c0f",
+      "commands": [
+        {
+          "name": "reorder_paragraph_ids",
+          "type": "UserScript",
+          "id": "123df5ff-6b6f-4d1a-b139-447f25574bd7",
+          "path": "js/reorder_paragraph_ids.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Reorder Speech Line Numbers",
+      "id": "a395ec92-d93a-4c29-b3f5-b66a82fa7550",
+      "commands": [
+        {
+          "name": "reorder_speech_line_numbers",
+          "type": "UserScript",
+          "id": "01cc7073-63ab-49ab-bc68-1979b4055115",
+          "path": "js/reorder_speech_line_numbers.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": false,
+  "version": "0.14.0",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": false
+  }
+}
