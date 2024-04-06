@@ -14,6 +14,7 @@ module.exports = async (params) => {
     const LINK_SUFFIX = ']]';
     const LINK_HIERARCHY_SEPARATOR = '/'; // [[parent/file]]
     const LINK_ALIAS_SEPARATOR = '|'; // [[file|alias]]
+    const LIST_PREFIX = '- '
 
     // TODO find a better way to know if it's directory (OR use typescript TFile and TFolder interfaces with instanceof)
     function isDirectory(fileOrDir) {
@@ -121,6 +122,46 @@ module.exports = async (params) => {
         return chapterContents;
     }
 
+    
+    async function createChaptersInfo(bookName) {
+        const chapterNames = await getBookChapterNames(bookName);
+        
+        let allChaptersContents = [];
+        for (const chapterName of chapterNames) {
+            const chapterContents = await getChapterContents(bookName, chapterName);
+            allChaptersContents.push(chapterContents);
+        }
+
+        return allChaptersContents.join('\n\n');
+    }
+
+
+    async function createCharactersInfo(bookName) {
+        let charactersInfo = '';
+
+        const charactersFilePath = `${BOOKS_FOLDER_NAME}/${bookName}/${CHARACTERS_FILE_NAME}.md`;
+        const charactersFile = app.vault.getFileByPath(charactersFilePath);
+
+        if (charactersFile === null) {
+            return charactersInfo;
+        }
+
+        const charactersFileContents = await app.vault.read(charactersFile);
+
+        const characterLines = []
+        for (const line of charactersFileContents.split('\n')) {
+            if (line.startsWith(LIST_PREFIX)) {
+                characterLines.push(line);
+            }
+        }
+
+        const charactersHeader = CHARACTERS_FILE_NAME.slice(1);
+        charactersInfo = `${H3_PREFIX}${charactersHeader}\n\n` + characterLines.join('\n');
+
+        return charactersInfo;
+    }
+
+
     function getFullBookPath(bookName) {
         const fullBookLink = `${BOOKS_FOLDER_NAME}/${bookName}/+${bookName}`;
         let fullBookPath = `${fullBookLink}.md`;
@@ -135,13 +176,10 @@ module.exports = async (params) => {
     }
 
     async function createFullBookFile(bookName) {
-        const chapterNames = await getBookChapterNames(bookName);
-        
-        let all_chapters_contents = [];
-        for (const chapterName of chapterNames) {
-            all_chapters_contents.push(await getChapterContents(bookName, chapterName));
-        }
-        const fileContents = `${HEADER_SYMBOL} ${bookName}\n\n` + all_chapters_contents.join('\n\n');
+        const charactersInfo = await createCharactersInfo(bookName);
+        const chaptersInfo = await createChaptersInfo(bookName);
+
+        const fileContents = `${HEADER_SYMBOL} ${bookName}\n\n${charactersInfo}\n\n${chaptersInfo}`;
         
         const fullBookPath = getFullBookPath(bookName);
         app.vault.create(fullBookPath, fileContents);
