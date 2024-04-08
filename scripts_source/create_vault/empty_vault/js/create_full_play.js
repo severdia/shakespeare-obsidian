@@ -163,32 +163,26 @@ module.exports = async (params) => {
     }
 
 
-    function createMetadataInfo(bookName) {
-        let metadataInfo = '';
-
+    async function addFullBookFrontmatter(fullBookFile, bookName) {
         const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
 
         if (fullBookAsLinksFile === null) {
-            return metadataInfo;
+            return;
         }
 
         const cachedMetadata = app.metadataCache.getFileCache(fullBookAsLinksFile);
 
         if (cachedMetadata && cachedMetadata.frontmatter) {
-            const metadataList = [];
-            for (const metaKey in cachedMetadata.frontmatter) {
-                const metaValue = cachedMetadata.frontmatter[metaKey];
-                
-                if (metaKey === 'ID') {
-                    continue;
+            await app.fileManager.processFrontMatter(fullBookFile, (frontmatter) => {
+                for (const metaKey in cachedMetadata.frontmatter) {
+                    if (metaKey === 'ID') {
+                        continue;
+                    }
+                    
+                    frontmatter[metaKey] = cachedMetadata.frontmatter[metaKey];
                 }
-
-                metadataList.push(`${metaKey}: ${metaValue}`);
-            }
-            metadataInfo = '---\n' + metadataList.join('\n') + '\n---';
+            });
         }
-
-        return metadataInfo;
     }
 
 
@@ -206,14 +200,15 @@ module.exports = async (params) => {
     }
 
     async function createFullBookFile(bookName) {
-        const metadataInfo = createMetadataInfo(bookName);
         const charactersInfo = await createCharactersInfo(bookName);
         const chaptersInfo = await createChaptersInfo(bookName);
 
-        const fileContents = `${metadataInfo}\n\n${HEADER_SYMBOL} ${bookName}\n\n${charactersInfo}\n\n---\n\n${chaptersInfo}`;
+        const fileContents = `${HEADER_SYMBOL} ${bookName}\n\n${charactersInfo}\n\n---\n\n${chaptersInfo}`;
         
         const fullBookPath = getFullBookPath(bookName);
-        app.vault.create(fullBookPath, fileContents);
+        const createdFile = await app.vault.create(fullBookPath, fileContents);
+
+        await addFullBookFrontmatter(createdFile, bookName);
 
         return true;
     }
