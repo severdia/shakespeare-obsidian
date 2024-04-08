@@ -73,14 +73,14 @@ module.exports = async (params) => {
     async function getBookChapterNames(bookName) {
         const bookChapterNames = [];
 
-        const fullBookAsLinksPath = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
+        const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
 
-        if (fullBookAsLinksPath === null) {
+        if (fullBookAsLinksFile === null) {
             console.log(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE} folder does not exist`);
             return bookChapterNames;
         }
 
-        const fileContents = await app.vault.read(fullBookAsLinksPath);
+        const fileContents = await app.vault.read(fullBookAsLinksFile);
         
         const lines = fileContents.split('\n');
         
@@ -115,8 +115,9 @@ module.exports = async (params) => {
                     changedLines.push(line);
                 }
             }
-    
-            chapterContents = `${H3_PREFIX}${chapterName}\n\n` + changedLines.join('\n');
+            
+            const chapterLink = `[[${bookName}/${chapterName}|${chapterName}]]`;
+            chapterContents = `${H3_PREFIX}${chapterLink}\n\n` + changedLines.join('\n');
         }
         
         return chapterContents;
@@ -132,7 +133,7 @@ module.exports = async (params) => {
             allChaptersContents.push(chapterContents);
         }
 
-        return allChaptersContents.join('\n\n');
+        return allChaptersContents.join('\n---\n\n');
     }
 
 
@@ -162,6 +163,35 @@ module.exports = async (params) => {
     }
 
 
+    function createMetadataInfo(bookName) {
+        let metadataInfo = '';
+
+        const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
+
+        if (fullBookAsLinksFile === null) {
+            return metadataInfo;
+        }
+
+        const cachedMetadata = app.metadataCache.getFileCache(fullBookAsLinksFile);
+
+        if (cachedMetadata && cachedMetadata.frontmatter) {
+            const metadataList = [];
+            for (const metaKey in cachedMetadata.frontmatter) {
+                const metaValue = cachedMetadata.frontmatter[metaKey];
+                
+                if (metaKey === 'ID') {
+                    continue;
+                }
+
+                metadataList.push(`${metaKey}: ${metaValue}`);
+            }
+            metadataInfo = '---\n' + metadataList.join('\n') + '\n---';
+        }
+
+        return metadataInfo;
+    }
+
+
     function getFullBookPath(bookName) {
         const fullBookLink = `${BOOKS_FOLDER_NAME}/${bookName}/+${bookName}`;
         let fullBookPath = `${fullBookLink}.md`;
@@ -176,10 +206,11 @@ module.exports = async (params) => {
     }
 
     async function createFullBookFile(bookName) {
+        const metadataInfo = createMetadataInfo(bookName);
         const charactersInfo = await createCharactersInfo(bookName);
         const chaptersInfo = await createChaptersInfo(bookName);
 
-        const fileContents = `${HEADER_SYMBOL} ${bookName}\n\n${charactersInfo}\n\n${chaptersInfo}`;
+        const fileContents = `${metadataInfo}\n\n${HEADER_SYMBOL} ${bookName}\n\n${charactersInfo}\n\n---\n\n${chaptersInfo}`;
         
         const fullBookPath = getFullBookPath(bookName);
         app.vault.create(fullBookPath, fileContents);
