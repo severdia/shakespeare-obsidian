@@ -111,7 +111,7 @@ module.exports = async (params) => {
             const changedLines = [];
     
             for (const line of lines) {
-                if (!line.startsWith(HEADER_SYMBOL) && !line.startsWith(LINK_PREFIX)) {
+                if (!line.startsWith(HEADER_SYMBOL) && !line.trim().startsWith(LINK_PREFIX)) {
                     changedLines.push(line);
                 }
             }

@@ -166,4 +166,4 @@ ID: sir-thomas-more-1-1
 
 *Exeunt.*
 
- [[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]
+[[+Dramatis Personae|← Dramatis Personae]] | [[Act 1, Scene 2|Act 1, Scene 2 →]]

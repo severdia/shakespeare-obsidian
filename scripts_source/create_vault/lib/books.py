@@ -49,6 +49,7 @@ class BookGenerator:
         book_characters = char_retriever.get_book_characters(chapters_info)
 
         book_info = {
+            'book_name': self.input_book_path.name,
             'input_book_path': self.input_book_path,
             'output_book_path': output_book_path,
             'book_characters': book_characters,
