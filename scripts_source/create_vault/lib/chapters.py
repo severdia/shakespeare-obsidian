@@ -36,8 +36,9 @@ class ChapterInfoRetriever:
 
         for line_number, line in enumerate(lines):
             line = line.strip()
-            if (line_number <= filter_start_index # ignore everything before top navigation
-                or line_number >= filter_end_index): # ignore everything after bottom navigation
+            if line_number <= filter_start_index: # ignore everything before top navigation  
+                prev_line = None
+            elif filter_end_index is not None and line_number >= filter_end_index: # ignore everything after bottom navigation
                 prev_line = None
             elif not line: # if line is empty
                 prev_line = line
@@ -60,10 +61,10 @@ class ChapterInfoRetriever:
 
     def _get_navigation_indexes(self, file_lines):
         filter_start_index = 0 # the first line that starts with [[ is the navigation at the top
-        filter_end_index = -1 # # the last line that starts with [[ is the navigation at the bottom
+        filter_end_index = None  # the last line that starts with [[ is the navigation at the bottom
 
         for index, l in enumerate(file_lines):
-            if l.startswith('[['):
+            if l.strip().startswith('[['):
                 if filter_start_index == 0:
                     filter_start_index = index
                 else:

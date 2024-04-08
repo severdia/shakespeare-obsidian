@@ -100,4 +100,4 @@ ID: sir-thomas-more-2-3
 
 *Exeunt.*
 
- [[Act 2, Scene 2|← Act 2, Scene 2]] | [[Act 2, Scene 4|Act 2, Scene 4 →]]
+[[Act 2, Scene 2|← Act 2, Scene 2]] | [[Act 2, Scene 4|Act 2, Scene 4 →]]
