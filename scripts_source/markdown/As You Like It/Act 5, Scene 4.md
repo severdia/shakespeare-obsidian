@@ -12,7 +12,7 @@ ID: as-you-like-it-5-4
 ---
 
 ## Act 5, Scene 4
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]
 
 *Another part of the Forest of Arden.*
 
@@ -293,4 +293,4 @@ ID: as-you-like-it-5-4
 
 *Exeunt all but Rosalind.*
 
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]

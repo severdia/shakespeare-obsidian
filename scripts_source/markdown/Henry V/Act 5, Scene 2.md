@@ -14,7 +14,7 @@ ID: henry-v-5-2
 ---
 
 ## Act 5, Scene 2
-[[Act 5, Scene 1|← Act 5, Scene 1]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 1|← Act 5, Scene 1]] | [[Epilogue|Epilogue →]]
 
 *France. The French King’s apartment in Troyes.*
 
@@ -391,4 +391,4 @@ ID: henry-v-5-2
 
 *Sennet. Exeunt.*
 
-[[Act 5, Scene 1|← Act 5, Scene 1]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 1|← Act 5, Scene 1]] | [[Epilogue|Epilogue →]]

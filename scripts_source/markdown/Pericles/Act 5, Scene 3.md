@@ -15,7 +15,7 @@ ID: pericles-5-3
 ---
 
 ## Act 5, Scene 3
-[[Act 5, Scene 2|← Act 5, Scene 2]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 2|← Act 5, Scene 2]] | [[Epilogue|Epilogue →]]
 
 *The temple of Diana at Ephesus.*
 
@@ -189,4 +189,4 @@ ID: pericles-5-3
 
 *Exeunt.*
 
-[[Act 5, Scene 2|← Act 5, Scene 2]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 2|← Act 5, Scene 2]] | [[Epilogue|Epilogue →]]

@@ -13,7 +13,7 @@ ID: henry-viii-5-4
 ---
 
 ## Act 5, Scene 4
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]
 
 *The palace-yard.*
 
@@ -129,4 +129,4 @@ ID: henry-viii-5-4
 
 *Exeunt.*
 
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]

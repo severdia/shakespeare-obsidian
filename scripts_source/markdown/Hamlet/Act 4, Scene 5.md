@@ -136,7 +136,7 @@ ID: hamlet-4-5
 ==59==*Quoth she, “Before you tumbled me,*
 ==60==*You promis’d me to wed.’”*
 *(He answers.)*
-"Then he goes,"==61==*“‘So would I ’a’ done, by yonder sun,*
+==61==*“‘So would I ’a’ done, by yonder sun,*
 ==62==*And thou hadst not come to my bed.’”*
 
 **KING.**

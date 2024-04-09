@@ -492,7 +492,7 @@ ID: julius-caesar-4-3
 
 **CAS.**
 ==224==           Then with your will go on;
-==225==We’ll along ourselves, and meet them at Philippi .
+==225==We’ll along ourselves, and meet them at Philippi.
 
 **BRU.**
 ==226==The deep of night is crept upon our talk,

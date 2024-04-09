@@ -14,7 +14,7 @@ ID: henry-iv-part-ii-5-5
 ---
 
 ## Act 5, Scene 5
-[[Act 5, Scene 4|← Act 5, Scene 4]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 4|← Act 5, Scene 4]] | [[Epilogue|Epilogue →]]
 
 *Westminster. Near the Abbey.*
 
@@ -203,4 +203,4 @@ ID: henry-iv-part-ii-5-5
 
 *Exeunt.*
 
-[[Act 5, Scene 4|← Act 5, Scene 4]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 4|← Act 5, Scene 4]] | [[Epilogue|Epilogue →]]

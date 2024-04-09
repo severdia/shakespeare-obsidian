@@ -18,7 +18,7 @@ ID: henry-vi-part-ii-3-1
 
 *The Abbey at Bury Saint Edmunds.*
 
-*Sound a sennet. Enter two Heralds before. Then enter King, Queen, Cardinal, Suffolk, York, Buckingham,""Salisbury, and Warwick to the parliament.*
+*Sound a sennet. Enter two Heralds before. Then enter King, Queen, Cardinal, Suffolk, York, Buckingham, Salisbury, and Warwick to the parliament.*
 
 **KING.**
 ==1==I muse my Lord of Gloucester is not come;
