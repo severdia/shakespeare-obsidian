@@ -58,7 +58,7 @@ ID: merry-wives-of-windsor-4-2
 ==11==Why?
 
 **MRS. PAGE.**
-==12==Why, woman, your husband is in his old lines again. He so takes on yonder with my husband; so rails against all married mankind; so curses all Eve’s daughters, of what complexion soever; and so buffets himself on the forehead, crying, “Peer out, peer out!” , that any madness I ever yet beheld seem’d but tameness, civility, and patience to this his distemper he is in now. I am glad the fat knight is not here.
+==12==Why, woman, your husband is in his old lines again. He so takes on yonder with my husband; so rails against all married mankind; so curses all Eve’s daughters, of what complexion soever; and so buffets himself on the forehead, crying, “Peer out, peer out!”, that any madness I ever yet beheld seem’d but tameness, civility, and patience to this his distemper he is in now. I am glad the fat knight is not here.
 
 **MRS. FORD.**
 ==13==Why, does he talk of him?

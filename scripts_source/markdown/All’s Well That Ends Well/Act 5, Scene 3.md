@@ -13,7 +13,7 @@ ID: alls-well-that-ends-well-5-3
 ---
 
 ## Act 5, Scene 3
-[[Act 5, Scene 2|← Act 5, Scene 2]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 2|← Act 5, Scene 2]] | [[Epilogue|Epilogue →]]
 
 *Roussillon. The Count’s palace.*
 
@@ -618,4 +618,4 @@ ID: alls-well-that-ends-well-5-3
 
 *Flourish.*
 
-[[Act 5, Scene 2|← Act 5, Scene 2]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 2|← Act 5, Scene 2]] | [[Epilogue|Epilogue →]]

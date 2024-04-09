@@ -16,7 +16,7 @@ ID: henry-iv-part-ii-dp
 ## Dramatis Personae
 
 
-- King Henry the Fourth (KING.)
+- King Henry IV (KING.)
 - Prince Henry (King Henry the Fifth) (PRINCE.; K. HEN.; BOTH PRINCE. AND POINS.)
 - Sir John Falstaff (FAL.)
 - Richard Scroop, Archbishop of York (ARCH.)

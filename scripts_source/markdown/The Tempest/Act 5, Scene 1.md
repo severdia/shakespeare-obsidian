@@ -12,7 +12,7 @@ ID: tempest-5-1
 ---
 
 ## Act 5, Scene 1
-[[Act 4, Scene 1|← Act 4, Scene 1]] | [[ị Epilogue|Epilogue →]]
+[[Act 4, Scene 1|← Act 4, Scene 1]] | [[Epilogue|Epilogue →]]
 
 *Before Prospero’s cell.*
 
@@ -568,4 +568,4 @@ ID: tempest-5-1
 
 *Exeunt omnes.*
 
-[[Act 4, Scene 1|← Act 4, Scene 1]] | [[ị Epilogue|Epilogue →]]
+[[Act 4, Scene 1|← Act 4, Scene 1]] | [[Epilogue|Epilogue →]]

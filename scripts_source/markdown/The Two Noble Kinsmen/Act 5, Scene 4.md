@@ -13,7 +13,7 @@ ID: two-noble-kinsmen-5-4
 ---
 
 ## Act 5, Scene 4
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]
 
 *A place near the Lists. A block prepared.*
 
@@ -254,4 +254,4 @@ ID: two-noble-kinsmen-5-4
 
 *Flourish. Exeunt.*
 
-[[Act 5, Scene 3|← Act 5, Scene 3]] | [[ị Epilogue|Epilogue →]]
+[[Act 5, Scene 3|← Act 5, Scene 3]] | [[Epilogue|Epilogue →]]
