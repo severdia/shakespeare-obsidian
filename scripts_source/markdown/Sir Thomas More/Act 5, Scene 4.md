@@ -198,4 +198,4 @@ ID: sir-thomas-more-5-4
 
 *Exit.*
 
-FINIS[[Act 5, Scene 3|← Act 5, Scene 3]]
+[[Act 5, Scene 3|← Act 5, Scene 3]]
