@@ -47,7 +47,7 @@ ID: shakespeare-toc
 	* [[All’s Well That Ends Well/Act 5, Scene 1|Act 5, Scene 1]]
 	* [[All’s Well That Ends Well/Act 5, Scene 2|Act 5, Scene 2]]
 	* [[All’s Well That Ends Well/Act 5, Scene 3|Act 5, Scene 3]]
-	* [[All’s Well That Ends Well/ị Epilogue|Epilogue]]
+	* [[All’s Well That Ends Well/Epilogue|Epilogue]]
 
 * [[Antony & Cleopatra/+Dramatis Personae|Antony & Cleopatra]]
 	* [[Antony & Cleopatra/++Full Play|Full Play]]
@@ -120,7 +120,7 @@ ID: shakespeare-toc
 	* [[As You Like It/Act 5, Scene 2|Act 5, Scene 2]]
 	* [[As You Like It/Act 5, Scene 3|Act 5, Scene 3]]
 	* [[As You Like It/Act 5, Scene 4|Act 5, Scene 4]]
-	* [[As You Like It/ị Epilogue|Epilogue]]
+	* [[As You Like It/Epilogue|Epilogue]]
 
 * [[Coriolanus/+Dramatis Personae|Coriolanus]]
 	* [[Coriolanus/++Full Play|Full Play]]
@@ -257,7 +257,7 @@ ID: shakespeare-toc
 	* [[Henry IV, Part 2/Act 5, Scene 3|Act 5, Scene 3]]
 	* [[Henry IV, Part 2/Act 5, Scene 4|Act 5, Scene 4]]
 	* [[Henry IV, Part 2/Act 5, Scene 5|Act 5, Scene 5]]
-	* [[Henry IV, Part 2/ị Epilogue|Epilogue]]
+	* [[Henry IV, Part 2/Epilogue|Epilogue]]
 
 * [[Henry V/+Dramatis Personae|Henry 5]]
 	* [[Henry V/++Full Play|Full Play]]
@@ -290,7 +290,7 @@ ID: shakespeare-toc
 	* [[Henry V/Act 5, Prologue|Act 5, Prologue]]
 	* [[Henry V/Act 5, Scene 1|Act 5, Scene 1]]
 	* [[Henry V/Act 5, Scene 2|Act 5, Scene 2]]
-	* [[Henry V/ị Epilogue|Epilogue]]
+	* [[Henry V/Epilogue|Epilogue]]
 
 * [[Henry VI, Part 1/+Dramatis Personae|Henry 6, Part 1]]
 	* [[Henry VI, Part 1/++Full Play|Full Play]]
@@ -403,7 +403,7 @@ ID: shakespeare-toc
 	* [[Henry VIII/Act 5, Scene 2|Act 5, Scene 2]]
 	* [[Henry VIII/Act 5, Scene 3|Act 5, Scene 3]]
 	* [[Henry VIII/Act 5, Scene 4|Act 5, Scene 4]]
-	* [[Henry VIII/ị Epilogue|Epilogue]]
+	* [[Henry VIII/Epilogue|Epilogue]]
 
 * [[Julius Caesar/+Dramatis Personae|Julius Caesar]]
 	* [[Julius Caesar/++Full Play|Full Play]]
@@ -640,7 +640,7 @@ ID: shakespeare-toc
 	* [[Pericles/Act 5, Scene 1|Act 5, Scene 1]]
 	* [[Pericles/Act 5, Scene 2|Act 5, Scene 2]]
 	* [[Pericles/Act 5, Scene 3|Act 5, Scene 3]]
-	* [[Pericles/ị Epilogue|Epilogue]]
+	* [[Pericles/Epilogue|Epilogue]]
 
 
 * [[Richard III/+Dramatis Personae|Richard 3]]
@@ -824,7 +824,7 @@ ID: shakespeare-toc
 	* [[The Tempest/Act 3, Scene 3|Act 3, Scene 3]]
 	* [[The Tempest/Act 4, Scene 1|Act 4, Scene 1]]
 	* [[The Tempest/Act 5, Scene 1|Act 5, Scene 1]]
-	* [[The Tempest/ị Epilogue|Epilogue]]
+	* [[The Tempest/Epilogue|Epilogue]]
 
 * [[The Two Gentlemen of Verona/+Dramatis Personae|The Two Gentlemen of Verona]]
 	* [[The Two Gentlemen of Verona/++Full Play|Full Play]]
@@ -878,7 +878,7 @@ ID: shakespeare-toc
 	* [[The Two Noble Kinsmen/Act 5, Scene 2|Act 5, Scene 2]]
 	* [[The Two Noble Kinsmen/Act 5, Scene 3|Act 5, Scene 3]]
 	* [[The Two Noble Kinsmen/Act 5, Scene 4|Act 5, Scene 4]]
-	* [[The Two Noble Kinsmen/ị Epilogue|Epilogue]]
+	* [[The Two Noble Kinsmen/Epilogue|Epilogue]]
 
 * [[The Winter’s Tale/+Dramatis Personae|The Winter’s Tale]]
 	* [[The Winter’s Tale/++Full Play|Full Play]]
