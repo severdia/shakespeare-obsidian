@@ -7,6 +7,7 @@ Each speech line is marked with a number at the start, following this format:
 module.exports = async (params) => {
 	const app = params.app;
 	const BOOKS_FOLDER_NAME = 'Shakespeare';
+    const H3_PREFIX = '### ';
     const HIGHLIGHT_MARKER = '==';
 
 	// TODO find a better way to know if it's directory (OR use typescript TFile and TFolder interfaces with instanceof)
@@ -82,7 +83,10 @@ module.exports = async (params) => {
 			let currentLineNumber = 0; // will be incremented by 1 for each speech line number except when line numbers are the same
 
 			for (const line of lines) {
-				if (line.startsWith(HIGHLIGHT_MARKER)) {
+                if (line.startsWith(H3_PREFIX)) { // reset numbering for every chapter
+                    lastChangedLineNumber = -1;
+                    currentLineNumber = 0;
+                } else if (line.startsWith(HIGHLIGHT_MARKER)) {
                     const highlightEndIndex = line.indexOf(HIGHLIGHT_MARKER, HIGHLIGHT_MARKER.length);
 
                     if (highlightEndIndex !== -1) {
