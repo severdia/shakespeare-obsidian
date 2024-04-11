@@ -16,7 +16,7 @@ module.exports = async (params) => {
     const LINK_ALIAS_SEPARATOR = '|'; // [[file|alias]]
     const LIST_PREFIX = '- '
 
-    // TODO find a better way to know if it's directory (OR use typescript TFile and TFolder interfaces with instanceof)
+    // TODO find a better way (in typescript: fileOrDir instanceof TFolder)
     function isDirectory(fileOrDir) {
         if (fileOrDir.hasOwnProperty("children")) {
             return true;
@@ -38,7 +38,6 @@ module.exports = async (params) => {
         return bookNames;
     }
 
-    // TODO quickAddApi.suggester is used here. In plugin we will need to use the FuzzySuggestModal class
     async function chooseBookFromModal(booksFolder) {
         const bookNames = getBookNames(booksFolder);
         return await params.quickAddApi.suggester(bookNames, bookNames);
