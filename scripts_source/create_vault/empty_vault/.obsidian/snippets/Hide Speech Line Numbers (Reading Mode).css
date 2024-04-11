@@ -1,7 +1,7 @@
 .markdown-preview-view mark {
-    display: none;
+    display: none !important;
 }
 
 .markdown-source-view.is-live-preview .markdown-embed mark {
-	display: none;
+	display: none !important;
 }
