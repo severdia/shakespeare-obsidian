@@ -1,30 +1,30 @@
 {
   "choices": [
     {
-      "id": "9e37f4c8-38b3-47b3-9e3f-294f74de4949",
+      "id": "1b3c5297-572a-4654-82c3-23eebc7ac539",
       "name": "Create Full Play",
       "type": "Macro",
       "command": true,
-      "macroId": "e4cc9d83-f6a3-4d1f-9f1c-5254931af16c"
+      "macroId": "5bbace77-7707-4f05-a2bd-d21ed7ca6ef0"
     },
     {
-      "id": "72723f8e-d6b2-4abd-a78e-cfcf78d784fc",
+      "id": "0427cd9b-2048-4fee-b609-ea248d8b1301",
       "name": "Renumber Speech Lines",
       "type": "Macro",
       "command": true,
-      "macroId": "9039b0cf-0a94-4117-9d81-deca7032feb7"
+      "macroId": "42069b06-122c-4a7c-bdee-db8afd618ae1"
     }
   ],
   "macros": [
     {
       "name": "Create Full Play",
-      "id": "e4cc9d83-f6a3-4d1f-9f1c-5254931af16c",
+      "id": "5bbace77-7707-4f05-a2bd-d21ed7ca6ef0",
       "commands": [
         {
           "name": "create_full_play",
           "type": "UserScript",
-          "id": "7b379798-8989-4ca5-88b8-2b98e7b4c12f",
-          "path": "js/create_full_play.js",
+          "id": "b967d919-0d0d-42a0-a573-d80dfff3d9eb",
+          "path": "assets/js/create_full_play.js",
           "settings": {}
         }
       ],
@@ -32,13 +32,13 @@
     },
     {
       "name": "Renumber Speech Lines",
-      "id": "9039b0cf-0a94-4117-9d81-deca7032feb7",
+      "id": "42069b06-122c-4a7c-bdee-db8afd618ae1",
       "commands": [
         {
           "name": "renumber_speech_lines",
           "type": "UserScript",
-          "id": "f0fbf34b-5323-4dfc-92d2-68ab47904c72",
-          "path": "js/renumber_speech_lines.js",
+          "id": "cce24fbe-def6-4111-8a4e-7c23aa865f8c",
+          "path": "assets/js/renumber_speech_lines.js",
           "settings": {}
         }
       ],
