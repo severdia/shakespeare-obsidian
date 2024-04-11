@@ -4,7 +4,7 @@ instead of just links to paragraphs like in the `++Full Play.md` files.
 */
 
 module.exports = async (params) => {
-    const app = params.app;
+    const {app, obsidian, quickAddApi} = params;
     const BOOKS_FOLDER_NAME = 'Shakespeare';
     const FULL_BOOK_AS_LINKS_FILE = `++Full Play.md`;
     const CHARACTERS_FILE_NAME = '+Dramatis Personae';
@@ -14,21 +14,13 @@ module.exports = async (params) => {
     const LINK_SUFFIX = ']]';
     const LINK_HIERARCHY_SEPARATOR = '/'; // [[parent/file]]
     const LINK_ALIAS_SEPARATOR = '|'; // [[file|alias]]
-    const LIST_PREFIX = '- '
+    const LIST_PREFIX = '- ';
 
-    // TODO find a better way (in typescript: fileOrDir instanceof TFolder)
-    function isDirectory(fileOrDir) {
-        if (fileOrDir.hasOwnProperty("children")) {
-            return true;
-        }
-
-        return false;
-    }
 
     function getBookNames(booksFolder) {
         const bookNames = [];
         for (const child of booksFolder.children) {
-            if (isDirectory(child)) {
+            if (child instanceof obsidian.TFolder) {
                 bookNames.push(child.name);
             }
         }
@@ -40,7 +32,7 @@ module.exports = async (params) => {
 
     async function chooseBookFromModal(booksFolder) {
         const bookNames = getBookNames(booksFolder);
-        return await params.quickAddApi.suggester(bookNames, bookNames);
+        return await quickAddApi.suggester(bookNames, bookNames);
     }
 
 
