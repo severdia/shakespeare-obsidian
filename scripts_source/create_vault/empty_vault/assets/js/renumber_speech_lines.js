@@ -5,24 +5,16 @@ Each speech line is marked with a number at the start, following this format:
 */
 
 module.exports = async (params) => {
-	const app = params.app;
+    const {app, obsidian, quickAddApi} = params;
 	const BOOKS_FOLDER_NAME = 'Shakespeare';
     const H3_PREFIX = '### ';
     const HIGHLIGHT_MARKER = '==';
 
-	// TODO find a better way (in typescript: fileOrDir instanceof TFolder)
-    function isDirectory(fileOrDir) {
-        if (fileOrDir.hasOwnProperty("children")) {
-            return true;
-        }
-
-        return false;
-    }
 
     function getBookNames(booksFolder) {
         const bookNames = [];
         for (const child of booksFolder.children) {
-            if (isDirectory(child)) {
+            if (child instanceof obsidian.TFolder) {
                 bookNames.push(child.name);
             }
         }
@@ -41,7 +33,7 @@ module.exports = async (params) => {
 
             if (bookFolder) {
                 for (const child of bookFolder.children) {
-                    if (!isDirectory(child) && child.name.startsWith(`+${bookName}`)) {
+                    if (child instanceof obsidian.TFile && child.name.startsWith(`+${bookName}`)) {
                         fullBookFiles.push(child);
                     }
                 }
@@ -62,7 +54,7 @@ module.exports = async (params) => {
             fullBooksNames.push(fullBookFile.name);
         }
 
-        const choosenFullBookName = await params.quickAddApi.suggester(fullBooksNames, fullBooksNames);
+        const choosenFullBookName = await quickAddApi.suggester(fullBooksNames, fullBooksNames);
 
         if (choosenFullBookName) {
             return fullBooksByName.get(choosenFullBookName);
