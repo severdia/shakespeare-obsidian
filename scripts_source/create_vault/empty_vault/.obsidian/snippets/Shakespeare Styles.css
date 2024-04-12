@@ -3,7 +3,7 @@
 /* styles for <h6> tags */
 .markdown-source-view.is-live-preview div.HyperMD-header-6,
 .markdown-preview-view h6 {
-  color: #949494;
+  color: #d6d6d6;
   font-size: 0.7em;
   margin-bottom: 0;
 }
@@ -18,7 +18,7 @@
 /* Speech Line Numbers */
 .markdown-preview-view mark, 
 .markdown-source-view.is-live-preview .cm-highlight {
-	padding: 0.3em;
+	padding: 0 0.3em;	
 	margin-right: 0.5em;
 	font-variant-numeric: tabular-nums;
 	font-size: 0.8em;
