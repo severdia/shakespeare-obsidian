@@ -21,58 +21,58 @@ ID: pericles-4-prologue
 *Enter Gower.*
 
 **GOW.**
-Imagine Pericles arriv’d at Tyre,
-Welcom’d and settled to his own desire.
-His woeful queen we leave at Ephesus,
-Unto Diana there ’s a votaress.
-Now to Marina bend your mind,
-Whom our fast-growing scene must find
-At Tharsus, and by Cleon train’d
-In music’s letters, who hath gain’d
-Of education all the grace,
-Which makes her both th’ heart and place
-Of general wonder. But alack,
-That monster Envy, oft the wrack
-Of earned praise, Marina’s life
-Seeks to take off by treason’s knife,
-And in this kind: our Cleon hath
-One daughter, and a full-grown wench,
-Even ripe for marriage rite; this maid
-Hight Philoten, and it is said
-For certain in our story, she
-Would ever with Marina be:
-Be’t when they weav’d the sleided silk
-With fingers long, small, white as milk;
-Or when she would with sharp needle wound
-The cambric, which she made more sound
-By hurting it; or when to th’ lute
-She sung, and made the night-bird mute,
-That still records with moan; or when
-She would with rich and constant pen
-Vail to her mistress Dian; still
-This Philoten contends in skill
-With absolute Marina: so
-The dove of Paphos might with the crow
-Vie feathers white. Marina gets
-All praises, which are paid as debts,
-And not as given. This so darks
-In Philoten all graceful marks,
-That Cleon’s wife, with envy rare,
-A present murderer does prepare
-For good Marina, that her daughter
-Might stand peerless by this slaughter.
-The sooner her vile thoughts to stead,
-Lychorida, our nurse, is dead,
-And cursed Dionyza hath
-The pregnant instrument of wrath
-Prest for this blow. The unborn event
-I do commend to your content;
-Only I carried winged time
-Post on the lame feet of my rhyme,
-Which never could I so convey,
-Unless your thoughts went on my way.
-Dionyza does appear,
-With Leonine, a murderer.
+==1==Imagine Pericles arriv’d at Tyre,
+==2==Welcom’d and settled to his own desire.
+==3==His woeful queen we leave at Ephesus,
+==4==Unto Diana there ’s a votaress.
+==5==Now to Marina bend your mind,
+==6==Whom our fast-growing scene must find
+==7==At Tharsus, and by Cleon train’d
+==8==In music’s letters, who hath gain’d
+==9==Of education all the grace,
+==10==Which makes her both th’ heart and place
+==11==Of general wonder. But alack,
+==12==That monster Envy, oft the wrack
+==13==Of earned praise, Marina’s life
+==14==Seeks to take off by treason’s knife,
+==15==And in this kind: our Cleon hath
+==16==One daughter, and a full-grown wench,
+==17==Even ripe for marriage rite; this maid
+==18==Hight Philoten, and it is said
+==19==For certain in our story, she
+==20==Would ever with Marina be:
+==21==Be’t when they weav’d the sleided silk
+==22==With fingers long, small, white as milk;
+==23==Or when she would with sharp needle wound
+==24==The cambric, which she made more sound
+==25==By hurting it; or when to th’ lute
+==26==She sung, and made the night-bird mute,
+==27==That still records with moan; or when
+==28==She would with rich and constant pen
+==29==Vail to her mistress Dian; still
+==30==This Philoten contends in skill
+==31==With absolute Marina: so
+==32==The dove of Paphos might with the crow
+==33==Vie feathers white. Marina gets
+==34==All praises, which are paid as debts,
+==35==And not as given. This so darks
+==36==In Philoten all graceful marks,
+==37==That Cleon’s wife, with envy rare,
+==38==A present murderer does prepare
+==39==For good Marina, that her daughter
+==40==Might stand peerless by this slaughter.
+==41==The sooner her vile thoughts to stead,
+==42==Lychorida, our nurse, is dead,
+==43==And cursed Dionyza hath
+==44==The pregnant instrument of wrath
+==45==Prest for this blow. The unborn event
+==46==I do commend to your content;
+==47==Only I carried winged time
+==48==Post on the lame feet of my rhyme,
+==49==Which never could I so convey,
+==50==Unless your thoughts went on my way.
+==51==Dionyza does appear,
+==52==With Leonine, a murderer.
 
 
 *Exit.*
