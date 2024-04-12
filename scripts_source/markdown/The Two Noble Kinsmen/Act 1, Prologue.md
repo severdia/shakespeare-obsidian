@@ -19,38 +19,38 @@ ID: two-noble-kinsmen-1-prologue
 *Flourish.*
 
 **PRO.**
-New plays and maidenheads are near akin⁠—
-Much follow’d both, for both much money gi’n,
-If they stand sound and well; and a good play
-(Whose modest scenes blush on his marriage-day,
-And shake to lose his honor) is like her
-That after holy tie and first night’s stir,
-Yet still is modesty, and still retains
-More of the maid to sight than husband’s pains.
-We pray our play may be so; for I am sure
-It has a noble breeder and a pure,
-A learned, and a poet never went
-More famous yet ’twixt Po and silver Trent.
-Chaucer (of all admir’d) the story gives;
-There constant to eternity it lives.
-If we let fall the nobleness of this,
-And the first sound this child hear be a hiss,
-How will it shake the bones of that good man,
-And make him cry from under ground, “O, fan
-From me the witless chaff of such a writer
-That blasts my bays and my fam’d works makes lighter
-Than Robin Hood!” This is the fear we bring;
-For to say truth, it were an endless thing,
-And too ambitious, to aspire to him,
-Weak as we are, and almost breathless swim
-In this deep water. Do but you hold out
-Your helping hands, and we shall tack about
-And something do to save us. You shall hear
-Scenes, though below his art, may yet appear
-Worth two hours’ travail. To his bones sweet sleep!
-Content to you! If this play do not keep
-A little dull time from us, we perceive
-Our losses fall so thick we must needs leave.
+==1==New plays and maidenheads are near akin⁠—
+==2==Much follow’d both, for both much money gi’n,
+==3==If they stand sound and well; and a good play
+==4==(Whose modest scenes blush on his marriage-day,
+==5==And shake to lose his honor) is like her
+==6==That after holy tie and first night’s stir,
+==7==Yet still is modesty, and still retains
+==8==More of the maid to sight than husband’s pains.
+==9==We pray our play may be so; for I am sure
+==10==It has a noble breeder and a pure,
+==11==A learned, and a poet never went
+==12==More famous yet ’twixt Po and silver Trent.
+==13==Chaucer (of all admir’d) the story gives;
+==14==There constant to eternity it lives.
+==15==If we let fall the nobleness of this,
+==16==And the first sound this child hear be a hiss,
+==17==How will it shake the bones of that good man,
+==18==And make him cry from under ground, “O, fan
+==19==From me the witless chaff of such a writer
+==20==That blasts my bays and my fam’d works makes lighter
+==21==Than Robin Hood!” This is the fear we bring;
+==22==For to say truth, it were an endless thing,
+==23==And too ambitious, to aspire to him,
+==24==Weak as we are, and almost breathless swim
+==25==In this deep water. Do but you hold out
+==26==Your helping hands, and we shall tack about
+==27==And something do to save us. You shall hear
+==28==Scenes, though below his art, may yet appear
+==29==Worth two hours’ travail. To his bones sweet sleep!
+==30==Content to you! If this play do not keep
+==31==A little dull time from us, we perceive
+==32==Our losses fall so thick we must needs leave.
 
 
 *Flourish.*

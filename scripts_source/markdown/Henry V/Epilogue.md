@@ -20,20 +20,20 @@ ID: henry-v-epilogue
 *Enter Chorus as Epilogue.*
 
 **CHORUS.**
-Thus far, with rough and all-unable pen,
-Our bending author hath pursu’d the story,
-In little room confining mighty men,
-Mangling by starts the full course of their glory.
-Small time; but in that small most greatly lived
-This star of England. Fortune made his sword;
-By which the world’s best garden he achieved,
-And of it left his son imperial lord.
-Henry the Sixth, in infant bands crown’d King
-Of France and England, did this king succeed;
-Whose state so many had the managing,
-That they lost France, and made his England bleed;
-Which oft our stage hath shown; and for their sake,
-In your fair minds let this acceptance take.
+==1==Thus far, with rough and all-unable pen,
+==2==Our bending author hath pursu’d the story,
+==3==In little room confining mighty men,
+==4==Mangling by starts the full course of their glory.
+==5==Small time; but in that small most greatly lived
+==6==This star of England. Fortune made his sword;
+==7==By which the world’s best garden he achieved,
+==8==And of it left his son imperial lord.
+==9==Henry the Sixth, in infant bands crown’d King
+==10==Of France and England, did this king succeed;
+==11==Whose state so many had the managing,
+==12==That they lost France, and made his England bleed;
+==13==Which oft our stage hath shown; and for their sake,
+==14==In your fair minds let this acceptance take.
 
 
 *Exit.*

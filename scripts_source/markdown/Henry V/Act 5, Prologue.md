@@ -20,51 +20,51 @@ ID: henry-v-5-prologue
 *Enter Chorus.*
 
 **CHORUS.**
-Vouchsafe to those that have not read the story,
-That I may prompt them; and of such as have,
-I humbly pray them to admit th’ excuse
-Of time, of numbers, and due course of things,
-Which cannot in their huge and proper life
-Be here presented. Now we bear the King
-Toward Callice; grant him there; there seen,
-Heave him away upon your winged thoughts
-Athwart the sea. Behold, the English beach
-Pales in the flood with men, wives, and boys,
-Whose shouts and claps out-voice the deep-mouth’d sea,
-Which like a mighty whiffler ’fore the King
-Seems to prepare his way. So let him land,
-And solemnly see him set on to London.
-So swift a pace hath thought that even now
-You may imagine him upon Blackheath;
-Where that his lords desire him to have borne
-His bruised helmet and his bended sword
-Before him through the city. He forbids it,
-Being free from vainness and self-glorious pride;
-Giving full trophy, signal, and ostent
-Quite from himself to God. But now behold,
-In the quick forge and working-house of thought,
-How London doth pour out her citizens!
-The Mayor and all his brethren in best sort,
-Like to the senators of th’ antique Rome,
-With the plebeians swarming at their heels,
-Go forth and fetch their conqu’ring Caesar in;
-As by a lower but by loving likelihood,
-Were now the general of our gracious Empress,
-As in good time he may, from Ireland coming,
-Bringing rebellion broached on his sword,
-How many would the peaceful city quit,
-To welcome him! Much more, and much more cause,
-Did they this Harry. Now in London place him⁠—
-As yet the lamentation of the French
-Invites the King of England’s stay at home;
-The Emperor’s coming in behalf of France,
-To order peace between them—and omit
-All the occurrences, what ever chanc’d,
-Till Harry’s back-return again to France.
-There must we bring him; and myself have play’d
-The interim, by rememb’ring you ’tis past.
-Then brook abridgment, and your eyes advance,
-After your thoughts, straight back again to France.
+==1==Vouchsafe to those that have not read the story,
+==2==That I may prompt them; and of such as have,
+==3==I humbly pray them to admit th’ excuse
+==4==Of time, of numbers, and due course of things,
+==5==Which cannot in their huge and proper life
+==6==Be here presented. Now we bear the King
+==7==Toward Callice; grant him there; there seen,
+==8==Heave him away upon your winged thoughts
+==9==Athwart the sea. Behold, the English beach
+==10==Pales in the flood with men, wives, and boys,
+==11==Whose shouts and claps out-voice the deep-mouth’d sea,
+==12==Which like a mighty whiffler ’fore the King
+==13==Seems to prepare his way. So let him land,
+==14==And solemnly see him set on to London.
+==15==So swift a pace hath thought that even now
+==16==You may imagine him upon Blackheath;
+==17==Where that his lords desire him to have borne
+==18==His bruised helmet and his bended sword
+==19==Before him through the city. He forbids it,
+==20==Being free from vainness and self-glorious pride;
+==21==Giving full trophy, signal, and ostent
+==22==Quite from himself to God. But now behold,
+==23==In the quick forge and working-house of thought,
+==24==How London doth pour out her citizens!
+==25==The Mayor and all his brethren in best sort,
+==26==Like to the senators of th’ antique Rome,
+==27==With the plebeians swarming at their heels,
+==28==Go forth and fetch their conqu’ring Caesar in;
+==29==As by a lower but by loving likelihood,
+==30==Were now the general of our gracious Empress,
+==31==As in good time he may, from Ireland coming,
+==32==Bringing rebellion broached on his sword,
+==33==How many would the peaceful city quit,
+==34==To welcome him! Much more, and much more cause,
+==35==Did they this Harry. Now in London place him⁠—
+==36==As yet the lamentation of the French
+==37==Invites the King of England’s stay at home;
+==38==The Emperor’s coming in behalf of France,
+==39==To order peace between them—and omit
+==40==All the occurrences, what ever chanc’d,
+==41==Till Harry’s back-return again to France.
+==42==There must we bring him; and myself have play’d
+==43==The interim, by rememb’ring you ’tis past.
+==44==Then brook abridgment, and your eyes advance,
+==45==After your thoughts, straight back again to France.
 
 
 *Exit.*

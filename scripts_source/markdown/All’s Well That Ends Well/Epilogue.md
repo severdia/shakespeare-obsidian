@@ -17,12 +17,12 @@ ID: alls-well-that-ends-well-epilogue
 
 **KING.**
 *(Advancing.)*
-The king’s a beggar, now the play is done;
-All is well ended, if this suit be won,
-That you express content; which we will pay,
-With strife to please you, day exceeding day.
-Ours be your patience then, and yours our parts;
-Your gentle hands lend us, and take our hearts.
+==1==The king’s a beggar, now the play is done;
+==2==All is well ended, if this suit be won,
+==3==That you express content; which we will pay,
+==4==With strife to please you, day exceeding day.
+==5==Ours be your patience then, and yours our parts;
+==6==Your gentle hands lend us, and take our hearts.
 
 
 *Exeunt omnes.*

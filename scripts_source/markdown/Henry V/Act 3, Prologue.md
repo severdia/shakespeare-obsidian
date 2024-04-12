@@ -20,42 +20,42 @@ ID: henry-v-3-prologue
 *Flourish. Enter Chorus.*
 
 **CHORUS.**
-Thus with imagin’d wing our swift scene flies
-In motion of no less celerity
-Than that of thought. Suppose that you have seen
-The well-appointed king at Hampton pier
-Embark his royalty; and his brave fleet
-With silken streamers the young Phoebus fanning.
-Play with your fancies: and in them behold
-Upon the hempen tackle ship-boys climbing;
-Hear the shrill whistle which doth order give
-To sounds confus’d; behold the threaden sails,
-Borne with th’ invisible and creeping wind,
-Draw the huge bottoms through the furrowed sea,
-Breasting the lofty surge. O, do but think
-You stand upon the rivage and behold
-A city on th’ inconstant billows dancing;
-For so appears this fleet majestical,
-Holding due course to Harfleur. Follow, follow!
-Grapple your minds to sternage of this navy,
-And leave your England as dead midnight, still,
-Guarded with grandsires, babies, and old women,
-Either past or not arriv’d to pith and puissance;
-For who is he, whose chin is but enrich’d
-With one appearing hair, that will not follow
-These cull’d and choice-drawn cavaliers to France?
-Work, work your thoughts, and therein see a siege;
-Behold the ordinance on their carriages,
-With fatal mouths gaping on girded Harfleur.
-Suppose th’ ambassador from the French comes back,
-Tells Harry that the King doth offer him
-Katherine his daughter, and with her, to dowry,
-Some petty and unprofitable dukedoms.
-The offer likes not; and the nimble gunner
-With linstock now the devilish cannon touches,
+==1==Thus with imagin’d wing our swift scene flies
+==2==In motion of no less celerity
+==3==Than that of thought. Suppose that you have seen
+==4==The well-appointed king at Hampton pier
+==5==Embark his royalty; and his brave fleet
+==6==With silken streamers the young Phoebus fanning.
+==7==Play with your fancies: and in them behold
+==8==Upon the hempen tackle ship-boys climbing;
+==9==Hear the shrill whistle which doth order give
+==10==To sounds confus’d; behold the threaden sails,
+==11==Borne with th’ invisible and creeping wind,
+==12==Draw the huge bottoms through the furrowed sea,
+==13==Breasting the lofty surge. O, do but think
+==14==You stand upon the rivage and behold
+==15==A city on th’ inconstant billows dancing;
+==16==For so appears this fleet majestical,
+==17==Holding due course to Harfleur. Follow, follow!
+==18==Grapple your minds to sternage of this navy,
+==19==And leave your England as dead midnight, still,
+==20==Guarded with grandsires, babies, and old women,
+==21==Either past or not arriv’d to pith and puissance;
+==22==For who is he, whose chin is but enrich’d
+==23==With one appearing hair, that will not follow
+==24==These cull’d and choice-drawn cavaliers to France?
+==25==Work, work your thoughts, and therein see a siege;
+==26==Behold the ordinance on their carriages,
+==27==With fatal mouths gaping on girded Harfleur.
+==28==Suppose th’ ambassador from the French comes back,
+==29==Tells Harry that the King doth offer him
+==30==Katherine his daughter, and with her, to dowry,
+==31==Some petty and unprofitable dukedoms.
+==32==The offer likes not; and the nimble gunner
+==33==With linstock now the devilish cannon touches,
 *(Alarum, and chambers go off.)*
-And down goes all before them. Still be kind,
-And eche out our performance with your mind.
+==34==And down goes all before them. Still be kind,
+==35==And eche out our performance with your mind.
 
 
 *Exit.*
