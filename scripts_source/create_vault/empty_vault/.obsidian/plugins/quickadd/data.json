@@ -23,8 +23,8 @@
         {
           "name": "create_full_play",
           "type": "UserScript",
-          "id": "b967d919-0d0d-42a0-a573-d80dfff3d9eb",
-          "path": "assets/js/create_full_play.js",
+          "id": "364aa721-e5e5-4576-be0c-faf0230fbed6",
+          "path": "create_full_play.js",
           "settings": {}
         }
       ],
@@ -37,8 +37,8 @@
         {
           "name": "renumber_speech_lines",
           "type": "UserScript",
-          "id": "cce24fbe-def6-4111-8a4e-7c23aa865f8c",
-          "path": "assets/js/renumber_speech_lines.js",
+          "id": "32c7f3b3-7d7a-4fa5-8ca6-b5ccc6138463",
+          "path": "renumber_speech_lines.js",
           "settings": {}
         }
       ],
