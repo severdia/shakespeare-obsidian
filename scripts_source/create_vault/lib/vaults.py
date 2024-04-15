@@ -1,7 +1,7 @@
 import shutil
 
 from .books import BookGenerator
-from .constants import EMPTY_VAULT_PATH
+from .settings import EMPTY_VAULT_PATH, FOLDER_TO_COPY_INTO_VAULT
 from .settings import VAULT_BOOKS_FOLDER_NAME
 from .utils import copy_file
 
@@ -38,6 +38,13 @@ class VaultGenerator:
 
         # copy contents from empty vault
         shutil.copytree(str(self.empty_vault), str(output_vault))
+
+        # copy contents from FOLDER_TO_COPY_INTO_VAULT
+        for child_path in FOLDER_TO_COPY_INTO_VAULT.iterdir():
+            if child_path.is_file():
+                shutil.copy(str(child_path), str(output_vault))
+            elif child_path.is_dir():
+                shutil.copytree(str(child_path), str(output_vault / child_path.name))
 
         return output_vault
     
