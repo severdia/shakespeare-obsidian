@@ -1,3 +1,11 @@
+from pathlib import Path
+
+SCRIPT_PATH = Path(__file__).resolve().parent.parent
+REPO_PATH = SCRIPT_PATH.parent.parent
+
+EMPTY_VAULT_PATH = SCRIPT_PATH / 'empty_vault'
+FOLDER_TO_COPY_INTO_VAULT = REPO_PATH / 'vault'
+
 # the folder in output vault that will contain all Shakespeare books
 VAULT_BOOKS_FOLDER_NAME = 'Shakespeare'
 
