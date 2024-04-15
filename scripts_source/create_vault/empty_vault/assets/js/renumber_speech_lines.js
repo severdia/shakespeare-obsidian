@@ -6,65 +6,33 @@ Each speech line is marked with a number at the start, following this format:
 
 module.exports = async (params) => {
     const {app, obsidian, quickAddApi} = params;
-	const BOOKS_FOLDER_NAME = 'Shakespeare';
+    const MY_SCRIPTS_FOLDER_NAME = 'My Scripts';
     const H3_PREFIX = '### ';
     const HIGHLIGHT_MARKER = '==';
 
 
-    function getBookNames(booksFolder) {
-        const bookNames = [];
-        for (const child of booksFolder.children) {
-            if (child instanceof obsidian.TFolder) {
-                bookNames.push(child.name);
-            }
-        }
-
-        bookNames.sort();
-
-        return bookNames;
-    }
-
-    function getFullBooks(booksFolder) {
-        const fullBookFiles = [];
-        const bookNames = getBookNames(booksFolder);
-
-        for (const bookName of bookNames) {
-            const bookFolder = app.vault.getFolderByPath(`${BOOKS_FOLDER_NAME}/${bookName}`);
-
-            if (bookFolder) {
-                for (const child of bookFolder.children) {
-                    if (child instanceof obsidian.TFile && child.name.startsWith(`+${bookName}`)) {
-                        fullBookFiles.push(child);
-                    }
-                }
-            }
-
-        }
-
-        return fullBookFiles;
-    }
-
-    async function chooseFullBookFromModal(booksFolder) {
-        const fullBooksList = getFullBooks(booksFolder);
-        const fullBooksByName = new Map();
+    async function chooseFullBookFromModal(myScriptsFolder) {
         const fullBooksNames = [];
 
-        for (const fullBookFile of fullBooksList) {
-            fullBooksByName.set(fullBookFile.name, fullBookFile);
-            fullBooksNames.push(fullBookFile.name);
+        for (const child of myScriptsFolder.children) {
+            if (child instanceof obsidian.TFile && !child.name.startsWith('+') && child.name.endsWith('.md')) {
+                fullBooksNames.push(child.name.slice(0, -3));
+            }
         }
 
-        const choosenFullBookName = await quickAddApi.suggester(fullBooksNames, fullBooksNames);
+        return await quickAddApi.suggester(fullBooksNames, fullBooksNames);
 
-        if (choosenFullBookName) {
-            return fullBooksByName.get(choosenFullBookName);
-        } else {
-            return null;
-        }
     }
 
 	// Reorder line numbers in a book chapter.
-	function renumberSpeechLines(fullBookFile) {
+	function renumberSpeechLines(fullBookName) {
+        const fullBookPath = `${MY_SCRIPTS_FOLDER_NAME}/${fullBookName}.md`;
+        const fullBookFile = app.vault.getFileByPath(fullBookPath);
+        
+        if (!fullBookFile) {
+            console.error(`"${fullBookPath}" file does not exist`);
+            return;
+        }
 
 		app.vault.process(fullBookFile, (fileContents) => {
 			const lines = fileContents.split('\n');
@@ -109,17 +77,17 @@ module.exports = async (params) => {
 
 
 	async function main() {
-		const booksFolder = app.vault.getFolderByPath(BOOKS_FOLDER_NAME);
+		const myScriptsFolder = app.vault.getFolderByPath(MY_SCRIPTS_FOLDER_NAME);
 
-		if (booksFolder === null) {
-			new Notice(`Warning: "${BOOKS_FOLDER_NAME}" folder cannot be found`);
+		if (!myScriptsFolder) {
+			new Notice(`Warning: "${MY_SCRIPTS_FOLDER_NAME}" folder cannot be found`);
 			return;
 		}
 
-		const choosenFullBookFile = await chooseFullBookFromModal(booksFolder);
+		const choosenFullBookName = await chooseFullBookFromModal(myScriptsFolder);
 
-		if (choosenFullBookFile) {
-			const status = renumberSpeechLines(choosenFullBookFile);
+		if (choosenFullBookName) {
+			const status = renumberSpeechLines(choosenFullBookName);
 			if (status) {
 				new Notice(`Speech lines renumbered successfully`);
 			}

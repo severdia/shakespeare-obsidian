@@ -65,10 +65,11 @@ module.exports = async (params) => {
     async function getBookChapterNames(bookName) {
         const bookChapterNames = [];
 
-        const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
+        const fullBookAsLinksPath = `${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`;
+        const fullBookAsLinksFile = app.vault.getFileByPath(fullBookAsLinksPath);
 
         if (!fullBookAsLinksFile) {
-            console.log(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE} folder does not exist`);
+            console.error(`"${fullBookAsLinksPath}" file does not exist`);
             return bookChapterNames;
         }
 
