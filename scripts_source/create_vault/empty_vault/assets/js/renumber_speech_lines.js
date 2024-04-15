@@ -20,6 +20,8 @@ module.exports = async (params) => {
             }
         }
 
+        fullBooksNames.sort();
+
         return await quickAddApi.suggester(fullBooksNames, fullBooksNames);
 
     }
