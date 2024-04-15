@@ -6,6 +6,7 @@ instead of just links to paragraphs like in the `++Full Play.md` files.
 module.exports = async (params) => {
     const {app, obsidian, quickAddApi} = params;
     const BOOKS_FOLDER_NAME = 'Shakespeare';
+    const MY_SCRIPTS_FOLDER_NAME = 'My Scripts';
     const FULL_BOOK_AS_LINKS_FILE = `++Full Play.md`;
     const CHARACTERS_FILE_NAME = '+Dramatis Personae';
     const HEADER_SYMBOL = '#';
@@ -66,7 +67,7 @@ module.exports = async (params) => {
 
         const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
 
-        if (fullBookAsLinksFile === null) {
+        if (!fullBookAsLinksFile) {
             console.log(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE} folder does not exist`);
             return bookChapterNames;
         }
@@ -134,7 +135,7 @@ module.exports = async (params) => {
         const charactersFilePath = `${BOOKS_FOLDER_NAME}/${bookName}/${CHARACTERS_FILE_NAME}.md`;
         const charactersFile = app.vault.getFileByPath(charactersFilePath);
 
-        if (charactersFile === null) {
+        if (!charactersFile) {
             return charactersInfo;
         }
 
@@ -157,7 +158,7 @@ module.exports = async (params) => {
     async function addFullBookFrontmatter(fullBookFile, bookName) {
         const fullBookAsLinksFile = app.vault.getFileByPath(`${BOOKS_FOLDER_NAME}/${bookName}/${FULL_BOOK_AS_LINKS_FILE}`);
 
-        if (fullBookAsLinksFile === null) {
+        if (!fullBookAsLinksFile) {
             return;
         }
 
@@ -178,7 +179,7 @@ module.exports = async (params) => {
 
 
     function getFullBookPath(bookName) {
-        const fullBookLink = `${BOOKS_FOLDER_NAME}/${bookName}/+${bookName}`;
+        const fullBookLink = `${MY_SCRIPTS_FOLDER_NAME}/${bookName}`;
         let fullBookPath = `${fullBookLink}.md`;
 
         let counter = 1;
@@ -206,9 +207,15 @@ module.exports = async (params) => {
 
     async function main() {
         const booksFolder = app.vault.getFolderByPath(BOOKS_FOLDER_NAME);
+        const myScriptsFolder = app.vault.getFolderByPath(MY_SCRIPTS_FOLDER_NAME);
 
-        if (booksFolder === null) {
+        if (!booksFolder) {
             new Notice(`Warning: "${BOOKS_FOLDER_NAME}" folder cannot be found`);
+            return;
+        }
+
+        if (!myScriptsFolder) {
+            new Notice(`Warning: "${MY_SCRIPTS_FOLDER_NAME}" folder cannot be found`);
             return;
         }
 
