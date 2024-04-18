@@ -13,6 +13,13 @@
       "type": "Macro",
       "command": true,
       "macroId": "42069b06-122c-4a7c-bdee-db8afd618ae1"
+    },
+    {
+      "id": "68d31a58-eda1-4235-8836-a167309305e6",
+      "name": "Remove Line Numbers",
+      "type": "Macro",
+      "command": true,
+      "macroId": "c0836b0e-4fb4-4297-a2d7-f4fc45591c58"
     }
   ],
   "macros": [
@@ -39,6 +46,20 @@
           "type": "UserScript",
           "id": "32c7f3b3-7d7a-4fa5-8ca6-b5ccc6138463",
           "path": "renumber_speech_lines.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Remove Line Numbers",
+      "id": "c0836b0e-4fb4-4297-a2d7-f4fc45591c58",
+      "commands": [
+        {
+          "name": "remove_line_numbers",
+          "type": "UserScript",
+          "id": "143f2b80-8cf9-48b9-a2c9-74ebfcc01dff",
+          "path": "remove_line_numbers.js",
           "settings": {}
         }
       ],
