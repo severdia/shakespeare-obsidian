@@ -9,9 +9,6 @@ Version: 4.3
 ID: shakespeare-myscripts
 ---
 
-This folder is where you should store your scripts. If you want to create an edited version of any play, copy it here first, then make your edits. (Feel free to delete this file if you want.)
+This folder is where your custom scripts are stored. If you want to create an edited version of any play, copy it here first before making edits. Follwing the instructions in the Introduction file.
 
-
-
-
-
+(Feel free to delete this file if you want.)
