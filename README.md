@@ -10,7 +10,9 @@ Shakespeare Obsidian is a project that makes reading, editing, or publishing edi
 
 The included plays are the PlayShakespeare.com editions, which have been meticulously edited from the original sources (folios, quarto, octavo) and organized into scenes. Also included Dramatis Personae (containing short & full names for each character, including aliases and other name changes), individual pages for each character containing only that character's lines. The scenes are organized separately for easy navigation and a single page containing the entire play is also included. All lines are numbered and verse speech displays the correct indentation to show shared verse lines throughout.
 
-You can use Shakespeare Obsidian as a tool to create custom scripts, read, search, or print the plays. 
+You can use Shakespeare Obsidian as a tool to create custom scripts, read, search, or print the plays. Check out the Instructions here:
+
+👉🏻 https://github.com/severdia/shakespeare-obsidian/blob/v.1/scripts_source/markdown/%2BIntroduction.md
 
 ### 🛟 Getting Help and Reporting Issues
 
