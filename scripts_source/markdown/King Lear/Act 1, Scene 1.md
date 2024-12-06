@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -270,7 +270,7 @@ ID: king-lear-1-1
 ==142==Now, by Apollo⁠—
 
 **KENT.**
-==142==           Now, by Apollo, King,
+==142==        Now, by Apollo, King,
 ==143==Thou swear’st thy gods in vain.
 
 **LEAR.**

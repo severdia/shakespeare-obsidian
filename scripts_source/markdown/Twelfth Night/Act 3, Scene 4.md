@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-3-4
 ---
@@ -366,7 +366,7 @@ ID: twelfth-night-3-4
 ==121==I pray you, sir, what is he?
 
 **SIR TO.**
-==122==He is knight, dubb’d with unhatch’d rapier, and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorc’d three, and his incensement at this moment is so implacable, that satisfaction can be none but by pangs of death and sepulchre. Hob, nob, is his word; give’t or take’t.
+==122==He is knight, dubb’d with unhatch’d rapier, and on carpet consideration, but he is a devil in private brawl. Souls and bodies hath he divorc’d three, and his incensement at this moment is so implacable, that satisfaction can be none but by pangs of death and sepulcher. Hob, nob, is his word; give’t or take’t.
 
 **VIO.**
 ==123==I will return again into the house, and desire some conduct of the lady. I am no fighter. I have heard of some kind of men that put quarrels purposely on others, to taste their valor. Belike this is a man of that quirk.

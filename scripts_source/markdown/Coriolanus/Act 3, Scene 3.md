@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-3-3
 ---
@@ -38,7 +38,7 @@ ID: coriolanus-3-3
 ==8==That always favor’d him.
 
 **SIC.**
-==8==              Have you a catalogue
+==8==              Have you a catalog
 ==9==Of all the voices that we have procur’d,
 ==10==Set down by th’ poll?
 
@@ -49,7 +49,7 @@ ID: coriolanus-3-3
 ==11==Have you collected them by tribes?
 
 **1. AED.**
-==11==                  I have.
+==11==                     I have.
 
 **SIC.**
 ==12==Assemble presently the people hither;

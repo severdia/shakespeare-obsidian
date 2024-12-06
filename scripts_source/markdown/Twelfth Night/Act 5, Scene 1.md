@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-5-1
 ---
@@ -300,7 +300,7 @@ ID: twelfth-night-5-1
 ==144==My lord, I do protest⁠—
 
 **OLI.**
-==144==              O, do not swear!
+==144==           O, do not swear!
 ==145==Hold little faith, though thou hast too much fear.
 
 *Enter Sir Andrew.*
@@ -640,26 +640,26 @@ ID: twelfth-night-5-1
 
 **CLO.**
 *(Clown sings.)*
-==321==*When that I was and a little tiny boy,*
-==322==*With hey ho, the wind and the rain,*
-==323==*A foolish thing was but a toy,*
-==324==*For the rain it raineth every day.*
-==325==*But when I came to man’s estate,*
-==326==*With hey ho, etc.*
-==327==*’Gainst knaves and thieves men shut their gate,*
-==328==*For the rain, etc.*
-==329==*But when I came, alas, to wive,*
-==330==*With hey ho, etc.*
-==331==*By swaggering could I never thrive,*
-==332==*For the rain, etc.*
-==333==*But when I came unto my beds,*
-==334==*With hey ho, etc.*
-==335==*With toss-pots still had drunken heads,*
-==336==*For the rain, etc.*
-==337==*A great while ago the world begun,*
-==338==*With hey ho, etc.*
-==339==*But that’s all one, our play is done,*
-==340==*And we’ll strive to please you every day.*
+==321== *When that I was and a little tiny boy,*
+==322==    *With hey ho, the wind and the rain,*
+==323== *A foolish thing was but a toy,*
+==324==    *For the rain it raineth every day.*
+==325== *But when I came to man’s estate,*
+==326==    *With hey ho, the wind and the rain,*
+==327== *’Gainst knaves and thieves men shut their gate,*
+==328==    *For the rain it raineth every day.*
+==329== *But when I came, alas, to wive,*
+==330==    *With hey ho, the wind and the rain,*
+==331== *By swaggering could I never thrive,*
+==332==    *For the rain it raineth every day.*
+==333== *But when I came unto my beds,*
+==334==    *With hey ho, the wind and the rain,*
+==335== *With toss-pots still had drunken heads,*
+==336==    *For the rain it raineth every day.*
+==337== *A great while ago the world begun,*
+==338==    *With hey ho, the wind and the rain,*
+==339== *But that’s all one, our play is done,*
+==340==    *And we’ll strive to please you every day.*
 
 *Exit.*
 

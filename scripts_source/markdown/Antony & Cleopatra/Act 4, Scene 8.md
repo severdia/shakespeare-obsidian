@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-4-8
 ---
@@ -48,7 +48,7 @@ ID: antony-and-cleopatra-4-8
 
 **ANT.**
 ==18==                  Mine nightingale,
-==19==We have beat them to their beds. What, girl, though grey
+==19==We have beat them to their beds. What, girl, though gray
 ==20==Do something mingle with our younger brown, yet ha’ we
 ==21==A brain that nourishes our nerves, and can
 ==22==Get goal for goal of youth. Behold this man,

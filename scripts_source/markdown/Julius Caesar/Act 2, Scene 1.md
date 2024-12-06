@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-2-1
 ---
@@ -98,8 +98,8 @@ ID: julius-caesar-2-1
 ==46==*“Brutus, thou sleep’st; awake, and see thyself!*
 ==47==*Shall Rome, etc. Speak, strike, redress!”*
 ==48==*“Brutus, thou sleep’st; awake!”*
-==49==*Such instigations have been often dropp’d*
-==50==*Where I have took them up.*
+==49==Such instigations have been often dropp’d
+==50==Where I have took them up.
 ==51==“Shall Rome, etc.” Thus must I piece it out:
 ==52==Shall Rome stand under one man’s awe? What, Rome?
 ==53==My ancestors did from the streets of Rome
@@ -136,7 +136,7 @@ ID: julius-caesar-2-1
 ==71==Who doth desire to see you.
 
 **BRU.**
-==71==              Is he alone?
+==71==                Is he alone?
 
 **LUC.**
 ==72==No, sir, there are more with him.
@@ -151,7 +151,7 @@ ID: julius-caesar-2-1
 ==76==By any mark of favor.
 
 **BRU.**
-==76==              Let ’em enter.
+==76==           Let ’em enter.
 *(Exit Lucius.)*
 ==77==They are the faction. O Conspiracy,
 ==78==Sham’st thou to show thy dang’rous brow by night,

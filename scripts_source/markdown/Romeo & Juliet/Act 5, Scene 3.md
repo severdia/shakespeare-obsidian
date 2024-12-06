@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -250,10 +250,10 @@ ID: romeo-and-juliet-5-3
 *Exit.*
 
 **FRI. L.**
-==139==                     Romeo!
+==139==                  Romeo!
 *(Friar stoops and looks on the blood and weapons.)*
 ==140==Alack, alack, what blood is this, which stains
-==141==The stony entrance of this sepulchre?
+==141==The stony entrance of this sepulcher?
 ==142==What mean these masterless and gory swords
 ==143==To lie discolor’d by this place of peace?
 *(Enters the tomb.)*
@@ -386,7 +386,7 @@ ID: romeo-and-juliet-5-3
 
 **L. CAP.**
 ==205==O me, this sight of death is as a bell
-==206==That warns my old age to a sepulchre.
+==206==That warns my old age to a sepulcher.
 
 *Enter Montague and others.*
 

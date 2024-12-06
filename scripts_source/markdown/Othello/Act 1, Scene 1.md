@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -220,7 +220,7 @@ ID: othello-1-1
 ==116==(As partly I find it is) that your fair daughter,
 ==117==At this odd-even and dull watch o’ th’ night,
 ==118==Transported with no worse nor better guard
-==119==But with a knave of common hire, a gundolier,
+==119==But with a knave of common hire, a gondolier,
 ==120==To the gross clasps of a lascivious Moor⁠—
 ==121==If this be known to you, and your allowance,
 ==122==We then have done you bold and saucy wrongs;

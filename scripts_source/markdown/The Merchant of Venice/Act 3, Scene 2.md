@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -107,22 +107,22 @@ ID: merchant-of-venice-3-2
 *A song, the whilst Bassanio comments on the caskets to himself.*
 
 **SING.**
-==63==*Tell me where is fancy bred,*
-==64==*Or in the heart or in the head?*
-==65==*How begot, how nourished?*
+==63== *Tell me where is fancy bred,*
+==64== *Or in the heart or in the head?*
+==65== *How begot, how nourished?*
 
 **ALL.**
-==66==*Reply, reply.*
+==66== *Reply, reply.*
 
 **SING.**
-==67==*It is engend’red in the eyes,*
-==68==*With gazing fed, and fancy dies*
-==69==*In the cradle where it lies.*
-==70==*Let us all ring fancy’s knell.*
-==71==*I’ll begin it.Ding, dong, bell.*
+==67== *It is engend’red in the eyes,*
+==68== *With gazing fed, and fancy dies*
+==69== *In the cradle where it lies.*
+==70== *Let us all ring fancy’s knell.*
+==71== *I’ll begin it.Ding, dong, bell.*
 
 **ALL.**
-==72==*Ding, dong, bell.*
+==72== *Ding, dong, bell.*
 
 **BASS.**
 ==73==So may the outward shows be least themselves⁠—
@@ -148,7 +148,7 @@ ID: merchant-of-venice-3-2
 ==93==Which make such wanton gambols with the wind
 ==94==Upon supposed fairness, often known
 ==95==To be the dowry of a second head,
-==96==The skull that bred them in the sepulchre.
+==96==The skull that bred them in the sepulcher.
 ==97==Thus ornament is but the guiled shore
 ==98==To a most dangerous sea; the beauteous scarf
 ==99==Veiling an Indian beauty; in a word,

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -184,7 +184,7 @@ ID: pericles-2-3
 ==82==My education been in arts and arms;
 ==83==Who, looking for adventures in the world,
 ==84==Was by the rough seas reft of ships and men,
-==85==And after shipwrack driven upon this shore.
+==85==And after shipwreck driven upon this shore.
 
 **THAI.**
 ==86==He thanks your Grace; names himself Pericles,

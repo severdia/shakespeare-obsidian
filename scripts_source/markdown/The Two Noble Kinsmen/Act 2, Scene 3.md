@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-2-3
 ---
@@ -85,7 +85,7 @@ ID: two-noble-kinsmen-2-3
 ==37==           Arcas will be there.
 
 **2. COUN.**
-==37==                     And Sennois,
+==37==                       And Sennois,
 ==38==And Rycas, and three better lads nev’r danc’d
 ==39==Under green tree; and ye know what wenches, ha?
 ==40==But will the dainty domine, the schoolmaster,

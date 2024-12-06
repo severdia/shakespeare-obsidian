@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -181,7 +181,7 @@ ID: othello-1-3
 ==75==Nothing, but this is so.
 
 **OTH.**
-==76==Most potent, grave, and reverend *signior*s,
+==76==Most potent, grave, and reverend *signiors*,
 ==77==My very noble and approv’d good masters:
 ==78==That I have ta’en away this old man’s daughter,
 ==79==It is most true; true I have married her;

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -32,7 +32,7 @@ ID: merchant-of-venice-2-8
 **SAL.**
 ==6==He came too late, the ship was under sail,
 ==7==But there the Duke was given to understand
-==8==That in a gondilo were seen together
+==8==That in a gondola were seen together
 ==9==Lorenzo and his amorous Jessica.
 ==10==Besides, Antonio certified the Duke
 ==11==They were not with Bassanio in his ship.

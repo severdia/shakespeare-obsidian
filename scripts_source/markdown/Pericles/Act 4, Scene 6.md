@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -168,7 +168,7 @@ ID: pericles-4-6
 ==48==How’s this? How’s this? Some more, be sage.
 
 **MAR.**
-==48==                       For me,
+==48==                         For me,
 ==49==That am a maid, though most ungentle fortune
 ==50==Have plac’d me in this sty, where since I came,
 ==51==Diseases have been sold dearer than physic⁠—

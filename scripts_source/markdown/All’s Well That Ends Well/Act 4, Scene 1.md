@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-4-1
 ---
@@ -45,7 +45,7 @@ ID: alls-well-that-ends-well-4-1
 *Enter Parolles.*
 
 **PAR.**
-==8==Ten a’ clock: within these three hours ’twill be time enough to go home. What shall I say I have done? It must be a very plausive invention that carries it. They begin to smoke me, and disgraces have of late knock’d too often at my door. I find my tongue is too foolhardy, but my heart hath the fear of Mars before it, and of his creatures, not daring the reports of my tongue.
+==8==Ten o’clock: within these three hours ’twill be time enough to go home. What shall I say I have done? It must be a very plausive invention that carries it. They begin to smoke me, and disgraces have of late knock’d too often at my door. I find my tongue is too foolhardy, but my heart hath the fear of Mars before it, and of his creatures, not daring the reports of my tongue.
 
 **2. LORD. DUM.**
 *(Aside.)*

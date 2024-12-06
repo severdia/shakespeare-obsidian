@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-2-4
 ---
@@ -66,7 +66,7 @@ ID: julius-caesar-2-4
 ==22==At mine own house, good lady.
 
 **POR.**
-==23==What is’t a’ clock?
+==23==What is’t o’clock?
 
 **SOOTH.**
 ==23==           About the ninth hour, lady.

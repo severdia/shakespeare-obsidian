@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-1-1
 ---
@@ -17,7 +17,7 @@ ID: alls-well-that-ends-well-1-1
 
 *Roussillon. A room in the Count’s palace.*
 
-*Enter young Bertram, Count of Roussillon, his mother the Countess of Roussillon, and Helena, Lord Lafew, all in black.*
+*Enter young Bertram, Count of Roussillon, his mother the Countess of Roussillon, and Helen, Lord Lafew, all in black.*
 
 **COUNT.**
 ==1==In delivering my son from me, I bury a second husband.
@@ -108,7 +108,7 @@ ID: alls-well-that-ends-well-1-1
 ==35==           The best wishes that can
 ==36==Be forged in your thoughts be servants to you!
 *(Exit Countess.)*
-*(To Helena.)*
+*(To Helen.)*
 ==37==Be comfortable to my mother, your mistress,
 ==38==And make much of her.
 
@@ -200,7 +200,7 @@ ID: alls-well-that-ends-well-1-1
 ==84==A mother, and a mistress, and a friend,
 ==85==A phoenix, captain, and an enemy,
 ==86==A guide, a goddess, and a sovereign,
-==87==A counsellor, a traitress, and a dear;
+==87==A counselor, a traitress, and a dear;
 ==88==His humble ambition, proud humility;
 ==89==His jarring concord, and his discord dulcet;
 ==90==His faith, his sweet disaster; with a world
@@ -210,7 +210,7 @@ ID: alls-well-that-ends-well-1-1
 ==94==The court’s a learning place, and he is one⁠—
 
 **PAR.**
-==95==What one, i’ faith?
+==95==What one, i’faith?
 
 **HEL.**
 ==96==That I wish well. ’Tis pity⁠—

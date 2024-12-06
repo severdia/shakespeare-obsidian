@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -105,7 +105,7 @@ ID: henry-vi-part-ii-2-3
 ==57==Or more afraid to fight, than is the appellant,
 ==58==The servant of this armorer, my lords.
 
-*Enter at one door Horner the armorer and his Neighbors, drinking to him so much that he is drunk; and he enters with a Drum before him and his staff with a sand-bag fastened to it; and at the other door Peter, his man, with a Drum and sand-bag, and Prentices drinking to him.*
+*Enter at one door Horner the armorer and his Neighbors, drinking to him so much that he is drunk; and he enters with a Drum before him and his staff with a sandbag fastened to it; and at the other door Peter, his man, with a Drum and sandbag, and Prentices drinking to him.*
 
 **1. NEIGH.**
 ==59==Here, neighbor Horner, I drink to you in a cup of sack; and fear not, neighbor, you shall do well enough.
@@ -117,7 +117,7 @@ ID: henry-vi-part-ii-2-3
 ==61==And here’s a pot of good double beer, neighbor. Drink, and fear not your man.
 
 **HOR.**
-==62==Let it come, i’ faith, and I’ll pledge you all, and a fig for Peter!
+==62==Let it come, i’faith, and I’ll pledge you all, and a fig for Peter!
 
 **1. PREN.**
 ==63==Here, Peter, I drink to thee, and be not afraid.

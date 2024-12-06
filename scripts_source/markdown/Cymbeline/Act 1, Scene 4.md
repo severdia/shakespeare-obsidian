@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-1-4
 ---
@@ -19,7 +19,7 @@ ID: cymbeline-1-4
 *Enter Philario, Jachimo, a Frenchman, a Dutchman, and a Spaniard.*
 
 **JACH.**
-==1==Believe it, sir, I have seen him in Britain. He was then of a crescent note, expected to prove so worthy as since he hath been allow’d the name of. But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items.
+==1==Believe it, sir, I have seen him in Britain. He was then of a crescent note, expected to prove so worthy as since he hath been allow’d the name of. But I could then have look’d on him without the help of admiration, though the catalog of his endowments had been tabled by his side, and I to peruse him by items.
 
 **PHI.**
 ==2==You speak of him when he was less furnish’d than now he is with that which makes him both without and within.

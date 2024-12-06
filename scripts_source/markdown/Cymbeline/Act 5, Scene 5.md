@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-5-5
 ---
@@ -222,7 +222,7 @@ ID: cymbeline-5-5
 ==118==Fidele, sir.
 
 **CYM.**
-==118==    Thou’rt my good youth—my page;
+==118==        Thou’rt my good youth—my page;
 ==119==I’ll be thy master. Walk with me; speak freely.
 
 *Cymbeline and Imogen talk apart.*
@@ -258,7 +258,7 @@ ID: cymbeline-5-5
 *Cymbeline and Imogen come forward.*
 
 **CYM.**
-==129==           Come, stand thou by our side,
+==129==        Come, stand thou by our side,
 ==130==Make thy demand aloud.
 *(To Jachimo.)*
 ==130==              Sir, step you forth;
@@ -284,7 +284,7 @@ ID: cymbeline-5-5
 ==140==Which, to be spoke, would torture thee.
 
 **CYM.**
-==140==                     How? Me?
+==140==                       How? Me?
 
 **JACH.**
 ==141==I am glad to be constrain’d to utter that
@@ -440,7 +440,7 @@ ID: cymbeline-5-5
 
 **PIS.**
 ==239==Lady,
-==240==The gods throw stones of sulphur on me, if
+==240==The gods throw stones of sulfur on me, if
 ==241==That box I gave you was not thought by me
 ==242==A precious thing. I had it from the Queen.
 
@@ -755,7 +755,7 @@ ID: cymbeline-5-5
 ==401==To see this gracious season.
 
 **CYM.**
-==401==              All o’erjoy’d,
+==401==                All o’erjoy’d,
 ==402==Save these in bonds. Let them be joyful too,
 ==403==For they shall taste our comfort.
 
@@ -823,7 +823,7 @@ ID: cymbeline-5-5
 ==434==Here, my good lord.
 
 **LUC.**
-==434==        Read, and declare the meaning.
+==434==           Read, and declare the meaning.
 
 **PHIL.**
 *(Reads.)*

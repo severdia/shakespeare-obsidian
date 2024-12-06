@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-3-4
 ---
@@ -39,12 +39,12 @@ ID: two-noble-kinsmen-3-4
 ==17==Twenty to one, is truss’d up in a trice
 ==18==Tomorrow morning; I’ll say never a word.
 *(Sing.)*
-==19==*“For I’ll cut my green coat a foot above my knee,*
-==20==*And I’ll clip my yellow locks an inch below mine e’e.*
-==21==*Hey, nonny, nonny, nonny.*
-==22==*He s’ buy me a white cut, forth for to ride,*
-==23==*And I’ll go seek him through the world that is so wide.*
-==24==*Hey, nonny, nonny, nonny.”*
+==19== *“For I’ll cut my green coat a foot above my knee,*
+==20== *And I’ll clip my yellow locks an inch below mine e’e.*
+==21==    *Hey, nonny, nonny, nonny.*
+==22== *He s’ buy me a white cut, forth for to ride,*
+==23== *And I’ll go seek him through the world that is so wide.*
+==24==    *Hey, nonny, nonny, nonny.”*
 ==25==O for a prick now, like a nightingale,
 ==26==To put my breast against! I shall sleep like a top else.
 

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -25,7 +25,7 @@ ID: loves-labours-lost-3-1
 
 **MOTH.**
 *(Sings the song.)*
-==2==*“Concolinel.”*
+==2== *“Concolinel.”*
 
 **ARM.**
 ==3==Sweet air! Go, tenderness of years, take this key, give enlargement to the swain, bring him festinately hither. I must employ him in a letter to my love.
@@ -233,7 +233,7 @@ ID: loves-labours-lost-3-1
 ==86==to the country maid Jaquenetta. There is remuneration, for the best ward of mine honor is rewarding my dependents. Moth, follow.
 
 **MOTH.**
-==87==Like the sequel, I. *Signior* Costard, *adieu*.
+==87==Like the sequel, I. *Señor* Costard, *adieu*.
 
 *Exit Armado, followed by Moth.*
 

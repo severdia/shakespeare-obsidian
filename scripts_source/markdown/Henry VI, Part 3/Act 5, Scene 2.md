@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -44,7 +44,7 @@ ID: henry-vi-part-iii-5-2
 ==17==Have been as piercing as the midday sun
 ==18==To search the secret treasons of the world.
 ==19==The wrinkles in my brows, now fill’d with blood,
-==20==Were lik’ned oft to kingly sepulchres;
+==20==Were lik’ned oft to kingly sepulchers;
 ==21==For who liv’d king, but I could dig his grave?
 ==22==And who durst smile when Warwick bent his brow?
 ==23==Lo, now my glory smear’d in dust and blood!

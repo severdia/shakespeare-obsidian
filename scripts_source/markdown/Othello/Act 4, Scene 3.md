@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -110,21 +110,21 @@ ID: othello-4-3
 
 **DES.**
 *(Singing.)*
-==37==*“The poor soul sat sighing by a sycamore tree,*
-==38==*Sing all a green willow;*
-==39==*Her hand on her bosom, her head on her knee,*
-==40==*Sing willow, willow, willow.*
-==41==*The fresh streams ran by her, and murmur’d her moans,*
-==42==*Sing willow, willow, willow;*
-==43==*Her salt tears fell from her, and soft’ned the stones,*
-==44==*Sing willow”⁠—*
+==37== *“The poor soul sat sighing by a sycamore tree,*
+==38==    *Sing all a green willow;*
+==39== *Her hand on her bosom, her head on her knee,*
+==40==    *Sing willow, willow, willow.*
+==41== *The fresh streams ran by her, and murmur’d her moans,*
+==42==    *Sing willow, willow, willow;*
+==43== *Her salt tears fell from her, and soft’ned the stones,*
+==44==    *Sing willow”⁠—*
 ==45==Lay by these⁠—
 *(Singing.)*
-==46==*“— willow, willow”⁠—*
+==46== *“— willow, willow”⁠—*
 ==47==Prithee hie thee; he’ll come anon⁠—
 *(Singing.)*
-==48==*“Sing all a green willow must be my garland.*
-==49==*Let nobody blame him, his scorn I approve”⁠—*
+==48== *“Sing all a green willow must be my garland.*
+==49== *Let nobody blame him, his scorn I approve”⁠—*
 ==50==Nay, that’s not next. Hark, who is’t that knocks?
 
 **EMIL.**
@@ -132,9 +132,9 @@ ID: othello-4-3
 
 **DES.**
 *(Singing.)*
-==52==*“I call’d my love false love; but what said he then?*
-==53==*Sing willow, willow, willow;*
-==54==*If I court more women, you’ll couch with more men.”⁠—*
+==52== *“I call’d my love false love; but what said he then?*
+==53==    *Sing willow, willow, willow;*
+==54== *If I court more women, you’ll couch with more men.”⁠—*
 ==55==So get thee gone, good night. Mine eyes do itch;
 ==56==Doth that bode weeping?
 

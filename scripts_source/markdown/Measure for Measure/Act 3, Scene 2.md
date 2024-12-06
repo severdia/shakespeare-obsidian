@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-3-2
 ---
@@ -309,28 +309,28 @@ ID: measure-for-measure-3-2
 **DUKE.**
 ==108==Peace be with you!
 *(Exeunt Escalus and Provost.)*
-==109==*He who the sword of heaven will bear*
-==110==*Should be as holy as severe;*
-==111==*Pattern in himself to know,*
-==112==*Grace to stand, and virtue go;*
-==113==*More nor less to others paying*
-==114==*Than by self-offenses weighing.*
-==115==*Shame to him whose cruel striking*
-==116==*Kills for faults of his own liking!*
-==117==*Twice treble shame on Angelo,*
-==118==*To weed my vice, and let his grow!*
-==119==*O, what may man within him hide,*
-==120==*Though angel on the outward side!*
-==121==*How may likeness made in crimes,*
-==122==*Making practice on the times,*
-==123==*To draw with idle spiders’ strings*
-==124==*Most ponderous and substantial things!*
-==125==*Craft against vice I must apply.*
-==126==*With Angelo tonight shall lie*
-==127==*His old betrothed (but despised);*
-==128==*So disguise shall by th’ disguised*
-==129==*Pay with falsehood false exacting,*
-==130==*And perform an old contracting.*
+==109==He who the sword of heaven will bear
+==110==Should be as holy as severe;
+==111==Pattern in himself to know,
+==112==Grace to stand, and virtue go;
+==113==More nor less to others paying
+==114==Than by self-offenses weighing.
+==115==Shame to him whose cruel striking
+==116==Kills for faults of his own liking!
+==117==Twice treble shame on Angelo,
+==118==To weed my vice, and let his grow!
+==119==O, what may man within him hide,
+==120==Though angel on the outward side!
+==121==How may likeness made in crimes,
+==122==Making practice on the times,
+==123==To draw with idle spiders’ strings
+==124==Most ponderous and substantial things!
+==125==Craft against vice I must apply.
+==126==With Angelo tonight shall lie
+==127==His old betrothed (but despised);
+==128==So disguise shall by th’ disguised
+==129==Pay with falsehood false exacting,
+==130==And perform an old contracting.
 
 *Exit.*
 

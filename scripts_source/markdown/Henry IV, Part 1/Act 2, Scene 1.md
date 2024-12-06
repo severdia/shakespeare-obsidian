@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -59,16 +59,16 @@ ID: henry-iv-part-i-2-1
 *Enter Gadshill.*
 
 **GADS.**
-==12==Good morrow, carriers, what’s a’ clock?
+==12==Good morrow, carriers, what’s o’clock?
 
 **1. CAR.**
-==13==I think it be two a’ clock.
+==13==I think it be two o’clock.
 
 **GADS.**
 ==14==I prithee lend me thy lantern, to see my gelding in the stable.
 
 **1. CAR.**
-==15==Nay, by God, soft, I know a trick worth two of that, i’ faith.
+==15==Nay, by God, soft, I know a trick worth two of that, i’faith.
 
 **GADS.**
 ==16==I pray thee lend me thine.

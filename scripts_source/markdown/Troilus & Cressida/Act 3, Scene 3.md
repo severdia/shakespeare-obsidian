@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -272,7 +272,7 @@ ID: troilus-and-cressida-3-3
 ==175==To envious and calumniating Time.
 ==176==One touch of nature makes the whole world kin,
 ==177==That all with one consent praise new-born gawds,
-==178==Though they are made and moulded of things past,
+==178==Though they are made and molded of things past,
 ==179==And give to dust, that is a little gilt,
 ==180==More laud than gilt o’erdusted.
 ==181==The present eye praises the present object.
@@ -380,7 +380,7 @@ ID: troilus-and-cressida-3-3
 ==246==How so?
 
 **THER.**
-==247==He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing.
+==247==He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgeling that he raves in saying nothing.
 
 **ACHIL.**
 ==248==How can that be?

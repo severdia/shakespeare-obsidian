@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-4-2
 ---
@@ -38,16 +38,19 @@ ID: as-you-like-it-4-2
 *Song.*
 
 **2. LORD. ARD.**
-==6==*What shall he have that kill’d the deer?*
-==7==*His leather skin and horns to wear.*
-==8==*Then sing him home.*
-==9==*The rest shall bear this burden.*
-==10==*Take thou no scorn to wear the horn,*
-==11==*It was a crest ere thou wast born;*
-==12==*Thy father’s father wore it,*
-==13==*And thy father bore it.*
-==14==*The horn, the horn, the lusty horn*
-==15==*Is not a thing to laugh to scorn.*
+==6== *What shall he have that kill’d the deer?*
+==7== *His leather skin and horns to wear.*
+
+**JAQ.**
+==8==Then sing him home. The rest shall bear this burden.
+
+**2. LORD. ARD.**
+==9== *Take thou no scorn to wear the horn,*
+==10== *It was a crest ere thou wast born;*
+==11==    *Thy father’s father wore it,*
+==12==    *And thy father bore it.*
+==13== *The horn, the horn, the lusty horn*
+==14== *Is not a thing to laugh to scorn.*
 
 *Exeunt.*
 

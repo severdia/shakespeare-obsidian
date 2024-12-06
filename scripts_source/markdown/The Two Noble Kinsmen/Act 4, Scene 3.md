@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-4-3
 ---
@@ -61,7 +61,7 @@ ID: two-noble-kinsmen-4-3
 **DAUGH.**
 ==13==To hear there a proud lady and a proud city-wife howl together! I were a beast and I’ld call it good sport. One cries, “O, this smoke!” th’ other, “This fire!” One cries, “O, that ever I did it behind the arras!” and then howls; th’ other curses a suing fellow and her garden-house.
 *(Sings.)*
-==14==*“I will be true, my stars, my fate,” etc.*
+==14== *“I will be true, my stars, my fate,” etc.*
 
 *Exit Daughter.*
 

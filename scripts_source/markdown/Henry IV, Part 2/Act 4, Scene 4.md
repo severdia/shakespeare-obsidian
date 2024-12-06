@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -115,7 +115,7 @@ ID: henry-iv-part-ii-4-4
 ==60==And rotten times that you shall look upon,
 ==61==When I am sleeping with my ancestors.
 ==62==For when his headstrong riot hath no curb,
-==63==When rage and hot blood are his counsellors,
+==63==When rage and hot blood are his counselors,
 ==64==When means and lavish manners meet together,
 ==65==O, with what wings shall his affections fly
 ==66==Towards fronting peril and oppos’d decay!

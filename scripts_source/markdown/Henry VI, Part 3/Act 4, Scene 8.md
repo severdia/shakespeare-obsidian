@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -102,7 +102,7 @@ ID: henry-vi-part-iii-4-8
 ==49==And when the lion fawns upon the lamb,
 ==50==The lamb will never cease to follow him.
 
-*Shout within, “A Lancaster! A Lancaster!” *
+*Shout within, “A Lancaster! A Lancaster!”*
 
 **EXE.**
 ==51==Hark, hark, my lord, what shouts are these?

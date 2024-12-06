@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-5-1
 ---
@@ -81,7 +81,7 @@ ID: two-noble-kinsmen-5-1
 ==33==Why, let it be so; farewell, coz.
 
 **ARC.**
-==33==                     Farewell, sir.
+==33==                  Farewell, sir.
 *(Exeunt Palamon and his Knights.)*
 ==34==Knights, kinsmen, lovers, yea, my sacrifices,
 ==35==True worshippers of Mars, whose spirit in you

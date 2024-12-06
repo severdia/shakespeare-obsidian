@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -23,7 +23,7 @@ ID: merry-wives-of-windsor-1-4
 **QUICK.**
 ==1==What, John Rugby!
 *(Enter John Rugby.)*
-==2==I pray thee go to the casement, and see if you can see my master, Master Doctor Caius, coming. If he do, i’ faith, and find any body in the house, here will be an old abusing of God’s patience and the King’s English.
+==2==I pray thee go to the casement, and see if you can see my master, Master Doctor Caius, coming. If he do, i’faith, and find any body in the house, here will be an old abusing of God’s patience and the King’s English.
 
 **RUG.**
 ==3==I’ll go watch.
@@ -73,12 +73,12 @@ ID: merry-wives-of-windsor-1-4
 *(Shuts Simple in the closet.)*
 ==18==What, John Rugby! John! What, John, I say! Go, John, go inquire for my master; I doubt he be not well, that he comes not home.
 *(Singing.)*
-==19==*And down, down, adown-a, etc.*
+==19== *And down, down, adown-a, etc.*
 
 *Enter Doctor Caius.*
 
 **CAIUS.**
-==20==Vat is you sing? I do not like des toys. Pray you go and vetch me in my closet *une boÎte en verd*, a box, a green-a box. Do intend vat I speak? A green-a box.
+==20==Vat is you sing? I do not like des toys. Pray you go and vetch me in my closet *une boîte en verd*, a box, a green-a box. Do intend vat I speak? A green-a box.
 
 **QUICK.**
 ==21==Ay, forsooth, I’ll fetch it you.
@@ -226,7 +226,7 @@ ID: merry-wives-of-windsor-1-4
 ==65==Well; I shall see her today. Hold, there’s money for thee. Let me have thy voice in my behalf. If thou seest her before me, commend me.
 
 **QUICK.**
-==66==Will I? I’ faith, that we will; and I will tell your worship more of the wart the next time we have confidence, and of other wooers.
+==66==Will I? i’faith, that we will; and I will tell your worship more of the wart the next time we have confidence, and of other wooers.
 
 **FENT.**
 ==67==Well, farewell, I am in great haste now.

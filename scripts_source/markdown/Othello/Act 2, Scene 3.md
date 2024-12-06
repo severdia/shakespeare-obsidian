@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -31,7 +31,7 @@ ID: othello-2-3
 ==6==Will I look to’t.
 
 **OTH.**
-==6==           Iago is most honest.
+==6==        Iago is most honest.
 ==7==Michael, good night. Tomorrow with your earliest
 ==8==Let me have speech with you.
 *(To Desdemona.)*
@@ -125,11 +125,11 @@ ID: othello-2-3
 **IAGO.**
 ==47==Some wine ho!
 *(Sings.)*
-==48==*“And let me the canakin clink, clink;*
-==49==*And let me the canakin clink.*
-==50==*A soldier’s a man;*
-==51==*O, man’s life’s but a span;*
-==52==*Why then let a soldier drink.”*
+==48== *“And let me the cannikin clink, clink;*
+==49== *And let me the cannikin clink.*
+==50==    *A soldier’s a man;*
+==51==    *O, man’s life’s but a span;*
+==52== *Why then let a soldier drink.”*
 ==53==Some wine, boys!
 
 **CAS.**
@@ -153,14 +153,14 @@ ID: othello-2-3
 **IAGO.**
 ==60==O sweet England!
 *(Sings.)*
-==61==*“King Stephen was and—a worthy peer,*
-==62==*His breeches cost him but a crown;*
-==63==*He held them sixpence all too dear,*
-==64==*With that he call’d the tailor lown;*
-==65==*He was a wight of high renown,*
-==66==*And thou art but of low degree.*
-==67==*’Tis pride that pulls the country down,*
-==68==*Then take thy auld cloak about thee.”*
+==61== *“King Stephen was and—a worthy peer,*
+==62==    *His breeches cost him but a crown;*
+==63== *He held them sixpence all too dear,*
+==64==    *With that he call’d the tailor lown;*
+==65== *He was a wight of high renown,*
+==66==    *And thou art but of low degree.*
+==67== *’Tis pride that pulls the country down,*
+==68==    *Then take thy auld cloak about thee.”*
 ==69==Some wine ho!
 
 **CAS.**

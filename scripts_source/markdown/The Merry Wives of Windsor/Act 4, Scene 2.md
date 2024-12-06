@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -18,7 +18,7 @@ ID: merry-wives-of-windsor-4-2
 
 *A room in Ford’s house.*
 
-*Enter Falstaff, Mistress Ford.*
+*Enter Falstaff and Mistress Ford.*
 
 **FAL.**
 ==1==Mistress Ford, your sorrow hath eaten up my sufferance. I see you are obsequious in your love, and I profess requital to a hair’s breadth, not only, Mistress Ford, in the simple office of love, but in all the accoutrement, complement, and ceremony of it. But are you sure of your husband now?

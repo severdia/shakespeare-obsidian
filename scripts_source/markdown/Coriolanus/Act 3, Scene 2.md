@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-3-2
 ---
@@ -27,7 +27,7 @@ ID: coriolanus-3-2
 ==6==Be thus to them.
 
 **PATRICIAN.**
-==6==        You do the nobler.
+==6==           You do the nobler.
 
 **COR.**
 ==7==I muse my mother
@@ -117,7 +117,7 @@ ID: coriolanus-3-2
 ==45==                Tush, tush!
 
 **MEN.**
-==45==                     A good demand.
+==45==                       A good demand.
 
 **VOL.**
 ==46==If it be honor in your wars to seem
@@ -157,7 +157,7 @@ ID: coriolanus-3-2
 ==72==Of what is past.
 
 **VOL.**
-==72==           I prithee now, my son,
+==72==        I prithee now, my son,
 ==73==Go to them, with this bonnet in thy hand,
 ==74==And thus far having stretch’d it (here be with them),
 ==75==Thy knee bussing the stones (for in such business
@@ -208,7 +208,7 @@ ID: coriolanus-3-2
 ==100==With my base tongue give to my noble heart
 ==101==A lie that it must bear? Well, I will do’t;
 ==102==Yet, were there but this single plot to lose,
-==103==This mould of Martius, they to dust should grind it
+==103==This mold of Martius, they to dust should grind it
 ==104==And throw’t against the wind. To th’ market-place!
 ==105==You have put me now to such a part which never
 ==106==I shall discharge to th’ life.

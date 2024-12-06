@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-2-1
 ---
@@ -334,7 +334,7 @@ ID: coriolanus-2-1
 ==127==              In that there’s comfort.
 
 **SIC.**
-==127==                       Doubt not
+==127==                         Doubt not
 ==128==The commoners, for whom we stand, but they
 ==129==Upon their ancient malice will forget
 ==130==With the least cause these his new honors, which
@@ -350,7 +350,7 @@ ID: coriolanus-2-1
 ==137==To th’ people, beg their stinking breaths.
 
 **SIC.**
-==137==                     ’Tis right.
+==137==                       ’Tis right.
 
 **BRU.**
 ==138==It was his word. O, he would miss it rather

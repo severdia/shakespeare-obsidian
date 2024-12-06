@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -55,10 +55,10 @@ ID: much-ado-about-nothing-5-2
 **BENE.**
 ==11==And therefore will come.
 *(Sings.)*
-==12==*“The god of love,*
-==13==*That sits above,*
-==14==*And knows me, and knows me,*
-==15==*How pitiful I deserve”⁠—*
+==12==    *“The god of love,*
+==13==    *That sits above,*
+==14== *And knows me, and knows me,*
+==15==    *How pitiful I deserve”⁠—*
 ==16==I mean in singing; but in loving, Leander the good swimmer, Troilus the first employer of pandars, and a whole bookful of these quondam carpet-mongers, whose names yet run smoothly in the even road of a blank verse, why, they were never so truly turn’d over and over as my poor self in love. Marry, I cannot show it in rhyme; I have tried. I can find out no rhyme to “lady” but “baby,” an innocent rhyme; for “scorn,” “horn,” a hard rhyme; for “school,” “fool,” a babbling rhyme: very ominous endings. No, I was not born under a rhyming planet, nor I cannot woo in festival terms.
 *(Enter Beatrice.)*
 ==17==Sweet Beatrice, wouldst thou come when I call’d thee?

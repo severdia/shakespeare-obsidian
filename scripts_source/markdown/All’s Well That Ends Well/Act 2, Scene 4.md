@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-2-4
 ---
@@ -15,9 +15,9 @@ ID: alls-well-that-ends-well-2-4
 ## Act 2, Scene 4
 [[Act 2, Scene 3|← Act 2, Scene 3]] | [[Act 2, Scene 5|Act 2, Scene 5 →]]
 
-*Another room in the King’s palace.*
+*Paris. Another room in the King’s palace.*
 
-*Enter Helena and Clown.*
+*Enter Helen and Clown.*
 
 **HEL.**
 ==1==My mother greets me kindly. Is she well?
@@ -74,7 +74,7 @@ ID: alls-well-that-ends-well-2-4
 ==18==The search, sir, was profitable, and much fool may you find in you, even to the world’s pleasure and the increase of laughter.
 
 **PAR.**
-==19==A good knave, i’ faith, and well fed.
+==19==A good knave, i’faith, and well fed.
 ==20==Madam, my lord will go away tonight,
 ==21==A very serious business calls on him.
 ==22==The great prerogative and rite of love,

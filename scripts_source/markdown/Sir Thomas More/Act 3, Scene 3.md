@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-3-3
 ---
@@ -295,18 +295,18 @@ ID: sir-thomas-more-3-3
 
 **WIT.**
 *(Sings.)*
-==144==*In an arbor green, asleep whereas I lay,*
-==145==*The birds sang sweetly in the midst of the day,*
-==146==*I dreamed fast of mirth and play,⁠—*
-==147==*In youth is pleasure, in youth is pleasure,*
-==148==*Methought I walked still to and fro,*
-==149==*And from her company I could not go;*
-==150==*But when I waked, it was not so,⁠—*
-==151==*In youth is pleasure, in youth is pleasure.*
-==152==*Therefore my heart is surely plight,*
-==153==*Of her alone to have a sight,*
-==154==*Which is my joy and heart’s delight,⁠—*
-==155==*In youth is pleasure, in youth is pleasure.*
+==144==    *In an arbor green, asleep whereas I lay,*
+==145==    *The birds sang sweetly in the midst of the day,*
+==146==    *I dreamed fast of mirth and play,⁠—*
+==147== *In youth is pleasure, in youth is pleasure,*
+==148==    *Methought I walked still to and fro,*
+==149==    *And from her company I could not go;*
+==150==    *But when I waked, it was not so,⁠—*
+==151== *In youth is pleasure, in youth is pleasure.*
+==152==    *Therefore my heart is surely plight,*
+==153==    *Of her alone to have a sight,*
+==154==    *Which is my joy and heart’s delight,⁠—*
+==155== *In youth is pleasure, in youth is pleasure.*
 
 **MORE.**
 ==156==Mark ye, my lord, this is Wit without a beard. What will he be by that time he comes to the commodity of a beard?
@@ -343,12 +343,12 @@ ID: sir-thomas-more-3-3
 
 **INCLINATION.**
 ==173==I warrant ye; therefore you must be familiar with her;
-==174==When she commeth in place,
-==175==You must her embrace
-==176==Somewhat handsomely,
-==177==Least she think it danger,
-==178==Because you are a stranger,
-==179==To come in your company.
+==174==    When she commeth in place,
+==175==    You must her embrace
+==176==        Somewhat handsomely,
+==177==    Least she think it danger,
+==178==    Because you are a stranger,
+==179==        To come in your company.
 
 **WIT.**
 ==180==I warrant thee, Inclination, I will be busy:
@@ -401,8 +401,8 @@ ID: sir-thomas-more-3-3
 ==206==Whether a little thing would you move
 ==207==To be angry and fret:
 ==208==What, and if one said so?
-==209==Let such trifling matters go
-==210==And with a kind kiss come out of her debt.
+==209== Let such trifling matters go
+==210== And with a kind kiss come out of her debt.
 ==211==Is Luggins come yet with the beard?
 
 *Enter Prologue Player.*
@@ -484,7 +484,7 @@ ID: sir-thomas-more-3-3
 ==247==My lord is sent for to the court,
 ==248==And all the guests do after supper part;
 ==249==And, for he will not trouble you again,
-==250==By me for your reward a sends 8 angels,
+==250==By me for your reward ’a sends eight angels,
 ==251==With many thanks. But sup before you go:
 ==252==It is his will you should be fairly entreated:
 ==253==Follow, I pray ye.

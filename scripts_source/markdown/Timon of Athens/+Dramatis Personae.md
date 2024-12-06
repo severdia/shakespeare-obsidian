@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-dp
 ---
@@ -65,3 +65,7 @@ ID: timon-of-athens-dp
 - Messenger (MESS.)
 - Messenger from Ventidius (MESS. VENT.)
 - Timon’s Page (TIM. PAGE.)
+- Senators (SENATORS.)
+- Servants (SERVANTS.)
+- States (STATES.)
+- Attendants (ATTENDANTS.)

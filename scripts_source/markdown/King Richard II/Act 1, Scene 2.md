@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -46,7 +46,7 @@ ID: king-richard-ii-1-2
 ==20==Is hack’d down, and his summer leaves all faded,
 ==21==By envy’s hand and murder’s bloody axe.
 ==22==Ah, Gaunt, his blood was thine! That bed, that womb,
-==23==That mettle, that self mould, that fashioned thee
+==23==That mettle, that self mold, that fashioned thee
 ==24==Made him a man; and though thou livest and breathest,
 ==25==Yet art thou slain in him. Thou dost consent
 ==26==In some large measure to thy father’s death,

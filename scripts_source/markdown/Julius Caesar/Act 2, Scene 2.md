@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-2-2
 ---
@@ -198,7 +198,7 @@ ID: julius-caesar-2-2
 ==111==Good morrow, Casca. Caius Ligarius,
 ==112==Caesar was ne’er so much your enemy
 ==113==As that same ague which hath made you lean.
-==114==What is’t a’ clock?
+==114==What is’t o’clock?
 
 **BRU.**
 ==114==           Caesar, ’tis strucken eight.

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-5-2
 ---
@@ -106,10 +106,10 @@ ID: two-noble-kinsmen-5-2
 ==31==How old is she?
 
 **WOOER.**
-==31==        She’s eighteen.
+==31==           She’s eighteen.
 
 **DOCT.**
-==31==                  She may be,
+==31==                     She may be,
 ==32==But that’s all one, ’tis nothing to our purpose.
 ==33==What e’er her father says, if you perceive
 ==34==Her mood inclining that way that I spoke of,
@@ -258,7 +258,7 @@ ID: two-noble-kinsmen-5-2
 ==85==That’s all one, I will have you.
 
 **DAUGH.**
-==85==                  Will you surely?
+==85==                Will you surely?
 
 **WOOER.**
 ==86==Yes, by this fair hand, will I.

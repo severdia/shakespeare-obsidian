@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -18,7 +18,7 @@ ID: henry-v-5-2
 
 *France. The French King’s apartment in Troyes.*
 
-*Enter, at one door, King Henry, Exeter, Bedford, Gloucester, Warwick, Westmorland, and other Lords; at another, Queen Isabel, the King of France, the Duke of Burgundy, Katherine, Alice, and other French.*
+*Enter, at one door, King Henry, Exeter, Bedford, Gloucester, Warwick, Westmorland, and other English Lords; at another, Queen Isabel, the King of France, the Duke of Burgundy, Katherine, Alice, and other French.*
 
 **K. HEN.**
 ==1==Peace to this meeting, wherefore we are met!
@@ -186,7 +186,7 @@ ID: henry-v-5-2
 ==112==*Oui, dat de tongeus of de mans is be full of deceits: dat is de Princess.*
 
 **K. HEN.**
-==113==The Princess is the better Englishwoman. I’ faith, Kate, my wooing is fit for thy understanding. I am glad thou canst speak no better English, for if thou couldst, thou wouldst find me such a plain king that thou wouldst think I had sold my farm to buy my crown. I know no ways to mince it in love, but directly to say “I love you”; then if you urge me farther than to say “Do you in faith?” I wear out my suit. Give me your answer, i’ faith, do, and so clap hands and a bargain. How say you, lady?
+==113==The Princess is the better Englishwoman. I’faith, Kate, my wooing is fit for thy understanding. I am glad thou canst speak no better English, for if thou couldst, thou wouldst find me such a plain king that thou wouldst think I had sold my farm to buy my crown. I know no ways to mince it in love, but directly to say “I love you”; then if you urge me farther than to say “Do you in faith?” I wear out my suit. Give me your answer, i’faith, do, and so clap hands and a bargain. How say you, lady?
 
 **KATH.**
 ==114==*Sauf votre honneur*, me understand well.
@@ -358,7 +358,7 @@ ID: henry-v-5-2
 ==177==In their sweet bosoms, that never war advance
 ==178==His bleeding sword ’twixt England and fair France.
 
-**LORDS.**
+**ENG. LORDS.**
 ==179==Amen!
 
 **K. HEN.**

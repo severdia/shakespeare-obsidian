@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-5-2
 ---
@@ -119,7 +119,7 @@ ID: henry-viii-5-2
 ==39==                Yes.
 
 **NOR.**
-==39==                  Who waits there?
+==39==                     Who waits there?
 
 **DOORKEEP.**
 ==40==Without, my noble lords?
@@ -305,7 +305,7 @@ ID: henry-viii-5-2
 ==137==This is the King’s ring.
 
 **SUR.**
-==137==              ’Tis no counterfeit.
+==137==           ’Tis no counterfeit.
 
 **SUF.**
 ==138==’Tis the right ring, by heav’n! I told ye all,

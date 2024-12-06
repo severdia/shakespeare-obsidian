@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-dp
 ---
@@ -15,7 +15,7 @@ ID: measure-for-measure-dp
 ## Dramatis Personae
 
 
-- Vincentio, the Duke (DUKE.)
+- Vincentio, the Duke (Friar) (DUKE.; FRI.)
 - Angelo (ANG.; BOTH ANG. AND ESCAL.)
 - Lucio (LUCIO.)
 - Escalus (ESCAL.; BOTH ANG. AND ESCAL.)
@@ -40,3 +40,8 @@ ID: measure-for-measure-dp
 - Messenger (MESS.)
 - Varrius (VARR.)
 - Attendant (ATT.)
+- Lords (LORDS.)
+- Officers (OFFICERS.)
+- Servants (SERVANTS.)
+- Citizens (CITIZENS.)
+- Attendant (ATTENDANT.)

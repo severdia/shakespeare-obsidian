@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-2-2
 ---
@@ -447,7 +447,7 @@ ID: antony-and-cleopatra-2-2
 **AGR.**
 ==213==              Royal wench!
 ==214==She made great Caesar lay his sword to bed;
-==215==He ploughed her, and she cropp’d.
+==215==He plowed her, and she cropp’d.
 
 **ENO.**
 ==215==                  I saw her once

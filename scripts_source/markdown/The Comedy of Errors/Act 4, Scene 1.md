@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: comedy-of-errors-4-1
 ---
@@ -30,7 +30,7 @@ ID: comedy-of-errors-4-1
 ==7==Even just the sum that I do owe to you
 ==8==Is growing to me by Antipholus,
 ==9==And in the instant that I met with you
-==10==He had of me a chain. At five a’clock
+==10==He had of me a chain. At five o’clock
 ==11==I shall receive the money for the same:
 ==12==Pleaseth you walk with me down to his house,
 ==13==I will discharge my bond, and thank you too.

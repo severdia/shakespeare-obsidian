@@ -6,13 +6,15 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-5-7
 ---
 
 ## Act 5, Scene 7
 [[Act 5, Scene 6|← Act 5, Scene 6]]
+
+*The orchard at Swinstead Abbey.*
 
 *Enter Prince Henry, Salisbury, and Bigot.*
 

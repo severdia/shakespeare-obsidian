@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-1-2
 ---
@@ -522,7 +522,7 @@ ID: tempest-1-2
 ==296==Thou hast howl’d away twelve winters.
 
 **ARI.**
-==296==                  Pardon, master,
+==296==                     Pardon, master,
 ==297==I will be correspondent to command
 ==298==And do my spriting gently.
 
@@ -673,22 +673,22 @@ ID: tempest-1-2
 *Ariel’s Song*
 
 **ARI.**
-==376==*Come unto these yellow sands,*
-==377==*And then take hands:*
-==378==*Curtsied when you have, and kiss’d,*
-==379==*The wild waves whist:*
-==380==*Foot it featly here and there,*
-==381==*And, sweet sprites, the burden bear.*
-==382==*Hark, hark!*
+==376== *Come unto these yellow sands,*
+==377==    *And then take hands:*
+==378== *Curtsied when you have, and kiss’d,*
+==379==    *The wild waves whist:*
+==380== *Foot it featly here and there,*
+==381== *And, sweet sprites, the burden bear.*
+==382== *Hark, hark!*
 *(Burden, dispersedly, within.)*
-==383==*Bow-wow.*
-==384==*The watch-dogs bark!*
+==383== *Bow-wow.*
+==384== *The watch-dogs bark!*
 *(Burden, dispersedly, within.)*
-==385==*Bow-wow.*
-==386==*Hark, hark, I hear*
-==387==*The strain of strutting chanticleer:*
+==385== *Bow-wow.*
+==386== *Hark, hark, I hear*
+==387== *The strain of strutting chanticleer:*
 *(Cry within.)*
-==388==*Cock-a-diddle-dow.*
+==388== *Cock-a-diddle-dow.*
 
 **FER.**
 ==389==Where should this music be? I’ th’ air, or th’ earth?
@@ -704,16 +704,16 @@ ID: tempest-1-2
 *Ariel’s Song*
 
 **ARI.**
-==398==*Full fathom five thy father lies,*
-==399==*Of his bones are coral made:*
-==400==*Those are pearls that were his eyes:*
-==401==*Nothing of him that doth fade,*
-==402==*But doth suffer a sea-change*
-==403==*Into something rich and strange.*
-==404==*Sea-nymphs hourly ring his knell:*
+==398== *Full fathom five thy father lies,*
+==399== *Of his bones are coral made:*
+==400== *Those are pearls that were his eyes:*
+==401== *Nothing of him that doth fade,*
+==402== *But doth suffer a sea-change*
+==403== *Into something rich and strange.*
+==404== *Sea-nymphs hourly ring his knell:*
 *(Burden within.)*
-==405==*Ding-dong.*
-==406==*Hark now I hear them—ding-dong bell.*
+==405== *Ding-dong.*
+==406== *Hark now I hear them—ding-dong bell.*
 
 **FER.**
 ==407==The ditty does remember my drown’d father.

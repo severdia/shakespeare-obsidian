@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -279,10 +279,10 @@ ID: king-lear-1-4
 **FOOL.**
 ==93==Why, after I have cut the egg i’ th’ middle and eat up the meat, the two crowns of the egg. When thou clovest thy crown i’ th’ middle and gav’st away both parts, thou bor’st thine ass on thy back o’er the dirt. Thou hadst little wit in thy bald crown when thou gav’st thy golden one away. If I speak like myself in this, let him be whipt that first finds it so.
 *(Sings.)*
-==94==*“Fools had ne’er less grace in a year,*
-==95==*For wise men are grown foppish,*
-==96==*And know not how their wits to wear,*
-==97==*Their manners are so apish.”*
+==94== *“Fools had ne’er less grace in a year,*
+==95==    *For wise men are grown foppish,*
+==96== *And know not how their wits to wear,*
+==97==    *Their manners are so apish.”*
 
 **LEAR.**
 ==98==When were you wont to be so full of songs, sirrah?
@@ -290,10 +290,10 @@ ID: king-lear-1-4
 **FOOL.**
 ==99==I have us’d it, nuncle, e’er since thou mad’st thy daughters thy mothers, for when thou gav’st them the rod, and put’st down thine own breeches,
 *(Sings.)*
-==100==*“Then they for sudden joy did weep,*
-==101==*And I for sorrow sung,*
-==102==*That such a king should play bo-peep,*
-==103==*And go the fools among.”*
+==100== *“Then they for sudden joy did weep,*
+==101==    *And I for sorrow sung,*
+==102== *That such a king should play bo-peep,*
+==103==    *And go the fools among.”*
 ==104==Prithee, nuncle, keep a schoolmaster that can teach thy Fool to lie—I would fain learn to lie.
 
 **LEAR.**
@@ -310,8 +310,7 @@ ID: king-lear-1-4
 **FOOL.**
 ==108==Thou wast a pretty fellow when thou hadst no need to care for her frowning, now thou art an O without a figure. I am better than thou art now, I am a Fool, thou art nothing.
 *(To Goneril.)*
-==109==Yes, forsooth, I will hold my tongue; so your face bids me, though you say nothing.
-==109==    Mum, mum:
+==109==Yes, forsooth, I will hold my tongue; so your face bids me, though you say nothing. Mum, mum:
 ==109==    *He that keeps nor crust nor crumb,*
 ==109==    *Weary of all, shall want some.*
 *(Pointing to Lear.)*
@@ -351,7 +350,7 @@ ID: king-lear-1-4
 **FOOL.**
 ==132==May not an ass know when the cart draws the horse?
 *(Sings.)*
-==133==*“Whoop, Jug! I love thee.”*
+==133== *“Whoop, Jug! I love thee.”*
 
 **LEAR.**
 ==134==Does any here know me? This is not Lear.

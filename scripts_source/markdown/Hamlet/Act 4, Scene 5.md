@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -66,10 +66,10 @@ ID: hamlet-4-5
 
 **OPH.**
 *(She sings.)*
-==23==*“How should I your true-love know*
-==24==*From another one?*
-==25==*By his cockle hat and staff,*
-==26==*And his sandal shoon.”*
+==23== *“How should I your true-love know*
+==24==    *From another one?*
+==25== *By his cockle hat and staff,*
+==26==    *And his sandal shoon.”*
 
 **QUEEN.**
 ==27==Alas, sweet lady, what imports this song?
@@ -77,10 +77,10 @@ ID: hamlet-4-5
 **OPH.**
 ==28==Say you? Nay, pray you mark.
 *(Song.)*
-==29==*“He is dead and gone, lady,*
-==30==*He is dead and gone,*
-==31==*At his head a grass-green turf,*
-==32==*At his heels a stone.”*
+==29==    *“He is dead and gone, lady,*
+==30==    *He is dead and gone,*
+==31== *At his head a grass-green turf,*
+==32==    *At his heels a stone.”*
 ==33==O ho!
 
 **QUEEN.**
@@ -89,7 +89,7 @@ ID: hamlet-4-5
 **OPH.**
 ==35==Pray you mark.
 *(Sings.)*
-==36==*“White his shroud as the mountain snow”⁠—*
+==36== *“White his shroud as the mountain snow”⁠—*
 
 *Enter King.*
 
@@ -98,9 +98,9 @@ ID: hamlet-4-5
 
 **OPH.**
 *(Song.)*
-==38==*“Larded all with sweet flowers,*
-==39==*Which bewept to the ground did not go*
-==40==*With true-love showers.”*
+==38==    *“Larded all with sweet flowers,*
+==39== *Which bewept to the ground did not go*
+==40==    *With true-love showers.”*
 
 **KING.**
 ==41==How do you, pretty lady?
@@ -114,14 +114,14 @@ ID: hamlet-4-5
 **OPH.**
 ==44==Pray let’s have no words of this, but when they ask you what it means, say you this:
 *(Song.)*
-==45==*“Tomorrow is Saint Valentine’s day,*
-==46==*All in the morning betime,*
-==47==*And I a maid at your window,*
-==48==*To be your Valentine.*
-==49==*Then up he rose and donn’d his clo’es,*
-==50==*And dupp’d the chamber-door,*
-==51==*Let in the maid, that out a maid*
-==52==*Never departed more.”*
+==45== *“Tomorrow is Saint Valentine’s day,*
+==46==    *All in the morning betime,*
+==47== *And I a maid at your window,*
+==48==    *To be your Valentine.*
+==49== *Then up he rose and donn’d his clo’es,*
+==50==    *And dupp’d the chamber-door,*
+==51== *Let in the maid, that out a maid*
+==52==    *Never departed more.”*
 
 **KING.**
 ==53==Pretty Ophelia!
@@ -129,15 +129,15 @@ ID: hamlet-4-5
 **OPH.**
 ==54==Indeed without an oath I’ll make an end on’t.
 *(Sings.)*
-==55==*“By Gis, and by Saint Charity,*
-==56==*Alack, and fie for shame!*
-==57==*Young men will do’t if they come to’t,*
-==58==*By Cock, they are to blame.*
-==59==*Quoth she, “Before you tumbled me,*
-==60==*You promis’d me to wed.’”*
+==55== *“By Gis, and by Saint Charity,*
+==56==    *Alack, and fie for shame!*
+==57== *Young men will do’t if they come to’t,*
+==58==    *By Cock, they are to blame.*
+==59== *Quoth she, “Before you tumbled me,*
+==60==    *You promis’d me to wed.’”*
 *(He answers.)*
-==61==*“‘So would I ’a’ done, by yonder sun,*
-==62==*And thou hadst not come to my bed.’”*
+==61== *“‘So would I ’a’ done, by yonder sun,*
+==62== *And thou hadst not come to my bed.’”*
 
 **KING.**
 ==63==How long hath she been thus?
@@ -160,7 +160,7 @@ ID: hamlet-4-5
 ==73==Thick and unwholesome in their thoughts and whispers
 ==74==For good Polonius’ death; and we have done but greenly
 ==75==In hugger-mugger to inter him; poor Ophelia
-==76==Divided from herself and her fair judgement,
+==76==Divided from herself and her fair judgment,
 ==77==Without the which we are pictures, or mere beasts;
 ==78==Last, and as much containing as all these,
 ==79==Her brother is in secret come from France,
@@ -318,9 +318,9 @@ ID: hamlet-4-5
 
 **OPH.**
 *(Song.)*
-==158==*“They bore him barefac’d on the bier,*
-==159==*Hey non nonny, nonny, hey nonny,*
-==160==*And in his grave rain’d many a tear”⁠—*
+==158== *“They bore him barefac’d on the bier,*
+==159== *Hey non nonny, nonny, hey nonny,*
+==160== *And in his grave rain’d many a tear”⁠—*
 ==161==Fare you well, my dove!
 
 **LAER.**
@@ -328,8 +328,8 @@ ID: hamlet-4-5
 ==163==It could not move thus.
 
 **OPH.**
-==164==*You must sing, “A-down, a-down,”*
-==165==*And you call him a-down-a.*
+==164== *You must sing, “A-down, a-down,”*
+==165== *And you call him a-down-a.*
 ==166==O how the wheel becomes it! It is the false steward, that stole his master’s daughter.
 
 **LAER.**
@@ -347,7 +347,7 @@ ID: hamlet-4-5
 *(To Gertrude.)*
 ==171==There’s rue for you, and here’s some for me; we may call it herb of grace a’ Sundays. You may wear your rue with a difference. There’s a daisy. I would give you some violets, but they wither’d all when my father died. They say ’a made a good end⁠—
 *(Sings.)*
-==172==*“For bonny sweet Robin is all my joy.”*
+==172== *“For bonny sweet Robin is all my joy.”*
 
 **LAER.**
 ==173==Thought and afflictions, passion, hell itself,
@@ -355,16 +355,16 @@ ID: hamlet-4-5
 
 **OPH.**
 *(Song.)*
-==175==*“And will ’a not come again?*
-==176==*And will ’a not come again?*
-==177==*No, no, he is dead,*
-==178==*Go to thy death-bed,*
-==179==*He never will come again.*
-==180==*His beard was as white as snow,*
-==181==*All flaxen was his pole,*
-==182==*He is gone, he is gone,*
-==183==*And we cast away moan,*
-==184==*God ’a’ mercy on his soul!”*
+==175== *“And will ’a not come again?*
+==176== *And will ’a not come again?*
+==177==    *No, no, he is dead,*
+==178==    *Go to thy death-bed,*
+==179== *He never will come again.*
+==180== *His beard was as white as snow,*
+==181== *All flaxen was his pole,*
+==182==    *He is gone, he is gone,*
+==183==    *And we cast away moan,*
+==184== *God ’a’ mercy on his soul!”*
 ==185==And of all Christians’ souls, I pray God. God buy you.
 
 *Exit.*

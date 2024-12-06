@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -23,13 +23,13 @@ ID: merry-wives-of-windsor-2-1
 **MRS. PAGE.**
 ==1==What, have I scap’d love-letters in the holiday-time of my beauty, and am I now a subject for them? Let me see.
 *(Reads.)*
-==2==*“Ask me no reason why I love you, for though Love use Reason for his precisian, he admits him not for his counsellor. You are not young, no more am I; go to then, there’s sympathy. You are merry, so am I; ha, ha! Then there’s more sympathy. You love sack, and so do I; would you desire better sympathy? Let it suffice thee, Mistress Page—at the least if the love of a soldier can suffice—that I love thee. I will not say, pity me—’tis not a soldier-like phrase—but I say, love me. By me,*
+==2==*“Ask me no reason why I love you, for though Love use Reason for his precisian, he admits him not for his counselor. You are not young, no more am I; go to then, there’s sympathy. You are merry, so am I; ha, ha! Then there’s more sympathy. You love sack, and so do I; would you desire better sympathy? Let it suffice thee, Mistress Page—at the least if the love of a soldier can suffice—that I love thee. I will not say, pity me—’tis not a soldier-like phrase—but I say, love me. By me,*
 ==3==*Thine own true knight,*
 ==4==*By day or night,*
 ==5==*Or any kind of light,*
 ==6==*With all his might*
 ==7==*For thee to fight,*
-==8==*John Falstaff.”*
+==8==    *John Falstaff.”*
 ==9==What a Herod of Jewry is this! O wicked, wicked world! One that is well-nigh worn to pieces with age to show himself a young gallant! What an unweigh’d behavior hath this Flemish drunkard pick’d (with the devil’s name!) out of my conversation, that he dares in this manner assay me? Why, he hath not been thrice in my company! What should I say to him? I was then frugal of my mirth. Heaven forgive me! Why, I’ll exhibit a bill in the parliament for the putting down of men. How shall I be reveng’d on him? For reveng’d I will be! As sure as his guts are made of puddings.
 
 *Enter Mistress Ford.*

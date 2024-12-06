@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-2-2
 ---
@@ -81,7 +81,7 @@ ID: winters-tale-2-2
 ==25==A boy?
 
 **EMIL.**
-==25==        A daughter, and a goodly babe,
+==25==    A daughter, and a goodly babe,
 ==26==Lusty and like to live. The Queen receives
 ==27==Much comfort in’t; says, “My poor prisoner,
 ==28==I am innocent as you.”

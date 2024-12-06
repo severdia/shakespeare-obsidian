@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-4-3
 ---
@@ -30,7 +30,7 @@ ID: two-gentlemen-of-verona-4-3
 ==4==           Who calls?
 
 **EGL.**
-==4==                Your servant and your friend;
+==4==                  Your servant and your friend;
 ==5==One that attends your ladyship’s command.
 
 **SILV.**

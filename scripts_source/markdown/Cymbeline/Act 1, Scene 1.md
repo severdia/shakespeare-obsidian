@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-1-1
 ---
@@ -286,7 +286,7 @@ ID: cymbeline-1-1
 
 **IMO.**
 ==143==           No, I rather added
-==144==A lustre to it.
+==144==A luster to it.
 
 **CYM.**
 ==144==        O thou vild one!

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -77,7 +77,7 @@ ID: hamlet-2-2
 ==39==Pleasant and helpful to him!
 
 **QUEEN.**
-==39==                     Ay, amen!
+==39==                  Ay, amen!
 
 *Exeunt Rosencrantz and Guildenstern with some Attendants.*
 
@@ -637,57 +637,57 @@ ID: hamlet-2-2
 
 **HAM.**
 ==281==I heard thee speak me a speech once, but it was never acted, or if it was, not above once; for the play, I remember, pleas’d not the million, ’twas caviary to the general, but it was—as I receiv’d it, and others, whose judgments in such matters cried in the top of mine—an excellent play, well digested in the scenes, set down with as much modesty as cunning. I remember one said there were no sallets in the lines to make the matter savory, nor no matter in the phrase that might indict the author of affection, but call’d it an honest method, as wholesome as sweet, and by very much more handsome than fine. One speech in’t I chiefly lov’d, ’twas Aeneas’ tale to Dido, and thereabout of it especially when he speaks of Priam’s slaughter. If it live in your memory, begin at this line—let me see, let me see:
-==282==“The rugged Pyrrhus, like th’ Hyrcanian beast—”
+==282==*“The rugged Pyrrhus, like th’ Hyrcanian beast—”*
 ==283==’Tis not so, it begins with Pyrrhus:
-==284==“The rugged Pyrrhus, he whose sable arms,
-==285==Black as his purpose, did the night resemble
-==286==When he lay couched in th’ ominous horse,
-==287==Hath now this dread and black complexion smear’d
-==288==With heraldry more dismal: head to foot
-==289==Now is he total gules, horridly trick’d
-==290==With blood of fathers, mothers, daughters, sons,
-==291==Bak’d and impasted with the parching streets,
-==292==That lend a tyrannous and a damned light
-==293==To their lord’s murder. Roasted in wrath and fire,
-==294==And thus o’er-sized with coagulate gore,
-==295==With eyes like carbuncles, the hellish Pyrrhus
-==296==Old grandsire Priam seeks.”
+==284==*“The rugged Pyrrhus, he whose sable arms,*
+==285==*Black as his purpose, did the night resemble*
+==286==*When he lay couched in th’ ominous horse,*
+==287==*Hath now this dread and black complexion smear’d*
+==288==*With heraldry more dismal: head to foot*
+==289==*Now is he total gules, horridly trick’d*
+==290==*With blood of fathers, mothers, daughters, sons,*
+==291==*Bak’d and impasted with the parching streets,*
+==292==*That lend a tyrannous and a damned light*
+==293==*To their lord’s murder. Roasted in wrath and fire,*
+==294==*And thus o’er-sized with coagulate gore,*
+==295==*With eyes like carbuncles, the hellish Pyrrhus*
+==296==*Old grandsire Priam seeks.”*
 ==297==So proceed you.
 
 **POL.**
 ==298==’Fore God, my lord, well spoken, with good accent and good discretion.
 
 **1. PLAY.**
-==299==“Anon he finds him
-==300==Striking too short at Greeks. His antique sword,
-==301==Rebellious to his arm, lies where it falls,
-==302==Repugnant to command. Unequal match’d,
-==303==Pyrrhus at Priam drives, in rage strikes wide,
-==304==But with the whiff and wind of his fell sword
-==305==Th’ unnerved father falls. Then senseless Ilium,
-==306==Seeming to feel this blow, with flaming top
-==307==Stoops to his base, and with a hideous crash
-==308==Takes prisoner Pyrrhus’ ear; for lo his sword,
-==309==Which was declining on the milky head
-==310==Of reverent Priam, seem’d i’ th’ air to stick.
-==311==So as a painted tyrant Pyrrhus stood
-==312==And, like a neutral to his will and matter,
-==313==Did nothing.
-==314==But as we often see, against some storm,
-==315==A silence in the heavens, the rack stand still,
-==316==The bold winds speechless, and the orb below
-==317==As hush as death, anon the dreadful thunder
-==318==Doth rend the region; so after Pyrrhus’ pause,
-==319==A roused vengeance sets him new a-work,
-==320==And never did the Cyclops’ hammers fall
-==321==On Mars’s armor forg’d for proof eterne
-==322==With less remorse than Pyrrhus’ bleeding sword
-==323==Now falls on Priam.
-==324==Out, out, thou strumpet Fortune! All you gods,
-==325==In general synod take away her power!
-==326==Break all the spokes and fellies from her wheel,
-==327==And bowl the round nave down the hill of heaven
-==328==As low as to the fiends!”
+==299==*“Anon he finds him*
+==300==*Striking too short at Greeks. His antique sword,*
+==301==*Rebellious to his arm, lies where it falls,*
+==302==*Repugnant to command. Unequal match’d,*
+==303==*Pyrrhus at Priam drives, in rage strikes wide,*
+==304==*But with the whiff and wind of his fell sword*
+==305==*Th’ unnerved father falls. Then senseless Ilium,*
+==306==*Seeming to feel this blow, with flaming top*
+==307==*Stoops to his base, and with a hideous crash*
+==308==*Takes prisoner Pyrrhus’ ear; for lo his sword,*
+==309==*Which was declining on the milky head*
+==310==*Of reverent Priam, seem’d i’ th’ air to stick.*
+==311==*So as a painted tyrant Pyrrhus stood*
+==312==*And, like a neutral to his will and matter,*
+==313==*Did nothing.*
+==314==*But as we often see, against some storm,*
+==315==*A silence in the heavens, the rack stand still,*
+==316==*The bold winds speechless, and the orb below*
+==317==*As hush as death, anon the dreadful thunder*
+==318==*Doth rend the region; so after Pyrrhus’ pause,*
+==319==*A roused vengeance sets him new a-work,*
+==320==*And never did the Cyclops’ hammers fall*
+==321==*On Mars’s armor forg’d for proof eterne*
+==322==*With less remorse than Pyrrhus’ bleeding sword*
+==323==*Now falls on Priam.*
+==324==*Out, out, thou strumpet Fortune! All you gods,*
+==325==*In general synod take away her power!*
+==326==*Break all the spokes and fellies from her wheel,*
+==327==*And bowl the round nave down the hill of heaven*
+==328==*As low as to the fiends!”*
 
 **POL.**
 ==329==This is too long.
@@ -705,20 +705,20 @@ ID: hamlet-2-2
 ==333==That’s good, “mobled queen” is good.
 
 **1. PLAY.**
-==334==“Run barefoot up and down, threat’ning the flames
-==335==With bisson rheum, a clout upon that head
-==336==Where late the diadem stood, and for a robe,
-==337==About her lank and all o’er-teemed loins,
-==338==A blanket, in the alarm of fear caught up⁠—
-==339==Who this had seen, with tongue in venom steep’d,
-==340==’Gainst Fortune’s state would treason have pronounc’d.
-==341==But if the gods themselves did see her then,
-==342==When she saw Pyrrhus make malicious sport
-==343==In mincing with his sword her husband’s limbs,
-==344==The instant burst of clamor that she made,
-==345==Unless things mortal move them not at all,
-==346==Would have made milch the burning eyes of heaven,
-==347==And passion in the gods.”
+==334==*“Run barefoot up and down, threat’ning the flames*
+==335==*With bisson rheum, a clout upon that head*
+==336==*Where late the diadem stood, and for a robe,*
+==337==*About her lank and all o’er-teemed loins,*
+==338==*A blanket, in the alarm of fear caught up⁠—*
+==339==*Who this had seen, with tongue in venom steep’d,*
+==340==*’Gainst Fortune’s state would treason have pronounc’d.*
+==341==*But if the gods themselves did see her then,*
+==342==*When she saw Pyrrhus make malicious sport*
+==343==*In mincing with his sword her husband’s limbs,*
+==344==*The instant burst of clamor that she made,*
+==345==*Unless things mortal move them not at all,*
+==346==*Would have made milch the burning eyes of heaven,*
+==347==*And passion in the gods.”*
 
 **POL.**
 ==348==Look whe’er he has not turn’d his color and has tears in ’s eyes. Prithee no more.
@@ -740,7 +740,7 @@ ID: hamlet-2-2
 **HAM.**
 ==353==Follow him, friends, we’ll hear a play tomorrow.
 *(Exeunt all the Players but the First.)*
-==354==Dost thou hear me, old friend? Can you play “The Murder of Gonzago”?
+==354==Dost thou hear me, old friend? Can you play *“The Murder of Gonzago”*?
 
 **1. PLAY.**
 ==355==Ay, my lord.

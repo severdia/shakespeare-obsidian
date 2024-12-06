@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-1-1
 ---
@@ -21,31 +21,31 @@ ID: two-noble-kinsmen-1-1
 
 **BOY.**
 *(Music. The Song by the Boy.)*
-==1==*Roses, their sharp spines being gone,*
-==2==*Not royal in their smells alone,*
-==3==*But in their hue;*
-==4==*Maiden pinks, of odor faint,*
-==5==*Daisies smell-less, yet most quaint,*
-==6==*And sweet thyme true;*
-==7==*Primrose, first-born child of Ver,*
-==8==*Merry spring-time’s harbinger,*
-==9==*With her bells dim;*
-==10==*Oxlips in their cradles growing,*
-==11==*Marigolds on death-beds blowing,*
-==12==*Larks’-heels trim;*
-==13==*All dear Nature’s children sweet,*
-==14==*Lie ’fore bride and bridegroom’s feet.*
+==1== *Roses, their sharp spines being gone,*
+==2== *Not royal in their smells alone,*
+==3==    *But in their hue;*
+==4== *Maiden pinks, of odor faint,*
+==5== *Daisies smell-less, yet most quaint,*
+==6==    *And sweet thyme true;*
+==7== *Primrose, first-born child of Ver,*
+==8== *Merry spring-time’s harbinger,*
+==9==    *With her bells dim;*
+==10== *Oxlips in their cradles growing,*
+==11== *Marigolds on death-beds blowing,*
+==12==    *Larks’-heels trim;*
+==13== *All dear Nature’s children sweet,*
+==14== *Lie ’fore bride and bridegroom’s feet.*
 *(Strew flowers.)*
-==15==*Blessing their sense;*
-==16==*Not an angel of the air,*
-==17==*Bird melodious, or bird fair,*
-==18==*Is absent hence.*
-==19==*The crow, the sland’rous cuckoo, nor*
-==20==*The boding raven, nor chough hoar,*
-==21==*Nor chatt’ring pie,*
-==22==*May on our bridehouse perch or sing,*
-==23==*Or with them any discord bring,*
-==24==*But from it fly.*
+==15==    *Blessing their sense;*
+==16== *Not an angel of the air,*
+==17== *Bird melodious, or bird fair,*
+==18==    *Is absent hence.*
+==19== *The crow, the sland’rous cuckoo, nor*
+==20== *The boding raven, nor chough hoar,*
+==21==    *Nor chatt’ring pie,*
+==22== *May on our bridehouse perch or sing,*
+==23== *Or with them any discord bring,*
+==24==    *But from it fly.*
 
 *Enter three Queens, in black, with veils stain’d, with imperial crowns.*
 
@@ -359,7 +359,7 @@ ID: two-noble-kinsmen-1-1
 ==220==Keep the feast full, bate not an hour on’t.
 
 **PIR.**
-==220==                     Sir,
+==220==                       Sir,
 ==221==I’ll follow you at heels; the feast’s solemnity
 ==222==Shall want till your return.
 

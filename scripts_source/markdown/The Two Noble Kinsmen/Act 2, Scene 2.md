@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-2-2
 ---
@@ -31,7 +31,7 @@ ID: two-noble-kinsmen-2-2
 ==4==I fear forever, cousin.
 
 **ARC.**
-==4==              I believe it,
+==4==           I believe it,
 ==5==And to that destiny have patiently
 ==6==Laid up my hour to come.
 

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-4-3
 ---
@@ -19,7 +19,7 @@ ID: as-you-like-it-4-3
 *Enter Rosalind and Celia.*
 
 **ROS.**
-==1==How say you now? Is it not past two a’ clock? And here much Orlando!
+==1==How say you now? Is it not past two o’clock? And here much Orlando!
 
 **CEL.**
 ==2==I warrant you, with pure love and troubled brain, he hath ta’en his bow and arrows and is gone forth—to sleep. Look who comes here.
@@ -78,8 +78,8 @@ ID: as-you-like-it-4-3
 **ROS.**
 ==36==She Phebes me. Mark how the tyrant writes.
 *(Read.)*
-==37==*“Art thou god to shepherd turn’d,*
-==38==*That a maiden’s heart hath burn’d?”*
+==37== *“Art thou god to shepherd turn’d,*
+==38== *That a maiden’s heart hath burn’d?”*
 ==39==Can a woman rail thus?
 
 **SIL.**
@@ -89,10 +89,10 @@ ID: as-you-like-it-4-3
 *(Reads.)*
 ==41==*“Why, thy godhead laid apart,*
 ==42==*Warr’st thou with a woman’s heart?”*
-==43==*Did you ever hear such railing?*
+==43==Did you ever hear such railing?
 ==44==*“Whiles the eye of man did woo me,*
 ==45==*That could do no vengeance to me.”*
-==46==*Meaning me a beast.*
+==46==Meaning me a beast.
 ==47==*“If the scorn of your bright eyne*
 ==48==*Have power to raise such love in mine,*
 ==49==*Alack, in me what strange effect*
@@ -112,188 +112,188 @@ ID: as-you-like-it-4-3
 ==61==Call you this chiding?
 
 **CEL.**
-==62==Alas, poor shepherd!
+==61==              Alas, poor shepherd!
 
 **ROS.**
-==63==Do you pity him? No, he deserves no pity. Wilt thou love such a woman? What, to make thee an instrument, and play false strains upon thee? Not to be endur’d! Well, go your way to her (for I see love hath made thee a tame snake) and say this to her: that if she love me, I charge her to love thee; if she will not, I will never have her unless thou entreat for her. If you be a true lover, hence, and not a word; for here comes more company.
+==62==Do you pity him? No, he deserves no pity. Wilt thou love such a woman? What, to make thee an instrument, and play false strains upon thee? Not to be endur’d! Well, go your way to her (for I see love hath made thee a tame snake) and say this to her: that if she love me, I charge her to love thee; if she will not, I will never have her unless thou entreat for her. If you be a true lover, hence, and not a word; for here comes more company.
 
 *Exit Silvius*
 
 *Enter Oliver.*
 
 **OLIV.**
-==64==Good morrow, fair ones. Pray you (if you know) 
-==65==Where in the purlieus of this forest stands
-==66==A sheep-cote fenc’d about with olive-trees?
+==63==Good morrow, fair ones. Pray you (if you know) 
+==64==Where in the purlieus of this forest stands
+==65==A sheep-cote fenc’d about with olive-trees?
 
 **CEL.**
-==67==West of this place, down in the neighbor bottom,
-==68==The rank of osiers by the murmuring stream
-==69==Left on your right hand brings you to the place.
-==70==But at this hour the house doth keep itself,
-==71==There’s none within.
+==66==West of this place, down in the neighbor bottom,
+==67==The rank of osiers by the murmuring stream
+==68==Left on your right hand brings you to the place.
+==69==But at this hour the house doth keep itself,
+==70==There’s none within.
 
 **OLIV.**
-==72==If that an eye may profit by a tongue,
-==73==Then should I know you by description⁠—
-==74==Such garments and such years. “The boy is fair,
-==75==Of female favor, and bestows himself
-==76==Like a ripe sister; the woman low,
-==77==And browner than her brother.” Are not you
-==78==The owner of the house I did inquire for?
+==71==If that an eye may profit by a tongue,
+==72==Then should I know you by description⁠—
+==73==Such garments and such years. “The boy is fair,
+==74==Of female favor, and bestows himself
+==75==Like a ripe sister; the woman low,
+==76==And browner than her brother.” Are not you
+==77==The owner of the house I did inquire for?
 
 **CEL.**
-==79==It is no boast, being ask’d, to say we are.
+==78==It is no boast, being ask’d, to say we are.
 
 **OLIV.**
-==80==Orlando doth commend him to you both,
-==81==And to that youth he calls his Rosalind
-==82==He sends this bloody napkin. Are you he?
+==79==Orlando doth commend him to you both,
+==80==And to that youth he calls his Rosalind
+==81==He sends this bloody napkin. Are you he?
 
 **ROS.**
-==83==I am. What must we understand by this?
+==82==I am. What must we understand by this?
 
 **OLIV.**
-==84==Some of my shame, if you will know of me
-==85==What man I am, and how, and why, and where
-==86==This handkercher was stain’d.
+==83==Some of my shame, if you will know of me
+==84==What man I am, and how, and why, and where
+==85==This handkercher was stain’d.
 
 **CEL.**
-==86==                I pray you tell it.
+==85==                I pray you tell it.
 
 **OLIV.**
-==87==When last the young Orlando parted from you
-==88==He left a promise to return again
-==89==Within an hour, and pacing through the forest,
-==90==Chewing the food of sweet and bitter fancy,
-==91==Lo what befell! He threw his eye aside,
-==92==And mark what object did present itself
-==93==Under an old oak, whose boughs were moss’d with age
-==94==And high top bald with dry antiquity:
-==95==A wretched ragged man, o’ergrown with hair,
-==96==Lay sleeping on his back; about his neck
-==97==A green and gilded snake had wreath’d itself,
-==98==Who with her head nimble in threats approach’d
-==99==The opening of his mouth; but suddenly
-==100==Seeing Orlando, it unlink’d itself,
-==101==And with indented glides did slip away
-==102==Into a bush, under which bush’s shade
-==103==A lioness, with udders all drawn dry,
-==104==Lay couching, head on ground, with cat-like watch
-==105==When that the sleeping man should stir; for ’tis
-==106==The royal disposition of that beast
-==107==To prey on nothing that doth seem as dead.
-==108==This seen, Orlando did approach the man,
-==109==And found it was his brother, his elder brother.
+==86==When last the young Orlando parted from you
+==87==He left a promise to return again
+==88==Within an hour, and pacing through the forest,
+==89==Chewing the food of sweet and bitter fancy,
+==90==Lo what befell! He threw his eye aside,
+==91==And mark what object did present itself
+==92==Under an old oak, whose boughs were moss’d with age
+==93==And high top bald with dry antiquity:
+==94==A wretched ragged man, o’ergrown with hair,
+==95==Lay sleeping on his back; about his neck
+==96==A green and gilded snake had wreath’d itself,
+==97==Who with her head nimble in threats approach’d
+==98==The opening of his mouth; but suddenly
+==99==Seeing Orlando, it unlink’d itself,
+==100==And with indented glides did slip away
+==101==Into a bush, under which bush’s shade
+==102==A lioness, with udders all drawn dry,
+==103==Lay couching, head on ground, with cat-like watch
+==104==When that the sleeping man should stir; for ’tis
+==105==The royal disposition of that beast
+==106==To prey on nothing that doth seem as dead.
+==107==This seen, Orlando did approach the man,
+==108==And found it was his brother, his elder brother.
 
 **CEL.**
-==110==O, I have heard him speak of that same brother,
-==111==And he did render him the most unnatural
-==112==That liv’d amongst men.
+==109==O, I have heard him speak of that same brother,
+==110==And he did render him the most unnatural
+==111==That liv’d amongst men.
 
 **OLIV.**
-==112==              And well he might so do,
-==113==For well I know he was unnatural.
+==111==              And well he might so do,
+==112==For well I know he was unnatural.
 
 **ROS.**
-==114==But to Orlando: did he leave him there,
-==115==Food to the suck’d and hungry lioness?
+==113==But to Orlando: did he leave him there,
+==114==Food to the suck’d and hungry lioness?
 
 **OLIV.**
-==116==Twice did he turn his back, and purpos’d so;
-==117==But kindness, nobler ever than revenge,
-==118==And nature, stronger than his just occasion,
-==119==Made him give battle to the lioness,
-==120==Who quickly fell before him, in which hurtling
-==121==From miserable slumber I awaked.
+==115==Twice did he turn his back, and purpos’d so;
+==116==But kindness, nobler ever than revenge,
+==117==And nature, stronger than his just occasion,
+==118==Made him give battle to the lioness,
+==119==Who quickly fell before him, in which hurtling
+==120==From miserable slumber I awaked.
 
 **CEL.**
-==122==Are you his brother?
+==121==Are you his brother?
 
 **ROS.**
-==122==           Was’t you he rescu’d?
+==121==           Was’t you he rescu’d?
 
 **CEL.**
-==123==Was’t you that did so oft contrive to kill him?
+==122==Was’t you that did so oft contrive to kill him?
 
 **OLIV.**
-==124==’Twas I; but ’tis not I. I do not shame
-==125==To tell you what I was, since my conversion
-==126==So sweetly tastes, being the thing I am.
+==123==’Twas I; but ’tis not I. I do not shame
+==124==To tell you what I was, since my conversion
+==125==So sweetly tastes, being the thing I am.
 
 **ROS.**
-==127==But for the bloody napkin?
+==126==But for the bloody napkin?
 
 **OLIV.**
-==127==                By and by.
-==128==When from the first to last betwixt us two
-==129==Tears our recountments had most kindly bath’d,
-==130==As how I came into that desert place⁠—
-==131==In brief, he led me to the gentle Duke,
-==132==Who gave me fresh array and entertainment,
-==133==Committing me unto my brother’s love,
-==134==Who led me instantly unto his cave,
-==135==There stripp’d himself, and here upon his arm
-==136==The lioness had torn some flesh away,
-==137==Which all this while had bled; and now he fainted,
-==138==And cried in fainting upon Rosalind.
-==139==Brief, I recover’d him, bound up his wound,
-==140==And after some small space, being strong at heart,
-==141==He sent me hither, stranger as I am,
-==142==To tell this story, that you might excuse
-==143==His broken promise, and to give this napkin,
-==144==Dy’d in his blood, unto the shepherd youth
-==145==That he in sport doth call his Rosalind.
+==126==                By and by.
+==127==When from the first to last betwixt us two
+==128==Tears our recountments had most kindly bath’d,
+==129==As how I came into that desert place⁠—
+==130==In brief, he led me to the gentle Duke,
+==131==Who gave me fresh array and entertainment,
+==132==Committing me unto my brother’s love,
+==133==Who led me instantly unto his cave,
+==134==There stripp’d himself, and here upon his arm
+==135==The lioness had torn some flesh away,
+==136==Which all this while had bled; and now he fainted,
+==137==And cried in fainting upon Rosalind.
+==138==Brief, I recover’d him, bound up his wound,
+==139==And after some small space, being strong at heart,
+==140==He sent me hither, stranger as I am,
+==141==To tell this story, that you might excuse
+==142==His broken promise, and to give this napkin,
+==143==Dy’d in his blood, unto the shepherd youth
+==144==That he in sport doth call his Rosalind.
 
 *Rosalind faints.*
 
 **CEL.**
-==146==Why, how now, Ganymede, sweet Ganymede?
+==145==Why, how now, Ganymede, sweet Ganymede?
 
 **OLIV.**
-==147==Many will swoon when they do look on blood.
+==146==Many will swoon when they do look on blood.
 
 **CEL.**
-==148==There is more in it. Cousin Ganymede!
+==147==There is more in it. Cousin Ganymede!
 
 **OLIV.**
-==149==Look, he recovers.
+==148==Look, he recovers.
 
 **ROS.**
-==150==I would I were at home.
+==149==I would I were at home.
 
 **CEL.**
-==150==              We’ll lead you thither.
-==151==I pray you, will you take him by the arm?
+==149==              We’ll lead you thither.
+==150==I pray you, will you take him by the arm?
 
 **OLIV.**
-==152==Be of good cheer, youth. You a man?
-==153==You lack a man’s heart.
+==151==Be of good cheer, youth. You a man?
+==152==You lack a man’s heart.
 
 **ROS.**
-==154==I do so, I confess it. Ah, sirrah, a body would think this was well counterfeited! I pray you tell your brother how well I counterfeited. Heigh-ho!
+==153==I do so, I confess it. Ah, sirrah, a body would think this was well counterfeited! I pray you tell your brother how well I counterfeited. Heigh-ho!
 
 **OLIV.**
-==155==This was not counterfeit, there is too great testimony in your complexion that it was a passion of earnest.
+==154==This was not counterfeit, there is too great testimony in your complexion that it was a passion of earnest.
 
 **ROS.**
-==156==Counterfeit, I assure you.
+==155==Counterfeit, I assure you.
 
 **OLIV.**
-==157==Well then, take a good heart and counterfeit to be a man.
+==156==Well then, take a good heart and counterfeit to be a man.
 
 **ROS.**
-==158==So I do; but i’ faith, I should have been a woman by right.
+==157==So I do; but i’faith, I should have been a woman by right.
 
 **CEL.**
-==159==Come, you look paler and paler. Pray you draw homewards. Good sir, go with us.
+==158==Come, you look paler and paler. Pray you draw homewards. Good sir, go with us.
 
 **OLIV.**
-==160==That will I, for I must bear answer back
-==161==How you excuse my brother, Rosalind.
+==159==That will I, for I must bear answer back
+==160==How you excuse my brother, Rosalind.
 
 **ROS.**
-==162==I shall devise something; but I pray you commend my counterfeiting to him. Will you go?
+==161==I shall devise something; but I pray you commend my counterfeiting to him. Will you go?
 
 *Exeunt.*
 

@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-1-2
 ---
@@ -115,8 +115,8 @@ ID: timon-of-athens-1-2
 ==55==*Or a dog that seems a-sleeping,*
 ==56==*Or a keeper with my freedom,*
 ==57==*Or my friends, if I should need ’em.*
-==58==*Amen. So fall to’t:*
-==59==*Rich men sin, and I eat root.*
+==58==    *Amen. So fall to’t:*
+==59==    *Rich men sin, and I eat root.*
 *(Eats and drinks.)*
 ==60==Much good dich thy good heart, Apemantus!
 
@@ -224,7 +224,7 @@ ID: timon-of-athens-1-2
 ==103==You have done our pleasures much grace, fair ladies,
 ==104==Set a fair fashion on our entertainment,
 ==105==Which was not half so beautiful and kind;
-==106==You have added worth unto’t and lustre,
+==106==You have added worth unto’t and luster,
 ==107==And entertain’d me with mine own device.
 ==108==I am to thank you for’t.
 
@@ -257,7 +257,7 @@ ID: timon-of-athens-1-2
 *(Aside.)*
 ==115==        More jewels yet?
 ==116==There is no crossing him in ’s humor,
-==117==Else I should tell him well (i’ faith, I should),
+==117==Else I should tell him well (i’faith, I should),
 ==118==When all’s spent, he’ld be cross’d then, and he could.
 ==119==’Tis pity bounty had not eyes behind,
 ==120==That man might ne’er be wretched for his mind.

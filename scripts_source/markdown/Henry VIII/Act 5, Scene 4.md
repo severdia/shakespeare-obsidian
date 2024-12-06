@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-5-4
 ---
@@ -68,7 +68,7 @@ ID: henry-viii-5-4
 ==21==And all that shall succeed. Saba was never
 ==22==More covetous of wisdom and fair virtue
 ==23==Than this pure soul shall be. All princely graces
-==24==That mould up such a mighty piece as this is,
+==24==That mold up such a mighty piece as this is,
 ==25==With all the virtues that attend the good,
 ==26==Shall still be doubled on her. Truth shall nurse her,
 ==27==Holy and heavenly thoughts still counsel her.

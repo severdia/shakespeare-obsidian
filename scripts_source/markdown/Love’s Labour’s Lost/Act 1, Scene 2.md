@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -36,10 +36,10 @@ ID: loves-labours-lost-1-2
 ==5==How canst thou part sadness and melancholy, my tender juvenal?
 
 **MOTH.**
-==6==By a familiar demonstration of the working, my tough *signior*.
+==6==By a familiar demonstration of the working, my tough *señor*.
 
 **ARM.**
-==7==Why tough *signior*? Why tough *signior*?
+==7==Why tough *señor*? Why tough *señor*?
 
 **MOTH.**
 ==8==Why tender juvenal? Why tender juvenal?
@@ -48,7 +48,7 @@ ID: loves-labours-lost-1-2
 ==9==I spoke it tender juvenal as a congruent epitheton appertaining to thy young days, which we may nominate tender.
 
 **MOTH.**
-==10==And I tough *signior* as an appertinent title to your old time, which we may name tough.
+==10==And I tough *señor* as an appertinent title to your old time, which we may name tough.
 
 **ARM.**
 ==11==Pretty and apt.
@@ -195,13 +195,13 @@ ID: loves-labours-lost-1-2
 
 **MOTH.**
 ==58==*If she be made of white and red,*
-==59==*Her faults will ne’er be known,*
+==59== *Her faults will ne’er be known,*
 ==60==*For blush in cheeks by faults are bred,*
-==61==*And fears by pale white shown:*
+==61== *And fears by pale white shown:*
 ==62==*Then if she fear, or be to blame,*
-==63==*By this you shall not know,*
+==63== *By this you shall not know,*
 ==64==*For still her cheeks possess the same*
-==65==*Which native she doth owe.*
+==65== *Which native she doth owe.*
 ==66==A dangerous rhyme, master, against the reason of white and red.
 
 **ARM.**

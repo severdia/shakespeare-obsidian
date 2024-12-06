@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -38,12 +38,12 @@ ID: henry-iv-part-ii-5-3
 **SIL.**
 ==6==Ah, sirrah, quoth ’a, we shall
 *(Singing.)*
-==7==*“Do nothing but eat, and make good cheer,*
-==8==*And praise God for the merry year,*
-==9==*When flesh is cheap and females dear,*
-==10==*And lusty lads roam here and there*
-==11==*So merrily,*
-==12==*And ever among so merrily.”*
+==7== *“Do nothing but eat, and make good cheer,*
+==8== *And praise God for the merry year,*
+==9== *When flesh is cheap and females dear,*
+==10== *And lusty lads roam here and there*
+==11== *So merrily,*
+==12== *And ever among so merrily.”*
 
 **FAL.**
 ==13==There’s a merry heart! Good Master Silence, I’ll give you a health for that anon.
@@ -61,11 +61,11 @@ ID: henry-iv-part-ii-5-3
 
 **SIL.**
 *(Singing.)*
-==17==*“Be merry, be merry, my wife has all,*
-==18==*For women are shrews, both short and tall;*
-==19==*’Tis merry in hall when beards wags all,*
-==20==*And welcome merry Shrove-tide.*
-==21==*Be merry, be merry.”*
+==17== *“Be merry, be merry, my wife has all,*
+==18== *For women are shrews, both short and tall;*
+==19== *’Tis merry in hall when beards wags all,*
+==20== *And welcome merry Shrove-tide.*
+==21== *Be merry, be merry.”*
 
 **FAL.**
 ==22==I did not think Master Silence had been a man of this mettle.
@@ -87,9 +87,9 @@ ID: henry-iv-part-ii-5-3
 
 **SIL.**
 *(Singing.)*
-==27==*“A cup of wine that’s brisk and fine,*
-==28==*And drink unto thee, leman mine,*
-==29==*And a merry heart lives long-a.”*
+==27== *“A cup of wine that’s brisk and fine,*
+==28== *And drink unto thee, leman mine,*
+==29== *And a merry heart lives long-a.”*
 
 **FAL.**
 ==30==Well said, Master Silence.
@@ -102,8 +102,8 @@ ID: henry-iv-part-ii-5-3
 
 **SIL.**
 *(Singing.)*
-==33==*“Fill the cup, and let it come,*
-==34==*I’ll pledge you a mile to th’ bottom.”*
+==33== *“Fill the cup, and let it come,*
+==34== *I’ll pledge you a mile to th’ bottom.”*
 
 **SHAL.**
 ==35==Honest Bardolph, welcome. If thou want’st any thing, and wilt not call, beshrew thy heart. Welcome, my little tiny thief,
@@ -141,9 +141,9 @@ ID: henry-iv-part-ii-5-3
 
 **SIL.**
 *(Singing.)*
-==46==*“Do me right,*
-==47==*And dub me knight,*
-==48==*Samingo.”*
+==46== *“Do me right,*
+==47== *And dub me knight,*
+==48== *Samingo.”*
 ==49==Is’t not so?
 
 **FAL.**
@@ -195,7 +195,7 @@ ID: henry-iv-part-ii-5-3
 
 **SIL.**
 *(Singing.)*
-==70==*“And Robin Hood, Scarlet, and John.”*
+==70== *“And Robin Hood, Scarlet, and John.”*
 
 **PIST.**
 ==71==Shall dunghill curs confront the Helicons?

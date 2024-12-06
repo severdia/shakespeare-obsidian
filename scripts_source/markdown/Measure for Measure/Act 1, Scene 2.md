@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-1-2
 ---
@@ -195,7 +195,7 @@ ID: measure-for-measure-1-2
 ==58==Why, here’s a change indeed in the commonwealth! What shall become of me?
 
 **POM.**
-==59==Come; fear not you; good counsellors lack no clients. Though you change your place, you need not change your trade; I’ll be your tapster still. Courage! There will be pity taken on you. You that have worn your eyes almost out in the service, you will be consider’d.
+==59==Come; fear not you; good counselors lack no clients. Though you change your place, you need not change your trade; I’ll be your tapster still. Courage! There will be pity taken on you. You that have worn your eyes almost out in the service, you will be consider’d.
 
 **MIS. OV.**
 ==60==What’s to do here, Thomas tapster? Let’s withdraw.

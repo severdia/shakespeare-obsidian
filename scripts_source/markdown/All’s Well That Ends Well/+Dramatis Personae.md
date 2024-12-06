@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-dp
 ---
@@ -22,7 +22,7 @@ ID: alls-well-that-ends-well-dp
 - Lavatch (CLO.)
 - Rinaldo (STEW.)
 - Duke of Florence (DUKE.)
-- Helena (HEL.)
+- Helen (Pilgrim) (HEL.; PIL.)
 - Countess of Roussillon (COUNT.)
 - Diana (DIA.)
 - An Old Widow of Florence (WID.; BOTH MAR. AND WID.)
@@ -39,3 +39,6 @@ ID: alls-well-that-ends-well-dp
 - Countess’s Page (PAGE.)
 - Messenger (MESS.)
 - Violenta (VIOL.)
+- King’s Attendants (KING. ATT.)
+- Attendants (ATTENDANTS.)
+- Citizens (CITIZENS.)

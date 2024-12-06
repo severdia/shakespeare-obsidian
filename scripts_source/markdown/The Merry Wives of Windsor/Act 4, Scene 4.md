@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -21,7 +21,7 @@ ID: merry-wives-of-windsor-4-4
 *Enter Page, Ford, Mistress Page, Mistress Ford, and Evans.*
 
 **EVANS.**
-==1==’Tis one of the best discretions of a oman as ever I did look upon.
+==1==’Tis one of the best discretions of a ’oman as ever I did look upon.
 
 **PAGE.**
 ==2==And did he send you both these letters at an instant?
@@ -106,7 +106,7 @@ ID: merry-wives-of-windsor-4-4
 ==53==In shape profane.
 
 **MRS. FORD.**
-==53==        And till he tell the truth,
+==53==           And till he tell the truth,
 ==54==Let the supposed fairies pinch him sound,
 ==55==And burn him with their tapers.
 

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -110,7 +110,7 @@ ID: midsummer-nights-dream-3-1
 ==31==Odorous, odorous.
 
 **BOT.**
-==31==                —“odors savors sweet;
+==31==           —“odors savors sweet;
 ==32==So hath thy breath, my dearest Thisbe dear.
 ==33==But hark; a voice! Stay thou but here a while,
 ==34==And by and by I will to thee appear.”
@@ -185,10 +185,10 @@ ID: midsummer-nights-dream-3-1
 **BOT.**
 ==58==I see their knavery. This is to make an ass of me, to fright me, if they could; but I will not stir from this place, do what they can. I will walk up and down here, and I will sing, that they shall hear I am not afraid.
 *(Sings.)*
-==59==*The woosel cock so black of hue,*
-==60==*With orange-tawny bill,*
-==61==*The throstle with his note so true,*
-==62==*The wren with little quill⁠—*
+==59== *The woosel cock so black of hue,*
+==60== *With orange-tawny bill,*
+==61== *The throstle with his note so true,*
+==62== *The wren with little quill⁠—*
 
 **TITA.**
 *(Awaking.)*
@@ -196,10 +196,10 @@ ID: midsummer-nights-dream-3-1
 
 **BOT.**
 *(Sings.)*
-==64==*The finch, the sparrow, and the lark,*
-==65==*The plainsong cuckoo grey,*
-==66==*Whose note full many a man doth mark,*
-==67==*And dares not answer nay⁠—*
+==64== *The finch, the sparrow, and the lark,*
+==65== *The plainsong cuckoo grey,*
+==66== *Whose note full many a man doth mark,*
+==67== *And dares not answer nay⁠—*
 ==68==For indeed, who would set his wit to so foolish a bird? Who would give a bird the lie, though he cry “cuckoo” never so?
 
 **TITA.**
@@ -240,7 +240,7 @@ ID: midsummer-nights-dream-3-1
 ==88==    And I.
 
 **MOTH.**
-==88==           And I.
+==88==        And I.
 
 **MUS.**
 ==88==              And I.

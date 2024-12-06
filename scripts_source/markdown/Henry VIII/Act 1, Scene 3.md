@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-1-3
 ---
@@ -46,7 +46,7 @@ ID: henry-viii-1-3
 ==14==Their clothes are after such a pagan cut to’t,
 ==15==That sure th’ have worn out Christendom.
 *(Enter Sir Thomas Lovell.)*
-==15==                     How now?
+==15==                       How now?
 ==16==What news, Sir Thomas Lovell?
 
 **LOV.**

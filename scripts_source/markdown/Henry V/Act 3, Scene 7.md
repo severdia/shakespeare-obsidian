@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -244,7 +244,7 @@ ID: henry-v-3-7
 ==73==Then shall we find tomorrow they have only stomachs to eat and none to fight. Now is it time to arm. Come, shall we about it?
 
 **ORL.**
-==74==It is now two a’ clock; but let me see, by ten
+==74==It is now two o’clock; but let me see, by ten
 ==75==We shall have each a hundred Englishmen.
 
 *Exeunt.*

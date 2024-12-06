@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -56,3 +56,13 @@ ID: king-richard-ii-dp
 - Servingman (SERV.)
 - Exton’s First Servant (1. EXT. SERV.)
 - Exton’s Second Servant (2. EXT. SERV.)
+- Nobles (NOBLES.)
+- Attendants (ATTENDANTS.)
+- Officer (OFFICER.)
+- Soldiers (SOLDIERS.)
+- Officers (OFFICERS.)
+- Guard (GUARD.)
+- Servant (SERVANT.)
+- Man (MAN.)
+- Lords (LORDS.)
+- Servants (SERVANTS)

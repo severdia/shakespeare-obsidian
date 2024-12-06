@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-2-1
 ---
@@ -34,7 +34,7 @@ ID: cymbeline-2-1
 **2. LORD.**
 ==5==No, my lord;
 *(Aside.)*
-==5==           nor crop the ears of them.
+==5==        nor crop the ears of them.
 
 **CLO.**
 ==6==Whoreson dog! I gave him satisfaction! Would he had been one of my rank!

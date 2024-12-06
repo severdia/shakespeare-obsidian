@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-5-1
 ---
@@ -140,7 +140,7 @@ ID: julius-caesar-5-1
 
 **CAS.**
 ==61==A peevish schoolboy, worthless of such honor,
-==62==Join’d with a masker and a reveller!
+==62==Join’d with a masker and a reveler!
 
 **ANT.**
 ==63==Old Cassius still!

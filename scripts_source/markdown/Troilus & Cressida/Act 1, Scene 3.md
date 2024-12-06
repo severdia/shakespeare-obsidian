@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -389,7 +389,7 @@ ID: troilus-and-cressida-1-3
 **NEST.**
 ==291==Tell him of Nestor, one that was a man
 ==292==When Hector’s grandsire suck’d. He is old now,
-==293==But if there be not in our Grecian mould
+==293==But if there be not in our Grecian mold
 ==294==A noble man that hath no spark of fire
 ==295==To answer for his love, tell him from me
 ==296==I’ll hide my silver beard in a gold beaver,
@@ -488,7 +488,7 @@ ID: troilus-and-cressida-1-3
 ==357==Therefore ’tis meet Achilles meet not Hector.
 ==358==Let us like merchants first show foul wares,
 ==359==And think perchance they’ll sell; if not,
-==360==The lustre of the better shall exceed
+==360==The luster of the better shall exceed
 ==361==By showing the worse first. Do not consent
 ==362==That ever Hector and Achilles meet,
 ==363==For both our honor and our shame in this

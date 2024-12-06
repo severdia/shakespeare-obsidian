@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -404,7 +404,7 @@ ID: merry-wives-of-windsor-1-1
 ==126==I may not go in without your worship; they will not sit till you come.
 
 **SLEN.**
-==127==I’ faith, I’ll eat nothing. I thank you as much as though I did.
+==127==I’faith, I’ll eat nothing. I thank you as much as though I did.
 
 **ANNE.**
 ==128==I pray you, sir, walk in.

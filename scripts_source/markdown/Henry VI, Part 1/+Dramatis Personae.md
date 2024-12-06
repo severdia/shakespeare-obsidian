@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-vi-part-i-dp
 ---
@@ -39,10 +39,10 @@ ID: henry-vi-part-i-dp
 - Master Gunner of Orléans (M. GUN.)
 - Earl of Salisbury (SAL.)
 - Sir John Falstaff (FAL.)
-- Woodvile (WOODV.)
+- Woodville (WOODV.)
 - Sir Thomas Gargrave (GAR.)
 - Sir William Glansdale (GLAN.)
-- Joan de Pucelle (PUC.)
+- Joan de Pucelle (French Peasant) (PUC.; FR. PEAS.)
 - Countess of Auvergne (COUNT.)
 - Margaret (MARG.)
 - General of the French Force at Bordeaux (GEN.)
@@ -79,3 +79,9 @@ ID: henry-vi-part-i-dp
 - Talbot’s Trumpeter (TAL. TRUMP.)
 - French Herald (FR. HER.)
 - Fiends (FIENDS.)
+- Heralds (HERALDS.)
+- Soldiers (SOLDIERS.)
+- Englishmen (ENGLISHMEN.)
+- Talbot’s Soldiers (TAL. SOLDIERS.)
+- Three Soldiers (3. SOLDIERS.)
+- York’s Soldiers (YORK. SOLDIERS.)

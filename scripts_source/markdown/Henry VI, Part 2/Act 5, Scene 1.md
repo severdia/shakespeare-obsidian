@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -179,7 +179,7 @@ ID: henry-vi-part-ii-5-1
 ==95==Which dar’st not, no, nor canst not rule a traitor.
 ==96==That head of thine doth not become a crown:
 ==97==Thy hand is made to grasp a palmer’s staff
-==98==And not to grace an aweful princely scepter.
+==98==And not to grace an awful princely scepter.
 ==99==That gold must round engirt these brows of mine,
 ==100==Whose smile and frown, like to Achilles’ spear,
 ==101==Is able with the change to kill and cure.

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -160,9 +160,9 @@ ID: henry-iv-part-i-2-4
 ==41==As merry as crickets, my lad. But hark ye, what cunning match have you made with this jest of the drawer? Come, what’s the issue?
 
 **PRINCE.**
-==42==I am now of all humors that have show’d themselves humors since the old days of goodman Adam to the pupil age of this present twelve a’ clock at midnight.
+==42==I am now of all humors that have show’d themselves humors since the old days of goodman Adam to the pupil age of this present twelve o’clock at midnight.
 *(Enter Francis hurrying across the stage with wine.)*
-==43==What’s a’ clock, Francis?
+==43==What’s o’clock, Francis?
 
 **FRAN.**
 ==44==Anon, anon, sir.
@@ -475,7 +475,7 @@ ID: henry-iv-part-i-2-4
 ==142==By the mass, lad, thou sayest true, it is like we shall have good trading that way. But tell me, Hal, art not thou horrible afeard? Thou being heir-apparent, could the world pick thee out three such enemies again as that fiend Douglas, that spirit Percy, and that devil Glendower? Art thou not horribly afraid? Doth not thy blood thrill at it?
 
 **PRINCE.**
-==143==Not a whit, i’ faith, I lack some of thy instinct.
+==143==Not a whit, i’faith, I lack some of thy instinct.
 
 **FAL.**
 ==144==Well, thou wilt be horribly chid tomorrow when thou comest to thy father. If thou love me, practice an answer.
@@ -499,7 +499,7 @@ ID: henry-iv-part-i-2-4
 ==150==And here is my speech. Stand aside, nobility.
 
 **HOST.**
-==151==O Jesu, this is excellent sport, i’ faith!
+==151==O Jesu, this is excellent sport, i’faith!
 
 **FAL.**
 ==152==Weep not, sweet queen, for trickling tears are vain.
@@ -521,7 +521,7 @@ ID: henry-iv-part-i-2-4
 ==158==What manner of man, and it like your Majesty?
 
 **FAL.**
-==159==A goodly portly man, i’ faith, and a corpulent, of a cheerful look, a pleasing eye, and a most noble carriage, and as I think, his age some fifty, or, by’r lady, inclining to threescore; and now I remember me, his name is Falstaff. If that man should be lewdly given, he deceiveth me; for, Harry, I see virtue in his looks. If then the tree may be known by the fruit, as the fruit by the tree, then peremptorily I speak it, there is virtue in that Falstaff; him keep with, the rest banish. And tell me now, thou naughty varlet, tell me, where hast thou been this month?
+==159==A goodly portly man, i’faith, and a corpulent, of a cheerful look, a pleasing eye, and a most noble carriage, and as I think, his age some fifty, or, by’r lady, inclining to threescore; and now I remember me, his name is Falstaff. If that man should be lewdly given, he deceiveth me; for, Harry, I see virtue in his looks. If then the tree may be known by the fruit, as the fruit by the tree, then peremptorily I speak it, there is virtue in that Falstaff; him keep with, the rest banish. And tell me now, thou naughty varlet, tell me, where hast thou been this month?
 
 **PRINCE.**
 ==160==Dost thou speak like a king? Do thou stand for me, and I’ll play my father.
@@ -545,7 +545,7 @@ ID: henry-iv-part-i-2-4
 ==166==The complaints I hear of thee are grievous.
 
 **FAL.**
-==167==’Sblood, my lord, they are false.—Nay, I’ll tickle ye for a young prince, i’ faith.
+==167==’Sblood, my lord, they are false.—Nay, I’ll tickle ye for a young prince, i’faith.
 
 **PRINCE.**
 ==168==Swearest thou, ungracious boy? Henceforth ne’er look on me. Thou art violently carried away from grace, there is a devil haunts thee in the likeness of an old fat man, a tun of man is thy companion. Why dost thou converse with that trunk of humors, that bolting-hutch of beastliness, that swoll’n parcel of dropsies, that huge bombard of sack, that stuff’d cloak-bag of guts, that roasted Manningtree ox with the pudding in his belly, that reverent Vice, that grey Iniquity, that father ruffian, that vanity in years? Wherein is he good, but to taste sack and drink it? Wherein neat and cleanly, but to carve a capon and eat it? Wherein cunning, but in craft? Wherein crafty, but in villainy? Wherein villainous, but in all things? Wherein worthy, but in nothing?
@@ -652,7 +652,7 @@ ID: henry-iv-part-i-2-4
 ==205==I think it is good morrow, is it not?
 
 **SHER.**
-==206==Indeed, my lord, I think it be two a’ clock.
+==206==Indeed, my lord, I think it be two o’clock.
 
 *Exit with First Carrier.*
 

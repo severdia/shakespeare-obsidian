@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -117,7 +117,7 @@ ID: troilus-and-cressida-4-1
 ==55==Myself, or Menelaus?
 
 **DIO.**
-==55==              Both alike.
+==55==           Both alike.
 ==56==He merits well to have her that doth seek her,
 ==57==Not making any scruple of her soil,
 ==58==With such a hell of pain and world of charge;

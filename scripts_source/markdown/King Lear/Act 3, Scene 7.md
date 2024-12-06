@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -211,7 +211,7 @@ ID: king-lear-3-7
 
 **CORN.**
 ==75==Lest it see more, prevent it. Out, vild jelly!
-==76==Where is thy lustre now?
+==76==Where is thy luster now?
 
 **GLOU.**
 ==77==All dark and comfortless! Where’s my son Edmund?

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -150,7 +150,7 @@ ID: henry-vi-part-ii-2-1
 ==56==When such strings jar, what hope of harmony?
 ==57==I pray, my lords, let me compound this strife.
 
-*Enter one crying, “A miracle!” *
+*Enter one crying, “A miracle!”*
 
 **GLOU.**
 ==58==What means this noise?
@@ -252,7 +252,7 @@ ID: henry-vi-part-ii-2-1
 ==97==O, born so, master.
 
 **GLOU.**
-==97==        What, and wouldst climb a tree?
+==97==           What, and wouldst climb a tree?
 
 **SIMP.**
 ==98==But that in all my life, when I was a youth.
@@ -372,7 +372,7 @@ ID: henry-vi-part-ii-2-1
 **SIMP.**
 ==144==Alas, master, what shall I do? I am not able to stand.
 
-*After the Beadle hath hit him once, he leaps over the stool and runs away; and they follow and cry, “A miracle!” *
+*After the Beadle hath hit him once, he leaps over the stool and runs away; and they follow and cry, “A miracle!”*
 
 **KING.**
 ==145==O God, seest thou this, and bearest so long?

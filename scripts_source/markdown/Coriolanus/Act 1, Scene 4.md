@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-1-4
 ---
@@ -164,7 +164,7 @@ ID: coriolanus-1-4
 ==61==                Look, sir.
 
 **LART.**
-==61==                     O, ’tis Martius!
+==61==                       O, ’tis Martius!
 ==62==Let’s fetch him off, or make remain alike.
 
 *They fight, and all enter the city.*

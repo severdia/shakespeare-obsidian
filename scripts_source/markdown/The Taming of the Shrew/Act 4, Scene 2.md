@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -115,7 +115,7 @@ ID: taming-of-the-shrew-4-2
 ==49==           Then we are rid of Litio.
 
 **TRA.**
-==50==I’ faith, he’ll have a lusty widow now,
+==50==I’faith, he’ll have a lusty widow now,
 ==51==That shall be woo’d and wedded in a day.
 
 **BIAN.**

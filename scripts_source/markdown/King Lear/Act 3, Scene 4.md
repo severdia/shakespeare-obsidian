@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -132,7 +132,7 @@ ID: king-lear-3-4
 ==54==Those pelican daughters.
 
 **EDG.**
-==55==*Pillicock sat on Pillicock-Hill, alow! Alow, loo, loo!*
+==55== *Pillicock sat on Pillicock-Hill, alow! Alow, loo, loo!*
 
 **FOOL.**
 ==56==This cold night will turn us all to fools and madmen.

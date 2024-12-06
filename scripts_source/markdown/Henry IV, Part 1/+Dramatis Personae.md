@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -52,3 +52,4 @@ ID: henry-iv-part-i-dp
 - Second Traveler (2. TRAV.; TRAVELERS.)
 - Lady Mortimer (L. MORT.)
 - Welsh Ladies (WEL. LAD.)
+- Lords (LORDS.)

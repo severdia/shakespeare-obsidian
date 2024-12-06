@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-4-6
 ---
@@ -64,7 +64,7 @@ ID: coriolanus-4-6
 ==20==The gods preserve you both!
 
 **SIC.**
-==20==              Good-en, our neighbors.
+==20==                Good-en, our neighbors.
 
 **BRU.**
 ==21==Good-en to you all, good-en to you all.
@@ -288,7 +288,7 @@ ID: coriolanus-4-6
 ==118==You and your crafts! You have crafted fair!
 
 **COM.**
-==118==                  You have brought
+==118==                     You have brought
 ==119==A trembling upon Rome, such as was never
 ==120==S’ incapable of help.
 

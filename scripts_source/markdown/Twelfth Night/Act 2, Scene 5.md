@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-2-5
 ---
@@ -181,9 +181,9 @@ ID: twelfth-night-2-5
 **MAL.**
 *(Reads.)*
 ==52==*“Jove knows I love,*
-==53==*But who?*
+==53==    *But who?*
 ==54==*Lips, do not move;*
-==55==*No man must know.”*
+==55==    *No man must know.”*
 ==56==“No man must know.” What follows? The numbers alter’d! “No man must know.” If this should be thee, Malvolio?
 
 **SIR TO.**
@@ -192,9 +192,9 @@ ID: twelfth-night-2-5
 **MAL.**
 *(Reads.)*
 ==58==*“I may command where I adore,*
-==59==*But silence, like a Lucrece knife,*
+==59==    *But silence, like a Lucrece knife,*
 ==60==*With bloodless stroke my heart doth gore;*
-==61==*M.O.A.I. doth sway my life.”*
+==61==    *M.O.A.I. doth sway my life.”*
 
 **FAB.**
 ==62==A fustian riddle!
@@ -283,7 +283,7 @@ ID: twelfth-night-2-5
 ==91==Shall I play my freedom at tray-trip, and become thy bond-slave?
 
 **SIR AND.**
-==92==I’ faith, or I either?
+==92==I’faith, or I either?
 
 **SIR TO.**
 ==93==Why, thou hast put him in such a dream, that when the image of it leaves him he must run mad.

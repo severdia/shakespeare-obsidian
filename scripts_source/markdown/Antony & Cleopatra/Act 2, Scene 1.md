@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-2-1
 ---
@@ -94,7 +94,7 @@ ID: antony-and-cleopatra-2-1
 ==42==Not mov’d by Antony.
 
 **POM.**
-==42==              I know not, Menas,
+==42==           I know not, Menas,
 ==43==How lesser enmities may give way to greater.
 ==44==Were’t not that we stand up against them all,
 ==45==’Twere pregnant they should square between themselves,

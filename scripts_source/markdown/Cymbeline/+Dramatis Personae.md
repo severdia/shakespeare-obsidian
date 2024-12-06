@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-dp
 ---
@@ -27,7 +27,7 @@ ID: cymbeline-dp
 - Philarmonus (PHIL.)
 - Philario (PHI.)
 - Jupiter (JUP.)
-- Imogen (IMO.)
+- Imogen (Fidele) (IMO.; FID.)
 - Queen (QUEEN.)
 - Helen (HEL.)
 - Other Ladies (OTH. LAD.; LADIES.)
@@ -56,3 +56,8 @@ ID: cymbeline-dp
 - Frenchman (FRENCH.)
 - Spaniard (SPANIARD.)
 - Dutchman (DUTCHMAN.)
+- Lords (LORDS.)
+- Musicians (MUSICIANS.)
+- Attendants (ATTENDANTS.)
+- Roman Prisoners (ROM. PRISONERS.)
+- Officers (OFFICERS.)

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-4-5
 ---
@@ -35,7 +35,7 @@ ID: antony-and-cleopatra-4-5
 ==6==           Who’s gone this morning?
 
 **SCAR.**
-==6==                       Who?
+==6==                         Who?
 ==7==One ever near thee. Call for Enobarbus,
 ==8==He shall not hear thee, or from Caesar’s camp
 ==9==Say “I am none of thine.”

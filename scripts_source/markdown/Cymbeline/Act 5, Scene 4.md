@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-5-4
 ---
@@ -66,115 +66,115 @@ ID: cymbeline-5-4
 
 **SICI.**
 ==30==*No more, thou Thunder-master, show*
-==31==*Thy spite on mortal flies:*
+==31==    *Thy spite on mortal flies:*
 ==32==*With Mars fall out, with Juno chide,*
-==33==*That thy adulteries*
+==33==    *That thy adulteries*
 ==34==*Rates and revenges.*
 ==35==*Hath my poor boy done aught but well,*
-==36==*Whose face I never saw?*
+==36==    *Whose face I never saw?*
 ==37==*I died whilst in the womb he stay’d*
-==38==*Attending nature’s law;*
+==38==    *Attending nature’s law;*
 ==39==*Whose father then (as men report*
-==40==*Thou orphans’ father art) *
+==40==    *Thou orphans’ father art) *
 ==41==*Thou shouldst have been, and shielded him*
-==42==*From this earth-vexing smart.*
+==42==    *From this earth-vexing smart.*
 
 **MOTH.**
 ==43==*Lucina lent not me her aid,*
-==44==*But took me in my throes,*
+==44==    *But took me in my throes,*
 ==45==*That from me was Posthumus ripp’d,*
-==46==*Came crying ’mongst his foes,*
+==46==    *Came crying ’mongst his foes,*
 ==47==*A thing of pity!*
 
 **SICI.**
 ==48==*Great nature, like his ancestry,*
-==49==*Moulded the stuff so fair,*
+==49==    *Molded the stuff so fair,*
 ==50==*That he deserv’d the praise o’ th’ world,*
-==51==*As great Sicilius’ heir.*
+==51==    *As great Sicilius’ heir.*
 
 **APP. 1. BRO.**
 ==52==*When once he was mature for man,*
-==53==*In Britain where was he*
+==53==    *In Britain where was he*
 ==54==*That could stand up his parallel,*
-==55==*Or fruitful object be*
+==55==    *Or fruitful object be*
 ==56==*In eye of Imogen, that best*
-==57==*Could deem his dignity?*
+==57==    *Could deem his dignity?*
 
 **MOTH.**
 ==58==*With marriage wherefore was he mock’d,*
-==59==*To be exil’d, and thrown*
+==59==    *To be exil’d, and thrown*
 ==60==*From Leonati seat, and cast*
-==61==*From her his dearest one,*
+==61==    *From her his dearest one,*
 ==62==*Sweet Imogen?*
 
 **SICI.**
 ==63==*Why did you suffer Jachimo,*
-==64==*Slight thing of Italy,*
+==64==    *Slight thing of Italy,*
 ==65==*To taint his nobler heart and brain*
-==66==*With needless jealousy,*
+==66==    *With needless jealousy,*
 ==67==*And to become the geck and scorn*
-==68==*O’ th’ other’s villainy?*
+==68==    *O’ th’ other’s villainy?*
 
 **APP. 2. BRO.**
 ==69==*For this from stiller seats we came,*
-==70==*Our parents and us twain,*
+==70==    *Our parents and us twain,*
 ==71==*That striking in our country’s cause*
-==72==*Fell bravely and were slain,*
+==72==    *Fell bravely and were slain,*
 ==73==*Our fealty and Tenantius’ right*
-==74==*With honor to maintain.*
+==74==    *With honor to maintain.*
 
 **APP. 1. BRO.**
 ==75==*Like hardiment Posthumus hath*
-==76==*To Cymbeline perform’d.*
+==76==    *To Cymbeline perform’d.*
 ==77==*Then, Jupiter, thou king of gods,*
-==78==*Why hast thou thus adjourn’d*
+==78==    *Why hast thou thus adjourn’d*
 ==79==*The graces for his merits due,*
-==80==*Being all to dolors turn’d?*
+==80==    *Being all to dolors turn’d?*
 
 **SICI.**
 ==81==*Thy crystal window ope; look out;*
-==82==*No longer exercise*
+==82==    *No longer exercise*
 ==83==*Upon a valiant race thy harsh*
-==84==*And potent injuries.*
+==84==    *And potent injuries.*
 
 **MOTH.**
 ==85==*Since, Jupiter, our son is good,*
-==86==*Take off his miseries.*
+==86==    *Take off his miseries.*
 
 **SICI.**
 ==87==*Peep through thy marble mansion, help,*
-==88==*Or we poor ghosts will cry*
+==88==    *Or we poor ghosts will cry*
 ==89==*To th’ shining synod of the rest*
-==90==*Against thy deity.*
+==90==    *Against thy deity.*
 
 **BROTHERS.**
 ==91==*Help, Jupiter, or we appeal,*
-==92==*And from thy justice fly.*
+==92==    *And from thy justice fly.*
 
 *Jupiter descends in thunder and lightning, sitting upon an eagle: he throws a thunderbolt. The Ghosts fall on their knees.*
 
 **JUP.**
 ==93==No more, you petty spirits of region low,
-==94==Offend our hearing; hush! How dare you ghosts
+==94==    Offend our hearing; hush! How dare you ghosts
 ==95==Accuse the Thunderer, whose bolt, you know,
-==96==Sky-planted, batters all rebelling coasts?
+==96==    Sky-planted, batters all rebelling coasts?
 ==97==Poor shadows of Elysium, hence, and rest
-==98==Upon your never-withering banks of flow’rs.
+==98==    Upon your never-withering banks of flow’rs.
 ==99==Be not with mortal accidents oppress’d,
-==100==No care of yours it is, you know ’tis ours.
+==100==    No care of yours it is, you know ’tis ours.
 ==101==Whom best I love, I cross; to make my gift,
-==102==The more delay’d, delighted. Be content,
+==102==    The more delay’d, delighted. Be content,
 ==103==Your low-laid son our godhead will uplift.
-==104==His comforts thrive, his trials well are spent.
+==104==    His comforts thrive, his trials well are spent.
 ==105==Our Jovial star reign’d at his birth, and in
-==106==Our temple was he married. Rise, and fade.
+==106==    Our temple was he married. Rise, and fade.
 ==107==He shall be lord of Lady Imogen,
-==108==And happier much by his affliction made.
+==108==    And happier much by his affliction made.
 ==109==This tablet lay upon his breast, wherein
-==110==Our pleasure his full fortune doth confine,
+==110==    Our pleasure his full fortune doth confine,
 *(Jupiter drops a tablet.)*
 ==111==And so away! No farther with your din
-==112==Express impatience, lest you stir up mine.
+==112==    Express impatience, lest you stir up mine.
 ==113==Mount, eagle, to my palace crystalline.
 
 *Ascends.*

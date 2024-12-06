@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-5-3
 ---
@@ -194,7 +194,7 @@ ID: winters-tale-5-3
 ==97==I am about, let them depart.
 
 **LEON.**
-==97==                  Proceed;
+==97==                Proceed;
 ==98==No foot shall stir.
 
 **PAUL.**

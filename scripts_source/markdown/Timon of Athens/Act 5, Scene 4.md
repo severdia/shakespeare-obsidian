@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-5-4
 ---
@@ -31,7 +31,7 @@ ID: timon-of-athens-5-4
 ==7==Have wander’d with our travers’d arms, and breath’d
 ==8==Our sufferance vainly. Now the time is flush,
 ==9==When crouching marrow in the bearer strong
-==10==Cries (of itself) “No more!” Now breathless wrong
+==10==Cries (of itself) “No more!”. Now breathless wrong
 ==11==Shall sit and pant in your great chairs of ease,
 ==12==And pursy insolence shall break his wind
 ==13==With fear and horrid flight.

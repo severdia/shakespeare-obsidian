@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -202,7 +202,7 @@ ID: troilus-and-cressida-4-4
 ==94==Brother Troilus!
 
 **TRO.**
-==94==           Good brother, come you hither,
+==94==        Good brother, come you hither,
 ==95==And bring Aeneas and the Grecian with you.
 
 **CRES.**
@@ -229,7 +229,7 @@ ID: troilus-and-cressida-4-4
 **DIO.**
 ==111==           Fair Lady Cressid,
 ==112==So please you, save the thanks this prince expects.
-==113==The lustre in your eye, heaven in your cheek,
+==113==The luster in your eye, heaven in your cheek,
 ==114==Pleads your fair usage, and to Diomed
 ==115==You shall be mistress, and command him wholly.
 

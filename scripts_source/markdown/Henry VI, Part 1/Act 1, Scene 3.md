@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-vi-part-i-1-3
 ---
@@ -49,7 +49,7 @@ ID: henry-vi-part-i-1-3
 ==13==Break up the gates, I’ll be your warrantize.
 ==14==Shall I be flouted thus by dunghill grooms?
 
-*Gloucester’s men rush at the Tower gates, and Woodvile the Lieutenant speaks within.*
+*Gloucester’s men rush at the Tower gates, and Woodville the Lieutenant speaks within.*
 
 **WOODV.**
 ==15==What noise is this? What traitors have we here?
@@ -65,7 +65,7 @@ ID: henry-vi-part-i-1-3
 ==21==That thou nor none of thine shall be let in.
 
 **GLOU.**
-==22==Faint-hearted Woodvile, prizest him ’fore me?
+==22==Faint-hearted Woodville, prizest him ’fore me?
 ==23==Arrogant Winchester, that haughty prelate,
 ==24==Whom Henry, our late sovereign, ne’er could brook?
 ==25==Thou art no friend to God or to the King.

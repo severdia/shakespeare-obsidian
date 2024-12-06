@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -116,10 +116,10 @@ ID: king-lear-3-2
 
 **FOOL.**
 *(Sings.)*
-==63==*“He that has and a little tiny wit⁠—*
-==64==*With heigh-ho, the wind and the rain⁠—*
-==65==*Must make content with his fortunes fit,*
-==66==*Though the rain it raineth every day.”*
+==63== *“He that has and a little tiny wit⁠—*
+==64== *With heigh-ho, the wind and the rain⁠—*
+==65== *Must make content with his fortunes fit,*
+==66== *Though the rain it raineth every day.”*
 
 **LEAR.**
 ==67==True, boy. Come bring us to this hovel.

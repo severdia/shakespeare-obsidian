@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -33,46 +33,46 @@ ID: midsummer-nights-dream-2-2
 *Fairies sing.*
 
 **1. FAIRY.**
-==9==*You spotted snakes with double tongue,*
-==10==*Thorny hedgehogs, be not seen,*
-==11==*Newts and blind-worms, do no wrong,*
-==12==*Come not near our fairy queen.*
+==9== *You spotted snakes with double tongue,*
+==10== *Thorny hedgehogs, be not seen,*
+==11== *Newts and blind-worms, do no wrong,*
+==12== *Come not near our fairy queen.*
 
 **CHORUS.**
-==13==*Philomele, with melody,*
-==14==*Sing in our sweet lullaby,*
-==15==*Lulla, lulla, lullaby, lulla, lulla, lullaby.*
-==16==*Never harm,*
-==17==*Nor spell, nor charm,*
-==18==*Come our lovely lady nigh.*
-==19==*So good night, with lullaby.*
+==13==    *Philomele, with melody,*
+==14==    *Sing in our sweet lullaby,*
+==15== *Lulla, lulla, lullaby, lulla, lulla, lullaby.*
+==16==    *Never harm,*
+==17==    *Nor spell, nor charm,*
+==18==    *Come our lovely lady nigh.*
+==19==    *So good night, with lullaby.*
 
 **1. FAIRY.**
-==20==*Weaving spiders, come not here;*
-==21==*Hence, you long-legg’d spinners, hence!*
-==22==*Beetles black, approach not near;*
-==23==*Worm nor snail, do no offense.*
+==20== *Weaving spiders, come not here;*
+==21== *Hence, you long-legg’d spinners, hence!*
+==22== *Beetles black, approach not near;*
+==23== *Worm nor snail, do no offense.*
 
 **CHORUS.**
-==24==*Philomele, with melody, etc.*
+==24==    *Philomele, with melody, etc.*
 
 **2. FAIRY.**
-==25==*Hence, away! Now all is well.*
-==26==*One aloof stand sentinel.*
+==25== *Hence, away! Now all is well.*
+==26== *One aloof stand sentinel.*
 
 *Exeunt Fairies. Titania sleeps.*
 
 *Enter Oberon and squeezes the flower on Titania’s eyelids.*
 
 **OBE.**
-==27==*What thou seest when thou dost wake,*
-==28==*Do it for thy true-love take;*
-==29==*Love and languish for his sake.*
-==30==*Be it ounce, or cat, or bear,*
-==31==*Pard, or boar with bristled hair,*
-==32==*In thy eye that shall appear*
-==33==*When thou wak’st, it is thy dear:*
-==34==*Wake when some vile thing is near.*
+==27== *What thou seest when thou dost wake,*
+==28== *Do it for thy true-love take;*
+==29== *Love and languish for his sake.*
+==30== *Be it ounce, or cat, or bear,*
+==31== *Pard, or boar with bristled hair,*
+==32== *In thy eye that shall appear*
+==33== *When thou wak’st, it is thy dear:*
+==34== *Wake when some vile thing is near.*
 
 *Exit.*
 
@@ -130,24 +130,24 @@ ID: midsummer-nights-dream-2-2
 *Enter Puck.*
 
 **PUCK.**
-==66==*Through the forest have I gone,*
-==67==*But Athenian found I none,*
-==68==*On whose eyes I might approve*
-==69==*This flower’s force in stirring love.*
-==70==*Night and silence—Who is here?*
-==71==*Weeds of Athens he doth wear:*
-==72==*This is he, my master said,*
-==73==*Despised the Athenian maid;*
-==74==*And here the maiden, sleeping sound,*
-==75==*On the dank and dirty ground.*
-==76==*Pretty soul, she durst not lie*
-==77==*Near this lack-love, this kill-courtesy.*
-==78==*Churl, upon thy eyes I throw*
-==79==*All the power this charm doth owe.*
-==80==*When thou wak’st, let love forbid*
-==81==*Sleep his seat on thy eyelid.*
-==82==*So awake when I am gone,*
-==83==*For I must now to Oberon.*
+==66== *Through the forest have I gone,*
+==67== *But Athenian found I none,*
+==68== *On whose eyes I might approve*
+==69== *This flower’s force in stirring love.*
+==70== *Night and silence—Who is here?*
+==71== *Weeds of Athens he doth wear:*
+==72== *This is he, my master said,*
+==73== *Despised the Athenian maid;*
+==74== *And here the maiden, sleeping sound,*
+==75== *On the dank and dirty ground.*
+==76== *Pretty soul, she durst not lie*
+==77== *Near this lack-love, this kill-courtesy.*
+==78== *Churl, upon thy eyes I throw*
+==79== *All the power this charm doth owe.*
+==80== *When thou wak’st, let love forbid*
+==81== *Sleep his seat on thy eyelid.*
+==82== *So awake when I am gone,*
+==83== *For I must now to Oberon.*
 
 *Exit.*
 

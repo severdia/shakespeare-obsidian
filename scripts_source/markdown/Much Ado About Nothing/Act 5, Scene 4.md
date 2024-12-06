@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -83,7 +83,7 @@ ID: much-ado-about-nothing-5-4
 ==32==My heart is with your liking.
 
 **FRIAR.**
-==32==                  And my help.
+==32==                And my help.
 ==33==Here comes the Prince and Claudio.
 
 *Enter Prince Don Pedro and Claudio and two or three other.*
@@ -257,7 +257,7 @@ ID: much-ado-about-nothing-5-4
 ==101==And brought with armed men back to Messina.
 
 **BENE.**
-==102==Think not on him till tomorrow. I’ll devise thee brave punishments for him. Strike up, pipers.
+==102==Think not on him till tomorrow. I’ll devise thee brave punishments for him. Strike up, pipers!
 
 *Dance.*
 

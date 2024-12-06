@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -143,14 +143,14 @@ ID: king-lear-2-4
 
 **FOOL.**
 ==57==We’ll set thee to school to an ant, to teach thee there’s no laboring i’ th’ winter. All that follow their noses are led by their eyes but blind men, and there’s not a nose among twenty but can smell him that’s stinking. Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following; but the great one that goes upward, let him draw thee after. When a wise man gives thee better counsel, give me mine again, I would have none but knaves follow it, since a fool gives it.
-==58==*That sir which serves and seeks for gain,*
-==59==*And follows but for form,*
-==60==*Will pack when it begins to rain,*
-==61==*And leave thee in the storm.*
-==62==*But I will tarry, the Fool will stay,*
-==63==*And let the wise man fly.*
-==64==*The knave turns fool that runs away,*
-==65==*The Fool no knave, perdie.*
+==58== *That sir which serves and seeks for gain,*
+==59==    *And follows but for form,*
+==60== *Will pack when it begins to rain,*
+==61==    *And leave thee in the storm.*
+==62== *But I will tarry, the Fool will stay,*
+==63==    *And let the wise man fly.*
+==64== *The knave turns fool that runs away,*
+==65==    *The Fool no knave, perdie.*
 
 **KENT.**
 ==66==Where learn’d you this, Fool?

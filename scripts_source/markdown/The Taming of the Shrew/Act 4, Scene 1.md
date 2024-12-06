@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -204,15 +204,15 @@ ID: taming-of-the-shrew-4-1
 ==67==Go, rascals, go, and fetch my supper in.
 *(Exeunt Servants.)*
 *(Sings.)*
-==68==*“Where is the life that late I led?*
-==69==*Where are those”⁠—*
+==68== *“Where is the life that late I led?*
+==69== *Where are those”⁠—*
 ==70==Sit down, Kate, and welcome. Soud, soud, soud, soud!
 *(Enter Servants with supper.)*
 ==71==Why, when, I say? Nay, good sweet Kate, be merry.
 ==72==Off with my boots, you rogues! You villains, when?
 *(Sings.)*
-==73==*“It was the friar of orders grey,*
-==74==*As he forth walked on his way”⁠—*
+==73== *“It was the friar of orders grey,*
+==74== *As he forth walked on his way”⁠—*
 ==75==Out, you rogue, you pluck my foot awry.
 ==76==Take that, and mend the plucking off the other.
 *(Strikes him.)*
@@ -322,7 +322,7 @@ ID: taming-of-the-shrew-4-1
 ==135==This is a way to kill a wife with kindness,
 ==136==And thus I’ll curb her mad and headstrong humor.
 ==137==He that knows better how to tame a shrew,
-==138==Now let him speak; ’tis charity to shew.
+==138==Now let him speak; ’tis charity to show.
 
 *Exit.*
 

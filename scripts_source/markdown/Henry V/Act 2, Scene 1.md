@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -79,7 +79,7 @@ ID: henry-v-2-1
 
 **PIST.**
 ==21==“*Solus*,” egregious dog? O viper vile!
-==22==The “*solus*” in thy most mervailous face,
+==22==The “*solus*” in thy most marvelous face,
 ==23==The “*solus*” in thy teeth, and in thy throat,
 ==24==And in thy hateful lungs, yea, in thy maw, perdy;
 ==25==And which is worse, within thy nasty mouth!

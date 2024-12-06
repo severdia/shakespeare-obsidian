@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-vi-part-i-3-1
 ---
@@ -195,7 +195,7 @@ ID: henry-vi-part-i-3-1
 *Begin again.*
 
 **GLOU.**
-==103==                  Stay, stay, I say!
+==103==                     Stay, stay, I say!
 ==104==And if you love me, as you say you do,
 ==105==Let me persuade you to forbear a while.
 

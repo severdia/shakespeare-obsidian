@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-5-3
 ---
@@ -39,35 +39,41 @@ ID: as-you-like-it-5-3
 ==6==Shall we clap into’t roundly, without hawking or spitting or saying we are hoarse, which are the only prologues to a bad voice?
 
 **2. PAGE.**
-==7==I’ faith, i’ faith, and both in a tune, like two gypsies on a horse.
+==7==I’faith, i’faith, and both in a tune, like two gypsies on a horse.
 *(Song.)*
-==8==*It was a lover and his lass,*
-==9==*With a hey, and a ho, and a hey nonino,*
-==10==*That o’er the green corn-field did pass,*
-==11==*In spring time, the only pretty ring time,*
-==12==*When birds do sing, hey ding a ding, ding,*
-==13==*Sweet lovers love the spring.*
-==14==*Between the acres of the rye,*
-==15==*With a hey, and a ho, and a hey nonino,*
-==16==*These pretty country folks would lie,*
-==17==*In spring time, etc.*
-==18==*This carol they began that hour,*
-==19==*With a hey, and a ho, and a hey nonino,*
-==20==*How that a life was but a flower,*
-==21==*In spring time, etc.*
-==22==*And therefore take the present time,*
-==23==*With a hey, and a ho, and a hey nonino,*
-==24==*For love is crowned with the prime,*
-==25==*In spring time, etc.*
+==8== *It was a lover and his lass,*
+==9==    *With a hey, and a ho, and a hey nonino,*
+==10== *That o’er the green corn-field did pass,*
+==11==    *In spring time, the only pretty ring time,*
+==12== *When birds do sing, hey ding a ding, ding,*
+==13==    *Sweet lovers love the spring.*
+==14== *Between the acres of the rye,*
+==15==    *With a hey, and a ho, and a hey nonino,*
+==16== *These pretty country folks would lie,*
+==17==    *In spring time, the only pretty ring-time,*
+==18== *When birds do sing, hey ding a ding, ding,*
+==19==    *Sweet lovers love the spring.*
+==20== *This carol they began that hour,*
+==21== *With a hey, and a ho, and a hey nonino,*
+==22== *How that a life was but a flower,*
+==23==    *In spring time, the only pretty ring-time,*
+==24== *When birds do sing, hey ding a ding, ding,*
+==25==    *Sweet lovers love the spring.*
+==26== *And therefore take the present time,*
+==27==    *With a hey, and a ho, and a hey nonino,*
+==28== *For love is crowned with the prime,*
+==29==    *In spring time, the only pretty ring-time,*
+==30== *When birds do sing, hey ding a ding, ding,*
+==31==    *Sweet lovers love the spring.*
 
 **TOUCH.**
-==26==Truly, young gentlemen, though there was no great matter in the ditty, yet the note was very untuneable.
+==32==Truly, young gentlemen, though there was no great matter in the ditty, yet the note was very untuneable.
 
 **1. PAGE.**
-==27==You are deceiv’d, sir, we kept time, we lost not our time.
+==33==You are deceiv’d, sir, we kept time, we lost not our time.
 
 **TOUCH.**
-==28==By my troth, yes; I count it but time lost to hear such a foolish song. God buy you, and God mend your voices! Come, Audrey.
+==34==By my troth, yes; I count it but time lost to hear such a foolish song. God be with you, and God mend your voices! Come, Audrey.
 
 *Exeunt.*
 

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-1-2
 ---
@@ -22,7 +22,7 @@ ID: julius-caesar-1-2
 ==1==Calphurnia!
 
 **CASCA.**
-==1==    Peace ho, Caesar speaks.
+==1==        Peace ho, Caesar speaks.
 
 **CAES.**
 ==1==                     Calphurnia!
@@ -226,7 +226,7 @@ ID: julius-caesar-1-2
 ==121==How he did shake—’tis true, this god did shake;
 ==122==His coward lips did from their color fly,
 ==123==And that same eye whose bend doth awe the world
-==124==Did lose his lustre, I did hear him groan;
+==124==Did lose his luster, I did hear him groan;
 ==125==Ay, and that tongue of his that bade the Romans
 ==126==Mark him, and write his speeches in their books,
 ==127==Alas, it cried, “Give me some drink, Titinius,”

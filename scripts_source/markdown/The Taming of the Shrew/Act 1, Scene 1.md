@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -33,7 +33,7 @@ ID: taming-of-the-shrew-1-1
 ==10==Pisa, renowned for grave citizens,
 ==11==Gave me my being and my father first,
 ==12==A merchant of great traffic through the world,
-==13==Vincentio, come of the Bentivolii;
+==13==Vincentio, come of the Bentivoli;
 ==14==Vincentio’s son, brought up in Florence,
 ==15==It shall become to serve all hopes conceiv’d,
 ==16==To deck his fortune with his virtuous deeds.
@@ -97,10 +97,10 @@ ID: taming-of-the-shrew-1-1
 
 **HOR.**
 ==59==Mates, maid, how mean you that? No mates for you,
-==60==Unless you were of gentler, milder mould.
+==60==Unless you were of gentler, milder mold.
 
 **KATH.**
-==61==I’ faith, sir, you shall never need to fear.
+==61==I’faith, sir, you shall never need to fear.
 ==62==Iwis it is not half way to her heart;
 ==63==But if it were, doubt not her care should be
 ==64==To comb your noddle with a three-legg’d stool,

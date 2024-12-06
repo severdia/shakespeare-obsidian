@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-1-3
 ---
@@ -48,7 +48,7 @@ ID: two-noble-kinsmen-1-3
 ==17==Are in his army, in his tent.
 
 **HIP.**
-==17==                In ’s bosom.
+==17==              In ’s bosom.
 ==18==We have been soldiers, and we cannot weep
 ==19==When our friends don their helms, or put to sea,
 ==20==Or tell of babes broach’d on the lance, or women
@@ -58,7 +58,7 @@ ID: two-noble-kinsmen-1-3
 ==24==Should hold you here forever.
 
 **PIR.**
-==24==                  Peace be to you
+==24==                Peace be to you
 ==25==As I pursue this war, which shall be then
 ==26==Beyond further requiring.
 

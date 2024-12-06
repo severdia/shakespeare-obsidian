@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: comedy-of-errors-1-2
 ---
@@ -54,7 +54,7 @@ ID: comedy-of-errors-1-2
 **1. MER.**
 ==24==I am invited, sir, to certain merchants,
 ==25==Of whom I hope to make much benefit;
-==26==I crave your pardon. Soon at five a’ clock,
+==26==I crave your pardon. Soon at five o’clock,
 ==27==Please you, I’ll meet with you upon the mart,
 ==28==And afterward consort you till bed-time:
 ==29==My present business calls me from you now.

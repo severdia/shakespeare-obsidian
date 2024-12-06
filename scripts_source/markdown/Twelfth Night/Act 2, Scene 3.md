@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-2-3
 ---
@@ -36,7 +36,7 @@ ID: twelfth-night-2-3
 *Enter Clown.*
 
 **SIR AND.**
-==6==Here comes the fool, i’ faith.
+==6==Here comes the fool, i’faith.
 
 **CLO.**
 ==7==How now, my hearts? Did you never see the picture of “we three”?
@@ -45,7 +45,7 @@ ID: twelfth-night-2-3
 ==8==Welcome, ass. Now let’s have a catch.
 
 **SIR AND.**
-==9==By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has. In sooth, thou wast in very gracious fooling last night, when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ’Twas very good, i’ faith. I sent thee sixpence for thy leman; hadst it?
+==9==By my troth, the fool has an excellent breast. I had rather than forty shillings I had such a leg, and so sweet a breath to sing, as the fool has. In sooth, thou wast in very gracious fooling last night, when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus. ’Twas very good, i’faith. I sent thee sixpence for thy leman; hadst it?
 
 **CLO.**
 ==10==I did impeticos thy gratillity; for Malvolio’s nose is no whipstock. My lady has a white hand, and the Mermidons are no bottle-ale houses.
@@ -70,27 +70,27 @@ ID: twelfth-night-2-3
 
 **CLO.**
 *(Sings.)*
-==17==*O mistress mine, where are you roaming?*
-==18==*O, stay and hear, your true-love’s coming,*
-==19==*That can sing both high and low.*
-==20==*Trip no further, pretty sweeting;*
-==21==*Journeys end in lovers meeting,*
-==22==*Every wise man’s son doth know.*
+==17== *O mistress mine, where are you roaming?*
+==18== *O, stay and hear, your true-love’s coming,*
+==19==    *That can sing both high and low.*
+==20== *Trip no further, pretty sweeting;*
+==21== *Journeys end in lovers meeting,*
+==22==    *Every wise man’s son doth know.*
 
 **SIR AND.**
-==23==Excellent good, i’ faith.
+==23==Excellent good, i’faith.
 
 **SIR TO.**
 ==24==Good, good.
 
 **CLO.**
 *(Sings.)*
-==25==*What is love? ’Tis not hereafter;*
-==26==*Present mirth hath present laughter;*
-==27==*What’s to come is still unsure.*
-==28==*In delay there lies no plenty,*
-==29==*Then come kiss me sweet and twenty;*
-==30==*Youth’s a stuff will not endure.*
+==25== *What is love? ’Tis not hereafter;*
+==26== *Present mirth hath present laughter;*
+==27==    *What’s to come is still unsure.*
+==28== *In delay there lies no plenty,*
+==29== *Then come kiss me sweet and twenty;*
+==30==    *Youth’s a stuff will not endure.*
 
 **SIR AND.**
 ==31==A mellifluous voice, as I am true knight.
@@ -99,7 +99,7 @@ ID: twelfth-night-2-3
 ==32==A contagious breath.
 
 **SIR AND.**
-==33==Very sweet and contagious, i’ faith.
+==33==Very sweet and contagious, i’faith.
 
 **SIR TO.**
 ==34==To hear by the nose, it is dulcet in contagion. But shall we make the welkin dance indeed? Shall we rouse the night-owl in a catch that will draw three souls out of one weaver? Shall we do that?
@@ -123,7 +123,7 @@ ID: twelfth-night-2-3
 ==40==I shall never begin if I hold my peace.
 
 **SIR AND.**
-==41==Good, i’ faith. Come, begin.
+==41==Good, i’faith. Come, begin.
 
 *Catch sung.*
 
@@ -135,10 +135,10 @@ ID: twelfth-night-2-3
 **SIR TO.**
 ==43==My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and
 *(Sings.)*
-==44==*“Three merry men be we.”*
+==44== *“Three merry men be we.”*
 ==45==Am not I consanguineous? Am I not of her blood? Tilly-vally! Lady!
 *(Sings.)*
-==46==*“There dwelt a man in Babylon, lady, lady.”*
+==46== *“There dwelt a man in Babylon, lady, lady.”*
 
 **CLO.**
 ==47==Beshrew me, the knight’s in admirable fooling.
@@ -148,7 +148,7 @@ ID: twelfth-night-2-3
 
 **SIR TO.**
 *(Sings.)*
-==49==*“O’ the twelfth day of December”⁠—*
+==49== *“O’ the twelfth day of December”⁠—*
 
 **MAR.**
 ==50==For the love o’ God, peace!
@@ -166,21 +166,21 @@ ID: twelfth-night-2-3
 
 **SIR TO.**
 *(Sings.)*
-==54==*“Farewell, dear heart, since I must needs be gone.”*
+==54== *“Farewell, dear heart, since I must needs be gone.”*
 
 **MAR.**
 ==55==Nay, good Sir Toby.
 
 **CLO.**
 *(Sings.)*
-==56==*“His eyes do show his days are almost done.”*
+==56== *“His eyes do show his days are almost done.”*
 
 **MAL.**
 ==57==Is’t even so?
 
 **SIR TO.**
 *(Sings.)*
-==58==*“But I will never die.”*
+==58== *“But I will never die.”*
 
 **CLO.**
 ==59==Sir Toby, there you lie.
@@ -190,19 +190,19 @@ ID: twelfth-night-2-3
 
 **SIR TO.**
 *(Sings.)*
-==61==*“Shall I bid him go?”*
+==61== *“Shall I bid him go?”*
 
 **CLO.**
 *(Sings.)*
-==62==*“What and if you do?”*
+==62== *“What and if you do?”*
 
 **SIR TO.**
 *(Sings.)*
-==63==*“Shall I bid him go, and spare not?”*
+==63== *“Shall I bid him go, and spare not?”*
 
 **CLO.**
 *(Sings.)*
-==64==*“O no, no, no, no, you dare not.”*
+==64== *“O no, no, no, no, you dare not.”*
 
 **SIR TO.**
 *(To Clown.)*

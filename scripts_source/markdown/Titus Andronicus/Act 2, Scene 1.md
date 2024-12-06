@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1594)
   - First Folio (1623)
@@ -45,7 +45,7 @@ ID: titus-andronicus-2-1
 ==21==To wait, said I? To wanton with this queen,
 ==22==This goddess, this Semiramis, this nymph,
 ==23==This siren that will charm Rome’s Saturnine,
-==24==And see his shipwrack and his commonweal’s.
+==24==And see his shipwreck and his commonweal’s.
 ==25==Hollo, what storm is this?
 
 *Enter Chiron and Demetrius braving.*

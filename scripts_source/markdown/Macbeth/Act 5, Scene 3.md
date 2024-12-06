@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-5-3
 ---
@@ -47,7 +47,7 @@ ID: macbeth-5-3
 ==14==Go prick thy face, and over-red thy fear,
 ==15==Thou lily-liver’d boy. What soldiers, patch?
 ==16==Death of thy soul! Those linen cheeks of thine
-==17==Are counsellors to fear. What soldiers, whey-face?
+==17==Are counselors to fear. What soldiers, whey-face?
 
 **SERV.**
 ==18==The English force, so please you.

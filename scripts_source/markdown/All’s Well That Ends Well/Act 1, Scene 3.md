@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-1-3
 ---
@@ -84,10 +84,10 @@ ID: alls-well-that-ends-well-1-3
 
 **CLO.**
 ==22==A prophet I, madam, and I speak the truth the next way:
-==23==*For I the ballad will repeat,*
-==24==*Which men full true shall find:*
-==25==*Your marriage comes by destiny,*
-==26==*Your cuckoo sings by kind.*
+==23== *For I the ballad will repeat,*
+==24==    *Which men full true shall find:*
+==25== *Your marriage comes by destiny,*
+==26==    *Your cuckoo sings by kind.*
 
 **COUNT.**
 ==27==Get you gone, sir, I’ll talk with you more anon.
@@ -100,16 +100,16 @@ ID: alls-well-that-ends-well-1-3
 
 **CLO.**
 *(Sings.)*
-==30==*“Was this fair face the cause,” quoth she,*
-==31==*“Why the Grecians sacked Troy?*
-==32==*Fond done, done fond,*
-==33==*Was this King Priam’s joy?”*
-==34==*With that she sighed as she stood,*
-==35==*With that she sighed as she stood,*
-==36==*And gave this sentence then:*
-==37==*“Among nine bad if one be good,*
-==38==*Among nine bad if one be good,*
-==39==*There’s yet one good in ten.”*
+==30== *“Was this fair face the cause,” quoth she,*
+==31==    *“Why the Grecians sacked Troy?*
+==32== *Fond done, done fond,*
+==33==    *Was this King Priam’s joy?”*
+==34== *With that she sighed as she stood,*
+==35== *With that she sighed as she stood,*
+==36==    *And gave this sentence then:*
+==37== *“Among nine bad if one be good,*
+==38== *Among nine bad if one be good,*
+==39==    *There’s yet one good in ten.”*
 
 **COUNT.**
 ==40==What, one good in ten? You corrupt the song, sirrah.
@@ -166,7 +166,7 @@ ID: alls-well-that-ends-well-1-3
 ==61==Why not a mother? When I said “a mother,”
 ==62==Methought you saw a serpent. What’s in “mother,”
 ==63==That you start at it? I say I am your mother,
-==64==And put you in the catalogue of those
+==64==And put you in the catalog of those
 ==65==That were enwombed mine. ’Tis often seen
 ==66==Adoption strives with nature, and choice breeds
 ==67==A native slip to us from foreign seeds.
@@ -262,7 +262,7 @@ ID: alls-well-that-ends-well-1-3
 ==124==I still pour in the waters of my love
 ==125==And lack not to lose still. Thus Indian-like,
 ==126==Religious in mine error, I adore
-==127==The sun, that looks upon his worshipper,
+==127==The sun, that looks upon his worshiper,
 ==128==But knows of him no more. My dearest madam,
 ==129==Let not your hate encounter with my love
 ==130==For loving where you do; but if yourself,

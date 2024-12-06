@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-4-14
 ---
@@ -140,7 +140,7 @@ ID: antony-and-cleopatra-4-14
 ==71==Though enemy, lost aim and could not?
 
 **ANT.**
-==71==                     Eros,
+==71==                       Eros,
 ==72==Wouldst thou be window’d in great Rome, and see
 ==73==Thy master thus with pleach’d arms, bending down
 ==74==His corrigible neck, his face subdu’d
@@ -257,10 +257,10 @@ ID: antony-and-cleopatra-4-14
 ==114==Where’s Antony?
 
 **DEC.**
-==114==        There, Diomed, there.
+==114==           There, Diomed, there.
 
 **DIO.**
-==114==                       Lives he?
+==114==                         Lives he?
 ==115==Wilt thou not answer, man?
 
 *Exit Decretas.*
@@ -280,7 +280,7 @@ ID: antony-and-cleopatra-4-14
 ==119==              Now, my lord.
 
 **ANT.**
-==119==                     Where is she?
+==119==                       Where is she?
 
 **DIO.**
 ==120==Lock’d in her monument. She had a prophesying fear

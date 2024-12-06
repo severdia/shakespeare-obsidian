@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -149,7 +149,7 @@ ID: troilus-and-cressida-3-1
 ==42==You shall not bob us out of our melody. If you do, our melancholy upon your head!
 
 **PAN.**
-==43==Sweet queen, sweet queen, that’s a sweet queen—i’ faith⁠—
+==43==Sweet queen, sweet queen, that’s a sweet queen—i’faith⁠—
 
 **HELEN.**
 ==44==And to make a sweet lady sad is a sour offense.
@@ -221,7 +221,7 @@ ID: troilus-and-cressida-3-1
 ==66==Let thy song be love. This love will undo us all. O Cupid, Cupid, Cupid!
 
 **PAN.**
-==67==Love? Ay, that it shall, i’ faith.
+==67==Love? Ay, that it shall, i’faith.
 
 **PAR.**
 ==68==Ay, good now, love, love, nothing but love.
@@ -229,21 +229,21 @@ ID: troilus-and-cressida-3-1
 **PAN.**
 ==69==In good troth, it begins so.
 *(Sings.)*
-==70==*“Love, love, nothing but love, still love, still more!*
-==71==*For O, love’s bow*
-==72==*Shoots buck and doe.*
-==73==*The shaft confounds*
-==74==*Not that it wounds,*
-==75==*But tickles still the sore.*
-==76==*These lovers cry, O ho, they die!*
-==77==*Yet that which seems the wound to kill,*
-==78==*Doth turn O ho! To ha, ha, he!*
-==79==*So dying love lives still.*
-==80==*O ho! A while, but ha, ha, ha!*
-==81==*O ho! Groans out for ha, ha, ha!—hey ho!”*
+==70== *“Love, love, nothing but love, still love, still more!*
+==71==    *For O, love’s bow*
+==72==    *Shoots buck and doe.*
+==73== *The shaft confounds*
+==74==    *Not that it wounds,*
+==75== *But tickles still the sore.*
+==76== *These lovers cry, O ho, they die!*
+==77==    *Yet that which seems the wound to kill,*
+==78== *Doth turn O ho! To ha, ha, he!*
+==79==    *So dying love lives still.*
+==80== *O ho! A while, but ha, ha, ha!*
+==81==    *O ho! Groans out for ha, ha, ha!—hey ho!”*
 
 **HELEN.**
-==82==In love, i’ faith, to the very tip of the nose.
+==82==In love, i’faith, to the very tip of the nose.
 
 **PAR.**
 ==83==He eats nothing but doves, love, and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love.

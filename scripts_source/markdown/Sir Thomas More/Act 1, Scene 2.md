@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-1-2
 ---
@@ -217,7 +217,7 @@ ID: sir-thomas-more-1-2
 ==116==Will have your purse.
 
 **SURESBY.**
-==116==              Th’art an honest knave:
+==116==           Th’art an honest knave:
 ==117==Tell me what are they? Where they may be caught?
 ==118==Aye, those are they I look for.
 

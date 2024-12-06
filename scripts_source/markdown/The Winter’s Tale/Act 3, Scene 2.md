@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-3-2
 ---
@@ -228,7 +228,7 @@ ID: winters-tale-3-2
 ==132==                How? Gone?
 
 **1. SERV.**
-==132==                       Is dead.
+==132==                         Is dead.
 
 **LEON.**
 ==133==Apollo’s angry, and the heavens themselves
@@ -314,7 +314,7 @@ ID: winters-tale-3-2
 **PAUL.**
 ==190==I say she’s dead; I’ll swear’t. If word nor oath
 ==191==Prevail not, go and see. If you can bring
-==192==Tincture or lustre in her lip, her eye,
+==192==Tincture or luster in her lip, her eye,
 ==193==Heat outwardly or breath within, I’ll serve you
 ==194==As I would do the gods. But, O thou tyrant!
 ==195==Do not repent these things, for they are heavier

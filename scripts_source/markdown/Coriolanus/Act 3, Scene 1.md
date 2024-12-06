@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-3-1
 ---
@@ -109,7 +109,7 @@ ID: coriolanus-3-1
 ==33==Or all will fall in broil.
 
 **COR.**
-==33==              Are these your herd?
+==33==           Are these your herd?
 ==34==Must these have voices, that can yield them now,
 ==35==And straight disclaim their tongues? What are your offices?
 ==36==You being their mouths, why rule you not their teeth?
@@ -624,7 +624,7 @@ ID: coriolanus-3-1
 ==269==Which he so sets at nought.
 
 **1. ROM. CIT.**
-==269==              He shall well know
+==269==                He shall well know
 ==270==The noble tribunes are the people’s mouths,
 ==271==And we their hands.
 
@@ -760,7 +760,7 @@ ID: coriolanus-3-1
 ==332==In our first way.
 
 **MEN.**
-==332==           I’ll bring him to you.
+==332==        I’ll bring him to you.
 *(To the Senators.)*
 ==333==Let me desire your company. He must come,
 ==334==Or what is worst will follow.

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -27,7 +27,7 @@ ID: henry-iv-part-ii-5-5
 ==2==The trumpets have sounded twice.
 
 **3. STREWER.**
-==3==’Twill be two a’ clock ere they come from the coronation. Dispatch, dispatch.
+==3==’Twill be two o’clock ere they come from the coronation. Dispatch, dispatch.
 
 *Exeunt.*
 

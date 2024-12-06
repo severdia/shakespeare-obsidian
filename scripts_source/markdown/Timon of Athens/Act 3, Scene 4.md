@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-3-4
 ---
@@ -56,10 +56,10 @@ ID: timon-of-athens-3-4
 ==9==So much?
 
 **PHI.**
-==9==    Is not my lord seen yet?
+==9==        Is not my lord seen yet?
 
 **LUC. SERV.**
-==9==                  Not yet.
+==9==                     Not yet.
 
 **PHI.**
 ==10==I wonder on’t, he was wont to shine at seven.

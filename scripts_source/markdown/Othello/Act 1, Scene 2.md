@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -78,7 +78,7 @@ ID: othello-1-2
 ==36==What is the news?
 
 **CAS.**
-==36==        The Duke does greet you, general,
+==36==           The Duke does greet you, general,
 ==37==And he requires your haste-post-haste appearance,
 ==38==Even on the instant.
 

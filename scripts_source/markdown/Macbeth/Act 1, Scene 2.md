@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-1-2
 ---
@@ -65,7 +65,7 @@ ID: macbeth-1-2
 ==33==Began a fresh assault.
 
 **DUN.**
-==33==                Dismay’d not this
+==33==           Dismay’d not this
 ==34==Our captains, Macbeth and Banquo?
 
 **SERG.**

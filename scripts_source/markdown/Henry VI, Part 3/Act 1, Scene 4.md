@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -37,7 +37,7 @@ ID: henry-vi-part-iii-1-4
 ==14==And when the hardiest warriors did retire,
 ==15==Richard cried, “Charge! And give no foot of ground!”
 ==16==And cried, “A crown, or else a glorious tomb!
-==17==A scepter, or an earthly sepulchre!”
+==17==A scepter, or an earthly sepulcher!”
 ==18==With this we charg’d again; but out, alas,
 ==19==We bodg’d again, as I have seen a swan
 ==20==With bootless labor swim against the tide,

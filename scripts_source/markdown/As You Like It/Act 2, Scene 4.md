@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-2-4
 ---
@@ -118,7 +118,7 @@ ID: as-you-like-it-2-4
 ==43==Your betters, sir.
 
 **COR.**
-==43==           Else are they very wretched.
+==43==        Else are they very wretched.
 
 **ROS.**
 ==44==Peace, I say. Good even to you, friend.

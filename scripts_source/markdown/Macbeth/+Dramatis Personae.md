@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-dp
 ---
@@ -40,9 +40,9 @@ ID: macbeth-dp
 - Fleance (FLE.)
 - Son to Macduff (SON.)
 - English Doctor (DOCT.)
-- Menteth (MENT.)
+- Menteith (MENT.)
 - Old Man (OLD MAN.)
-- Cathness (CATH.)
+- Caithness (CATH.)
 - Porter (PORT.)
 - Sergeant (SERG.)
 - First Murderer (1. MUR.; BOTH 1. MUR. AND 2. MUR.)
@@ -58,3 +58,10 @@ ID: macbeth-dp
 - Servant (SERV.)
 - Soldiers (SOLDIERS.)
 - Sewer (SEW.)
+- First Groomsman (1. GROOM.)
+- Second Groomsman (2. GROOM.)
+- Attendants (ATTENDANTS.)
+- Servants (SERVANTS.)
+- Lords (LORDS.)
+- Kings (KINGS.)
+- Thanes (THANES.)

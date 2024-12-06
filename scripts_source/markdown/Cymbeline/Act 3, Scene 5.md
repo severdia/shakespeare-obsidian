@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-3-5
 ---
@@ -65,7 +65,7 @@ ID: cymbeline-3-5
 ==19==That we have given him cause.
 
 **CLO.**
-==19==                  ’Tis all the better,
+==19==                ’Tis all the better,
 ==20==Your valiant Britains have their wishes in it.
 
 **CYM.**

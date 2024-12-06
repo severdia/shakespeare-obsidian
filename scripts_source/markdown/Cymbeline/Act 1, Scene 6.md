@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-1-6
 ---
@@ -128,7 +128,7 @@ ID: cymbeline-1-6
 **JACH.**
 ==57==Exceeding pleasant; none a stranger there
 ==58==So merry and so gamesome. He is call’d
-==59==The Britain reveller.
+==59==The Britain reveler.
 
 **IMO.**
 ==59==           When he was here,
@@ -231,7 +231,7 @@ ID: cymbeline-1-6
 ==115==Charms this report out.
 
 **IMO.**
-==115==           Let me hear no more.
+==115==              Let me hear no more.
 
 **JACH.**
 ==116==O dearest soul! Your cause doth strike my heart
@@ -341,7 +341,7 @@ ID: cymbeline-1-6
 ==191==To take them in protection?
 
 **IMO.**
-==191==              Willingly;
+==191==                Willingly;
 ==192==And pawn mine honor for their safety. Since
 ==193==My lord hath interest in them, I will keep them
 ==194==In my bedchamber.

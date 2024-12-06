@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -203,7 +203,7 @@ ID: romeo-and-juliet-2-4
 ==62==You say well.
 
 **MER.**
-==63==Yea, is the worst well? Very well took, i’ faith, wisely, wisely.
+==63==Yea, is the worst well? Very well took, i’faith, wisely, wisely.
 
 **NURSE.**
 ==64==If you be he, sir, I desire some confidence with you.
@@ -220,12 +220,12 @@ ID: romeo-and-juliet-2-4
 **MER.**
 ==68==No hare, sir, unless a hare, sir, in a lenten pie, that is something stale and hoar ere it be spent.
 *(He walks by them and sings.)*
-==69==*An old hare hoar,*
-==70==*And an old hare hoar,*
-==71==*Is very good meat in Lent;*
-==72==*But a hare that is hoar*
-==73==*Is too much for a score,*
-==74==*When it hoars ere it be spent.*
+==69== *An old hare hoar,*
+==70== *And an old hare hoar,*
+==71==    *Is very good meat in Lent;*
+==72== *But a hare that is hoar*
+==73== *Is too much for a score,*
+==74==    *When it hoars ere it be spent.*
 ==75==Romeo, will you come to your father’s? We’ll to dinner thither.
 
 **ROM.**
@@ -234,7 +234,7 @@ ID: romeo-and-juliet-2-4
 **MER.**
 ==77==Farewell, ancient lady, farewell,
 *(Singing.)*
-==78==*“lady, lady, lady.”*
+==78== *“lady, lady, lady.”*
 
 *Exeunt Mercutio and Benvolio.*
 
@@ -259,7 +259,7 @@ ID: romeo-and-juliet-2-4
 ==85==Nurse, commend me to thy lady and mistress. I protest unto thee⁠—
 
 **NURSE.**
-==86==Good heart, and, i’ faith, I will tell her as much. Lord, Lord, she will be a joyful woman.
+==86==Good heart, and, i’faith, I will tell her as much. Lord, Lord, she will be a joyful woman.
 
 **ROM.**
 ==87==What wilt thou tell her, nurse? Thou dost not mark me.

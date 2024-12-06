@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-4-2
 ---
@@ -83,7 +83,7 @@ ID: cymbeline-4-2
 **ARV.**
 ==31==        You health.
 *(To Belarius.)*
-==31==                  So please you, sir.
+==31==                So please you, sir.
 
 **IMO.**
 *(Aside.)*
@@ -128,7 +128,7 @@ ID: cymbeline-4-2
 ==49==Good ancestors.
 
 **ARV.**
-==49==        How angel-like he sings!
+==49==           How angel-like he sings!
 
 **GUI.**
 ==50==But his neat cookery! He cut our roots in characters,
@@ -408,7 +408,7 @@ ID: cymbeline-4-2
 *Solemn music.*
 
 **BEL.**
-==188==           My ingenious instrument
+==188==        My ingenious instrument
 ==189==(Hark, Polydore), it sounds! But what occasion
 ==190==Hath Cadwal now to give it motion? Hark!
 
@@ -464,13 +464,13 @@ ID: cymbeline-4-2
 ==214==              Where?
 
 **ARV.**
-==214==                  O’ th’ floor.
+==214==                     O’ th’ floor.
 ==215==His arms thus leagu’d. I thought he slept, and put
 ==216==My clouted brogues from off my feet, whose rudeness
 ==217==Answer’d my steps too loud.
 
 **GUI.**
-==217==              Why, he but sleeps!
+==217==                Why, he but sleeps!
 ==218==If he be gone, he’ll make his grave a bed.
 ==219==With female fairies will his tomb be haunted,
 ==220==And worms will not come to thee.
@@ -556,52 +556,52 @@ ID: cymbeline-4-2
 *Song.*
 
 **GUI.**
-==260==*Fear no more the heat o’ th’ sun,*
-==261==*Nor the furious winter’s rages,*
-==262==*Thou thy worldly task hast done,*
-==263==*Home art gone, and ta’en thy wages.*
-==264==*Golden lads and girls all must,*
-==265==*As chimney-sweepers, come to dust.*
+==260== *Fear no more the heat o’ th’ sun,*
+==261==    *Nor the furious winter’s rages,*
+==262== *Thou thy worldly task hast done,*
+==263==    *Home art gone, and ta’en thy wages.*
+==264== *Golden lads and girls all must,*
+==265== *As chimney-sweepers, come to dust.*
 
 **ARV.**
-==266==*Fear no more the frown o’ th’ great,*
-==267==*Thou art past the tyrant’s stroke;*
-==268==*Care no more to clothe and eat,*
-==269==*To thee the reed is as the oak.*
-==270==*The scepter, learning, physic, must*
-==271==*All follow this and come to dust.*
+==266== *Fear no more the frown o’ th’ great,*
+==267==    *Thou art past the tyrant’s stroke;*
+==268== *Care no more to clothe and eat,*
+==269==    *To thee the reed is as the oak.*
+==270== *The scepter, learning, physic, must*
+==271== *All follow this and come to dust.*
 
 **GUI.**
-==272==*Fear no more the lightning-flash.*
+==272== *Fear no more the lightning-flash.*
 
 **ARV.**
-==273==*Nor th’ all-dreaded thunder-stone.*
+==273==    *Nor th’ all-dreaded thunder-stone.*
 
 **GUI.**
-==274==*Fear not slander, censure rash.*
+==274== *Fear not slander, censure rash.*
 
 **ARV.**
-==275==*Thou hast finish’d joy and moan.*
+==275==    *Thou hast finish’d joy and moan.*
 
 **BOTH ARV. AND GUI.**
-==276==*All lovers young, all lovers must*
-==277==*Consign to thee and come to dust.*
+==276== *All lovers young, all lovers must*
+==277== *Consign to thee and come to dust.*
 
 **GUI.**
-==278==*No exercisor harm thee.*
+==278== *No exercisor harm thee.*
 
 **ARV.**
-==279==*Nor no witchcraft charm thee.*
+==279== *Nor no witchcraft charm thee.*
 
 **GUI.**
-==280==*Ghost unlaid forbear thee.*
+==280== *Ghost unlaid forbear thee.*
 
 **ARV.**
-==281==*Nothing ill come near thee.*
+==281== *Nothing ill come near thee.*
 
 **BOTH ARV. AND GUI.**
-==282==*Quiet consummation have,*
-==283==*And renowned be thy grave.*
+==282== *Quiet consummation have,*
+==283== *And renowned be thy grave.*
 
 *Enter Belarius with the body of Cloten.*
 
@@ -741,7 +741,7 @@ ID: cymbeline-4-2
 ==376==Find such another master.
 
 **LUC.**
-==376==                  ’Lack, good youth!
+==376==                ’Lack, good youth!
 ==377==Thou mov’st no less with thy complaining than
 ==378==Thy master in bleeding. Say his name, good friend.
 

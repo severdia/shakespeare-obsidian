@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -54,7 +54,7 @@ ID: much-ado-about-nothing-2-1
 ==11==So, by being too curst, God will send you no horns.
 
 **BEAT.**
-==12==Just, if he send me no husband, for the which blessing I am at him upon my knees every morning and evening. Lord, I could not endure a husband with a beard on his face, I had rather lie in the woollen!
+==12==Just, if he sends me no husband, for the which blessing I am at him upon my knees every morning and evening. Lord, I could not endure a husband with a beard on his face, I had rather lie in the woollen!
 
 **LEON.**
 ==13==You may light on a husband that hath no beard.
@@ -387,7 +387,7 @@ ID: much-ado-about-nothing-2-1
 ==120==The Count is neither sad, nor sick, nor merry, nor well; but civil count, civil as an orange, and something of that jealous complexion.
 
 **D. PEDRO.**
-==121==I’ faith, lady, I think your blazon to be true, though I’ll be sworn, if he be so, his conceit is false. Here, Claudio, I have woo’d in thy name, and fair Hero is won. I have broke with her father, and his good will obtain’d. Name the day of marriage, and God give thee joy!
+==121==I’faith, lady, I think your blazon to be true, though I’ll be sworn, if he be so, his conceit is false. Here, Claudio, I have woo’d in thy name, and fair Hero is won. I have broke with her father, and his good will obtain’d. Name the day of marriage, and God give thee joy!
 
 **LEON.**
 ==122==Count, take of me my daughter, and with her my fortunes. His Grace hath made the match, and all grace say amen to it.

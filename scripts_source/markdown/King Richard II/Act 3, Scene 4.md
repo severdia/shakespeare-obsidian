@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -62,7 +62,7 @@ ID: king-richard-ii-3-4
 ==19==Madam, I’ll sing.
 
 **QUEEN.**
-==19==           ’Tis well that thou hast cause,
+==19==        ’Tis well that thou hast cause,
 ==20==But thou shouldst please me better wouldst thou weep.
 
 **1. LADY**

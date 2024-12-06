@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -85,7 +85,7 @@ ID: henry-iv-part-i-3-3
 **FAL.**
 ==22==How? The Prince is a Jack, a sneak-up. ’Sblood, and he were here, I would cudgel him like a dog if he would say so.
 *(Enter the Prince marching, with Peto, and Falstaff meets him playing upon his truncheon like a fife.)*
-==23==How now, lad? Is the wind in that door, i’ faith? Must we all march?
+==23==How now, lad? Is the wind in that door, i’faith? Must we all march?
 
 **BARD.**
 ==24==Yea, two and two, Newgate fashion.
@@ -241,7 +241,7 @@ ID: henry-iv-part-i-3-3
 ==76==Have thirty miles to ride yet ere dinner-time.
 *(Exit Peto.)*
 ==77==Jack, meet me tomorrow in the Temple Hall
-==78==At two a’ clock in the afternoon;
+==78==At two o’clock in the afternoon;
 ==79==There shalt thou know thy charge, and there receive
 ==80==Money and order for their furniture.
 ==81==The land is burning, Percy stands on high,

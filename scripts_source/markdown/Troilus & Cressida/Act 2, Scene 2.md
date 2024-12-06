@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -141,7 +141,7 @@ ID: troilus-and-cressida-2-2
 ==97==Cry, Troyans, cry!
 
 **PRI.**
-==97==        What noise? What shrike is this?
+==97==           What noise? What shrike is this?
 
 **TRO.**
 ==98==’Tis our mad sister, I do know her voice.

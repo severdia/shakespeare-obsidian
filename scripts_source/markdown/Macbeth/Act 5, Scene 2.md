@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-5-2
 ---
@@ -17,7 +17,7 @@ ID: macbeth-5-2
 
 *The country near Dunsinane.*
 
-*Drum and Colors. Enter Menteth, Cathness, Angus, Lennox, Soldiers.*
+*Drum and Colors. Enter Menteith, Caithness, Angus, Lennox, Soldiers.*
 
 **MENT.**
 ==1==The English pow’r is near, led on by Malcolm,

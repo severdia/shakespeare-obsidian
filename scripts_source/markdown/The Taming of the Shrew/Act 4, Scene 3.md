@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -126,7 +126,7 @@ ID: taming-of-the-shrew-4-3
 ==53==Will we return unto thy father’s house,
 ==54==And revel it as bravely as the best,
 ==55==With silken coats and caps, and golden rings,
-==56==With ruffs and cuffs, and fardingales, and things,
+==56==With ruffs and cuffs, and farthingales, and things,
 ==57==With scarfs and fans, and double change of brav’ry,
 ==58==With amber bracelets, beads, and all this knav’ry.
 ==59==What, hast thou din’d? The tailor stays thy leisure,
@@ -141,7 +141,7 @@ ID: taming-of-the-shrew-4-3
 ==63==Here is the cap your worship did bespeak.
 
 **PETR.**
-==64==Why, this was moulded on a porringer⁠—
+==64==Why, this was molded on a porringer⁠—
 ==65==A velvet dish. Fie, fie, ’tis lewd and filthy.
 ==66==Why, ’tis a cockle or a walnut-shell,
 ==67==A knack, a toy, a trick, a baby’s cap.
@@ -354,7 +354,7 @@ ID: taming-of-the-shrew-4-3
 ==169==Go call my men, and let us straight to him,
 ==170==And bring our horses unto Long-lane end;
 ==171==There will we mount, and thither walk on foot.
-==172==Let’s see, I think ’tis now some seven a’ clock,
+==172==Let’s see, I think ’tis now some seven o’clock,
 ==173==And well we may come there by dinner-time.
 
 **KATH.**
@@ -366,7 +366,7 @@ ID: taming-of-the-shrew-4-3
 ==177==Look what I speak, or do, or think to do,
 ==178==You are still crossing it. Sirs, let’t alone,
 ==179==I will not go today, and ere I do,
-==180==It shall be what a’ clock I say it is.
+==180==It shall be what o’clock I say it is.
 
 **HOR.**
 *(Aside.)*

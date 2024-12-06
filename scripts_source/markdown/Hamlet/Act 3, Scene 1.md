@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -247,7 +247,7 @@ ID: hamlet-3-1
 ==120==O, what a noble mind is here o’erthrown!
 ==121==The courtier’s, soldier’s, scholar’s, eye, tongue, sword,
 ==122==Th’ expectation and rose of the fair state,
-==123==The glass of fashion and the mould of form,
+==123==The glass of fashion and the mold of form,
 ==124==Th’ observ’d of all observers, quite, quite down!
 ==125==And I, of ladies most deject and wretched,
 ==126==That suck’d the honey of his music vows,

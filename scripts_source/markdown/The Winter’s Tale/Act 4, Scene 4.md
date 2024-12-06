@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-4-4
 ---
@@ -344,19 +344,19 @@ ID: winters-tale-4-4
 *Enter Autolycus singing.*
 
 **AUT.**
-==191==*Lawn as white as driven snow,*
-==192==*Cypress black as e’er was crow,*
-==193==*Gloves as sweet as damask roses,*
-==194==*Masks for faces and for noses;*
-==195==*Bugle-bracelet, necklace amber,*
-==196==*Perfume for a lady’s chamber;*
-==197==*Golden quoifs and stomachers*
-==198==*For my lads to give their dears;*
-==199==*Pins and poking-sticks of steel;*
-==200==*What maids lack from head to heel:*
-==201==*Come buy of me, come; come buy, come buy,*
-==202==*Buy, lads, or else your lasses cry:*
-==203==*Come buy.*
+==191== *Lawn as white as driven snow,*
+==192== *Cypress black as e’er was crow,*
+==193== *Gloves as sweet as damask roses,*
+==194== *Masks for faces and for noses;*
+==195== *Bugle-bracelet, necklace amber,*
+==196== *Perfume for a lady’s chamber;*
+==197== *Golden quoifs and stomachers*
+==198== *For my lads to give their dears;*
+==199== *Pins and poking-sticks of steel;*
+==200== *What maids lack from head to heel:*
+==201== *Come buy of me, come; come buy, come buy,*
+==202== *Buy, lads, or else your lasses cry:*
+==203== *Come buy.*
 
 **CLO.**
 ==204==If I were not in love with Mopsa, thou shouldst take no money of me, but being enthrall’d as I am, it will also be the bondage of certain ribbons and gloves.
@@ -448,46 +448,46 @@ ID: winters-tale-4-4
 *Song.*
 
 **AUT.**
-==233==*Get you hence, for I must go*
-==234==*Where it fits not you to know.*
+==233== *Get you hence, for I must go*
+==234== *Where it fits not you to know.*
 
 **DOR.**
-==235==*Whither?*
+==235== *Whither?*
 
 **MOP.**
-==236==*O, whither?*
+==236== *O, whither?*
 
 **DOR.**
-==237==*Whither?*
+==237== *Whither?*
 
 **MOP.**
-==238==*It becomes thy oath full well,*
-==239==*Thou to me thy secrets tell.*
+==238== *It becomes thy oath full well,*
+==239== *Thou to me thy secrets tell.*
 
 **DOR.**
-==240==*Me too; let me go thither.*
+==240== *Me too; let me go thither.*
 
 **MOP.**
-==241==*Or thou goest to th’ grange, or mill.*
+==241== *Or thou goest to th’ grange, or mill.*
 
 **DOR.**
-==242==*If to either, thou dost ill.*
+==242== *If to either, thou dost ill.*
 
 **AUT.**
-==243==*Neither.*
+==243== *Neither.*
 
 **DOR.**
-==244==*What, neither?*
+==244== *What, neither?*
 
 **AUT.**
-==245==*Neither.*
+==245== *Neither.*
 
 **DOR.**
-==246==*Thou hast sworn my love to be.*
+==246== *Thou hast sworn my love to be.*
 
 **MOP.**
-==247==*Thou hast sworn it more to me:*
-==248==*Then whither goest? Say, whither?*
+==247== *Thou hast sworn it more to me:*
+==248== *Then whither goest? Say, whither?*
 
 **CLO.**
 ==249==We’ll have this song out anon by ourselves. My father and the gentlemen are in sad talk, and we’ll not trouble them. Come bring away thy pack after me. Wenches, I’ll buy for you both. Pedlar, let’s have the first choice. Follow me, girls.
@@ -497,15 +497,15 @@ ID: winters-tale-4-4
 **AUT.**
 ==250==And you shall pay well for ’em.
 *(Song.)*
-==251==*Will you buy any tape,*
-==252==*Or lace for your cape,*
-==253==*My dainty duck, my dear-a?*
-==254==*Any silk, any thread,*
-==255==*Any toys for your head*
-==256==*Of the new’st and fin’st, fin’st wear-a?*
-==257==*Come to the pedlar,*
-==258==*Money’s a meddler,*
-==259==*That doth utter all men’s ware-a.*
+==251==    *Will you buy any tape,*
+==252==    *Or lace for your cape,*
+==253== *My dainty duck, my dear-a?*
+==254==    *Any silk, any thread,*
+==255==    *Any toys for your head*
+==256== *Of the new’st and fin’st, fin’st wear-a?*
+==257==    *Come to the pedlar,*
+==258==    *Money’s a meddler,*
+==259== *That doth utter all men’s ware-a.*
 
 *Exit.*
 
@@ -793,7 +793,7 @@ ID: winters-tale-4-4
 ==404==Am heir to my affection.
 
 **CAM.**
-==404==                  Be advis’d.
+==404==              Be advis’d.
 
 **FLO.**
 ==405==I am—and by my fancy. If my reason
@@ -851,7 +851,7 @@ ID: winters-tale-4-4
 ==439==I leave out ceremony.
 
 **CAM.**
-==439==              Sir, I think
+==439==           Sir, I think
 ==440==You have heard of my poor services, i’ th’ love
 ==441==That I have borne your father?
 

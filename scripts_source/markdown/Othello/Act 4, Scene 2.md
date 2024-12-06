@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -350,7 +350,7 @@ ID: othello-4-2
 ==148==You are a fool; go to.
 
 **DES.**
-==148==              Alas, Iago,
+==148==           Alas, Iago,
 ==149==What shall I do to win my lord again?
 ==150==Good friend, go to him; for by this light of heaven,
 ==151==I know not how I lost him. Here I kneel:

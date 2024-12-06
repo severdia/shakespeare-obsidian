@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-4-4
 ---
@@ -22,7 +22,7 @@ ID: cymbeline-4-4
 ==1==The noise is round about us.
 
 **BEL.**
-==1==              Let us from it.
+==1==                Let us from it.
 
 **ARV.**
 ==2==What pleasure, sir, find we in life, to lock it

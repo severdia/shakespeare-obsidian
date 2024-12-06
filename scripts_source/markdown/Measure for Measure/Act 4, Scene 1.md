@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-4-1
 ---
@@ -22,12 +22,12 @@ ID: measure-for-measure-4-1
 *Song.*
 
 **BOY.**
-==1==*Take, O, take those lips away,*
-==2==*That so sweetly were forsworn,*
-==3==*And those eyes, the break of day,*
-==4==*Lights that do mislead the morn;*
-==5==*But my kisses bring again, bring again,*
-==6==*Seals of love, but seal’d in vain, seal’d in vain.*
+==1== *Take, O, take those lips away,*
+==2==    *That so sweetly were forsworn,*
+==3== *And those eyes, the break of day,*
+==4==    *Lights that do mislead the morn;*
+==5== *But my kisses bring again, bring again,*
+==6== *Seals of love, but seal’d in vain, seal’d in vain.*
 
 *Enter Duke disguised as a friar.*
 

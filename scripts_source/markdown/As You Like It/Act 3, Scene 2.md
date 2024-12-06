@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-3-2
 ---
@@ -106,14 +106,14 @@ ID: as-you-like-it-3-2
 *Enter Rosalind with a paper, reading.*
 
 **ROS.**
-==34==*“From the east to western Inde,*
-==35==*No jewel is like Rosalind.*
-==36==*Her worth, being mounted on the wind,*
-==37==*Through all the world bears Rosalind.*
-==38==*All the pictures fairest lin’d*
-==39==*Are but black to Rosalind.*
-==40==*Let no face be kept in mind*
-==41==*But the fair of Rosalind.”*
+==34== *“From the east to western Inde,*
+==35==    *No jewel is like Rosalind.*
+==36== *Her worth, being mounted on the wind,*
+==37==    *Through all the world bears Rosalind.*
+==38== *All the pictures fairest lin’d*
+==39==    *Are but black to Rosalind.*
+==40== *Let no face be kept in mind*
+==41==    *But the fair of Rosalind.”*
 
 **TOUCH.**
 ==42==I’ll rhyme you so eight years together, dinners and suppers and sleeping-hours excepted. It is the right butter-women’s rank to market.
@@ -123,18 +123,18 @@ ID: as-you-like-it-3-2
 
 **TOUCH.**
 ==44==For a taste:
-==45==If a hart do lack a hind,
-==46==Let him seek out Rosalind.
-==47==If the cat will after kind,
-==48==So be sure will Rosalind.
-==49==Wint’red garments must be lin’d,
-==50==So must slender Rosalind.
-==51==They that reap must sheaf and bind,
-==52==Then to cart with Rosalind.
-==53==Sweetest nut hath sourest rind,
-==54==Such a nut is Rosalind.
-==55==He that sweetest rose will find,
-==56==Must find love’s prick and Rosalind.
+==45== If a hart do lack a hind,
+==46==    Let him seek out Rosalind.
+==47== If the cat will after kind,
+==48==    So be sure will Rosalind.
+==49== Wint’red garments must be lin’d,
+==50==    So must slender Rosalind.
+==51== They that reap must sheaf and bind,
+==52==    Then to cart with Rosalind.
+==53== Sweetest nut hath sourest rind,
+==54==    Such a nut is Rosalind.
+==55== He that sweetest rose will find,
+==56==    Must find love’s prick and Rosalind.
 ==57==This is the very false gallop of verses; why do you infect yourself with them?
 
 **ROS.**
@@ -157,36 +157,36 @@ ID: as-you-like-it-3-2
 
 **CEL.**
 *(Reads.)*
-==64==*“Why should this a desert be?*
-==65==*For it is unpeopled? No!*
-==66==*Tongues I’ll hang on every tree,*
-==67==*That shall civil sayings show:*
-==68==*Some, how brief the life of man*
-==69==*Runs his erring pilgrimage,*
-==70==*That the stretching of a span*
-==71==*Buckles in his sum of age;*
-==72==*Some, of violated vows*
-==73==*’Twixt the souls of friend and friend;*
-==74==*But upon the fairest boughs,*
-==75==*Or at every sentence end,*
-==76==*Will I ‘Rosalinda’ write,*
-==77==*Teaching all that read to know*
-==78==*The quintessence of every sprite*
-==79==*Heaven would in little show.*
-==80==*Therefore heaven Nature charg’d*
-==81==*That one body should be fill’d*
-==82==*With all graces wide-enlarg’d.*
-==83==*Nature presently distill’d*
-==84==*Helen’s cheek, but not her heart,*
-==85==*Cleopatra’s majesty,*
-==86==*Atalanta’s better part,*
-==87==*Sad Lucretia’s modesty.*
-==88==*Thus Rosalind of many parts*
-==89==*By heavenly synod was devis’d,*
-==90==*Of many faces, eyes, and hearts,*
-==91==*To have the touches dearest priz’d.*
-==92==*Heaven would that she these gifts should have,*
-==93==*And I to live and die her slave.”*
+==64== *“Why should this a desert be?*
+==65==    *For it is unpeopled? No!*
+==66== *Tongues I’ll hang on every tree,*
+==67==    *That shall civil sayings show:*
+==68== *Some, how brief the life of man*
+==69==    *Runs his erring pilgrimage,*
+==70== *That the stretching of a span*
+==71==    *Buckles in his sum of age;*
+==72== *Some, of violated vows*
+==73==    *’Twixt the souls of friend and friend;*
+==74== *But upon the fairest boughs,*
+==75==    *Or at every sentence end,*
+==76== *Will I ‘Rosalinda’ write,*
+==77==    *Teaching all that read to know*
+==78== *The quintessence of every sprite*
+==79==    *Heaven would in little show.*
+==80== *Therefore heaven Nature charg’d*
+==81==    *That one body should be fill’d*
+==82== *With all graces wide-enlarg’d.*
+==83==    *Nature presently distill’d*
+==84== *Helen’s cheek, but not her heart,*
+==85== *Cleopatra’s majesty,*
+==86==    *Atalanta’s better part,*
+==87== *Sad Lucretia’s modesty.*
+==88==    *Thus Rosalind of many parts*
+==89== *By heavenly synod was devis’d,*
+==90==    *Of many faces, eyes, and hearts,*
+==91== *To have the touches dearest priz’d.*
+==92==    *Heaven would that she these gifts should have,*
+==93== *And I to live and die her slave.”*
 
 **ROS.**
 ==94==O most gentle Jupiter, what tedious homily of love have you wearied your parishioners withal, and never cried, “Have patience, good people!”
@@ -266,7 +266,7 @@ ID: as-you-like-it-3-2
 ==118==Nay, but the devil take mocking. Speak sad brow and true maid.
 
 **CEL.**
-==119==I’ faith, coz, ’tis he.
+==119==I’faith, coz, ’tis he.
 
 **ROS.**
 ==120==Orlando?
@@ -403,7 +403,7 @@ ID: as-you-like-it-3-2
 ==162==Very well. What would you?
 
 **ROS.**
-==163==I pray you, what is’t a’ clock?
+==163==I pray you, what is’t o’clock?
 
 **ORL.**
 ==164==You should ask me what time o’ day; there’s no clock in the forest.
@@ -481,7 +481,7 @@ ID: as-you-like-it-3-2
 ==188==What were his marks?
 
 **ROS.**
-==189==A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not (but I pardon you for that, for simply your having in beard is a younger brother’s revenue); then your hose should be ungarter’d, your bonnet unbanded, your sleeve unbutton’d, your shoe untied, and every thing about you demonstrating a careless desolation. But you are no such man; you are rather point-device in your accoustrements, as loving yourself, than seeming the lover of any other.
+==189==A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not (but I pardon you for that, for simply your having in beard is a younger brother’s revenue); then your hose should be ungarter’d, your bonnet unbanded, your sleeve unbutton’d, your shoe untied, and every thing about you demonstrating a careless desolation. But you are no such man; you are rather point-device in your accoutrements, as loving yourself, than seeming the lover of any other.
 
 **ORL.**
 ==190==Fair youth, I would I could make thee believe I love.

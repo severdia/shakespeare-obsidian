@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-5-1
 ---
@@ -139,13 +139,13 @@ ID: tempest-5-1
 *Ariel sings and helps to attire him.*
 
 **ARI.**
-==88==*Where the bee sucks, there suck I,*
-==89==*In a cowslip’s bell I lie;*
-==90==*There I couch when owls do cry.*
-==91==*On the bat’s back I do fly*
-==92==*After summer merrily.*
-==93==*Merrily, merrily shall I live now,*
-==94==*Under the blossom that hangs on the bough.*
+==88== *Where the bee sucks, there suck I,*
+==89== *In a cowslip’s bell I lie;*
+==90== *There I couch when owls do cry.*
+==91== *On the bat’s back I do fly*
+==92== *After summer merrily.*
+==93== *Merrily, merrily shall I live now,*
+==94== *Under the blossom that hangs on the bough.*
 
 **PROS.**
 ==95==Why, that’s my dainty Ariel! I shall miss thee,
@@ -209,7 +209,7 @@ ID: tempest-5-1
 
 **SEB.**
 *(Aside.)*
-==129==        The devil speaks in him.
+==129==           The devil speaks in him.
 
 **PROS.**
 ==129==                         No.

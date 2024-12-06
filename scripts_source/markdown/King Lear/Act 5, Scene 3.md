@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -367,7 +367,7 @@ ID: king-lear-5-3
 ==170==Cost him his eyes.
 
 **EDM.**
-==170==           th’ hast spoken right, ’tis true.
+==170==           Th’ hast spoken right, ’tis true.
 ==171==The wheel is come full circle, I am here.
 
 **ALB.**
@@ -448,7 +448,7 @@ ID: king-lear-5-3
 ==219==           What kind of help?
 
 **ALB.**
-==219==                     Speak, man.
+==219==                       Speak, man.
 
 **EDG.**
 ==220==What means this bloody knife?

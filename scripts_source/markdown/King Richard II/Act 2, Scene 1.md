@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -84,7 +84,7 @@ ID: king-richard-ii-2-1
 ==52==Fear’d by their breed, and famous by their birth,
 ==53==Renowned for their deeds as far from home,
 ==54==For Christian service and true chivalry,
-==55==As is the sepulchre in stubborn Jewry
+==55==As is the sepulcher in stubborn Jewry
 ==56==Of the world’s ransom, blessed Mary’s Son;
 ==57==This land of such dear souls, this dear dear land,
 ==58==Dear for her reputation through the world,

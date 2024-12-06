@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -382,7 +382,7 @@ ID: pericles-5-1
 ==182==Calls my lord?
 
 **PER.**
-==183==Thou art a grave and noble counsellor,
+==183==Thou art a grave and noble counselor,
 ==184==Most wise in general, tell me if thou canst,
 ==185==What this maid is, or what is like to be,
 ==186==That thus hath made me weep.

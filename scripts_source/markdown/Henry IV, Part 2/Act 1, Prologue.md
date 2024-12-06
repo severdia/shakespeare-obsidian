@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -43,7 +43,7 @@ ID: henry-iv-part-ii-1-prologue
 ==18==That the blunt monster with uncounted heads,
 ==19==The still-discordant wav’ring multitude,
 ==20==Can play upon it. But what need I thus
-==21==My well-known body to anatomize
+==21==My well known body to anatomize
 ==22==Among my household? Why is Rumor here?
 ==23==I run before King Harry’s victory,
 ==24==Who in a bloody field by Shrewsbury

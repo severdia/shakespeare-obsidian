@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -215,7 +215,7 @@ ID: henry-v-1-2
 **CANT.**
 ==155==She hath been then more fear’d than harm’d, my liege;
 ==156==For hear her but exampled by herself:
-==157==When all her chevalry hath been in France,
+==157==When all her chivalry hath been in France,
 ==158==And she a mourning widow of her nobles,
 ==159==She hath herself not only well defended
 ==160==But taken and impounded as a stray

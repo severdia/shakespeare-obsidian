@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -176,7 +176,7 @@ ID: richard-iii-3-5
 ==100==With reverend fathers and well-learned bishops.
 
 **BUCK.**
-==101==I go, and towards three or four a’ clock
+==101==I go, and towards three or four o’clock
 ==102==Look for the news that the Guildhall affords.
 
 *Exit Buckingham.*

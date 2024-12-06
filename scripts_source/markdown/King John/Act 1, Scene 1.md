@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-1-1
 ---
@@ -16,10 +16,10 @@ ID: king-john-1-1
 
 *A room in King John’s palace.*
 
-*Enter King John, Queen Elinor, Pembroke, Essex, and Salisbury, with the Chatillion of France.*
+*Enter King John, Queen Elinor, Pembroke, Essex, and Salisbury, with the Chatillon of France.*
 
 **K. JOHN.**
-==1==Now say, Chatillion, what would France with us?
+==1==Now say, Chatillon, what would France with us?
 
 **CHAT.**
 ==2==Thus, after greeting, speaks the King of France
@@ -66,9 +66,9 @@ ID: king-john-1-1
 ==27==So hence! Be thou the trumpet of our wrath,
 ==28==And sullen presage of your own decay.
 ==29==An honorable conduct let him have.
-==30==Pembroke, look to’t. Farewell, Chatillion.
+==30==Pembroke, look to’t. Farewell, Chatillon.
 
-*Exeunt Chatillion and Pembroke.*
+*Exeunt Chatillon and Pembroke.*
 
 **Q. EL.**
 ==31==What now, my son, have I not ever said

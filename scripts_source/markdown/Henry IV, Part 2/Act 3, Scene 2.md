@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -151,7 +151,7 @@ ID: henry-iv-part-ii-3-2
 ==42==’Tis the more time thou wert us’d.
 
 **SHAL.**
-==43==Ha, ha, ha! Most excellent, i’ faith! Things that are moldy lack use. Very singular good, in faith, well said, Sir John, very well said.
+==43==Ha, ha, ha! Most excellent, i’faith! Things that are moldy lack use. Very singular good, in faith, well said, Sir John, very well said.
 
 **FAL.**
 ==44==Prick him.
@@ -389,7 +389,7 @@ ID: henry-iv-part-ii-3-2
 ==120==Hold, Wart, traverse! Thas, thas, thas.
 
 **FAL.**
-==121==Come manage me your caliver. So—very well, go to, very good, exceeding good. O, give me always a little, lean, old, chopp’d, bald shot. Well said, i’ faith, Wart, th’ art a good scab. Hold, there’s a tester for thee.
+==121==Come manage me your caliver. So—very well, go to, very good, exceeding good. O, give me always a little, lean, old, chopp’d, bald shot. Well said, i’faith, Wart, th’ art a good scab. Hold, there’s a tester for thee.
 
 **SHAL.**
 ==122==He is not his craft’s master, he doth not do it right. I remember at Mile-end Green, when I lay at Clement’s Inn—I was then Sir Dagonet in Arthur’s show—there was a little quiver fellow, and ’a would manage you his piece thus, and ’a would about and about, and come you in and come you in. “Rah, tah, tah,” would ’a say, “bounce,” would ’a say, and away again would ’a go, and again would ’a come. I shall ne’er see such a fellow.
@@ -411,7 +411,7 @@ ID: henry-iv-part-ii-3-2
 *(Exeunt Justices.)*
 ==128==On, Bardolph, lead the men away.
 *(Exeunt Bardolph, recruits, etc.)*
-==129==As I return, I will fetch off these justices. I do see the bottom of Justice Shallow. Lord, Lord, how subject we old men are to this vice of lying! This same starv’d justice hath done nothing but prate to me of the wildness of his youth, and the feats he hath done about Turnbull Street, and every third word a lie, duer paid to the hearer than the Turk’s tribute. I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring. When ’a was naked, he was for all the world like a fork’d redish, with a head fantastically carv’d upon it with a knife. ’A was so forlorn, that his dimensions to any thick sight were invisible. ’A was the very genius of famine, yet lecherous as a monkey, and the whores call’d him mandrake. ’A came ever in the rearward of the fashion, and sung those tunes to the overscutch’d huswives that he heard the carmen whistle, and sware they were his fancies or his good-nights. And now is this Vice’s dagger become a squire, and talks as familiarly of John a’ Gaunt as if he had been sworn brother to him, and I’ll be sworn ’a ne’er saw him but once in the Tilt-yard, and then he burst his head for crowding among the marshal’s men. I saw it, and told John a’ Gaunt he beat his own name, for you might have thrust him and all his apparel into an eel-skin. The case of a treble hoboy was a mansion for him, a court, and now has he land and beefs! Well, I’ll be acquainted with him if I return, and’t shall go hard but I’ll make him a philosopher’s two stones to me. If the young dace be a bait for the old pike, I see no reason in the law of nature but I may snap at him: let time shape, and there an end.
+==129==As I return, I will fetch off these justices. I do see the bottom of Justice Shallow. Lord, Lord, how subject we old men are to this vice of lying! This same starv’d justice hath done nothing but prate to me of the wildness of his youth, and the feats he hath done about Turnbull Street, and every third word a lie, duer paid to the hearer than the Turk’s tribute. I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring. When ’a was naked, he was for all the world like a fork’d redish, with a head fantastically carv’d upon it with a knife. ’A was so forlorn, that his dimensions to any thick sight were invisible. ’A was the very genius of famine, yet lecherous as a monkey, and the whores call’d him mandrake. ’A came ever in the rearward of the fashion, and sung those tunes to the overscutch’d huswives that he heard the carmen whistle, and swear they were his fancies or his good-nights. And now is this Vice’s dagger become a squire, and talks as familiarly of John a’ Gaunt as if he had been sworn brother to him, and I’ll be sworn ’a ne’er saw him but once in the Tilt-yard, and then he burst his head for crowding among the marshal’s men. I saw it, and told John a’ Gaunt he beat his own name, for you might have thrust him and all his apparel into an eel-skin. The case of a treble hoboy was a mansion for him, a court, and now has he land and beefs! Well, I’ll be acquainted with him if I return, and’t shall go hard but I’ll make him a philosopher’s two stones to me. If the young dace be a bait for the old pike, I see no reason in the law of nature but I may snap at him: let time shape, and there an end.
 
 *Exit.*
 

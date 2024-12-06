@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -372,7 +372,7 @@ ID: henry-iv-part-i-1-3
 ==258==We will stay your leisure.
 
 **HOT.**
-==258==              I have done, i’ faith.
+==258==              I have done, i’faith.
 
 **WOR.**
 ==259==Then once more to your Scottish prisoners:

@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-2-4
 ---
@@ -33,16 +33,16 @@ ID: henry-viii-2-4
 ==5==                Be’t so; proceed.
 
 **1. SCRIBE.**
-==6==Say, Henry King of England, come into the court.
+==6==Say, “Henry King of England, come into the court.”
 
 **CRIER.**
-==7==Henry King of England, etc.
+==7==Henry King of England, come into the court.
 
 **KING.**
 ==8==Here.
 
 **2. SCRIBE.**
-==9==Say, Katherine Queen of England, come into the court.
+==9==Say, “Katherine Queen of England, come into the court.”
 
 **CRIER.**
 ==10==Katherine Queen of England, etc.
@@ -114,7 +114,7 @@ ID: henry-viii-2-4
 ==66==Be now produc’d and heard.
 
 **Q. KATH.**
-==66==              Lord Cardinal,
+==66==                Lord Cardinal,
 ==67==To you I speak.
 
 **WOL.**

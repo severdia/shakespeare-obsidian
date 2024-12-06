@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-4-1
 ---
@@ -161,7 +161,7 @@ ID: sir-thomas-more-4-1
 ==83==This capital contempt.
 
 **ROCHESTER.**
-==83==                I rise and part,
+==83==           I rise and part,
 ==84==In lieu of this to tender him my heart.
 
 *He riseth.*

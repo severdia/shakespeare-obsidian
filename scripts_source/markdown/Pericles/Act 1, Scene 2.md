@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -113,7 +113,7 @@ ID: pericles-1-2
 ==60==Rise, prithee rise. Sit down. Thou art
 ==61==No flatterer. I thank thee for’t, and heaven forbid
 ==62==That kings should let their ears hear their faults hid!
-==63==Fit counsellor and servant for a prince,
+==63==Fit counselor and servant for a prince,
 ==64==Who by thy wisdom makes a prince thy servant,
 ==65==What wouldst thou have me do?
 
@@ -192,7 +192,7 @@ ID: pericles-1-2
 ==121==Who shuns not to break one will crack them both;
 ==122==But in our orbs we’ll live so round and safe,
 ==123==That time of both this truth shall ne’er convince,
-==124==Thou show’dst a subject’s shine, I a true prince’.
+==124==Thou show’dst a subject’s shine, I a true prince.
 
 *Exeunt.*
 

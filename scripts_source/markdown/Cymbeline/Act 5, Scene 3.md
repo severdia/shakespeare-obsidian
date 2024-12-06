@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-5-3
 ---
@@ -158,9 +158,9 @@ ID: cymbeline-5-3
 ==93==What crows have peck’d them here. He brags his service
 ==94==As if he were of note. Bring him to th’ King.
 
-*Enter Cymbeline, Belarius, Guiderius, Arviragus, Pisanio, and Roman captives.*
+*Enter Cymbeline, Belarius, Guiderius, Arviragus, Pisanio, and Roman prisoners.*
 
-* The Captains present Posthumus to Cymbeline, who delivers him over to a Jailer.*
+*The Captains present Posthumus to Cymbeline, who delivers him over to a Jailer.*
 
 *Then exeunt omnes.*
 

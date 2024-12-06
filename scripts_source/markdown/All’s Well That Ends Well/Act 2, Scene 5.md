@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-2-5
 ---
@@ -107,7 +107,7 @@ ID: alls-well-that-ends-well-2-5
 ==29==Yes, I do know him well, and common speech
 ==30==Gives him a worthy pass. Here comes my clog.
 
-*Enter Helena.*
+*Enter Helen.*
 
 **HEL.**
 ==31==I have, sir, as I was commanded from you,
@@ -179,7 +179,7 @@ ID: alls-well-that-ends-well-2-5
 
 **BER.**
 ==66==Where are my other men, *monsieur*?—Farewell.
-*(Exit Helena.)*
+*(Exit Helen.)*
 ==67==Go thou toward home, where I will never come
 ==68==Whilst I can shake my sword or hear the drum.
 ==69==Away, and for our flight.

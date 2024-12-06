@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-2-4
 ---
@@ -319,7 +319,7 @@ ID: cymbeline-2-4
 *Exit.*
 
 **PHI.**
-==149==                  Quite besides
+==149==                Quite besides
 ==150==The government of patience! You have won.
 ==151==Let’s follow him, and pervert the present wrath
 ==152==He hath against himself.

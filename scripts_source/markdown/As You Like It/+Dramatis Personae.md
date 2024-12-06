@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-dp
 ---
@@ -41,3 +41,5 @@ ID: as-you-like-it-dp
 - Second Lord at Court (2. LORD. COURT.)
 - First Page (1. PAGE.)
 - Second Page (2. PAGE.)
+- Attendants (ATTENDANTS.)
+- Lords (LORDS.)

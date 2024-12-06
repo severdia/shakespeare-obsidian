@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-4-3
 ---
@@ -507,7 +507,7 @@ ID: julius-caesar-4-3
 **BRU.**
 ==231==Lucius!
 *(Enter Lucius.)*
-==231==    My gown.
+==231==        My gown.
 *(Exit Lucius.)*
 ==231==              Farewell, good Messala.
 ==232==Good night, Titinius. Noble, noble Cassius,

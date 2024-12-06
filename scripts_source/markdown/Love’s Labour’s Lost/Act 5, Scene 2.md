@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -571,9 +571,9 @@ ID: loves-labours-lost-5-2
 
 **BOYET.**
 ==256==The tongues of mocking wenches are as keen
-==257==As is the razor’s edge invisible,
+==257== As is the razor’s edge invisible,
 ==258==Cutting a smaller hair than may be seen;
-==259==Above the sense of sense, so sensible
+==259== Above the sense of sense, so sensible
 ==260==Seemeth their conference, their conceits have wings
 ==261==Fleeter than arrows, bullets, wind, thought, swifter things.
 
@@ -599,9 +599,9 @@ ID: loves-labours-lost-5-2
 ==268==Well-liking wits they have—gross gross, fat fat.
 
 **PRIN.**
-==269==O poverty in wit, kingly-poor flout!
+==269== O poverty in wit, kingly-poor flout!
 ==270==Will they not (think you) hang themselves tonight?
-==271==Or ever but in vizards show their faces?
+==271== Or ever but in vizards show their faces?
 ==272==This pert Berowne was out of count’nance quite.
 
 **ROS.**
@@ -613,7 +613,7 @@ ID: loves-labours-lost-5-2
 
 **MAR.**
 ==276==Dumaine was at my service, and his sword:
-==277==“No point,” quoth I; my servant straight was mute.
+==277== “No point,” quoth I; my servant straight was mute.
 
 **KATH.**
 ==278==Lord Longaville said I came o’er his heart,
@@ -629,17 +629,17 @@ ID: loves-labours-lost-5-2
 ==280==           Go, sickness as thou art!
 
 **ROS.**
-==281==Well, better wits have worn plain statute-caps.
+==281== Well, better wits have worn plain statute-caps.
 ==282==But will you hear? The King is my love sworn.
 
 **PRIN.**
-==283==And quick Berowne hath plighted faith to me.
+==283== And quick Berowne hath plighted faith to me.
 
 **KATH.**
 ==284==And Longaville was for my service born.
 
 **MAR.**
-==285==Dumaine is mine, as sure as bark on tree.
+==285== Dumaine is mine, as sure as bark on tree.
 
 **BOYET.**
 ==286==Madam, and pretty mistresses, give ear:
@@ -760,22 +760,22 @@ ID: loves-labours-lost-5-2
 ==348==The virtue of your eye must break my oath.
 
 **PRIN.**
-==349==You nickname virtue; vice you should have spoke,
-==350==For virtue’s office never breaks men’s troth.
+==349==You nickname virtue; “vice” you should have spoke,
+==350== For virtue’s office never breaks men’s troth.
 ==351==Now by my maiden honor, yet as pure
-==352==As the unsallied lily, I protest,
+==352== As the unsallied lily, I protest,
 ==353==A world of torments though I should endure,
-==354==I would not yield to be your house’s guest:
+==354== I would not yield to be your house’s guest:
 ==355==So much I hate a breaking cause to be
 ==356==Of heavenly oaths, vow’d with integrity.
 
 **KING.**
 ==357==O, you have liv’d in desolation here,
-==358==Unseen, unvisited, much to our shame.
+==358== Unseen, unvisited, much to our shame.
 
 **PRIN.**
 ==359==Not so, my lord, it is not so, I swear;
-==360==We have had pastimes here and pleasant game,
+==360== We have had pastimes here and pleasant game,
 ==361==A mess of Russians left us but of late.
 
 **KING.**
@@ -786,7 +786,7 @@ ID: loves-labours-lost-5-2
 ==363==Trim gallants, full of courtship and of state.
 
 **ROS.**
-==364==Madam, speak true. It is not so, my lord.
+==364== Madam, speak true. It is not so, my lord.
 ==365==My lady (to the manner of the days) 
 ==366==In courtesy gives undeserving praise.
 ==367==We four indeed confronted were with four
@@ -850,25 +850,25 @@ ID: loves-labours-lost-5-2
 
 **BER.**
 ==394==Thus pour the stars down plagues for perjury.
-==395==Can any face of brass hold longer out?
+==395== Can any face of brass hold longer out?
 ==396==Here stand I, lady, dart thy skill at me,
-==397==Bruise me with scorn, confound me with a flout,
+==397== Bruise me with scorn, confound me with a flout,
 ==398==Thrust thy sharp wit quite through my ignorance,
-==399==Cut me to pieces with thy keen conceit;
+==399== Cut me to pieces with thy keen conceit;
 ==400==And I will wish thee never more to dance,
-==401==Nor never more in Russian habit wait.
+==401== Nor never more in Russian habit wait.
 ==402==O, never will I trust to speeches penn’d,
-==403==Nor to the motion of a schoolboy’s tongue,
+==403== Nor to the motion of a schoolboy’s tongue,
 ==404==Nor never come in vizard to my friend,
-==405==Nor woo in rhyme, like a blind harper’s song!
+==405== Nor woo in rhyme, like a blind harper’s song!
 ==406==Taffeta phrases, silken terms precise,
-==407==Three-pil’d hyperboles, spruce affection,
+==407== Three-pil’d hyperboles, spruce affection,
 ==408==Figures pedantical—these summer flies
-==409==Have blown me full of maggot ostentation.
+==409== Have blown me full of maggot ostentation.
 ==410==I do forswear them, and I here protest,
-==411==By this white glove (how white the hand, God knows!),
+==411== By this white glove (how white the hand, God knows!),
 ==412==Henceforth my wooing mind shall be express’d
-==413==In russet yeas and honest kersey noes.
+==413== In russet yeas and honest kersey noes.
 ==414==And to begin, wench, so God help me law!
 ==415==My love to thee is sound, sans crack or flaw.
 
@@ -991,16 +991,16 @@ ID: loves-labours-lost-5-2
 ==472==           and might not you
 ==473==Forestall our sport, to make us thus untrue?
 ==474==Do not you know my lady’s foot by th’ squier,
-==475==And laugh upon the apple of her eye?
+==475== And laugh upon the apple of her eye?
 ==476==And stand between her back, sir, and the fire,
-==477==Holding a trencher, jesting merrily?
+==477== Holding a trencher, jesting merrily?
 ==478==You put our page out. Go, you are allow’d;
 ==479==Die when you will, a smock shall be your shroud.
 ==480==You leer upon me, do you? There’s an eye
 ==481==Wounds like a leaden sword.
 
 **BOYET.**
-==481==              Full merrily
+==481==                Full merrily
 ==482==Hath this brave manage, this career, been run.
 
 **BER.**
@@ -1028,777 +1028,777 @@ ID: loves-labours-lost-5-2
 ==491==I hope, sir, three times thrice, sir⁠—
 
 **BER.**
-==492==Is not nine.
+==491==                  Is not nine.
 
 **COST.**
-==493==Under correction, sir, we know whereuntil it doth amount.
+==492==Under correction, sir, we know whereuntil it doth amount.
 
 **BER.**
-==494==By Jove, I always took three threes for nine.
+==493==By Jove, I always took three threes for nine.
 
 **COST.**
-==495==O Lord, sir, it were pity you should get your living by reck’ning, sir.
+==494==O Lord, sir, it were pity you should get your living by reck’ning, sir.
 
 **BER.**
-==496==How much is it?
+==495==How much is it?
 
 **COST.**
-==497==O Lord, sir, the parties themselves, the actors, sir, will show whereuntil it doth amount. For mine own part, I am, as they say, but to parfect one man in one poor man, Pompion the Great, sir.
+==496==O Lord, sir, the parties themselves, the actors, sir, will show whereuntil it doth amount. For mine own part, I am, as they say, but to parfect one man in one poor man, Pompion the Great, sir.
 
 **BER.**
-==498==Art thou one of the Worthies?
+==497==Art thou one of the Worthies?
 
 **COST.**
-==499==It pleas’d them to think me worthy of Pompey the Great; for mine own part, I know not the degree of the Worthy, but I am to stand for him.
+==498==It pleas’d them to think me worthy of Pompey the Great; for mine own part, I know not the degree of the Worthy, but I am to stand for him.
 
 **BER.**
-==500==Go bid them prepare.
+==499==Go bid them prepare.
 
 **COST.**
-==501==We will turn it finely off, sir; we will take some care.
+==500==We will turn it finely off, sir; we will take some care.
 
 *Exit.*
 
 **KING.**
-==502==Berowne, they will shame us; let them not approach.
+==501==Berowne, they will shame us; let them not approach.
 
 **BER.**
-==503==We are shame-proof, my lord; and ’tis some policy
-==504==To have one show worse than the King’s and his company.
+==502==We are shame-proof, my lord; and ’tis some policy
+==503==To have one show worse than the King’s and his company.
 
 **KING.**
-==505==I say they shall not come.
+==504==I say they shall not come.
 
 **PRIN.**
-==506==Nay, my good lord, let me o’errule you now.
-==507==That sport best pleases that doth least know how:
-==508==Where zeal strives to content, and the contents
-==509==Dies in the zeal of that which it presents.
-==510==Their form confounded makes most form in mirth,
-==511==When great things laboring perish in their birth.
+==505==Nay, my good lord, let me o’errule you now.
+==506==That sport best pleases that doth least know how:
+==507==Where zeal strives to content, and the contents
+==508==Dies in the zeal of that which it presents.
+==509==Their form confounded makes most form in mirth,
+==510==When great things laboring perish in their birth.
 
 **BER.**
-==512==A right description of our sport, my lord.
+==511==A right description of our sport, my lord.
 
 *Enter Braggart Armado.*
 
 **ARM.**
-==513==Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words.
+==512==Anointed, I implore so much expense of thy royal sweet breath as will utter a brace of words.
 
 *Converses apart with the King, and delivers him a paper.*
 
 **PRIN.**
-==514==Doth this man serve God?
+==513==Doth this man serve God?
 
 **BER.**
-==515==Why ask you?
+==514==Why ask you?
 
 **PRIN.**
-==516==’A speaks not like a man of God his making.
+==515==’A speaks not like a man of God his making.
 
 **ARM.**
-==517==That is all one, my fair, sweet, honey monarch; for I protest, the schoolmaster is exceeding fantastical, too too vain, too too vain: but we will put it (as they say) to *fortuna de la guerra*. I wish you the peace of mind, most royal couplement.
+==516==That is all one, my fair, sweet, honey monarch; for I protest, the schoolmaster is exceeding fantastical, too too vain, too too vain: but we will put it (as they say) to *fortuna de la guerra*. I wish you the peace of mind, most royal couplement.
 
 *Exit.*
 
 **KING.**
-==518==Here is like to be a good presence of Worthies: he presents Hector of Troy; the swain, Pompey the Great; the parish curate, Alexander; Armado’s page, Hercules; the pedant, Judas Machabeus;
-==519==And if these four Worthies in their first show thrive,
-==520==These four will change habits, and present the other five.
+==517==Here is like to be a good presence of Worthies: he presents Hector of Troy; the swain, Pompey the Great; the parish curate, Alexander; Armado’s page, Hercules; the pedant, Judas Machabeus;
+==518==And if these four Worthies in their first show thrive,
+==519==These four will change habits, and present the other five.
 
 **BER.**
-==521==There is five in the first show.
+==520==There is five in the first show.
 
 **KING.**
-==522==You are deceived, ’tis not so.
+==521==You are deceived, ’tis not so.
 
 **BER.**
-==523==The pedant, the braggart, the hedge-priest, the fool, and the boy:
-==524==Abate throw at novum, and the whole world again
-==525==Cannot pick out five such, take each one in his vein.
+==522==The pedant, the braggart, the hedge-priest, the fool, and the boy:
+==523==Abate throw at novum, and the whole world again
+==524==Cannot pick out five such, take each one in his vein.
 
 **KING.**
-==526==The ship is under sail, and here she comes amain.
+==525==The ship is under sail, and here she comes amain.
 
 *Enter Costard for Pompey.*
 
 **COST.**
+==526==“I Pompey am”⁠—
+
+**BER.**
+==526==        You lie, you are not he.
+
+**COST.**
 ==527==“I Pompey am”⁠—
 
-**BER.**
-==527==        You lie, you are not he.
-
-**COST.**
-==528==“I Pompey am”⁠—
-
 **BOYET.**
-==528==        With libbard’s head on knee.
+==527==        With libbard’s head on knee.
 
 **BER.**
-==529==Well said, old mocker. I must needs be friends with thee.
+==528==Well said, old mocker. I must needs be friends with thee.
 
 **COST.**
-==530==“I Pompey am, Pompey surnam’d the Big”⁠—
+==529==“I Pompey am, Pompey surnam’d the Big”⁠—
 
 **DUM.**
-==531==“The Great.”
+==530==“The Great.”
 
 **COST.**
-==532==It is “Great,” sir.
-==533==“Pompey surnam’d the Great,
-==534==That oft in field with targe and shield did make my foe to sweat,
-==535==And traveling along this coast, I here am come by chance,
-==536==And lay my arms before the legs of this sweet lass of France.”
-==537==If your ladyship would say, “Thanks, Pompey,” I had done.
+==531==It is “Great,” sir.
+==532==“Pompey surnam’d the Great,
+==533==That oft in field with targe and shield did make my foe to sweat,
+==534==And traveling along this coast, I here am come by chance,
+==535==And lay my arms before the legs of this sweet lass of France.”
+==536==If your ladyship would say, “Thanks, Pompey,” I had done.
 
 **PRIN.**
-==538==Great thanks, great Pompey.
+==537==Great thanks, great Pompey.
 
 **COST.**
-==539==’Tis not so much worth; but I hope I was perfect. I made a little fault in “Great.”
+==538==’Tis not so much worth; but I hope I was perfect. I made a little fault in “Great.”
 
 **BER.**
-==540==My hat to a halfpenny, Pompey proves the best Worthy.
+==539==My hat to a halfpenny, Pompey proves the best Worthy.
 
 *Enter Curate Sir Nathaniel for Alexander.*
 
 **NATH.**
-==541==“When in the world I liv’d, I was the world’s commander;
-==542==By east, west, north, and south, I spread my conquering might.
-==543==My scutcheon plain declares that I am Alisander”⁠—
+==540==“When in the world I liv’d, I was the world’s commander;
+==541==By east, west, north, and south, I spread my conquering might.
+==542==My scutcheon plain declares that I am Alisander”⁠—
 
 **BOYET.**
-==544==Your nose says, no, you are not; for it stands too right.
+==543==Your nose says, no, you are not; for it stands too right.
 
 **BER.**
-==545==Your nose smells “no” in this, most tender-smelling knight.
+==544==Your nose smells “no” in this, most tender-smelling knight.
 
 **PRIN.**
-==546==The conqueror is dismay’d. Proceed, good Alexander.
+==545==The conqueror is dismay’d. Proceed, good Alexander.
 
 **NATH.**
-==547==“When in the world I liv’d, I was the world’s commander”⁠—
+==546==“When in the world I liv’d, I was the world’s commander”⁠—
 
 **BOYET.**
-==548==Most true, ’tis right; you were so, Alisander.
+==547==Most true, ’tis right; you were so, Alisander.
 
 **BER.**
-==549==Pompey the Great⁠—
+==548==Pompey the Great⁠—
 
 **COST.**
-==550==Your servant, and Costard.
+==549==Your servant, and Costard.
 
 **BER.**
-==551==Take away the conqueror, take away Alisander.
+==550==Take away the conqueror, take away Alisander.
 
 **COST.**
 *(To Nathaniel.)*
-==552==O sir, you have overthrown Alisander the conqueror! You will be scrap’d out of the painted cloth for this. Your lion, that holds his poll-axe sitting on a close-stool, will be given to Ajax; he will be the ninth Worthy. A conqueror, and afeard to speak! Run away for shame, Alisander.
+==551==O sir, you have overthrown Alisander the conqueror! You will be scrap’d out of the painted cloth for this. Your lion, that holds his poll-axe sitting on a close-stool, will be given to Ajax; he will be the ninth Worthy. A conqueror, and afeard to speak! Run away for shame, Alisander.
 *(Nathaniel retires.)*
-==553==There an’t shall please you, a foolish mild man, an honest man, look you, and soon dash’d. He is a marvelous good neighbor, faith, and a very good bowler; but for Alisander—alas, you see how ’tis—a little o’erparted. But there are Worthies a-coming will speak their mind in some other sort.
+==552==There an’t shall please you, a foolish mild man, an honest man, look you, and soon dash’d. He is a marvelous good neighbor, faith, and a very good bowler; but for Alisander—alas, you see how ’tis—a little o’erparted. But there are Worthies a-coming will speak their mind in some other sort.
 
 **PRIN.**
-==554==Stand aside, good Pompey.
+==553==Stand aside, good Pompey.
 
 *Enter Pedant Holofernes for Judas, and the Boy Moth for Hercules.*
 
 **HOL.**
-==555==“Great Hercules is presented by this imp,
-==556==Whose club kill’d Cerberus, that three-headed *canus*;
-==557==And when he was a babe, a child, a shrimp,
-==558==Thus did he strangle serpents in his *manus*.
-==559==*Quoniam* he seemeth in minority,
-==560==*Ergo* I come with this apology.”
+==554==“Great Hercules is presented by this imp,
+==555== Whose club kill’d Cerberus, that three-headed *canus*;
+==556==And when he was a babe, a child, a shrimp,
+==557== Thus did he strangle serpents in his *manus*.
+==558==*Quoniam* he seemeth in minority,
+==559==*Ergo* I come with this apology.”
 *(Aside.)*
-==561==Keep some state in thy exit, and vanish.
+==560==Keep some state in thy exit, and vanish.
 *(Moth retires.)*
-==562==“Judas I am”⁠—
+==561==“Judas I am”⁠—
 
 **DUM.**
-==563==A Judas!
+==562==A Judas!
 
 **HOL.**
-==564==Not Iscariot, sir.
-==565==“Judas I am, ycliped Machabeus.”
+==563==Not Iscariot, sir.
+==564==“Judas I am, ycliped Machabeus.”
 
 **DUM.**
-==566==Judas Machabeus clipt is plain Judas.
+==565==Judas Machabeus clipt is plain Judas.
 
 **BER.**
-==567==A kissing traitor. How art thou prov’d Judas?
+==566==A kissing traitor. How art thou prov’d Judas?
 
 **HOL.**
-==568==“Judas I am”⁠—
+==567==“Judas I am”⁠—
 
 **DUM.**
-==569==The more shame for you, Judas.
+==568==The more shame for you, Judas.
 
 **HOL.**
-==570==What mean you, sir?
+==569==What mean you, sir?
 
 **BOYET.**
-==571==To make Judas hang himself.
+==570==To make Judas hang himself.
 
 **HOL.**
-==572==Begin, sir, you are my elder.
+==571==Begin, sir, you are my elder.
 
 **BER.**
-==573==Well follow’d: Judas was hang’d on an elder.
+==572==Well follow’d: Judas was hang’d on an elder.
 
 **HOL.**
-==574==I will not be put out of countenance.
+==573==I will not be put out of countenance.
 
 **BER.**
-==575==Because thou hast no face.
+==574==Because thou hast no face.
 
 **HOL.**
-==576==What is this?
+==575==What is this?
 
 **BOYET.**
-==577==A cittern-head.
+==576==A cittern-head.
 
 **DUM.**
-==578==The head of a bodkin.
+==577==The head of a bodkin.
 
 **BER.**
-==579==A death’s face in a ring.
+==578==A death’s face in a ring.
 
 **LONG.**
-==580==The face of an old Roman coin, scarce seen.
+==579==The face of an old Roman coin, scarce seen.
 
 **BOYET.**
-==581==The pommel of Caesar’s falchion.
+==580==The pommel of Caesar’s falchion.
 
 **DUM.**
-==582==The carv’d-bone face on a flask.
+==581==The carv’d-bone face on a flask.
 
 **BER.**
-==583==Saint George’s half-cheek in a brooch.
+==582==Saint George’s half-cheek in a brooch.
 
 **DUM.**
-==584==Ay, and in a brooch of lead.
+==583==Ay, and in a brooch of lead.
 
 **BER.**
-==585==Ay, and worn in the cap of a tooth-drawer. And now forward, for we have put thee in countenance.
+==584==Ay, and worn in the cap of a tooth-drawer. And now forward, for we have put thee in countenance.
 
 **HOL.**
-==586==You have put me out of countenance.
+==585==You have put me out of countenance.
 
 **BER.**
-==587==False, we have given thee faces.
+==586==False, we have given thee faces.
 
 **HOL.**
-==588==But you have out-fac’d them all.
+==587==But you have out-fac’d them all.
 
 **BER.**
-==589==And thou wert a lion, we would do so.
+==588==And thou wert a lion, we would do so.
 
 **BOYET.**
-==590==Therefore as he is, an ass, let him go. And so *adieu*, sweet Jude! Nay, why dost thou stay?
+==589==Therefore as he is, an ass, let him go. And so *adieu*, sweet Jude! Nay, why dost thou stay?
 
 **DUM.**
-==591==For the latter end of his name.
+==590==For the latter end of his name.
 
 **BER.**
-==592==For the ass to the Jude; give it him. Jud-as, away!
+==591==For the ass to the Jude; give it him. Jud-as, away!
 
 **HOL.**
-==593==This is not generous, not gentle, not humble.
+==592==This is not generous, not gentle, not humble.
 
 **BOYET.**
-==594==A light for *Monsieur* Judas! It grows dark, he may stumble.
+==593==A light for *Monsieur* Judas! It grows dark, he may stumble.
 
 *Holofernes retires.*
 
 **PRIN.**
-==595==Alas, poor Machabeus, how hath he been baited!
+==594==Alas, poor Machabeus, how hath he been baited!
 
 *Enter Braggart Armado for Hector.*
 
 **BER.**
-==596==Hide thy head, Achilles, here comes Hector in arms.
+==595==Hide thy head, Achilles, here comes Hector in arms.
 
 **DUM.**
-==597==Though my mocks come home by me, I will now be merry.
+==596==Though my mocks come home by me, I will now be merry.
 
 **KING.**
-==598==Hector was but a Troyan in respect of this.
+==597==Hector was but a Troyan in respect of this.
 
 **BOYET.**
-==599==But is this Hector?
+==598==But is this Hector?
 
 **KING.**
-==600==I think Hector was not so clean-timber’d.
+==599==I think Hector was not so clean-timber’d.
 
 **LONG.**
-==601==His leg is too big for Hector’s.
+==600==His leg is too big for Hector’s.
 
 **DUM.**
-==602==More calf, certain.
+==601==More calf, certain.
 
 **BOYET.**
-==603==No, he is best indu’d in the small.
+==602==No, he is best indu’d in the small.
 
 **BER.**
-==604==This cannot be Hector.
+==603==This cannot be Hector.
 
 **DUM.**
-==605==He’s a god or a painter, for he makes faces.
+==604==He’s a god or a painter, for he makes faces.
 
 **ARM.**
-==606==“The armipotent Mars, of lances the almighty,
-==607==Gave Hector a gift”⁠—
+==605==“The armipotent Mars, of lances the almighty,
+==606==Gave Hector a gift”⁠—
 
 **DUM.**
-==608==A gilt nutmeg.
+==607==A gilt nutmeg.
 
 **BER.**
-==609==A lemon.
+==608==A lemon.
 
 **LONG.**
-==610==Stuck with cloves.
+==609==Stuck with cloves.
 
 **DUM.**
-==611==No, cloven.
+==610==No, cloven.
 
 **ARM.**
-==612==Peace!⁠—
-==613==“The armipotent Mars, of lances the almighty,
-==614==Gave Hector a gift, the heir of Ilion;
-==615==A man so breathed, that certain he would fight, yea,
-==616==From morn till night, out of his pavilion.
-==617==I am that flower”⁠—
+==611==Peace!⁠—
+==612==“The armipotent Mars, of lances the almighty,
+==613==Gave Hector a gift, the heir of Ilion;
+==614==A man so breathed, that certain he would fight, yea,
+==615==From morn till night, out of his pavilion.
+==616==I am that flower”⁠—
 
 **DUM.**
-==617==           That mint.
+==616==        That mint.
 
 **LONG.**
-==617==                That columbine.
+==616==              That columbine.
 
 **ARM.**
-==618==Sweet Lord Longaville, rein thy tongue.
+==617==Sweet Lord Longaville, rein thy tongue.
 
 **LONG.**
-==619==I must rather give it the rein, for it runs against Hector.
+==618==I must rather give it the rein, for it runs against Hector.
 
 **DUM.**
-==620==Ay, and Hector’s a greyhound.
+==619==Ay, and Hector’s a greyhound.
 
 **ARM.**
-==621==The sweet war-man is dead and rotten, sweet chucks, beat not the bones of the buried. When he breathed, he was a man. But I will forward with my device.
+==620==The sweet war-man is dead and rotten, sweet chucks, beat not the bones of the buried. When he breathed, he was a man. But I will forward with my device.
 *(To the Princess.)*
-==622==Sweet royalty, bestow on me the sense of hearing.
+==621==Sweet royalty, bestow on me the sense of hearing.
 
 *Berowne steps forth to whisper to Costard and then returns to his place.*
 
 **PRIN.**
-==623==Speak, brave Hector, we are much delighted.
+==622==Speak, brave Hector, we are much delighted.
 
 **ARM.**
-==624==I do adore thy sweet Grace’s slipper.
+==623==I do adore thy sweet Grace’s slipper.
 
 **BOYET.**
-==625==Loves her by the foot.
+==624==Loves her by the foot.
 
 **DUM.**
-==626==He may not by the yard.
+==625==He may not by the yard.
 
 **ARM.**
-==627==“This Hector far surmounted Hannibal.
-==628==The party is gone”⁠—
+==626==“This Hector far surmounted Hannibal.
+==627==The party is gone”⁠—
 
 **COST.**
-==629==Fellow Hector, she is gone; she is two months on her way.
+==628==Fellow Hector, she is gone; she is two months on her way.
 
 **ARM.**
-==630==What meanest thou?
+==629==What meanest thou?
 
 **COST.**
-==631==Faith, unless you play the honest Troyan, the poor wench is cast away. She’s quick, the child brags in her belly already. ’Tis yours.
+==630==Faith, unless you play the honest Troyan, the poor wench is cast away. She’s quick, the child brags in her belly already. ’Tis yours.
 
 **ARM.**
-==632==Dost thou infamonize me among potentates? Thou shalt die.
+==631==Dost thou infamonize me among potentates? Thou shalt die.
 
 **COST.**
-==633==Then shall Hector be whipt for Jaquenetta that is quick by him, and hang’d for Pompey that is dead by him.
+==632==Then shall Hector be whipt for Jaquenetta that is quick by him, and hang’d for Pompey that is dead by him.
 
 **DUM.**
-==634==Most rare Pompey!
+==633==Most rare Pompey!
 
 **BOYET.**
-==635==Renowned Pompey!
+==634==Renowned Pompey!
 
 **BER.**
-==636==Greater than great, great, great, great Pompey! Pompey the Huge!
+==635==Greater than great, great, great, great Pompey! Pompey the Huge!
 
 **DUM.**
-==637==Hector trembles.
+==636==Hector trembles.
 
 **BER.**
-==638==Pompey is mov’d. More Ates, more Ates! Stir them on, stir them on!
+==637==Pompey is mov’d. More Ates, more Ates! Stir them on, stir them on!
 
 **DUM.**
-==639==Hector will challenge him.
+==638==Hector will challenge him.
 
 **BER.**
-==640==Ay, if ’a have no more man’s blood in his belly than will sup a flea.
+==639==Ay, if ’a have no more man’s blood in his belly than will sup a flea.
 
 **ARM.**
-==641==By the north pole, I do challenge thee.
+==640==By the north pole, I do challenge thee.
 
 **COST.**
-==642==I will not fight with a pole like a Northren man; I’ll slash, I’ll do it by the sword. I bepray you let me borrow my arms again.
+==641==I will not fight with a pole like a Northren man; I’ll slash, I’ll do it by the sword. I bepray you let me borrow my arms again.
 
 **DUM.**
-==643==Room for the incens’d Worthies!
+==642==Room for the incens’d Worthies!
 
 **COST.**
-==644==I’ll do it in my shirt.
+==643==I’ll do it in my shirt.
 
 **DUM.**
-==645==Most resolute Pompey!
+==644==Most resolute Pompey!
 
 **MOTH.**
-==646==Master, let me take you a button-hole lower. Do you not see Pompey is uncasing for the combat? What mean you? You will lose your reputation.
+==645==Master, let me take you a button-hole lower. Do you not see Pompey is uncasing for the combat? What mean you? You will lose your reputation.
 
 **ARM.**
-==647==Gentlemen and soldiers, pardon me, I will not combat in my shirt.
+==646==Gentlemen and soldiers, pardon me, I will not combat in my shirt.
 
 **DUM.**
-==648==You may not deny it; Pompey hath made the challenge.
+==647==You may not deny it; Pompey hath made the challenge.
 
 **ARM.**
-==649==Sweet bloods, I both may and will.
+==648==Sweet bloods, I both may and will.
 
 **BER.**
-==650==What reason have you for’t?
+==649==What reason have you for’t?
 
 **ARM.**
-==651==The naked truth of it is, I have no shirt; I go woolward for penance.
+==650==The naked truth of it is, I have no shirt; I go woolward for penance.
 
 **BOYET.**
-==652==True, and it was enjoin’d him in Rome for want of linen; since when, I’ll be sworn he wore none but a dishclout of Jaquenetta’s, and that ’a wears next his heart for a favor.
+==651==True, and it was enjoin’d him in Rome for want of linen; since when, I’ll be sworn he wore none but a dishclout of Jaquenetta’s, and that ’a wears next his heart for a favor.
 
-*Enter a Messenger, MonsieurMarcade.*
+*Enter a Messenger, Monsieur Marcade.*
 
 **MARC.**
-==653==God save you, madam!
+==652==God save you, madam!
 
 **PRIN.**
-==653==              Welcome, Marcade,
-==654==But that thou interruptest our merriment.
+==652==              Welcome, Marcade,
+==653==But that thou interruptest our merriment.
 
 **MARC.**
-==655==I am sorry, madam, for the news I bring
-==656==Is heavy in my tongue. The King your father⁠—
+==654==I am sorry, madam, for the news I bring
+==655==Is heavy in my tongue. The King your father⁠—
 
 **PRIN.**
-==657==Dead, for my life!
+==656==Dead, for my life!
 
 **MARC.**
-==657==           Even so: my tale is told.
+==656==           Even so: my tale is told.
 
 **BER.**
-==658==Worthies, away! The scene begins to cloud.
+==657==Worthies, away! The scene begins to cloud.
 
 **ARM.**
-==659==For mine own part, I breathe free breath. I have seen the day of wrong through the little hole of discretion, and I will right myself like a soldier.
+==658==For mine own part, I breathe free breath. I have seen the day of wrong through the little hole of discretion, and I will right myself like a soldier.
 
 *Exeunt Worthies.*
 
 **KING.**
-==660==How fares your Majesty?
+==659==How fares your Majesty?
 
 **PRIN.**
-==661==Boyet, prepare, I will away tonight.
+==660==Boyet, prepare, I will away tonight.
 
 **KING.**
-==662==Madam, not so, I do beseech you stay.
+==661==Madam, not so, I do beseech you stay.
 
 **PRIN.**
-==663==Prepare, I say. I thank you, gracious lords,
-==664==For all your fair endeavors, and entreat,
-==665==Out of a new-sad soul, that you vouchsafe
-==666==In your rich wisdom to excuse, or hide,
-==667==The liberal opposition of our spirits,
-==668==If overboldly we have borne ourselves
-==669==In the converse of breath—your gentleness
-==670==Was guilty of it. Farewell, worthy lord!
-==671==A heavy heart bears not a humble tongue.
-==672==Excuse me so, coming too short of thanks
-==673==For my great suit so easily obtain’d.
+==662==Prepare, I say. I thank you, gracious lords,
+==663==For all your fair endeavors, and entreat,
+==664==Out of a new-sad soul, that you vouchsafe
+==665==In your rich wisdom to excuse, or hide,
+==666==The liberal opposition of our spirits,
+==667==If overboldly we have borne ourselves
+==668==In the converse of breath—your gentleness
+==669==Was guilty of it. Farewell, worthy lord!
+==670==A heavy heart bears not a humble tongue.
+==671==Excuse me so, coming too short of thanks
+==672==For my great suit so easily obtain’d.
 
 **KING.**
-==674==The extreme parts of time extremely forms
-==675==All causes to the purpose of his speed,
-==676==And often, at his very loose, decides
-==677==That which long process could not arbitrate.
-==678==And though the mourning brow of progeny
-==679==Forbid the smiling courtesy of love
-==680==The holy suit which fain it would convince,
-==681==Yet since love’s argument was first on foot,
-==682==Let not the cloud of sorrow justle it
-==683==From what it purpos’d; since to wail friends lost
-==684==Is not by much so wholesome-profitable
-==685==As to rejoice at friends but newly found.
+==673==The extreme parts of time extremely forms
+==674==All causes to the purpose of his speed,
+==675==And often, at his very loose, decides
+==676==That which long process could not arbitrate.
+==677==And though the mourning brow of progeny
+==678==Forbid the smiling courtesy of love
+==679==The holy suit which fain it would convince,
+==680==Yet since love’s argument was first on foot,
+==681==Let not the cloud of sorrow justle it
+==682==From what it purpos’d; since to wail friends lost
+==683==Is not by much so wholesome-profitable
+==684==As to rejoice at friends but newly found.
 
 **PRIN.**
-==686==I understand you not, my griefs are double.
+==685==I understand you not, my griefs are double.
 
 **BER.**
-==687==Honest plain words best pierce the ear of grief,
-==688==And by these badges understand the King.
-==689==For your fair sakes have we neglected time,
-==690==Play’d foul play with our oaths. Your beauty, ladies,
-==691==Hath much deformed us, fashioning our humors
-==692==Even to the opposed end of our intents;
-==693==And what in us hath seem’d ridiculous⁠—
-==694==As love is full of unbefitting strains,
-==695==All wanton as a child, skipping and vain,
-==696==Form’d by the eye and therefore like the eye,
-==697==Full of straying shapes, of habits, and of forms,
-==698==Varying in subjects as the eye doth roll
-==699==To every varied object in his glance;
-==700==Which parti-coated presence of loose love
-==701==Put on by us, if, in your heavenly eyes,
-==702==Have misbecom’d our oaths and gravities,
-==703==Those heavenly eyes, that look into these faults,
-==704==Suggested us to make. Therefore, ladies,
-==705==Our love being yours, the error that love makes
-==706==Is likewise yours. We to ourselves prove false,
-==707==By being once false forever to be true
-==708==To those that make us both—fair ladies, you;
-==709==And even that falsehood, in itself a sin,
-==710==Thus purifies itself and turns to grace.
+==686==Honest plain words best pierce the ear of grief,
+==687==And by these badges understand the King.
+==688==For your fair sakes have we neglected time,
+==689==Play’d foul play with our oaths. Your beauty, ladies,
+==690==Hath much deformed us, fashioning our humors
+==691==Even to the opposed end of our intents;
+==692==And what in us hath seem’d ridiculous⁠—
+==693==As love is full of unbefitting strains,
+==694==All wanton as a child, skipping and vain,
+==695==Form’d by the eye and therefore like the eye,
+==696==Full of straying shapes, of habits, and of forms,
+==697==Varying in subjects as the eye doth roll
+==698==To every varied object in his glance;
+==699==Which parti-coated presence of loose love
+==700==Put on by us, if, in your heavenly eyes,
+==701==Have misbecom’d our oaths and gravities,
+==702==Those heavenly eyes, that look into these faults,
+==703==Suggested us to make. Therefore, ladies,
+==704==Our love being yours, the error that love makes
+==705==Is likewise yours. We to ourselves prove false,
+==706==By being once false forever to be true
+==707==To those that make us both—fair ladies, you;
+==708==And even that falsehood, in itself a sin,
+==709==Thus purifies itself and turns to grace.
 
 **PRIN.**
-==711==We have receiv’d your letters full of love;
-==712==Your favors, ambassadors of love;
-==713==And in our maiden council rated them
-==714==At courtship, pleasant jest, and courtesy,
-==715==As bombast and as lining to the time;
-==716==But more devout than this in our respects
-==717==Have we not been, and therefore met your loves
-==718==In their own fashion, like a merriment.
+==710==We have receiv’d your letters full of love;
+==711==Your favors, ambassadors of love;
+==712==And in our maiden council rated them
+==713==At courtship, pleasant jest, and courtesy,
+==714==As bombast and as lining to the time;
+==715==But more devout than this in our respects
+==716==Have we not been, and therefore met your loves
+==717==In their own fashion, like a merriment.
 
 **DUM.**
-==719==Our letters, madam, show’d much more than jest.
+==718==Our letters, madam, show’d much more than jest.
 
 **LONG.**
-==720==So did our looks.
+==719==So did our looks.
 
 **ROS.**
-==720==           We did not cote them so.
+==719==           We did not cote them so.
 
 **KING.**
-==721==Now at the latest minute of the hour,
-==722==Grant us your loves.
+==720==Now at the latest minute of the hour,
+==721==Grant us your loves.
 
 **PRIN.**
-==722==           A time methinks too short
-==723==To make a world-without-end bargain in.
-==724==No, no, my lord, your Grace is perjur’d much,
-==725==Full of dear guiltiness, and therefore this:
-==726==If for my love (as there is no such cause) 
-==727==You will do aught, this shall you do for me:
-==728==Your oath I will not trust, but go with speed
-==729==To some forlorn and naked hermitage,
-==730==Remote from all the pleasures of the world;
-==731==There stay until the twelve celestial signs
-==732==Have brought about the annual reckoning.
-==733==If this austere insociable life
-==734==Change not your offer made in heat of blood;
-==735==If frosts and fasts, hard lodging and thin weeds
-==736==Nip not the gaudy blossoms of your love
-==737==But that it bear this trial, and last love;
-==738==Then at the expiration of the year,
-==739==Come challenge me, challenge me by these deserts,
-==740==And by this virgin palm now kissing thine,
-==741==I will be thine; and till that instant shut
-==742==My woeful self up in a mourning house,
-==743==Raining the tears of lamentation
-==744==For the remembrance of my father’s death.
-==745==If this thou do deny, let our hands part,
-==746==Neither intitled in the other’s heart.
+==721==           A time methinks too short
+==722==To make a world-without-end bargain in.
+==723==No, no, my lord, your Grace is perjur’d much,
+==724==Full of dear guiltiness, and therefore this:
+==725==If for my love (as there is no such cause) 
+==726==You will do aught, this shall you do for me:
+==727==Your oath I will not trust, but go with speed
+==728==To some forlorn and naked hermitage,
+==729==Remote from all the pleasures of the world;
+==730==There stay until the twelve celestial signs
+==731==Have brought about the annual reckoning.
+==732==If this austere insociable life
+==733==Change not your offer made in heat of blood;
+==734==If frosts and fasts, hard lodging and thin weeds
+==735==Nip not the gaudy blossoms of your love
+==736==But that it bear this trial, and last love;
+==737==Then at the expiration of the year,
+==738==Come challenge me, challenge me by these deserts,
+==739==And by this virgin palm now kissing thine,
+==740==I will be thine; and till that instant shut
+==741==My woeful self up in a mourning house,
+==742==Raining the tears of lamentation
+==743==For the remembrance of my father’s death.
+==744==If this thou do deny, let our hands part,
+==745==Neither intitled in the other’s heart.
 
 **KING.**
-==747==If this, or more than this, I would deny,
-==748==To flatter up these powers of mine with rest,
-==749==The sudden hand of death close up mine eye!
-==750==Hence hermit then—my heart is in thy breast.
+==746==If this, or more than this, I would deny,
+==747==To flatter up these powers of mine with rest,
+==748==The sudden hand of death close up mine eye!
+==749==Hence hermit then—my heart is in thy breast.
 
 **BER.**
-==751==And what to me, my love? And what to me?
+==750==And what to me, my love? And what to me?
 
 **ROS.**
-==752==You must be purged too, your sins are rack’d,
-==753==You are attaint with faults and perjury:
-==754==Therefore if you my favor mean to get,
-==755==A twelvemonth shall you spend, and never rest,
-==756==But seek the weary beds of people sick.
+==751==You must be purged too, your sins are rack’d,
+==752==You are attaint with faults and perjury:
+==753==Therefore if you my favor mean to get,
+==754==A twelvemonth shall you spend, and never rest,
+==755==But seek the weary beds of people sick.
 
 **DUM.**
-==757==But what to me, my love? But what to me?
-==758==A wife?
+==756==But what to me, my love? But what to me?
+==757==A wife?
 
 **KATH.**
-==758==        A beard, fair health, and honesty;
-==759==With threefold love I wish you all these three.
+==757==        A beard, fair health, and honesty;
+==758==With threefold love I wish you all these three.
 
 **DUM.**
-==760==O, shall I say, I thank you, gentle wife?
+==759==O, shall I say, I thank you, gentle wife?
 
 **KATH.**
-==761==Not so, my lord, a twelvemonth and a day
-==762==I’ll mark no words that smooth-fac’d wooers say.
-==763==Come when the King doth to my lady come;
-==764==Then if I have much love, I’ll give you some.
+==760==Not so, my lord, a twelvemonth and a day
+==761==I’ll mark no words that smooth-fac’d wooers say.
+==762==Come when the King doth to my lady come;
+==763==Then if I have much love, I’ll give you some.
 
 **DUM.**
-==765==I’ll serve thee true and faithfully till then.
+==764==I’ll serve thee true and faithfully till then.
 
 **KATH.**
-==766==Yet swear not, lest ye be forsworn again.
+==765==Yet swear not, lest ye be forsworn again.
 
 **LONG.**
-==767==What says Maria?
+==766==What says Maria?
 
 **MAR.**
-==767==           At the twelvemonth’s end
-==768==I’ll change my black gown for a faithful friend.
+==766==           At the twelvemonth’s end
+==767==I’ll change my black gown for a faithful friend.
 
 **LONG.**
-==769==I’ll stay with patience, but the time is long.
+==768==I’ll stay with patience, but the time is long.
 
 **MAR.**
-==770==The liker you; few taller are so young.
+==769==The liker you; few taller are so young.
 
 **BER.**
-==771==Studies my lady? Mistress, look on me,
-==772==Behold the window of my heart, mine eye,
-==773==What humble suit attends thy answer there.
-==774==Impose some service on me for thy love.
+==770==Studies my lady? Mistress, look on me,
+==771==Behold the window of my heart, mine eye,
+==772==What humble suit attends thy answer there.
+==773==Impose some service on me for thy love.
 
 **ROS.**
-==775==Oft have I heard of you, my Lord Berowne,
-==776==Before I saw you; and the world’s large tongue
-==777==Proclaims you for a man replete with mocks,
-==778==Full of comparisons and wounding flouts,
-==779==Which you on all estates will execute
-==780==That lie within the mercy of your wit.
-==781==To weed this wormwood from your fructful brain,
-==782==And therewithal to win me, if you please,
-==783==Without the which I am not to be won,
-==784==You shall this twelvemonth term from day to day
-==785==Visit the speechless sick, and still converse
-==786==With groaning wretches; and your task shall be,
-==787==With all the fierce endeavor of your wit,
-==788==To enforce the pained impotent to smile.
+==774==Oft have I heard of you, my Lord Berowne,
+==775==Before I saw you; and the world’s large tongue
+==776==Proclaims you for a man replete with mocks,
+==777==Full of comparisons and wounding flouts,
+==778==Which you on all estates will execute
+==779==That lie within the mercy of your wit.
+==780==To weed this wormwood from your fructful brain,
+==781==And therewithal to win me, if you please,
+==782==Without the which I am not to be won,
+==783==You shall this twelvemonth term from day to day
+==784==Visit the speechless sick, and still converse
+==785==With groaning wretches; and your task shall be,
+==786==With all the fierce endeavor of your wit,
+==787==To enforce the pained impotent to smile.
 
 **BER.**
-==789==To move wild laughter in the throat of death?
-==790==It cannot be, it is impossible:
-==791==Mirth cannot move a soul in agony.
+==788==To move wild laughter in the throat of death?
+==789==It cannot be, it is impossible:
+==790==Mirth cannot move a soul in agony.
 
 **ROS.**
-==792==Why, that’s the way to choke a gibing spirit,
-==793==Whose influence is begot of that loose grace
-==794==Which shallow laughing hearers give to fools.
-==795==A jest’s prosperity lies in the ear
-==796==Of him that hears it, never in the tongue
-==797==Of him that makes it; then if sickly ears,
-==798==Deaf’d with the clamors of their own dear groans,
-==799==Will hear your idle scorns, continue then,
-==800==And I will have you and that fault withal;
-==801==But if they will not, throw away that spirit,
-==802==And I shall find you empty of that fault,
-==803==Right joyful of your reformation.
+==791==Why, that’s the way to choke a gibing spirit,
+==792==Whose influence is begot of that loose grace
+==793==Which shallow laughing hearers give to fools.
+==794==A jest’s prosperity lies in the ear
+==795==Of him that hears it, never in the tongue
+==796==Of him that makes it; then if sickly ears,
+==797==Deaf’d with the clamors of their own dear groans,
+==798==Will hear your idle scorns, continue then,
+==799==And I will have you and that fault withal;
+==800==But if they will not, throw away that spirit,
+==801==And I shall find you empty of that fault,
+==802==Right joyful of your reformation.
 
 **BER.**
-==804==A twelvemonth? Well, befall what will befall,
-==805==I’ll jest a twelvemonth in an hospital.
+==803==A twelvemonth? Well, befall what will befall,
+==804==I’ll jest a twelvemonth in an hospital.
 
 **PRIN.**
 *(To the King.)*
-==806==Ay, sweet my lord, and so I take my leave.
+==805==Ay, sweet my lord, and so I take my leave.
 
 **KING.**
-==807==No, madam, we will bring you on your way.
+==806==No, madam, we will bring you on your way.
 
 **BER.**
-==808==Our wooing doth not end like an old play:
-==809==Jack hath not Gill. These ladies’ courtesy
-==810==Might well have made our sport a comedy.
+==807==Our wooing doth not end like an old play:
+==808==Jack hath not Gill. These ladies’ courtesy
+==809==Might well have made our sport a comedy.
 
 **KING.**
-==811==Come, sir, it wants a twelvemonth an’ a day,
-==812==And then ’twill end.
+==810==Come, sir, it wants a twelvemonth an’ a day,
+==811==And then ’twill end.
 
 **BER.**
-==812==           That’s too long for a play.
+==811==           That’s too long for a play.
 
 *Enter Braggart Armado.*
 
 **ARM.**
-==813==Sweet Majesty, vouchsafe me⁠—
+==812==Sweet Majesty, vouchsafe me⁠—
 
 **PRIN.**
-==814==Was not that Hector?
+==813==Was not that Hector?
 
 **DUM.**
-==815==The worthy knight of Troy.
+==814==The worthy knight of Troy.
 
 **ARM.**
-==816==I will kiss thy royal finger, and take leave. I am a votary; I have vow’d to Jaquenetta to hold the plough for her sweet love three year. But, most esteemed greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo? It should have followed in the end of our show.
+==815==I will kiss thy royal finger, and take leave. I am a votary; I have vow’d to Jaquenetta to hold the plough for her sweet love three year. But, most esteemed greatness, will you hear the dialogue that the two learned men have compiled in praise of the owl and the cuckoo? It should have followed in the end of our show.
 
 **KING.**
-==817==Call them forth quickly, we will do so.
+==816==Call them forth quickly, we will do so.
 
 **ARM.**
-==818==Holla! Approach.
+==817==Holla! Approach.
 *(Enter all.)*
-==819==This side is *Hiems*, Winter; this *Ver*, the Spring; the one maintained by the owl, th’ other by the cuckoo. *Ver*, begin.
+==818==This side is *Hiems*, Winter; this *Ver*, the Spring; the one maintained by the owl, th’ other by the cuckoo. *Ver*, begin.
 
 *The Song*
 
 **SPRING.**
-==820==*When daisies pied, and violets blue,*
-==821==*And lady-smocks all silver-white,*
-==822==*And cuckoo-buds of yellow hue*
-==823==*Do paint the meadows with delight,*
-==824==*The cuckoo then on every tree*
-==825==*Mocks married men; for thus sings he, “Cuckoo;*
-==826==*Cuckoo, cuckoo”—O word of fear,*
-==827==*Unpleasing to a married ear!*
-==828==*When shepherds pipe on oaten straws,*
-==829==*And merry larks are ploughmen’s clocks;*
-==830==*When turtles tread, and rooks and daws,*
-==831==*And maidens bleach their summer smocks,*
-==832==*The cuckoo then on every tree*
-==833==*Mocks married men; for thus sings he, “Cuckoo;*
-==834==*Cuckoo, cuckoo”—O word of fear,*
-==835==*Unpleasing to a married ear!*
+==819== *When daisies pied, and violets blue,*
+==820==    *And lady-smocks all silver-white,*
+==821== *And cuckoo-buds of yellow hue*
+==822==    *Do paint the meadows with delight,*
+==823== *The cuckoo then on every tree*
+==824== *Mocks married men; for thus sings he, “Cuckoo;*
+==825== *Cuckoo, cuckoo”—O word of fear,*
+==826== *Unpleasing to a married ear!*
+==827== *When shepherds pipe on oaten straws,*
+==828==    *And merry larks are ploughmen’s clocks;*
+==829== *When turtles tread, and rooks and daws,*
+==830==    *And maidens bleach their summer smocks,*
+==831== *The cuckoo then on every tree*
+==832== *Mocks married men; for thus sings he, “Cuckoo;*
+==833== *Cuckoo, cuckoo”—O word of fear,*
+==834== *Unpleasing to a married ear!*
 
 **WINTER.**
-==836==*When icicles hang by the wall,*
-==837==*And Dick the shepherd blows his nail,*
-==838==*And Tom bears logs into the hall,*
-==839==*And milk comes frozen home in pail;*
-==840==*When blood is nipp’d, and ways be foul,*
-==841==*Then nightly sings the staring owl, “Tu-whit, to-who!”⁠—*
-==842==*A merry note,*
-==843==*While greasy Joan doth keel the pot.*
-==844==*When all aloud the wind doth blow,*
-==845==*And coughing drowns the parson’s saw,*
-==846==*And birds sit brooding in the snow,*
-==847==*And Marian’s nose looks red and raw;*
-==848==*When roasted crabs hiss in the bowl,*
-==849==*Then nightly sings the staring owl, “Tu-whit, to-who!”⁠—*
-==850==*A merry note,*
-==851==*While greasy Joan doth keel the pot.*
+==835== *When icicles hang by the wall,*
+==836==    *And Dick the shepherd blows his nail,*
+==837== *And Tom bears logs into the hall,*
+==838==    *And milk comes frozen home in pail;*
+==839== *When blood is nipp’d, and ways be foul,*
+==840== *Then nightly sings the staring owl, “Tu-whit, to-who!”⁠—*
+==841== *A merry note,*
+==842== *While greasy Joan doth keel the pot.*
+==843== *When all aloud the wind doth blow,*
+==844==    *And coughing drowns the parson’s saw,*
+==845== *And birds sit brooding in the snow,*
+==846==    *And Marian’s nose looks red and raw;*
+==847== *When roasted crabs hiss in the bowl,*
+==848== *Then nightly sings the staring owl, “Tu-whit, to-who!”⁠—*
+==849== *A merry note,*
+==850== *While greasy Joan doth keel the pot.*
 
 **ARM.**
-==852==The words of Mercury are harsh after the songs of Apollo. You that way; we this way.
+==851==The words of Mercury are harsh after the songs of Apollo. You that way; we this way.
 
 *Exeunt omnes.*
 

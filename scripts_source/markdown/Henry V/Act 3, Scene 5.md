@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -77,7 +77,7 @@ ID: henry-v-3-5
 ==40==Charles Delabreth, High Constable of France,
 ==41==You Dukes of Orléans, Bourbon, and of Berri,
 ==42==Alanson, Brabant, Bar, and Burgundy,
-==43==Jacques Chatillion, Rambures, Vaudemont,
+==43==Jacques Chatillon, Rambures, Vaudemont,
 ==44==Beaumont, Grandpré, Roussi, and Faulconbridge,
 ==45==Foix, Lestrake, Bouciqualt, and Charolois;
 ==46==High dukes, great princes, barons, lords, and knights,

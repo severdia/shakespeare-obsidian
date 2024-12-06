@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -183,7 +183,7 @@ ID: taming-of-the-shrew-5-2
 ==70==Content. What’s the wager?
 
 **LUC.**
-==70==              Twenty crowns.
+==70==                Twenty crowns.
 
 **PETR.**
 ==71==Twenty crowns!
@@ -245,7 +245,7 @@ ID: taming-of-the-shrew-5-2
 ==88==Nay then she must needs come.
 
 **HOR.**
-==88==                I am afraid, sir,
+==88==                  I am afraid, sir,
 ==89==Do what you can, yours will not be entreated.
 *(Enter Biondello.)*
 ==90==Now, where’s my wife?
@@ -266,10 +266,10 @@ ID: taming-of-the-shrew-5-2
 ==97==I know her answer.
 
 **PETR.**
-==97==              What?
+==97==           What?
 
 **HOR.**
-==97==                     She will not.
+==97==                She will not.
 
 **PETR.**
 ==98==The fouler fortune mine, and there an end.

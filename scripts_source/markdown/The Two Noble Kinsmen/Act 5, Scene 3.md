@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-5-3
 ---
@@ -128,7 +128,7 @@ ID: two-noble-kinsmen-5-3
 ==64==Which crav’d that very time. It is much better
 ==65==I am not there. O, better never born
 ==66==Than minister to such harm!
-*(Cornets. A great cry and noise within, crying “A Palamon!” )*
+*(Cornets. A great cry and noise within, crying “A Palamon!”)*
 *(Enter Servant.)*
 ==66==                What is the chance?
 
@@ -176,7 +176,7 @@ ID: two-noble-kinsmen-5-3
 ==88==Their nobleness peculiar to them, gives
 ==89==The prejudice of disparity, value’s shortness,
 ==90==To any lady breathing.
-*(Cornets. Cry within, “Arcite, Arcite!” )*
+*(Cornets. Cry within, “Arcite, Arcite!”)*
 ==90==              More exulting?
 ==91==“Palamon” still?
 
@@ -187,7 +187,7 @@ ID: two-noble-kinsmen-5-3
 ==92==I prithee lay attention to the cry;
 ==93==Set both thine ears to th’ business.
 
-*Cornets. A great shout and cry, “Arcite! Victory!” *
+*Cornets. A great shout and cry, “Arcite! Victory!”*
 
 **SERV.**
 ==93==                  The cry is

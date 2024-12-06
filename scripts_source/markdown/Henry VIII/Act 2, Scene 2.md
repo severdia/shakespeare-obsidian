@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-2-2
 ---
@@ -70,7 +70,7 @@ ID: henry-viii-2-2
 ==21==And out of all these to restore the King,
 ==22==He counsels a divorce, a loss of her
 ==23==That, like a jewel, has hung twenty years
-==24==About his neck, yet never lost her lustre;
+==24==About his neck, yet never lost her luster;
 ==25==Of her that loves him with that excellence
 ==26==That angels love good men with; even of her
 ==27==That when the greatest stroke of fortune falls

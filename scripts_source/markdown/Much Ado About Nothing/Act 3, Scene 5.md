@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -69,7 +69,7 @@ ID: much-ado-about-nothing-3-5
 ==16==Marry, sir, our watch tonight, excepting your worship’s presence, ha’ ta’en a couple of as arrant knaves as any in Messina.
 
 **DOG.**
-==17==A good old man, sir, he will be talking; as they say, “When the age is in, the wit is out.” God help us, it is a world to see! Well said, i’ faith, neighbor Verges. Well, God’s a good man; and two men ride of a horse, one must ride behind. An honest soul, i’ faith, sir, by my troth he is, as ever broke bread; but God is to be worshipp’d; all men are not alike, alas, good neighbor!
+==17==A good old man, sir, he will be talking; as they say, “When the age is in, the wit is out.” God help us, it is a world to see! Well said, i’faith, neighbor Verges. Well, God’s a good man; and two men ride of a horse, one must ride behind. An honest soul, i’faith, sir, by my troth he is, as ever broke bread; but God is to be worshipp’d; all men are not alike, alas, good neighbor!
 
 **LEON.**
 ==18==Indeed, neighbor, he comes too short of you.

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-vi-part-i-2-1
 ---
@@ -89,7 +89,7 @@ ID: henry-vi-part-i-2-1
 ==36==Of English Henry, shall this night appear
 ==37==How much in duty I am bound to both.
 
-*Cry: “Saint George!” “A Talbot!” *
+*Cry: “Saint George!” “A Talbot!”*
 
 *The English scale the walls.*
 

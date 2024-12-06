@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-5-1
 ---
@@ -20,7 +20,7 @@ ID: henry-viii-5-1
 *Enter Gardiner, Bishop of Winchester, Gardiner’s Page with a torch before him, met by Sir Thomas Lovell.*
 
 **BISH. WIN.**
-==1==It’s one a’ clock, boy, is’t not?
+==1==It’s one o’clock, boy, is’t not?
 
 **GARD. PAGE.**
 ==1==                It hath struck.

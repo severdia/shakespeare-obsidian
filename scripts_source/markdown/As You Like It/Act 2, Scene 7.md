@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-2-7
 ---
@@ -51,8 +51,8 @@ ID: as-you-like-it-2-7
 ==18==“Good morrow, fool,” quoth I. “No, sir,” quoth he,
 ==19==“Call me not fool till heaven hath sent me fortune.”
 ==20==And then he drew a dial from his poke,
-==21==And looking on it, with lack-lustre eye,
-==22==Says very wisely, “It is ten a’ clock.
+==21==And looking on it, with lack-luster eye,
+==22==Says very wisely, “It is ten o’clock.
 ==23==Thus we may see,” quoth he, “how the world wags.
 ==24==’Tis but an hour ago since it was nine,
 ==25==And after one hour more ’twill be eleven,
@@ -277,35 +277,36 @@ ID: as-you-like-it-2-7
 *Song.*
 
 **AMI.**
-==174==*Blow, blow, thou winter wind,*
-==175==*Thou art not so unkind*
-==176==*As man’s ingratitude;*
-==177==*Thy tooth is not so keen,*
-==178==*Because thou art not seen,*
-==179==*Although thy breath be rude.*
-==180==*Heigh-ho, sing heigh-ho! Unto the green holly,*
-==181==*Most friendship is feigning, most loving mere folly.*
-==182==*Then heigh-ho, the holly!*
-==183==*This life is most jolly.*
-==184==*Freeze, freeze, thou bitter sky,*
-==185==*That dost not bite so nigh*
-==186==*As benefits forgot;*
-==187==*Though thou the waters warp,*
-==188==*Thy sting is not so sharp*
-==189==*As friend rememb’red not.*
-==190==*Heigh-ho, sing, etc.*
+==174== *Blow, blow, thou winter wind,*
+==175== *Thou art not so unkind*
+==176==    *As man’s ingratitude;*
+==177== *Thy tooth is not so keen,*
+==178== *Because thou art not seen,*
+==179==    *Although thy breath be rude.*
+==180== *Heigh-ho, sing heigh-ho! Unto the green holly,*
+==181== *Most friendship is feigning, most loving mere folly.*
+==182==    *Then heigh-ho, the holly!*
+==183==    *This life is most jolly.*
+==184== *Freeze, freeze, thou bitter sky,*
+==185== *That dost not bite so nigh*
+==186==    *As benefits forgot;*
+==187== *Though thou the waters warp,*
+==188== *Thy sting is not so sharp*
+==189==    *As friend rememb’red not.*
+==190==    *Then heigh-ho, the holly!*
+==191==    *This life is most jolly.*
 
 **DUKE S.**
-==191==If that you were the good Sir Rowland’s son,
-==192==As you have whisper’d faithfully you were,
-==193==And as mine eye doth his effigies witness
-==194==Most truly limn’d and living in your face,
-==195==Be truly welcome hither. I am the Duke
-==196==That lov’d your father. The residue of your fortune,
-==197==Go to my cave and tell me. Good old man,
-==198==Thou art right welcome as thy master is.
-==199==Support him by the arm. Give me your hand,
-==200==And let me all your fortunes understand.
+==192==If that you were the good Sir Rowland’s son,
+==193==As you have whisper’d faithfully you were,
+==194==And as mine eye doth his effigies witness
+==195==Most truly limn’d and living in your face,
+==196==Be truly welcome hither. I am the Duke
+==197==That lov’d your father. The residue of your fortune,
+==198==Go to my cave and tell me. Good old man,
+==199==Thou art right welcome as thy master is.
+==200==Support him by the arm. Give me your hand,
+==201==And let me all your fortunes understand.
 
 *Exeunt.*
 

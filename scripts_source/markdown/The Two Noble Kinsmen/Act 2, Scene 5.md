@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-2-5
 ---
@@ -48,7 +48,7 @@ ID: two-noble-kinsmen-2-5
 ==8==           His youngest, sir.
 
 **THE.**
-==8==                     Your father
+==8==                       Your father
 ==9==Sure is a happy sire then. What proves you?
 
 **ARC.**
@@ -149,7 +149,7 @@ ID: two-noble-kinsmen-2-5
 ==54==He shall not go afoot.
 
 **EMIL.**
-==54==              That were a shame, sir,
+==54==           That were a shame, sir,
 ==55==While I have horses.—Take your choice, and what
 ==56==You want at any time, let me but know it.
 ==57==If you serve faithfully, I dare assure you

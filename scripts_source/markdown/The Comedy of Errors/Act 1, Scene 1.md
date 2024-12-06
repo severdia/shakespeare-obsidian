@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: comedy-of-errors-1-1
 ---
@@ -144,7 +144,7 @@ ID: comedy-of-errors-1-1
 ==111==By fishermen of Corinth, as we thought.
 ==112==At length, another ship had seiz’d on us,
 ==113==And knowing whom it was their hap to save,
-==114==Gave healthful welcome to their shipwrack’d guests,
+==114==Gave healthful welcome to their shipwreck’d guests,
 ==115==And would have reft the fishers of their prey,
 ==116==Had not their bark been very slow of sail;
 ==117==And therefore homeward did they bend their course.

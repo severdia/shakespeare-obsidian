@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-2-3
 ---
@@ -28,7 +28,7 @@ ID: antony-and-cleopatra-2-3
 ==4==To them for you.
 
 **ANT.**
-==4==           Good night, sir. My Octavia,
+==4==        Good night, sir. My Octavia,
 ==5==Read not my blemishes in the world’s report.
 ==6==I have not kept my square, but that to come
 ==7==Shall all be done by th’ rule. Good night, dear lady.
@@ -76,7 +76,7 @@ ID: antony-and-cleopatra-2-3
 ==24==To none but thee; no more but when to thee.
 ==25==If thou dost play with him at any game,
 ==26==Thou art sure to lose; and of that natural luck,
-==27==He beats thee ’gainst the odds. Thy lustre thickens
+==27==He beats thee ’gainst the odds. Thy luster thickens
 ==28==When he shines by. I say again, thy spirit
 ==29==Is all afraid to govern thee near him;
 ==30==But he away, ’tis noble.

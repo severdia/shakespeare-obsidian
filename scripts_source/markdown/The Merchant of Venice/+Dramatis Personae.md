@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -30,7 +30,7 @@ ID: merchant-of-venice-dp
 - Old Gobbo (GOB.)
 - Portia (Balthazar) (POR.; BAL.)
 - Jessica (JES.)
-- Nerissa (NER.)
+- Nerissa (Lawyer’s Clerk) (NER.; CLERK.)
 - Stephano (STEPH.)
 - Singer (SING.)
 - Tubal (TUB.)
@@ -39,3 +39,7 @@ ID: merchant-of-venice-dp
 - Portia’s Servant (SERV.)
 - Antonio’s Servant (ANT. SERV.)
 - Jailer (JAIL.)
+- Followers (FOLLOWERS.)
+- Servitor (SERVITOR.)
+- Magnificoes (MAGNIFICOES.)
+- Musicians (MUSICIANS.)

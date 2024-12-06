@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-3-2
 ---
@@ -103,7 +103,7 @@ ID: henry-viii-3-2
 ==42==Hath married the fair lady.
 
 **SUR.**
-==42==                  Would he had!
+==42==                Would he had!
 
 **SUF.**
 ==43==May you be happy in your wish, my lord,
@@ -114,10 +114,10 @@ ID: henry-viii-3-2
 ==45==Trace the conjunction!
 
 **SUF.**
-==45==           My amen to’t!
+==45==              My amen to’t!
 
 **NOR.**
-==45==                     All men’s!
+==45==                       All men’s!
 
 **SUF.**
 ==46==There’s order given for her coronation.
@@ -452,14 +452,14 @@ ID: henry-viii-3-2
 ==234==Authority so weighty.
 
 **SUF.**
-==234==              Who dare cross ’em,
+==234==           Who dare cross ’em,
 ==235==Bearing the King’s will from his mouth expressly?
 
 **WOL.**
 ==236==Till I find more than will or words to do it
 ==237==(I mean your malice), know, officious lords,
 ==238==I dare and must deny it. Now I feel
-==239==Of what coarse metal ye are moulded, envy,
+==239==Of what coarse metal ye are molded, envy,
 ==240==How eagerly ye follow my disgraces
 ==241==As if it fed ye, and how sleek and wanton
 ==242==Ye appear in every thing may bring my ruin!
@@ -581,7 +581,7 @@ ID: henry-viii-3-2
 ==316==To be your servant.
 
 **SUF.**
-==316==        Then, that without the knowledge
+==316==           Then, that without the knowledge
 ==317==Either of King or Council, when you went
 ==318==Ambassador to the Emperor, you made bold
 ==319==To carry into Flanders the great seal.
@@ -716,7 +716,7 @@ ID: henry-viii-3-2
 ==400==What more?
 
 **CROM.**
-==400==    That Cranmer is return’d with welcome,
+==400==        That Cranmer is return’d with welcome,
 ==401==Install’d Lord Archbishop of Canterbury.
 
 **WOL.**

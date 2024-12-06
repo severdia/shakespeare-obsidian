@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -63,7 +63,7 @@ ID: henry-iv-part-ii-3-1
 ==33==Is it good morrow, lords?
 
 **WAR.**
-==34==’Tis one a’ clock, and past.
+==34==’Tis one o’clock, and past.
 
 **KING.**
 ==35==Why then good morrow to you all, my lords.

@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-4-4
 ---
@@ -53,13 +53,13 @@ ID: sir-thomas-more-4-4
 ==20==Him pawn his fortunes.
 
 **MORE.**
-==20==                  True, son,⁠—
+==20==              True, son,⁠—
 ==21==Nor does the wanton tongue here screw itself
 ==22==Into the ear, that like a vise drinks up
 ==23==The iron instrument.
 
 **LADY MORE.**
-==23==              We are here at peace.
+==23==           We are here at peace.
 
 **MORE.**
 ==24==Then peace, good wife.
@@ -70,7 +70,7 @@ ID: sir-thomas-more-4-4
 ==27==Beyond our course.
 
 **MORE.**
-==27==              Have done.
+==27==           Have done.
 
 **LADY MORE.**
 ==28==We are exiled the court.

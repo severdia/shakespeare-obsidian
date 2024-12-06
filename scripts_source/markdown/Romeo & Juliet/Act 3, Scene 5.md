@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -100,7 +100,7 @@ ID: romeo-and-juliet-3-5
 
 **ROM.**
 *(From below.)*
-==47==                     Farewell!
+==47==                Farewell!
 ==48==I will omit no opportunity
 ==49==That may convey my greetings, love, to thee.
 
@@ -430,7 +430,7 @@ ID: romeo-and-juliet-3-5
 ==236==Is it more sin to wish me thus forsworn,
 ==237==Or to dispraise my lord with that same tongue
 ==238==Which she hath prais’d him with above compare
-==239==So many thousand times? Go, counsellor,
+==239==So many thousand times? Go, counselor,
 ==240==Thou and my bosom henceforth shall be twain.
 ==241==I’ll to the friar to know his remedy;
 ==242==If all else fail, myself have power to die.

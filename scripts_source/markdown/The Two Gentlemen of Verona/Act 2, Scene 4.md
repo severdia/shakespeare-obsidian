@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-2-4
 ---
@@ -173,7 +173,7 @@ ID: two-gentlemen-of-verona-2-4
 **DUKE.**
 ==62==Beshrew me, sir, but if he make this good,
 ==63==He is as worthy for an empress’ love
-==64==As meet to be an emperor’s counsellor.
+==64==As meet to be an emperor’s counselor.
 ==65==Well, sir—this gentleman is come to me
 ==66==With commendation from great potentates,
 ==67==And here he means to spend his time a while.

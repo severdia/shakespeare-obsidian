@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -214,7 +214,7 @@ ID: henry-iv-part-ii-4-5
 ==116==Pluck down my officers, break my decrees,
 ==117==For now a time is come to mock at form.
 ==118==Harry the Fifth is crown’d! Up, vanity!
-==119==Down, royal state! All you sage counsellors, hence!
+==119==Down, royal state! All you sage counselors, hence!
 ==120==And to the English court assemble now,
 ==121==From every region, apes of idleness!
 ==122==Now, neighbor confines, purge you of your scum!

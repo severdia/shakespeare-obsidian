@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-4-3
 ---
@@ -470,7 +470,7 @@ ID: timon-of-athens-4-3
 ==275==Ay, that I am not thee.
 
 **APEM.**
-==275==              I, that I was
+==275==           I, that I was
 ==276==No prodigal.
 
 **TIM.**

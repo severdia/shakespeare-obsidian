@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -95,7 +95,7 @@ ID: hamlet-1-4
 ==45==King, father, royal Dane. O, answer me!
 ==46==Let me not burst in ignorance, but tell
 ==47==Why thy canoniz’d bones, hearsed in death,
-==48==Have burst their cerements; why the sepulchre,
+==48==Have burst their cerements; why the sepulcher,
 ==49==Wherein we saw thee quietly inurn’d,
 ==50==Hath op’d his ponderous and marble jaws
 ==51==To cast thee up again. What may this mean,

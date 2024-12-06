@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-3-2
 ---
@@ -153,7 +153,7 @@ ID: tempest-3-2
 ==52==I’ll beat him too.
 
 **STE.**
-==52==           Stand farther.—Come, proceed.
+==52==        Stand farther.—Come, proceed.
 
 **CAL.**
 ==53==Why, as I told thee, ’tis a custom with him
@@ -208,9 +208,9 @@ ID: tempest-3-2
 **STE.**
 ==81==At thy request, monster, I will do reason, any reason. Come on, Trinculo, let us sing.
 *(Sings.)*
-==82==*“Flout ’em and scout ’em,*
-==83==*And scout ’em and flout ’em!*
-==84==*Thought is free.”*
+==82== *“Flout ’em and scout ’em,*
+==83== *And scout ’em and flout ’em!*
+==84== *Thought is free.”*
 
 **CAL.**
 ==85==That’s not the tune.

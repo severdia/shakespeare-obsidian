@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -31,7 +31,7 @@ ID: pericles-3-prologue
 ==8==Are the blither for their drouth.
 ==9==Hymen hath brought the bride to bed,
 ==10==Where, by the loss of maidenhead,
-==11==A babe is moulded. Be attent,
+==11==A babe is molded. Be attent,
 ==12==And time that is so briefly spent
 ==13==With your fine fancies quaintly eche:
 ==14==What’s dumb in show I’ll plain with speech.

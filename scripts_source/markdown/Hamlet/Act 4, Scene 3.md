@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -50,7 +50,7 @@ ID: hamlet-4-3
 ==16==Bring him before us.
 
 **ROS.**
-==16==              Ho, bring in the lord.
+==16==           Ho, bring in the lord.
 
 *They, Hamlet and Guildenstern, enter.*
 

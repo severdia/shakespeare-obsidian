@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -51,7 +51,7 @@ ID: king-lear-4-7
 ==13==           Madam, sleeps still.
 
 **COR.**
-==13==                     O you kind gods!
+==13==                       O you kind gods!
 ==14==Cure this great breach in his abused nature,
 ==15==Th’ untun’d and jarring senses, O, wind up
 ==16==Of this child-changed father!
@@ -172,7 +172,7 @@ ID: king-lear-4-7
 ==76==Am I in France?
 
 **KENT.**
-==76==           In your own kingdom, sir.
+==76==        In your own kingdom, sir.
 
 **LEAR.**
 ==77==Do not abuse me.

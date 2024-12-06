@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -292,7 +292,7 @@ ID: king-richard-ii-1-3
 ==193==Norfolk, so fare as to mine enemy:
 ==194==By this time, had the King permitted us,
 ==195==One of our souls had wand’red in the air,
-==196==Banish’d this frail sepulchre of our flesh,
+==196==Banish’d this frail sepulcher of our flesh,
 ==197==As now our flesh is banish’d from this land;
 ==198==Confess thy treasons ere thou fly the realm;
 ==199==Since thou hast far to go, bear not along

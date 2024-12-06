@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: julius-caesar-5-3
 ---
@@ -219,7 +219,7 @@ ID: julius-caesar-5-3
 ==108==Lest it discomfort us. Lucilius, come,
 ==109==And come, young Cato, let us to the field,
 ==110==Labio and Flavio set our battles on.
-==111==’Tis three a’ clock, and, Romans, yet ere night
+==111==’Tis three o’clock, and, Romans, yet ere night
 ==112==We shall try fortune in a second fight.
 
 *Exeunt.*

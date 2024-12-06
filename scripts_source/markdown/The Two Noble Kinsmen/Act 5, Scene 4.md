@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-5-4
 ---
@@ -105,7 +105,7 @@ ID: two-noble-kinsmen-5-4
 **BOTH 1. KNIGHT. AND 2. KNIGHT.**
 ==39==We’ll follow cheerfully.
 
-*A great noise within crying “Run! Save! Hold!” *
+*A great noise within crying “Run! Save! Hold!”*
 
 *Enter in haste a Messenger.*
 
@@ -150,7 +150,7 @@ ID: two-noble-kinsmen-5-4
 ==61==Came music’s origin), what envious flint,
 ==62==Cold as old Saturn, and like him possess’d
 ==63==With fire malevolent, darted a spark,
-==64==Or what fierce sulphur else, to this end made,
+==64==Or what fierce sulfur else, to this end made,
 ==65==I comment not—the hot horse, hot as fire,
 ==66==Took toy at this, and fell to what disorder
 ==67==His power could give his will, bounds, comes on end,

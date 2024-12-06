@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -364,7 +364,7 @@ ID: troilus-and-cressida-2-3
 
 **NEST.**
 *(Aside.)*
-==151== Force him with praises—pour in, pour in, his ambition is dry.
+==151==Force him with praises—pour in, pour in, his ambition is dry.
 
 **ULYSS.**
 *(To Agamemnon.)*

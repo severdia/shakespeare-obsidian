@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-2-7
 ---
@@ -279,12 +279,12 @@ ID: antony-and-cleopatra-2-7
 *(Music plays.)*
 *(Enobarbus places them hand in hand.)*
 *(The Song)*
-==94==*Come, thou monarch of the vine,*
-==95==*Plumpy Bacchus with pink eyne!*
-==96==*In thy fats our cares be drown’d,*
-==97==*With thy grapes our hairs be crown’d!*
-==98==*Cup us till the world go round,*
-==99==*Cup us till the world go round!*
+==94== *Come, thou monarch of the vine,*
+==95== *Plumpy Bacchus with pink eyne!*
+==96== *In thy fats our cares be drown’d;*
+==97== *With thy grapes our hairs be crown’d!*
+==98==    *Cup us till the world go round!*
+==99==    *Cup us till the world go round!*
 
 **CAES.**
 ==100==What would you more? Pompey, good night. Good brother,

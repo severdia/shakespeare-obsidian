@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -136,7 +136,7 @@ ID: henry-iv-part-i-4-1
 **HOT.**
 ==75==           You strain too far.
 ==76==I rather of his absence make this use:
-==77==It lends a lustre and more great opinion,
+==77==It lends a luster and more great opinion,
 ==78==A larger dare to our great enterprise,
 ==79==Than if the Earl were here, for men must think,
 ==80==If we without his help can make a head

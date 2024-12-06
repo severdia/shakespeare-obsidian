@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -24,18 +24,18 @@ ID: midsummer-nights-dream-2-1
 ==1==How now, spirit, whither wander you?
 
 **FAIRY.**
-==2==*Over hill, over dale,*
-==3==*Thorough bush, thorough brier,*
-==4==*Over park, over pale,*
-==5==*Thorough flood, thorough fire,*
-==6==*I do wander every where,*
-==7==*Swifter than the moon’s sphere;*
-==8==*And I serve the Fairy Queen,*
-==9==*To dew her orbs upon the green.*
-==10==*The cowslips tall her pensioners be,*
-==11==*In their gold coats spots you see:*
-==12==*Those be rubies, fairy favors,*
-==13==*In those freckles live their savors.*
+==2==    *Over hill, over dale,*
+==3==    *Thorough bush, thorough brier,*
+==4== *Over park, over pale,*
+==5==    *Thorough flood, thorough fire,*
+==6== *I do wander every where,*
+==7== *Swifter than the moon’s sphere;*
+==8== *And I serve the Fairy Queen,*
+==9== *To dew her orbs upon the green.*
+==10== *The cowslips tall her pensioners be,*
+==11== *In their gold coats spots you see:*
+==12== *Those be rubies, fairy favors,*
+==13== *In those freckles live their savors.*
 ==14==I must go seek some dewdrops here,
 ==15==And hang a pearl in every cowslip’s ear.
 ==16==Farewell, thou lob of spirits; I’ll be gone.
@@ -139,7 +139,7 @@ ID: midsummer-nights-dream-2-1
 ==91==Hath every pelting river made so proud
 ==92==That they have overborne their continents.
 ==93==The ox hath therefore stretch’d his yoke in vain,
-==94==The ploughman lost his sweat, and the green corn
+==94==The plowman lost his sweat, and the green corn
 ==95==Hath rotted ere his youth attain’d a beard.
 ==96==The fold stands empty in the drowned field,
 ==97==And crows are fatted with the murrion flock;
@@ -366,7 +366,7 @@ ID: midsummer-nights-dream-2-1
 ==252==With sweet musk-roses and with eglantine;
 ==253==There sleeps Titania sometime of the night,
 ==254==Lull’d in these flowers with dances and delight;
-==255==And there the snake throws her enamell’d skin,
+==255==And there the snake throws her enamel’d skin,
 ==256==Weed wide enough to wrap a fairy in;
 ==257==And with the juice of this I’ll streak her eyes,
 ==258==And make her full of hateful fantasies.

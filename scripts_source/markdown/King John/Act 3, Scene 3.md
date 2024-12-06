@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-3-3
 ---
@@ -127,13 +127,13 @@ ID: king-john-3-3
 ==66==My lord?
 
 **K. JOHN.**
-==66==    A grave.
+==66==        A grave.
 
 **HUB.**
-==66==           He shall not live.
+==66==              He shall not live.
 
 **K. JOHN.**
-==66==                       Enough.
+==66==                         Enough.
 ==67==I could be merry now. Hubert, I love thee.
 ==68==Well, I’ll not say what I intend for thee.
 ==69==Remember. Madam, fare you well,

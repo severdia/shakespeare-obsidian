@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -128,7 +128,7 @@ ID: troilus-and-cressida-5-3
 ==49==Fie, savage, fie!
 
 **TRO.**
-==49==           Hector, then ’tis wars.
+==49==        Hector, then ’tis wars.
 
 **HECT.**
 ==50==Troilus, I would not have you fight today.
@@ -152,7 +152,7 @@ ID: troilus-and-cressida-5-3
 ==62==Fall all together.
 
 **PRI.**
-==62==           Come, Hector, come, go back.
+==62==        Come, Hector, come, go back.
 ==63==Thy wife hath dreamt, thy mother hath had visions,
 ==64==Cassandra doth foresee, and I myself
 ==65==Am like a prophet suddenly enrapt

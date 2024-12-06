@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -59,7 +59,7 @@ ID: henry-v-2-4
 ==30==You are too much mistaken in this king.
 ==31==Question your Grace the late ambassadors,
 ==32==With what great state he heard their embassy,
-==33==How well supplied with noble counsellors,
+==33==How well supplied with noble counselors,
 ==34==How modest in exception, and withal
 ==35==How terrible in constant resolution,
 ==36==And you shall find his vanities forespent

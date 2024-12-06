@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-2-4
 ---
@@ -69,7 +69,7 @@ ID: sir-thomas-more-2-4
 ==16==Hold! In the king’s name, hold!
 
 **SURREY.**
-==16==              Friends, masters, countrymen⁠—
+==16==                Friends, masters, countrymen⁠—
 
 **LORD MAYOR.**
 ==17==Peace, how, peace! I charge you, keep the peace!
@@ -348,7 +348,7 @@ ID: sir-thomas-more-2-4
 ==182==To you, your brethren, and his faithful subjects,
 ==183==Your careful citizens. But, Master More, to you
 ==184==A rougher, yet as kind, a salutation:
-==185==A knights creation is this knightly steel.
+==185==A knight’s creation is this knightly steel.
 ==186==Rise up, Sir Thomas More.
 
 **MORE.**

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-4-1
 ---
@@ -88,7 +88,7 @@ ID: two-noble-kinsmen-4-1
 ==32==How good they’ll prove, I know not.
 
 **1. FRIEND.**
-==32==                     ’Twill be known.
+==32==                       ’Twill be known.
 
 *Enter Wooer.*
 
@@ -138,7 +138,7 @@ ID: two-noble-kinsmen-4-1
 ==46==        Not well?
 
 **WOOER.**
-==46==           No, sir, not well:
+==46==              No, sir, not well:
 ==47==’Tis too true, she is mad.
 
 **1. FRIEND.**
@@ -233,7 +233,7 @@ ID: two-noble-kinsmen-4-1
 
 **DAUGH.**
 *(Sings.)*
-==105==*“May you never more enjoy the light,” etc.*
+==105== *“May you never more enjoy the light,” etc.*
 ==106==Is not this a fine song?
 
 **JAIL. BROTH.**
@@ -264,7 +264,7 @@ ID: two-noble-kinsmen-4-1
 ==113==For I must lose my maidenhead by cocklight,
 ==114==’Twill never thrive else.
 *(Sings.)*
-==115==*“O fair, O sweet,” etc.*
+==115== *“O fair, O sweet,” etc.*
 
 **JAIL. BROTH.**
 ==116==You must ev’n take it patiently.
@@ -394,7 +394,7 @@ ID: two-noble-kinsmen-4-1
 ==152==                  Bear for it, master.
 ==153==Tack about!
 *(Sings.)*
-==154==*“When Cynthia with her borrowed light,” etc.*
+==154== *“When Cynthia with her borrowed light,” etc.*
 
 *Exeunt.*
 

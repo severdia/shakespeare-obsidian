@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-3-1
 ---
@@ -203,7 +203,7 @@ ID: two-gentlemen-of-verona-3-1
 ==125==That longs for every thing that he can come by.
 
 **VAL.**
-==126==By seven a’ clock I’ll get you such a ladder.
+==126==By seven o’clock I’ll get you such a ladder.
 
 **DUKE.**
 ==127==But hark thee: I will go to her alone.

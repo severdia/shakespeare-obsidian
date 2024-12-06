@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-3-1
 ---
@@ -28,7 +28,7 @@ ID: two-noble-kinsmen-3-1
 ==4==To th’ heart of ceremony. O queen Emilia,
 ==5==Fresher than May, sweeter
 ==6==Than her gold buttons on the boughs, or all
-==7==Th’ enamell’d knacks o’ th’ mead or garden! Yea
+==7==Th’ enamel’d knacks o’ th’ mead or garden! Yea
 ==8==(We challenge too) the bank of any nymph,
 ==9==That makes the stream seem flowers! Thou, O jewel
 ==10==O’ th’ wood, o’ th’ world, hast likewise blest a place

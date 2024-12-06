@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -81,21 +81,21 @@ ID: troilus-and-cressida-5-10
 
 **PAN.**
 ==35==A goodly medicine for my aching bones! O world, world, world! Thus is the poor agent despis’d! O traders and bawds, how earnestly are you set a-work, and how ill requited! Why should our endeavor be so lov’d and the performance so loath’d? What verse for it? What instance for it? Let me see:
-==36==*Full merrily the humble-bee doth sing,*
-==37==*Till he hath lost his honey and his sting;*
-==38==*And being once subdu’d in armed tail,*
-==39==*Sweet honey and sweet notes together fail.*
+==36== *Full merrily the humble-bee doth sing,*
+==37== *Till he hath lost his honey and his sting;*
+==38== *And being once subdu’d in armed tail,*
+==39== *Sweet honey and sweet notes together fail.*
 ==40==Good traders in the flesh, set this in your painted cloths:
-==41==*As many as be here of Pandar’s hall,*
-==42==*Your eyes, half out, weep out at Pandar’s fall;*
-==43==*Or if you cannot weep, yet give some groans,*
-==44==*Though not for me, yet for your aching bones.*
-==45==*Brethren and sisters of the hold-door trade,*
-==46==*Some two months hence my will shall here be made.*
-==47==*It should be now, but that my fear is this,*
-==48==*Some galled goose of Winchester would hiss.*
-==49==*Till then I’ll sweat and seek about for eases,*
-==50==*And at that time bequeath you my diseases.*
+==41== *As many as be here of Pandar’s hall,*
+==42== *Your eyes, half out, weep out at Pandar’s fall;*
+==43== *Or if you cannot weep, yet give some groans,*
+==44== *Though not for me, yet for your aching bones.*
+==45== *Brethren and sisters of the hold-door trade,*
+==46== *Some two months hence my will shall here be made.*
+==47== *It should be now, but that my fear is this,*
+==48== *Some galled goose of Winchester would hiss.*
+==49== *Till then I’ll sweat and seek about for eases,*
+==50== *And at that time bequeath you my diseases.*
 
 *Exit.*
 

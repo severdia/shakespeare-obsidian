@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-5-1
 ---
@@ -563,7 +563,7 @@ ID: measure-for-measure-5-1
 ==290==And in the witness of his proper ear,
 ==291==To call him villain, and then to glance from him
 ==292==To th’ Duke himself, to tax him with injustice?
-==293==Take him hence; to th’ rack with him! We’ll touze you
+==293==Take him hence; to th’ rack with him! We’ll touse you
 ==294==Joint by joint, but we will know his purpose.
 ==295==What? “unjust”?
 
@@ -778,7 +778,7 @@ ID: measure-for-measure-5-1
 ==402==                Isabel!
 ==403==Sweet Isabel, do yet but kneel by me.
 ==404==Hold up your hands, say nothing; I’ll speak all.
-==405==They say best men are moulded out of faults,
+==405==They say best men are molded out of faults,
 ==406==And for the most, become much more the better
 ==407==For being a little bad; so may my husband.
 ==408==O Isabel! Will you not lend a knee?

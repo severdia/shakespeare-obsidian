@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-1-1
 ---
@@ -53,7 +53,7 @@ ID: antony-and-cleopatra-1-1
 ==18==News, my good lord, from Rome.
 
 **ANT.**
-==18==                Grates me, the sum.
+==18==                  Grates me, the sum.
 
 **CLEO.**
 ==19==Nay, hear them, Antony.
@@ -83,7 +83,7 @@ ID: antony-and-cleopatra-1-1
 ==36==Feeds beast as man; the nobleness of life
 ==37==Is to do thus
 *(Embracing.)*
-==37==           —when such a mutual pair
+==37==        —when such a mutual pair
 ==38==And such a twain can do’t, in which I bind,
 ==39==On pain of punishment, the world to weet
 ==40==We stand up peerless.
@@ -95,7 +95,7 @@ ID: antony-and-cleopatra-1-1
 ==43==Will be himself.
 
 **ANT.**
-==43==           But stirr’d by Cleopatra.
+==43==        But stirr’d by Cleopatra.
 ==44==Now for the love of Love, and her soft hours,
 ==45==Let’s not confound the time with conference harsh;
 ==46==There’s not a minute of our lives should stretch

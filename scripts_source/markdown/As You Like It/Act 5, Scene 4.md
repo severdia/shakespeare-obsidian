@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-5-4
 ---
@@ -148,146 +148,146 @@ ID: as-you-like-it-5-4
 *Enter Hymen, Rosalind, and Celia. Still music.*
 
 **HYM.**
-==54==Then is there mirth in heaven,
-==55==When earthly things made even
-==55==    Atone together.
-==56==Good Duke, receive thy daughter,
-==57==Hymen from heaven brought her,
-==57==    Yea, brought her hither,
-==58==That thou mightst join her hand with his
-==59==Whose heart within his bosom is.
+==54==*Then is there mirth in heaven,*
+==55==*When earthly things made even*
+==56==    *Atone together.*
+==57==*Good Duke, receive thy daughter,*
+==58==*Hymen from heaven brought her,*
+==59==    *Yea, brought her hither,*
+==60==*That thou mightst join her hand with his*
+==61==*Whose heart within his bosom is.*
 
 **ROS.**
 *(To Duke Senior.)*
-==60==To you I give myself, for I am yours.
+==62==To you I give myself, for I am yours.
 *(To Orlando.)*
-==61==To you I give myself, for I am yours.
+==63==To you I give myself, for I am yours.
 
 **DUKE S.**
-==62==If there be truth in sight, you are my daughter.
+==64==If there be truth in sight, you are my daughter.
 
 **ORL.**
-==63==If there be truth in sight, you are my Rosalind.
+==65==If there be truth in sight, you are my Rosalind.
 
 **PHE.**
-==64==If sight and shape be true,
-==65==Why then my love *adieu*!
+==66==If sight and shape be true,
+==67==Why then my love *adieu*!
 
 **ROS.**
-==66==I’ll have no father, if you be not he;
-==67==I’ll have no husband, if you be not he;
-==68==Nor ne’er wed woman, if you be not she.
+==68==I’ll have no father, if you be not he;
+==69==I’ll have no husband, if you be not he;
+==70==Nor ne’er wed woman, if you be not she.
 
 **HYM.**
-==69==Peace ho! I bar confusion,
-==70==’Tis I must make conclusion
-==70==    Of these most strange events.
-==71==Here’s eight that must take hands
-==72==To join in Hymen’s bands,
-==72==    If truth holds true contents.
+==71==Peace ho! I bar confusion,
+==72==’Tis I must make conclusion
+==72==    Of these most strange events.
+==73==Here’s eight that must take hands
+==74==To join in Hymen’s bands,
+==74==    If truth holds true contents.
 *(To Orlando and Rosalind.)*
-==73==You and you no cross shall part;
+==75==You and you no cross shall part;
 *(To Oliver and Celia.)*
-==74==You and you are heart in heart;
+==76==You and you are heart in heart;
 *(To Phebe.)*
-==75==You to his love must accord,
-==76==Or have a woman to your lord;
+==77==You to his love must accord,
+==78==Or have a woman to your lord;
 *(To Touchstone and Audrey.)*
-==77==You and you are sure together,
-==78==As the winter to foul weather.⁠—
-==79==Whiles a wedlock-hymn we sing,
-==80==Feed yourselves with questioning;
-==81==That reason wonder may diminish
-==82==How thus we met, and these things finish.
+==79==You and you are sure together,
+==80==As the winter to foul weather.⁠—
+==81==Whiles a wedlock-hymn we sing,
+==82==Feed yourselves with questioning;
+==83==That reason wonder may diminish
+==84==How thus we met, and these things finish.
 *(Song.)*
-==83==*Wedding is great Juno’s crown,*
-==84==*O blessed bond of board and bed!*
-==85==*’Tis Hymen peoples every town,*
-==86==*High wedlock then be honored.*
-==87==*Honor, high honor, and renown*
-==88==*To Hymen, god of every town!*
+==85== *Wedding is great Juno’s crown,*
+==86==    *O blessed bond of board and bed!*
+==87== *’Tis Hymen peoples every town,*
+==88==    *High wedlock then be honored.*
+==89== *Honor, high honor, and renown*
+==90== *To Hymen, god of every town!*
 
 **DUKE S.**
-==89==O my dear niece, welcome thou art to me,
-==90==Even daughter, welcome, in no less degree.
+==91==O my dear niece, welcome thou art to me,
+==92==Even daughter, welcome, in no less degree.
 
 **PHE.**
-==91==I will not eat my word, now thou art mine,
-==92==Thy faith my fancy to thee doth combine.
+==93==I will not eat my word, now thou art mine,
+==94==Thy faith my fancy to thee doth combine.
 
 *Enter Second Brother (Jaques De Boys).*
 
 **JAQ. DE B.**
-==93==Let me have audience for a word or two.
-==94==I am the second son of old Sir Rowland,
-==95==That bring these tidings to this fair assembly.
-==96==Duke Frederick, hearing how that every day
-==97==Men of great worth resorted to this forest,
-==98==Address’d a mighty power, which were on foot
-==99==In his own conduct, purposely to take
-==100==His brother here, and put him to the sword;
-==101==And to the skirts of this wild wood he came;
-==102==Where, meeting with an old religious man,
-==103==After some question with him, was converted
-==104==Both from his enterprise and from the world,
-==105==His crown bequeathing to his banish’d brother,
-==106==And all their lands restor’d to them again
-==107==That were with him exil’d. This to be true,
-==108==I do engage my life.
+==95==Let me have audience for a word or two.
+==96==I am the second son of old Sir Rowland,
+==97==That bring these tidings to this fair assembly.
+==98==Duke Frederick, hearing how that every day
+==99==Men of great worth resorted to this forest,
+==100==Address’d a mighty power, which were on foot
+==101==In his own conduct, purposely to take
+==102==His brother here, and put him to the sword;
+==103==And to the skirts of this wild wood he came;
+==104==Where, meeting with an old religious man,
+==105==After some question with him, was converted
+==106==Both from his enterprise and from the world,
+==107==His crown bequeathing to his banish’d brother,
+==108==And all their lands restor’d to them again
+==109==That were with him exil’d. This to be true,
+==110==I do engage my life.
 
 **DUKE S.**
-==109==Welcome, young man;
-==110==Thou offer’st fairly to thy brothers’ wedding:
-==111==To one his lands withheld, and to the other
-==112==A land itself at large, a potent dukedom.
-==113==First, in this forest let us do those ends
-==114==That here were well begun and well begot;
-==115==And after, every of this happy number,
-==116==That have endur’d shrewd days and nights with us,
-==117==Shall share the good of our returned fortune,
-==118==According to the measure of their states.
-==119==Mean time, forget this new-fall’n dignity,
-==120==And fall into our rustic revelry.
-==121==Play, music, and you brides and bridegrooms all,
-==122==With measure heap’d in joy, to th’ measures fall.
+==111==Welcome, young man;
+==112==Thou offer’st fairly to thy brothers’ wedding:
+==113==To one his lands withheld, and to the other
+==114==A land itself at large, a potent dukedom.
+==115==First, in this forest let us do those ends
+==116==That here were well begun and well begot;
+==117==And after, every of this happy number,
+==118==That have endur’d shrewd days and nights with us,
+==119==Shall share the good of our returned fortune,
+==120==According to the measure of their states.
+==121==Mean time, forget this new-fall’n dignity,
+==122==And fall into our rustic revelry.
+==123==Play, music, and you brides and bridegrooms all,
+==124==With measure heap’d in joy, to th’ measures fall.
 
 **JAQ.**
-==123==Sir, by your patience.—If I heard you rightly,
-==124==The Duke hath put on a religious life,
-==125==And thrown into neglect the pompous court?
+==125==Sir, by your patience.—If I heard you rightly,
+==126==The Duke hath put on a religious life,
+==127==And thrown into neglect the pompous court?
 
 **JAQ. DE B.**
-==126==He hath.
+==128==He hath.
 
 **JAQ.**
-==127==To him will I. Out of these convertites
-==128==There is much matter to be heard and learn’d.
+==129==To him will I. Out of these convertites
+==130==There is much matter to be heard and learn’d.
 *(To Duke Senior.)*
-==129==You to your former honor I bequeath,
-==130==Your patience and your virtue well deserves it;
+==131==You to your former honor I bequeath,
+==132==Your patience and your virtue well deserves it;
 *(To Orlando.)*
-==131==You to a love, that your true faith doth merit;
+==133==You to a love, that your true faith doth merit;
 *(To Oliver.)*
-==132==You to your land, and love, and great allies;
+==134==You to your land, and love, and great allies;
 *(To Silvius.)*
-==133==You to a long and well-deserved bed;
+==135==You to a long and well-deserved bed;
 *(To Touchstone.)*
-==134==And you to wrangling, for thy loving voyage
-==135==Is but for two months victuall’d.—So to your pleasures,
-==136==I am for other than for dancing measures.
+==136==And you to wrangling, for thy loving voyage
+==137==Is but for two months victuall’d.—So to your pleasures,
+==138==I am for other than for dancing measures.
 
 **DUKE S.**
-==137==Stay, Jaques, stay.
+==139==Stay, Jaques, stay.
 
 **JAQ.**
-==138==To see no pastime I. What you would have
-==139==I’ll stay to know at your abandon’d cave.
+==140==To see no pastime I. What you would have
+==141==I’ll stay to know at your abandon’d cave.
 
 *Exit.*
 
 **DUKE S.**
-==140==Proceed, proceed. We’ll begin these rites,
-==141==As we do trust they’ll end, in true delights.
+==142==Proceed, proceed. We’ll begin these rites,
+==143==As we do trust they’ll end, in true delights.
 
 *A dance.*
 

@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-3-5
 ---
@@ -56,9 +56,9 @@ ID: macbeth-3-5
 ==32==And you all know, security
 ==33==Is mortals’ chiefest enemy.
 *(Music, and a song. Sing within:)*
-==34==*“Come away, come away, etc.”*
-==35==*Hark, I am call’d; my little spirit, see,*
-==36==*Sits in a foggy cloud, and stays for me.*
+==34== *“Come away, come away, etc.”*
+==35== *Hark, I am call’d; my little spirit, see,*
+==36== *Sits in a foggy cloud, and stays for me.*
 
 *Exit.*
 

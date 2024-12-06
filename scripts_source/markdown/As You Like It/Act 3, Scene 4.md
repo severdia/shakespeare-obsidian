@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-3-4
 ---
@@ -37,7 +37,7 @@ ID: as-you-like-it-3-4
 ==6==Something browner than Judas’s. Marry, his kisses are Judas’s own children.
 
 **ROS.**
-==7==I’ faith, his hair is of a good color.
+==7==I’faith, his hair is of a good color.
 
 **CEL.**
 ==8==An excellent color. Your chestnut was ever the only color.

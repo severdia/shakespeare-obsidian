@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -141,7 +141,7 @@ ID: henry-vi-part-ii-1-1
 ==82==Shall Henry’s conquest, Bedford’s vigilance,
 ==83==Your deeds of war, and all our counsel die?
 ==84==O peers of England, shameful is this league,
-==85==Fatal this marriage, cancelling your fame,
+==85==Fatal this marriage, canceling your fame,
 ==86==Blotting your names from books of memory,
 ==87==Rasing the characters of your renown,
 ==88==Defacing monuments of conquer’d France,

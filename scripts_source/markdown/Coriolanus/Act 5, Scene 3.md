@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-5-3
 ---
@@ -49,7 +49,7 @@ ID: coriolanus-5-3
 ==20==Shall I be tempted to infringe my vow
 ==21==In the same time ’tis made? I will not.
 *(Enter in mourning habits Virgilia, Volumnia, Valeria, young Martius, with Attendants.)*
-==22==My wife comes foremost; then the honor’d mould
+==22==My wife comes foremost; then the honor’d mold
 ==23==Wherein this trunk was fram’d, and in her hand
 ==24==The grandchild to her blood. But out, affection,
 ==25==All bond and privilege of nature, break!
@@ -241,7 +241,7 @@ ID: coriolanus-5-3
 ==150==Thou hast affected the fine strains of honor,
 ==151==To imitate the graces of the gods:
 ==152==To tear with thunder the wide cheeks a’ th’ air,
-==153==And yet to charge thy sulphur with a bolt
+==153==And yet to charge thy sulfur with a bolt
 ==154==That should but rive an oak. Why dost not speak?
 ==155==Think’st thou it honorable for a noble man
 ==156==Still to remember wrongs? Daughter, speak you;

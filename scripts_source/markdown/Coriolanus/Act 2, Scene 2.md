@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-2-2
 ---
@@ -186,7 +186,7 @@ ID: coriolanus-2-2
 ==95==Which we devise him.
 
 **COM.**
-==95==              Our spoils he kick’d at,
+==95==           Our spoils he kick’d at,
 ==96==And look’d upon things precious as they were
 ==97==The common muck of the world. He covets less
 ==98==Than misery itself would give, rewards
@@ -230,7 +230,7 @@ ID: coriolanus-2-2
 ==112==One jot of ceremony.
 
 **MEN.**
-==112==              Put them not to’t.
+==112==           Put them not to’t.
 ==113==Pray you go fit you to the custom, and
 ==114==Take to you, as your predecessors have,
 ==115==Your honor with your form.

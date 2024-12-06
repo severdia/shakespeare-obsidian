@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -90,7 +90,7 @@ ID: romeo-and-juliet-2-5
 ==45==To catch my death with jauncing up and down!
 
 **JUL.**
-==46==I’ faith, I am sorry that thou art not well.
+==46==I’faith, I am sorry that thou art not well.
 ==47==Sweet, sweet, sweet nurse, tell me, what says my love?
 
 **NURSE.**

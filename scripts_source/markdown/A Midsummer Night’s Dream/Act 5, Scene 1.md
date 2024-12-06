@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -74,7 +74,7 @@ ID: midsummer-nights-dream-5-1
 ==38==Call Philostrate.
 
 **PHIL.**
-==38==           Here, mighty Theseus.
+==38==        Here, mighty Theseus.
 
 **THE.**
 ==39==Say, what abridgment have you for this evening?
@@ -307,370 +307,370 @@ ID: midsummer-nights-dream-5-1
 ==182==Thisbe!
 
 **FLU.**
-==183==        My love thou art, my love I think.
+==182==    My love thou art, my love I think.
 
 **BOT.**
-==184==Think what thou wilt, I am thy lover’s grace;
-==185==And, like Limander, am I trusty still.
+==183==Think what thou wilt, I am thy lover’s grace;
+==184==And, like Limander, am I trusty still.
 
 **FLU.**
-==186==And I, like Helen, till the Fates me kill.
+==185==And I, like Helen, till the Fates me kill.
 
 **BOT.**
-==187==Not Shafalus to Procrus was so true.
+==186==Not Shafalus to Procrus was so true.
 
 **FLU.**
-==188==As Shafalus to Procrus, I to you.
+==187==As Shafalus to Procrus, I to you.
 
 **BOT.**
-==189==O, kiss me through the hole of this vild wall!
+==188==O, kiss me through the hole of this vild wall!
 
 **FLU.**
-==190==I kiss the wall’s hole, not your lips at all.
+==189==I kiss the wall’s hole, not your lips at all.
 
 **BOT.**
-==191==Wilt thou at Ninny’s tomb meet me straightway?
+==190==Wilt thou at Ninny’s tomb meet me straightway?
 
 **FLU.**
-==192==’Tide life, ’tide death, I come without delay.
+==191==’Tide life, ’tide death, I come without delay.
 
 *Exeunt Pyramus and Thisbe.*
 
 **SNOUT.**
-==193==Thus have I, Wall, my part discharged so;
-==194==And being done, thus Wall away doth go.
+==192==Thus have I, Wall, my part discharged so;
+==193==And being done, thus Wall away doth go.
 
 *Exit.*
 
 **THE.**
-==195==Now is the moon used between the two neighbors.
+==194==Now is the moon used between the two neighbors.
 
 **DEM.**
-==196==No remedy, my lord, when walls are so willful to hear without warning.
+==195==No remedy, my lord, when walls are so willful to hear without warning.
 
 **HIP.**
-==197==This is the silliest stuff that ever I heard.
+==196==This is the silliest stuff that ever I heard.
 
 **THE.**
-==198==The best in this kind are but shadows; and the worst are no worse, if imagination amend them.
+==197==The best in this kind are but shadows; and the worst are no worse, if imagination amend them.
 
 **HIP.**
-==199==It must be your imagination then, and not theirs.
+==198==It must be your imagination then, and not theirs.
 
 **THE.**
-==200==If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion.
+==199==If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion.
 
 *Enter Lion and Moonshine.*
 
 **SNUG.**
-==201==You, ladies, you, whose gentle hearts do fear
-==202==The smallest monstrous mouse that creeps on floor,
-==203==May now, perchance, both quake and tremble here,
-==204==When lion rough in wildest rage doth roar.
-==205==Then know that I as Snug the joiner am
-==206==A lion fell, nor else no lion’s dam,
-==207==For, if I should, as lion, come in strife
-==208==Into this place, ’twere pity on my life.
+==200==You, ladies, you, whose gentle hearts do fear
+==201==The smallest monstrous mouse that creeps on floor,
+==202==May now, perchance, both quake and tremble here,
+==203==When lion rough in wildest rage doth roar.
+==204==Then know that I as Snug the joiner am
+==205==A lion fell, nor else no lion’s dam,
+==206==For, if I should, as lion, come in strife
+==207==Into this place, ’twere pity on my life.
 
 **THE.**
-==209==A very gentle beast, and of a good conscience.
+==208==A very gentle beast, and of a good conscience.
 
 **DEM.**
-==210==The very best at a beast, my lord, that e’er I saw.
+==209==The very best at a beast, my lord, that e’er I saw.
 
 **LYS.**
-==211==This lion is a very fox for his valor.
+==210==This lion is a very fox for his valor.
 
 **THE.**
-==212==True; and a goose for his discretion.
+==211==True; and a goose for his discretion.
 
 **DEM.**
-==213==Not so, my lord; for his valor cannot carry his discretion, and the fox carries the goose.
+==212==Not so, my lord; for his valor cannot carry his discretion, and the fox carries the goose.
 
 **THE.**
-==214==His discretion, I am sure, cannot carry his valor; for the goose carries not the fox. It is well; leave it to his discretion, and let us listen to the Moon.
+==213==His discretion, I am sure, cannot carry his valor; for the goose carries not the fox. It is well; leave it to his discretion, and let us listen to the Moon.
 
 **STAR.**
-==215==This lantern doth the horned moon present⁠—
+==214==This lantern doth the horned moon present⁠—
 
 **DEM.**
-==216==He should have worn the horns on his head.
+==215==He should have worn the horns on his head.
 
 **THE.**
-==217==He is no crescent, and his horns are invisible within the circumference.
+==216==He is no crescent, and his horns are invisible within the circumference.
 
 **STAR.**
-==218==This lantern doth the horned moon present;
-==219==Myself the man i’ th’ moon do seem to be.
+==217==This lantern doth the horned moon present;
+==218==Myself the man i’ th’ moon do seem to be.
 
 **THE.**
-==220==This is the greatest error of all the rest. The man should be put into the lantern. How is it else the man i’ th’ moon?
+==219==This is the greatest error of all the rest. The man should be put into the lantern. How is it else the man i’ th’ moon?
 
 **DEM.**
-==221==He dares not come there for the candle; for, you see, it is already in snuff.
+==220==He dares not come there for the candle; for, you see, it is already in snuff.
 
 **HIP.**
-==222==I am a-weary of this moon. Would he would change!
+==221==I am a-weary of this moon. Would he would change!
 
 **THE.**
-==223==It appears, by his small light of discretion, that he is in the wane; but yet in courtesy, in all reason, we must stay the time.
+==222==It appears, by his small light of discretion, that he is in the wane; but yet in courtesy, in all reason, we must stay the time.
 
 **LYS.**
-==224==Proceed, Moon.
+==223==Proceed, Moon.
 
 **STAR.**
-==225==All that I have to say is to tell you that the lantern is the moon, I the man i’ th’ moon, this thorn-bush my thorn-bush, and this dog my dog.
+==224==All that I have to say is to tell you that the lantern is the moon, I the man i’ th’ moon, this thorn-bush my thorn-bush, and this dog my dog.
 
 **DEM.**
-==226==Why, all these should be in the lantern; for all these are in the moon. But silence! Here comes Thisbe.
+==225==Why, all these should be in the lantern; for all these are in the moon. But silence! Here comes Thisbe.
 
 *Enter Thisbe.*
 
 **FLU.**
-==227==This is old Ninny’s tomb. Where is my love?
+==226==This is old Ninny’s tomb. Where is my love?
 
 **SNUG.**
-==228==O!
+==227==O!
 
 *The Lion roars. Thisbe runs off.*
 
 **DEM.**
-==229==Well roar’d, Lion.
+==228==Well roar’d, Lion.
 
 **THE.**
-==230==Well run, Thisbe.
+==229==Well run, Thisbe.
 
 **HIP.**
-==231==Well shone, Moon. Truly, the moon shines with a good grace.
+==230==Well shone, Moon. Truly, the moon shines with a good grace.
 
 *The Lion shakes Thisbe’s mantle.*
 
 **THE.**
-==232==Well mous’d, Lion.
+==231==Well mous’d, Lion.
 
 *Enter Pyramus.*
 
 **DEM.**
-==233==And then came Pyramus.
+==232==And then came Pyramus.
 
 *Exit Lion.*
 
 **LYS.**
-==234==And so the lion vanish’d.
+==233==And so the lion vanish’d.
 
 **BOT.**
-==235==Sweet Moon, I thank thee for thy sunny beams;
-==236==I thank thee, Moon, for shining now so bright;
-==237==For by thy gracious, golden, glittering gleams,
-==238==I trust to take of truest Thisbe sight.
-==239==*But stay! O spite!*
-==240==*But mark, poor knight,*
-==241==*What dreadful dole is here!*
-==242==*Eyes, do you see?*
-==243==*How can it be?*
-==244==*O dainty duck! O dear!*
-==245==*Thy mantle good,*
-==246==*What, stain’d with blood?*
-==247==*Approach, ye Furies fell!*
-==248==*O Fates, come, come,*
-==249==*Cut thread and thrum,*
-==250==*Quail, crush, conclude, and quell!*
+==234==Sweet Moon, I thank thee for thy sunny beams;
+==235==I thank thee, Moon, for shining now so bright;
+==236==For by thy gracious, golden, glittering gleams,
+==237==I trust to take of truest Thisbe sight.
+==238==    *But stay! O spite!*
+==239==    *But mark, poor knight,*
+==240==*What dreadful dole is here!*
+==241==    *Eyes, do you see?*
+==242==    *How can it be?*
+==243==*O dainty duck! O dear!*
+==244==    *Thy mantle good,*
+==245==    *What, stain’d with blood?*
+==246==*Approach, ye Furies fell!*
+==247==    *O Fates, come, come,*
+==248==    *Cut thread and thrum,*
+==249==*Quail, crush, conclude, and quell!*
 
 **THE.**
-==251==This passion, and the death of a dear friend, would go near to make a man look sad.
+==250==This passion, and the death of a dear friend, would go near to make a man look sad.
 
 **HIP.**
-==252==Beshrew my heart, but I pity the man.
+==251==Beshrew my heart, but I pity the man.
 
 **BOT.**
-==253==O, wherefore, Nature, didst thou lions frame?
-==254==Since lion vild hath here deflow’r’d my dear;
-==255==Which is—no, no—which was the fairest dame
-==256==That liv’d, that lov’d, that lik’d, that look’d with cheer.
-==257==*Come, tears, confound,*
-==258==*Out, sword, and wound*
-==259==*The pap of Pyramus;*
-==260==*Ay, that left pap,*
-==261==*Where heart doth hop.*
+==252==O, wherefore, Nature, didst thou lions frame?
+==253==Since lion vild hath here deflow’r’d my dear;
+==254==Which is—no, no—which was the fairest dame
+==255==That liv’d, that lov’d, that lik’d, that look’d with cheer.
+==256==    *Come, tears, confound,*
+==257==    *Out, sword, and wound*
+==258==*The pap of Pyramus;*
+==259==    *Ay, that left pap,*
+==260==    *Where heart doth hop.*
 *(Stabs himself.)*
-==262==*Thus die I, thus, thus, thus.*
-==263==*Now am I dead,*
-==264==*Now am I fled;*
-==265==*My soul is in the sky.*
-==266==*Tongue, lose thy light,*
-==267==*Moon, take thy flight,*
+==261==*Thus die I, thus, thus, thus.*
+==262==    *Now am I dead,*
+==263==    *Now am I fled;*
+==264==*My soul is in the sky.*
+==265==    *Tongue, lose thy light,*
+==266==    *Moon, take thy flight,*
 *(Exit Moonshine.)*
-==268==*Now die, die, die, die, die.*
+==267==    *Now die, die, die, die, die.*
 
 *Dies.*
 
 **DEM.**
-==269==No die, but an ace, for him; for he is but one.
+==268==No die, but an ace, for him; for he is but one.
 
 **LYS.**
-==270==Less than an ace, man; for he is dead, he is nothing.
+==269==Less than an ace, man; for he is dead, he is nothing.
 
 **THE.**
-==271==With the help of a surgeon he might yet recover, and yet prove an ass.
+==270==With the help of a surgeon he might yet recover, and yet prove an ass.
 
 **HIP.**
-==272==How chance Moonshine is gone before Thisbe comes back and finds her lover?
+==271==How chance Moonshine is gone before Thisbe comes back and finds her lover?
 
 *Enter Thisbe.*
 
 **THE.**
-==273==She will find him by starlight. Here she comes, and her passion ends the play.
+==272==She will find him by starlight. Here she comes, and her passion ends the play.
 
 **HIP.**
-==274==Methinks she should not use a long one for such a Pyramus. I hope she will be brief.
+==273==Methinks she should not use a long one for such a Pyramus. I hope she will be brief.
 
 **DEM.**
-==275==A mote will turn the balance, which Pyramus, which Thisbe, is the better: he for a man. God warr’nt us; she for a woman. God bless us.
+==274==A mote will turn the balance, which Pyramus, which Thisbe, is the better: he for a man. God warr’nt us; she for a woman. God bless us.
 
 **LYS.**
-==276==She hath spied him already with those sweet eyes.
+==275==She hath spied him already with those sweet eyes.
 
 **DEM.**
-==277==And thus she means, *videlicet*⁠—
+==276==And thus she means, *videlicet*⁠—
 
 **FLU.**
-==278==*Asleep, my love?*
-==279==*What, dead, my dove?*
-==280==*O Pyramus, arise!*
-==281==*Speak, speak! Quite dumb?*
-==282==*Dead, dead? A tomb*
-==283==*Must cover thy sweet eyes.*
-==284==*These lily lips,*
-==285==*This cherry nose,*
-==286==*These yellow cowslip cheeks,*
-==287==*Are gone, are gone!*
-==288==*Lovers, make moan;*
-==289==*His eyes were green as leeks.*
-==290==*O Sisters Three,*
-==291==*Come, come to me,*
-==292==*With hands as pale as milk;*
-==293==*Lay them in gore,*
-==294==*Since you have shore*
-==295==*With shears his thread of silk.*
-==296==*Tongue, not a word!*
-==297==*Come, trusty sword,*
-==298==*Come, blade, my breast imbrue!*
+==277==    *Asleep, my love?*
+==278==    *What, dead, my dove?*
+==279==*O Pyramus, arise!*
+==280==    *Speak, speak! Quite dumb?*
+==281==    *Dead, dead? A tomb*
+==282==*Must cover thy sweet eyes.*
+==283==    *These lily lips,*
+==284==    *This cherry nose,*
+==285==*These yellow cowslip cheeks,*
+==286==    *Are gone, are gone!*
+==287==    *Lovers, make moan;*
+==288==*His eyes were green as leeks.*
+==289==    *O Sisters Three,*
+==290==    *Come, come to me,*
+==291==*With hands as pale as milk;*
+==292==    *Lay them in gore,*
+==293==    *Since you have shore*
+==294==*With shears his thread of silk.*
+==295==    *Tongue, not a word!*
+==296==    *Come, trusty sword,*
+==297==*Come, blade, my breast imbrue!*
 *(Stabs herself.)*
-==299==*And farewell, friends;*
-==300==*Thus Thisbe ends;*
-==301==*Adieu, adieu, adieu.*
+==298==    *And farewell, friends;*
+==299==    *Thus Thisbe ends;*
+==300==*Adieu, adieu, adieu.*
 
 *Dies.*
 
 **THE.**
-==302==Moonshine and Lion are left to bury the dead.
+==301==Moonshine and Lion are left to bury the dead.
 
 **DEM.**
-==303==Ay, and Wall too.
+==302==Ay, and Wall too.
 
 **BOT.**
 *(Starting up.)*
-==304==No, I assure you, the wall is down that parted their fathers. Will it please you to see the epilogue, or to hear a Bergomask dance between two of our company?
+==303==No, I assure you, the wall is down that parted their fathers. Will it please you to see the epilogue, or to hear a Bergomask dance between two of our company?
 
 **THE.**
-==305==No epilogue, I pray you; for your play needs no excuse. Never excuse; for when the players are all dead, there need none to be blam’d. Marry, if he that writ it had play’d Pyramus, and hang’d himself in Thisbe’s garter, it would have been a fine tragedy; and so it is, truly, and very notably discharg’d. But come, your Bergomask; let your epilogue alone.
+==304==No epilogue, I pray you; for your play needs no excuse. Never excuse; for when the players are all dead, there need none to be blam’d. Marry, if he that writ it had play’d Pyramus, and hang’d himself in Thisbe’s garter, it would have been a fine tragedy; and so it is, truly, and very notably discharg’d. But come, your Bergomask; let your epilogue alone.
 *(A dance.)*
-==306==The iron tongue of midnight hath told twelve.
-==307==Lovers, to bed, ’tis almost fairy time.
-==308==I fear we shall outsleep the coming morn
-==309==As much as we this night have overwatch’d.
-==310==This palpable-gross play hath well beguil’d
-==311==The heavy gait of night. Sweet friends, to bed.
-==312==A fortnight hold we this solemnity,
-==313==In nightly revels and new jollity.
+==305==The iron tongue of midnight hath told twelve.
+==306==Lovers, to bed, ’tis almost fairy time.
+==307==I fear we shall outsleep the coming morn
+==308==As much as we this night have overwatch’d.
+==309==This palpable-gross play hath well beguil’d
+==310==The heavy gait of night. Sweet friends, to bed.
+==311==A fortnight hold we this solemnity,
+==312==In nightly revels and new jollity.
 
 *Exeunt.*
 
 *Enter Puck.*
 
 **PUCK.**
-==314==*Now the hungry lion roars,*
-==315==*And the wolf behowls the moon;*
-==316==*Whilst the heavy ploughman snores,*
-==317==*All with weary task foredone.*
-==318==*Now the wasted brands do glow,*
-==319==*Whilst the screech owl, screeching loud,*
-==320==*Puts the wretch that lies in woe*
-==321==*In remembrance of a shroud.*
-==322==*Now it is the time of night*
-==323==*That the graves, all gaping wide,*
-==324==*Every one lets forth his sprite,*
-==325==*In the church-way paths to glide.*
-==326==*And we fairies, that do run*
-==327==*By the triple Hecat’s team*
-==328==*From the presence of the sun,*
-==329==*Following darkness like a dream,*
-==330==*Now are frolic. Not a mouse*
-==331==*Shall disturb this hallowed house.*
-==332==*I am sent with broom before,*
-==333==*To sweep the dust behind the door.*
+==313== *Now the hungry lion roars,*
+==314== *And the wolf behowls the moon;*
+==315== *Whilst the heavy plowman snores,*
+==316== *All with weary task foredone.*
+==317== *Now the wasted brands do glow,*
+==318== *Whilst the screech owl, screeching loud,*
+==319== *Puts the wretch that lies in woe*
+==320== *In remembrance of a shroud.*
+==321== *Now it is the time of night*
+==322== *That the graves, all gaping wide,*
+==323== *Every one lets forth his sprite,*
+==324== *In the church-way paths to glide.*
+==325== *And we fairies, that do run*
+==326== *By the triple Hecat’s team*
+==327== *From the presence of the sun,*
+==328== *Following darkness like a dream,*
+==329== *Now are frolic. Not a mouse*
+==330== *Shall disturb this hallowed house.*
+==331== *I am sent with broom before,*
+==332== *To sweep the dust behind the door.*
 
 *Enter King and Queen of Fairies, Oberon and Titania, with all their Train.*
 
 **OBE.**
-==334==*Through the house give glimmering light*
-==335==*By the dead and drowsy fire,*
-==336==*Every elf and fairy sprite*
-==337==*Hop as light as bird from brier,*
-==338==*And this ditty, after me,*
-==339==*Sing, and dance it trippingly.*
+==333== *Through the house give glimmering light*
+==334== *By the dead and drowsy fire,*
+==335== *Every elf and fairy sprite*
+==336== *Hop as light as bird from brier,*
+==337== *And this ditty, after me,*
+==338== *Sing, and dance it trippingly.*
 
 **TITA.**
-==340==First, rehearse your song by rote,
-==341==To each word a warbling note.
-==342==Hand in hand, with fairy grace,
-==343==Will we sing, and bless this place.
+==339==First, rehearse your song by rote,
+==340==To each word a warbling note.
+==341==Hand in hand, with fairy grace,
+==342==Will we sing, and bless this place.
 
 *Song and dance.*
 
 **OBE.**
-==344==*Now, until the break of day,*
-==345==*Through this house each fairy stray.*
-==346==*To the best bride-bed will we,*
-==347==*Which by us shall blessed be;*
-==348==*And the issue, there create,*
-==349==*Ever shall be fortunate.*
-==350==*So shall all the couples three*
-==351==*Ever true in loving be;*
-==352==*And the blots of Nature’s hand*
-==353==*Shall not in their issue stand;*
-==354==*Never mole, hare-lip, nor scar,*
-==355==*Nor mark prodigious, such as are*
-==356==*Despised in nativity,*
-==357==*Shall upon their children be.*
-==358==*With this field-dew consecrate,*
-==359==*Every fairy take his gait,*
-==360==*And each several chamber bless,*
-==361==*Through this palace, with sweet peace,*
-==362==*And the owner of it blest*
-==363==*Ever shall in safety rest.*
-==364==*Trip away; make no stay;*
-==365==*Meet me all by break of day.*
+==343== *Now, until the break of day,*
+==344== *Through this house each fairy stray.*
+==345== *To the best bride-bed will we,*
+==346== *Which by us shall blessed be;*
+==347== *And the issue, there create,*
+==348== *Ever shall be fortunate.*
+==349== *So shall all the couples three*
+==350== *Ever true in loving be;*
+==351== *And the blots of Nature’s hand*
+==352== *Shall not in their issue stand;*
+==353== *Never mole, hare-lip, nor scar,*
+==354== *Nor mark prodigious, such as are*
+==355== *Despised in nativity,*
+==356== *Shall upon their children be.*
+==357== *With this field-dew consecrate,*
+==358== *Every fairy take his gait,*
+==359== *And each several chamber bless,*
+==360== *Through this palace, with sweet peace,*
+==361== *And the owner of it blest*
+==362== *Ever shall in safety rest.*
+==363== *Trip away; make no stay;*
+==364== *Meet me all by break of day.*
 
 *Exeunt Oberon, Titania, and Train.*
 
 **PUCK.**
-==366==*If we shadows have offended,*
-==367==*Think but this, and all is mended,*
-==368==*That you have but slumb’red here*
-==369==*While these visions did appear.*
-==370==*And this weak and idle theme,*
-==371==*No more yielding but a dream,*
-==372==*Gentles, do not reprehend.*
-==373==*If you pardon, we will mend.*
-==374==*And, as I am an honest Puck,*
-==375==*If we have unearned luck*
-==376==*Now to scape the serpent’s tongue,*
-==377==*We will make amends ere long;*
-==378==*Else the Puck a liar call.*
-==379==*So, good night unto you all.*
-==380==*Give me your hands, if we be friends,*
-==381==*And Robin shall restore amends.*
+==365== *If we shadows have offended,*
+==366== *Think but this, and all is mended,*
+==367== *That you have but slumb’red here*
+==368== *While these visions did appear.*
+==369== *And this weak and idle theme,*
+==370== *No more yielding but a dream,*
+==371== *Gentles, do not reprehend.*
+==372== *If you pardon, we will mend.*
+==373== *And, as I am an honest Puck,*
+==374== *If we have unearned luck*
+==375== *Now to scape the serpent’s tongue,*
+==376== *We will make amends ere long;*
+==377== *Else the Puck a liar call.*
+==378== *So, good night unto you all.*
+==379== *Give me your hands, if we be friends,*
+==380== *And Robin shall restore amends.*
 
 *Exit.*
 

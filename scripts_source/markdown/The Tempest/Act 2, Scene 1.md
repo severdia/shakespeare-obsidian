@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-2-1
 ---
@@ -630,12 +630,12 @@ ID: tempest-2-1
 ==262==That you, his friend, are in, and sends me forth
 ==263==(For else his project dies) to keep them living.
 *(Sings in Gonzalo’s ear.)*
-==264==*While you here do snoring lie,*
-==265==*Open-ey’d conspiracy*
-==266==*His time doth take.*
-==267==*If of life you keep a care,*
-==268==*Shake off slumber, and beware.*
-==269==*Awake, awake!*
+==264== *While you here do snoring lie,*
+==265== *Open-ey’d conspiracy*
+==266== *His time doth take.*
+==267== *If of life you keep a care,*
+==268== *Shake off slumber, and beware.*
+==269== *Awake, awake!*
 
 **ANT.**
 ==270==Then let us both be sudden.

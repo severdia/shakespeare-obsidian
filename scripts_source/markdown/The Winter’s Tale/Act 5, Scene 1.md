@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-5-1
 ---
@@ -231,7 +231,7 @@ ID: winters-tale-5-1
 ==113==Yourself, assisted with your honor’d friends,
 ==114==Bring them to our embracement.
 *(Exeunt Cleomines and others.)*
-==114==              Still, ’tis strange
+==114==                  Still, ’tis strange
 ==115==He thus should steal upon us.
 
 **PAUL.**

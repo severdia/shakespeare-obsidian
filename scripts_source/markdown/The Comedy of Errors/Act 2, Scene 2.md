@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: comedy-of-errors-2-2
 ---
@@ -321,7 +321,7 @@ ID: comedy-of-errors-2-2
 ==161==This is the fairy land. O spite of spites!
 ==162==We talk with goblins, owls, and sprites;
 ==163==If we obey them not, this will ensue:
-==164==they’ll suck our breath, or pinch us black and blue.
+==164==They’ll suck our breath, or pinch us black and blue.
 
 **LUC.**
 ==165==Why prat’st thou to thyself, and answer’st not?

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -134,7 +134,7 @@ ID: othello-4-1
 ==44==Rub him about the temples.
 
 **IAGO.**
-==44==                  No, forbear,
+==44==                No, forbear,
 ==45==The lethargy must have his quiet course;
 ==46==If not, he foams at mouth, and by and by
 ==47==Breaks out to savage madness. Look, he stirs.
@@ -235,7 +235,7 @@ ID: othello-4-1
 ==102==I never knew woman love man so.
 
 **CAS.**
-==103==Alas, poor rogue, I think, i’ faith, she loves me.
+==103==Alas, poor rogue, I think, i’faith, she loves me.
 
 **OTH.**
 ==104==Now he denies it faintly, and laughs it out.
@@ -528,7 +528,7 @@ ID: othello-4-1
 ==196==Out of my sight!
 
 **DES.**
-==196==           I will not stay to offend you.
+==196==        I will not stay to offend you.
 
 *Going.*
 

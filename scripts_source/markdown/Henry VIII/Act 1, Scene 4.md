@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-1-4
 ---
@@ -49,11 +49,11 @@ ID: henry-viii-1-4
 ==16==To one or two of these!
 
 **SAN.**
-==16==           I would I were,
+==16==              I would I were,
 ==17==They should find easy penance.
 
 **LOV.**
-==17==                  Faith, how easy?
+==17==                     Faith, how easy?
 
 **SAN.**
 ==18==As easy as a down-bed would afford it.
@@ -201,10 +201,10 @@ ID: henry-viii-1-4
 ==77==My lord!
 
 **CHAM.**
-==77==    Your Grace?
+==77==        Your Grace?
 
 **WOL.**
-==77==        Pray tell ’em thus much from me:
+==77==           Pray tell ’em thus much from me:
 ==78==There should be one amongst ’em, by his person
 ==79==More worthy this place than myself, to whom
 ==80==(If I but knew him) with my love and duty

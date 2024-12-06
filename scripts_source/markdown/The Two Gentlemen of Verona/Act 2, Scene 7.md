@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-2-7
 ---
@@ -58,7 +58,7 @@ ID: two-gentlemen-of-verona-2-7
 ==25==The current that with gentle murmur glides,
 ==26==Thou know’st, being stopp’d, impatiently doth rage;
 ==27==But when his fair course is not hindered,
-==28==He makes sweet music with th’ enamell’d stones,
+==28==He makes sweet music with th’ enamel’d stones,
 ==29==Giving a gentle kiss to every sedge
 ==30==He overtaketh in his pilgrimage;
 ==31==And so by many winding nooks he strays

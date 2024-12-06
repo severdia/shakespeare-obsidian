@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -110,7 +110,7 @@ ID: merry-wives-of-windsor-5-5
 ==45==Like sapphire, pearl, and rich embroidery,
 ==46==Buckled below fair knighthood’s bending knee:
 ==47==Fairies use flow’rs for their charactery.
-==48==Away, disperse! But till ’tis one a’ clock,
+==48==Away, disperse! But till ’tis one o’clock,
 ==49==Our dance of custom, round about the oak
 ==50==Of Herne the hunter, let us not forget.
 
@@ -148,16 +148,16 @@ ID: merry-wives-of-windsor-5-5
 ==65==About him, fairies, sing a scornful rhyme,
 ==66==And as you trip, still pinch him to your time.
 *(The Song)*
-==67==*Fie on sinful fantasy!*
-==68==*Fie on lust and luxury!*
-==69==*Lust is but a bloody fire,*
-==70==*Kindled with unchaste desire,*
-==71==*Fed in heart, whose flames aspire,*
-==72==*As thoughts do blow them, higher and higher.*
-==73==*Pinch him, fairies, mutually!*
-==74==*Pinch him for his villainy!*
-==75==*Pinch him, and burn him, and turn him about,*
-==76==*Till candles, and starlight, and moonshine be out.*
+==67== *Fie on sinful fantasy!*
+==68== *Fie on lust and luxury!*
+==69== *Lust is but a bloody fire,*
+==70== *Kindled with unchaste desire,*
+==71== *Fed in heart, whose flames aspire,*
+==72== *As thoughts do blow them, higher and higher.*
+==73== *Pinch him, fairies, mutually!*
+==74== *Pinch him for his villainy!*
+==75==Pinch him, and burn him, and turn him about,
+==76==Till candles, and starlight, and moonshine be out.
 
 *Here they pinch him and sing about him. And the Doctor Caius comes one way, and steals away a boy in green; and Slender another way; he takes a boy in white; and Fenton steals Mistress Anne Page. And a noise of hunting is made within; and all the fairies run away. Falstaff pulls off his buck’s head, and rises up.*
 

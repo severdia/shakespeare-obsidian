@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-dp
 ---
@@ -74,3 +74,10 @@ ID: coriolanus-dp
 - Patricians (PATRICIANS; ALL PATRICIANS)
 - Scout (SCOUT.)
 - Usher (USH.)
+- Roman Captains (ROM. CAPTAINS.)
+- Lictors (LICTORS.)
+- Gentry (GENTRY.)
+- Guards (GUARDS.)
+- Attendants (ATTENDANTS.)
+- Lords (LORDS.)
+- Commoners (COMMONERS.)

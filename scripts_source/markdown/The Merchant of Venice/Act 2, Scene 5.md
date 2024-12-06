@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -59,7 +59,7 @@ ID: merchant-of-venice-2-5
 ==19==So do I his.
 
 **LAUN.**
-==20==And they have conspir’d together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six a’ clock i’ th’ morning, falling out that year on Ash We’n’sday was four year in th’ afternoon.
+==20==And they have conspir’d together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six o’clock i’ th’ morning, falling out that year on Ash We’n’sday was four year in th’ afternoon.
 
 **SHY.**
 ==21==What, are there masques? Hear you me, Jessica:
@@ -76,35 +76,36 @@ ID: merchant-of-venice-2-5
 ==32==Say I will come.
 
 **LAUN.**
-==33==I will go before, sir. Mistress, look out at window for all this⁠—
-==33==    There will come a Christian by,
-==33==    Will be worth a Jewess’ eye.
+==32==              I will go before, sir. 
+==33==Mistress, look out at window for all this⁠—
+==34==    There will come a Christian by,
+==35==    Will be worth a Jewess’ eye.
 
 *Exit.*
 
 **SHY.**
-==34==What says that fool of Hagar’s offspring, ha?
+==36==What says that fool of Hagar’s offspring, ha?
 
 **JES.**
-==35==His words were “Farewell, mistress!”—nothing else.
+==37==His words were “Farewell, mistress!”—nothing else.
 
 **SHY.**
-==36==The patch is kind enough, but a huge feeder,
-==37==Snail-slow in profit, and he sleeps by day
-==38==More than the wild-cat. Drones hive not with me,
-==39==Therefore I part with him, and part with him
-==40==To one that I would have him help to waste
-==41==His borrowed purse. Well, Jessica, go in,
-==42==Perhaps I will return immediately.
-==43==Do as I bid you, shut doors after you;
-==44==Fast bind, fast find⁠—
-==45==A proverb never stale in thrifty mind.
+==38==The patch is kind enough, but a huge feeder,
+==39==Snail-slow in profit, and he sleeps by day
+==40==More than the wild-cat. Drones hive not with me,
+==41==Therefore I part with him, and part with him
+==42==To one that I would have him help to waste
+==43==His borrowed purse. Well, Jessica, go in,
+==44==Perhaps I will return immediately.
+==45==Do as I bid you, shut doors after you;
+==46==Fast bind, fast find⁠—
+==47==A proverb never stale in thrifty mind.
 
 *Exit.*
 
 **JES.**
-==46==Farewell, and if my fortune be not cross’d,
-==47==I have a father, you a daughter, lost.
+==48==Farewell, and if my fortune be not cross’d,
+==49==I have a father, you a daughter, lost.
 
 *Exit.*
 

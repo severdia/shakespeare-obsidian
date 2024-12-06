@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -148,7 +148,7 @@ ID: henry-v-4-8
 ==51==And gentlemen of blood and quality.
 ==52==The names of those their nobles that lie dead:
 ==53==Charles Delabreth, High Constable of France,
-==54==Jacques of Chatillion, Admiral of France,
+==54==Jacques of Chatillon, Admiral of France,
 ==55==The master of the cross-bows, Lord Rambures,
 ==56==Great Master of France, the brave Sir Guichard Dauphin,
 ==57==John Duke of Alanson, Anthony Duke of Brabant,

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -166,10 +166,10 @@ ID: merry-wives-of-windsor-1-3
 ==53==I will discuss the humor of this love to Page.
 
 **PIST.**
-==54==*And I to Ford shall eke unfold*
-==55==*How Falstaff (varlet vile) *
-==56==*His dove will prove, his gold will hold,*
-==57==*And his soft couch defile.*
+==54== *And I to Ford shall eke unfold*
+==55==    *How Falstaff (varlet vile) *
+==56== *His dove will prove, his gold will hold,*
+==57==    *And his soft couch defile.*
 
 **NYM.**
 ==58==My humor shall not cool. I will incense Page to deal with poison; I will possess him with yallowness, for the revolt of mine is dangerous—that is my true humor.

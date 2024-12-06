@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -19,7 +19,7 @@ ID: romeo-and-juliet-1-4
 
 *Verona. A street.*
 
-*Enter Romeo, Mercutio, Benvolio, with five or six other Maskers; Torch-Bearers.*
+*Enter Romeo, Mercutio, Benvolio, with five or six other Maskers; Torchbearers.*
 
 **ROM.**
 ==1==What, shall this speech be spoke for our excuse?
@@ -125,7 +125,7 @@ ID: romeo-and-juliet-1-4
 **MER.**
 ==53==O then I see Queen Mab hath been with you.
 ==54==She is the fairies’ midwife, and she comes
-==55==In shape no bigger than an agot-stone
+==55==In shape no bigger than an agate-stone
 ==56==On the forefinger of an alderman,
 ==57==Drawn with a team of little atomi
 ==58==Over men’s noses as they lie asleep.

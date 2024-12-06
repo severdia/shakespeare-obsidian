@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1608)
   - Quarto 2 (1619)
@@ -63,13 +63,13 @@ ID: king-lear-3-6
 **EDG.**
 ==14==Look where he stands and glares! Want’st thou eyes at trial, madam?
 *(Sings.)*
-==15==*“Come o’er the bourn, Bessy, to me”⁠—*
+==15== *“Come o’er the bourn, Bessy, to me”⁠—*
 
 **FOOL.**
 *(Sings.)*
-==16==*Her boat hath a leak,*
-==17==*And she must not speak*
-==18==*Why she dares not come over to thee.*
+==16==    *Her boat hath a leak,*
+==17==    *And she must not speak*
+==18== *Why she dares not come over to thee.*
 
 **EDG.**
 ==19==The foul fiend haunts poor Tom in the voice of a nightingale. Hoppedance cries in Tom’s belly for two white herring. Croak not, black angel, I have no food for thee.
@@ -90,13 +90,13 @@ ID: king-lear-3-6
 ==27==Sit you too.
 
 **EDG.**
-==27==    Let us deal justly.
+==27==           Let us deal justly.
 *(Sings.)*
-==28==*Sleepest or wakest thou, jolly shepherd?*
-==29==*Thy sheep be in the corn,*
-==30==*And for one blast of thy minikin mouth,*
-==31==*Thy sheep shall take no harm.*
-==32==*Purr the cat is grey.*
+==28== *Sleepest or wakest thou, jolly shepherd?*
+==29==    *Thy sheep be in the corn,*
+==30== *And for one blast of thy minikin mouth,*
+==31==    *Thy sheep shall take no harm.*
+==32== *Purr the cat is grey.*
 
 **LEAR.**
 ==33==Arraign her first, ’tis Goneril. I here take my oath before this honorable assembly, she kick’d the poor king her father.

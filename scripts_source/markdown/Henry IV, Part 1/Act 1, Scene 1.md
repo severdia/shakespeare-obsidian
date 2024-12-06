@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -39,11 +39,11 @@ ID: henry-iv-part-i-1-1
 ==16==Against acquaintance, kindred, and allies.
 ==17==The edge of war, like an ill-sheathed knife,
 ==18==No more shall cut his master. Therefore, friends,
-==19==As far as to the sepulchre of Christ⁠—
+==19==As far as to the sepulcher of Christ⁠—
 ==20==Whose soldier now, under whose blessed cross
 ==21==We are impressed and engag’d to fight⁠—
 ==22==Forthwith a power of English shall we levy,
-==23==Whose arms were moulded in their mother’s womb,
+==23==Whose arms were molded in their mother’s womb,
 ==24==To chase these pagans in those holy fields,
 ==25==Over whose acres walk’d those blessed feet
 ==26==Which fourteen hundred years ago were nail’d
@@ -61,7 +61,7 @@ ID: henry-iv-part-i-1-1
 ==36==But yesternight, when all athwart there came
 ==37==A post from Wales loaden with heavy news,
 ==38==Whose worst was that the noble Mortimer,
-==39==Leading the men of Herfordshire to fight
+==39==Leading the men of Hertfordshire to fight
 ==40==Against the irregular and wild Glendower,
 ==41==Was by the rude hands of that Welshman taken,
 ==42==A thousand of his people butchered,

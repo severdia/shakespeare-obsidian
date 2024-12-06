@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-4-2
 ---
@@ -114,26 +114,26 @@ ID: twelfth-night-4-2
 
 **CLO.**
 *(Sings.)*
-==30==*“Hey, Robin, jolly Robin,*
-==31==*Tell me how thy lady does.”*
+==30== *“Hey, Robin, jolly Robin,*
+==31== *Tell me how thy lady does.”*
 
 **MAL.**
 ==32==Fool!
 
 **CLO.**
-==33==*“My lady is unkind, perdie.”*
+==33== *“My lady is unkind, perdie.”*
 
 **MAL.**
 ==34==Fool!
 
 **CLO.**
-==35==*“Alas, why is she so?”*
+==35== *“Alas, why is she so?”*
 
 **MAL.**
 ==36==Fool, I say!
 
 **CLO.**
-==37==*“She loves another”⁠—*
+==37== *“She loves another”⁠—*
 ==38==Who calls, ha?
 
 **MAL.**
@@ -195,18 +195,18 @@ ID: twelfth-night-4-2
 
 **CLO.**
 *(Sings.)*
-==58==*I am gone, sir,*
-==59==*And anon, sir,*
-==60==*I’ll be with you again;*
-==61==*In a trice,*
-==62==*Like to the old Vice,*
-==63==*Your need to sustain;*
-==64==*Who with dagger of lath,*
-==65==*In his rage and his wrath,*
-==66==*Cries, ah, ha! To the devil;*
-==67==*Like a mad lad,*
-==68==*Pare thy nails, dad.*
-==69==*Adieu, goodman devil.*
+==58== *I am gone, sir,*
+==59== *And anon, sir,*
+==60==    *I’ll be with you again;*
+==61== *In a trice,*
+==62== *Like to the old Vice,*
+==63==    *Your need to sustain;*
+==64== *Who with dagger of lath,*
+==65== *In his rage and his wrath,*
+==66==    *Cries, ah, ha! To the devil;*
+==67== *Like a mad lad,*
+==68== *Pare thy nails, dad.*
+==69==    *Adieu, goodman devil.*
 
 *Exit.*
 

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -50,3 +50,6 @@ ID: hamlet-dp
 - Lord (LORD.)
 - Laertes’s Followers (LAER. FOL.)
 - Ophelia’s Pallbearers (PALL.)
+- Attendants (ATTENDANTS.)
+- Lords (LORDS.)
+- Guard (GUARD.)

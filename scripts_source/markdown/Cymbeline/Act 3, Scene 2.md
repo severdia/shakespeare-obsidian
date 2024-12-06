@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: cymbeline-3-2
 ---
@@ -80,7 +80,7 @@ ID: cymbeline-3-2
 ==50==(O let me bate!)—but not like me—yet long’st,
 ==51==But in a fainter kind—O, not like me,
 ==52==For mine’s beyond beyond—say, and speak thick
-==53==(Love’s counsellor should fill the bores of hearing,
+==53==(Love’s counselor should fill the bores of hearing,
 ==54==To th’ smothering of the sense), how far it is
 ==55==To this same blessed Milford. And by th’ way
 ==56==Tell me how Wales was made so happy as

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -16,7 +16,7 @@ ID: henry-vi-part-iii-2-1
 ## Act 2, Scene 1
 [[Act 1, Scene 4|← Act 1, Scene 4]] | [[Act 2, Scene 2|Act 2, Scene 2 →]]
 
-*Herfordshire. A plain near Mortimer’s Cross.*
+*Hertfordshire. A plain near Mortimer’s Cross.*
 
 *A march. Enter Edward, Richard, and their power.*
 
@@ -113,7 +113,7 @@ ID: henry-vi-part-iii-2-1
 ==68==Sweet Duke of York, our prop to lean upon,
 ==69==Now thou art gone we have no staff, no stay.
 ==70==O Clifford, boist’rous Clifford, thou hast slain
-==71==The flow’r of Europe for his chevalry,
+==71==The flow’r of Europe for his chivalry,
 ==72==And treacherously hast thou vanquish’d him,
 ==73==For hand to hand he would have vanquish’d thee.
 ==74==Now my soul’s palace is become a prison;
@@ -220,7 +220,7 @@ ID: henry-vi-part-iii-2-1
 ==151==Nor now my scandal, Richard, dost thou hear;
 ==152==For thou shalt know this strong right hand of mine
 ==153==Can pluck the diadem from faint Henry’s head,
-==154==And wring the aweful scepter from his fist,
+==154==And wring the awful scepter from his fist,
 ==155==Were he as famous and as bold in war
 ==156==As he is fam’d for mildness, peace, and prayer.
 

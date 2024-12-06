@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -126,7 +126,7 @@ ID: taming-of-the-shrew-1-prologue-1
 
 **1. HUN.**
 ==61==My lord, I warrant you we will play our part
-==62==As he shall think by our truediligence
+==62==As he shall think by our true diligence
 ==63==He is no less than what we say he is.
 
 **LORD.**

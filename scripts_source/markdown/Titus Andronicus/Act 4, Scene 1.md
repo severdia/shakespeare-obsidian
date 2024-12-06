@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1594)
   - First Folio (1623)
@@ -163,7 +163,7 @@ ID: titus-andronicus-4-1
 ==88==And kneel, sweet boy, the Roman Hector’s hope,
 ==89==And swear with me, as with the woeful fere
 ==90==And father of that chaste dishonored dame,
-==91==Lord Junius Brutus sware for Lucrece’ rape,
+==91==Lord Junius Brutus swear for Lucrece’ rape,
 ==92==That we will prosecute by good advice
 ==93==Mortal revenge upon these traitorous Goths,
 ==94==And see their blood or die with this reproach.

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -75,7 +75,7 @@ ID: henry-v-2-3
 ==22==Trust none;
 ==23==For oaths are straws, men’s faiths are wafer-cakes,
 ==24==And Hold-fast is the only dog, my duck;
-==25==Therefore *Caveto* be thy counsellor.
+==25==Therefore *Caveto* be thy counselor.
 ==26==Go, clear thy crystals. Yoke-fellows in arms,
 ==27==Let us to France, like horse-leeches, my boys,
 ==28==To suck, to suck, the very blood to suck!

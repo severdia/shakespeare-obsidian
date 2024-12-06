@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-2-4
 ---
@@ -67,7 +67,7 @@ ID: twelfth-night-2-4
 ==23==              Of your complexion.
 
 **DUKE.**
-==24==She is not worth thee then. What years, i’ faith?
+==24==She is not worth thee then. What years, i’faith?
 
 **VIO.**
 ==25==About your years, my lord.
@@ -114,22 +114,22 @@ ID: twelfth-night-2-4
 *Music. The Song*
 
 **CLO.**
-==48==*Come away, come away, death,*
-==49==*And in sad cypress let me be laid.*
-==50==*Fly away, fly away, breath,*
-==51==*I am slain by a fair cruel maid.*
-==52==*My shroud of white, stuck all with yew,*
-==53==*O, prepare it!*
-==54==*My part of death, no one so true*
-==55==*Did share it.*
-==56==*Not a flower, not a flower sweet*
-==57==*On my black coffin let there be strown.*
-==58==*Not a friend, not a friend greet*
-==59==*My poor corpse, where my bones shall be thrown.*
-==60==*A thousand thousand sighs to save,*
-==61==*Lay me, O, where*
-==62==*Sad true lover never find my grave,*
-==63==*To weep there.*
+==48== *Come away, come away, death,*
+==49== *And in sad cypress let me be laid.*
+==50== *Fly away, fly away, breath,*
+==51== *I am slain by a fair cruel maid.*
+==52== *My shroud of white, stuck all with yew,*
+==53== *O, prepare it!*
+==54== *My part of death, no one so true*
+==55== *Did share it.*
+==56== *Not a flower, not a flower sweet*
+==57== *On my black coffin let there be strown.*
+==58== *Not a friend, not a friend greet*
+==59== *My poor corpse, where my bones shall be thrown.*
+==60== *A thousand thousand sighs to save,*
+==61== *Lay me, O, where*
+==62== *Sad true lover never find my grave,*
+==63== *To weep there.*
 
 **DUKE.**
 ==64==There’s for thy pains.

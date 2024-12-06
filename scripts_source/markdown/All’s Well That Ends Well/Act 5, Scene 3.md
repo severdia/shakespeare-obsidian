@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-5-3
 ---
@@ -39,7 +39,7 @@ ID: alls-well-that-ends-well-5-3
 ==11==And watch’d the time to shoot.
 
 **LAF.**
-==11==                  This I must say⁠—
+==11==                This I must say⁠—
 ==12==But first I beg my pardon—the young lord
 ==13==Did to his Majesty, his mother, and his lady
 ==14==Offense of mighty note; but to himself
@@ -149,7 +149,7 @@ ID: alls-well-that-ends-well-5-3
 ==80==I saw upon her finger.
 
 **BER.**
-==80==              Hers it was not.
+==80==           Hers it was not.
 
 **KING.**
 ==81==Now pray you let me see it; for mine eye,
@@ -171,7 +171,7 @@ ID: alls-well-that-ends-well-5-3
 ==91==At her live’s rate.
 
 **LAF.**
-==91==           I am sure I saw her wear it.
+==91==        I am sure I saw her wear it.
 
 **BER.**
 ==92==You are deceiv’d, my lord, she never saw it.
@@ -231,7 +231,7 @@ ID: alls-well-that-ends-well-5-3
 ==128==I am wrapp’d in dismal thinkings.
 
 **GENT.**
-==128==                Gracious sovereign,
+==128==                  Gracious sovereign,
 ==129==Whether I have been to blame or no, I know not.
 ==130==Here’s a petition from a Florentine,
 ==131==Who hath for four or five removes come short
@@ -399,7 +399,7 @@ ID: alls-well-that-ends-well-5-3
 ==215==What ring was yours, I pray you?
 
 **DIA.**
-==215==                     Sir, much like
+==215==                  Sir, much like
 ==216==The same upon your finger.
 
 **KING.**

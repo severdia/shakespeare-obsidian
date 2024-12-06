@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-1-5
 ---
@@ -21,16 +21,16 @@ ID: two-noble-kinsmen-1-5
 
 **ALL QUEENS.**
 *(Song.)*
-==1==*Urns and odors bring away,*
-==2==*Vapors, sighs, darken the day;*
-==3==*Our dole more deadly looks than dying;*
-==4==*Balms, and gums, and heavy cheers,*
-==5==*Sacred vials fill’d with tears,*
-==6==*And clamors through the wild air flying!*
-==7==*Come all sad and solemn shows,*
-==8==*That are quick-ey’d pleasure’s foes!*
-==9==*We convent nought else but woes:*
-==10==*We convent, etc.*
+==1== *Urns and odors bring away,*
+==2== *Vapors, sighs, darken the day;*
+==3== *Our dole more deadly looks than dying;*
+==4== *Balms, and gums, and heavy cheers,*
+==5== *Sacred vials fill’d with tears,*
+==6== *And clamors through the wild air flying!*
+==7== *Come all sad and solemn shows,*
+==8== *That are quick-ey’d pleasure’s foes!*
+==9== *We convent nought else but woes:*
+==10== *We convent, etc.*
 
 **3. QUEEN.**
 ==11==This funeral path brings to your household’s grave:

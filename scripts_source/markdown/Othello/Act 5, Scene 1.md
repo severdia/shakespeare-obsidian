@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -87,7 +87,7 @@ ID: othello-5-1
 ==29==O, villain that I am!
 
 **OTH.**
-==29==              It is even so.
+==29==           It is even so.
 
 **CAS.**
 ==30==O, help ho! Light! A surgeon!
@@ -117,7 +117,7 @@ ID: othello-5-1
 ==40==Hark!
 
 **ROD.**
-==41==O wretched villin!
+==41==O wretched villain!
 
 **LOD.**
 ==42==Two or three groan. ’Tis heavy night;
@@ -142,13 +142,13 @@ ID: othello-5-1
 ==49==We do not know.
 
 **IAGO.**
-==49==              Did not you hear a cry?
+==49==           Did not you hear a cry?
 
 **CAS.**
 ==50==Here, here! For heaven sake help me!
 
 **IAGO.**
-==50==                What’s the matter?
+==50==                     What’s the matter?
 
 **GRA.**
 ==51==This is Othello’s ancient, as I take it.
@@ -217,7 +217,7 @@ ID: othello-5-1
 ==73==My leg is cut in two.
 
 **IAGO.**
-==73==              Marry, heaven forbid!
+==73==           Marry, heaven forbid!
 ==74==Light, gentlemen! I’ll bind it with my shirt.
 
 *Enter Bianca.*
@@ -264,7 +264,7 @@ ID: othello-5-1
 ==93==Even he, sir; did you know him?
 
 **GRA.**
-==93==                     Know him? Ay.
+==93==                  Know him? Ay.
 
 **IAGO.**
 ==94==*Signior* Gratiano? I cry your gentle pardon;
@@ -283,7 +283,7 @@ ID: othello-5-1
 **IAGO.**
 ==99==He, he,’tis he.
 *(A chair brought in.)*
-==99==           O, that’s well said: the chair.
+==99==        O, that’s well said: the chair.
 ==100==Some good man bear him carefully from hence,
 ==101==I’ll fetch the general’s surgeon.
 *(To Bianca.)*
@@ -347,7 +347,7 @@ ID: othello-5-1
 ==129==And tell my lord and lady what hath happ’d.⁠—
 ==130==Will you go on afore?
 *(Aside.)*
-==130==              This is the night
+==130==           This is the night
 ==131==That either makes me, or foredoes me quite.
 
 *Exeunt.*

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -99,3 +99,11 @@ ID: henry-vi-part-ii-dp
 - John Southwell (SOUTH.)
 - Commoners (COMMONS.)
 - London Citizens (LOND. CIT.)
+- Servant (SERVANT.)
+- Buckingham and York’s Guard (BUCK. YORK. GUARD.)
+- Guard (GUARD.)
+- Officers (OFFICERS.)
+- Two Heralds (TWO HERALDS.)
+- King’s Attendants (KING. ATTENDANTS.)
+- Stafford’s Soldiers (STAFF. SOLDIERS.)
+- Drum and Colors (DRUM. COLORS.)

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -98,19 +98,19 @@ ID: much-ado-about-nothing-2-3
 *The Song*
 
 **BALTH.**
-==28==*Sigh no more, ladies, sigh no more,*
-==29==*Men were deceivers ever,*
-==30==*One foot in sea, and one on shore,*
-==31==*To one thing constant never.*
-==32==*Then sigh not so, but let them go,*
-==33==*And be you blithe and bonny,*
-==34==*Converting all your sounds of woe*
-==35==*Into hey nonny nonny.*
-==36==*Sing no more ditties, sing no more,*
-==37==*Of dumps so dull and heavy;*
-==38==*The fraud of men was ever so,*
-==39==*Since summer first was leavy.*
-==40==*Then sigh not so, etc.*
+==28== *Sigh no more, ladies, sigh no more,*
+==29==    *Men were deceivers ever,*
+==30== *One foot in sea, and one on shore,*
+==31==    *To one thing constant never.*
+==32== *Then sigh not so, but let them go,*
+==33==    *And be you blithe and bonny,*
+==34== *Converting all your sounds of woe*
+==35==    *Into hey nonny nonny.*
+==36== *Sing no more ditties, sing no more,*
+==37==    *Of dumps so dull and heavy;*
+==38== *The fraud of men was ever so,*
+==39==    *Since summer first was leavy.*
+==40==        *Then sigh not so, etc.*
 
 **D. PEDRO.**
 ==41==By my troth, a good song.

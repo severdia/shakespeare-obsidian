@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -21,7 +21,7 @@ ID: loves-labours-lost-4-3
 *Enter Berowne with a paper in his hand, alone.*
 
 **BER.**
-==1==The King he is hunting the deer: I am coursing myself. They have pitch’d a toil: I am toiling in a pitch—pitch that defiles—defile! A foul word. Well, “set thee down, sorrow!” for so they say the fool said, and so say I, and I the fool: well prov’d, wit! By the Lord, this love is as mad as Ajax. It kills sheep; it kills me, I a sheep: well prov’d again a’ my side! I will not love; if I do, hang me; i’ faith, I will not. O but her eye—by this light, but for her eye, I would not love her; yes, for her two eyes. Well, I do nothing in the world but lie, and lie in my throat. By heaven, I do love, and it hath taught me to rhyme and to be melancholy; and here is part of my rhyme, and here my melancholy. Well, she hath one a’ my sonnets already: the clown bore it, the fool sent it, and the lady hath it: sweet clown, sweeter fool, sweetest lady! By the world, I would not care a pin, if the other three were in. Here comes one with a paper, God give him grace to groan!
+==1==The King he is hunting the deer: I am coursing myself. They have pitch’d a toil: I am toiling in a pitch—pitch that defiles—defile! A foul word. Well, “set thee down, sorrow!” for so they say the fool said, and so say I, and I the fool: well prov’d, wit! By the Lord, this love is as mad as Ajax. It kills sheep; it kills me, I a sheep: well prov’d again a’ my side! I will not love; if I do, hang me; i’faith, I will not. O but her eye—by this light, but for her eye, I would not love her; yes, for her two eyes. Well, I do nothing in the world but lie, and lie in my throat. By heaven, I do love, and it hath taught me to rhyme and to be melancholy; and here is part of my rhyme, and here my melancholy. Well, she hath one a’ my sonnets already: the clown bore it, the fool sent it, and the lady hath it: sweet clown, sweeter fool, sweetest lady! By the world, I would not care a pin, if the other three were in. Here comes one with a paper, God give him grace to groan!
 
 *He stands aside, climbing into a tree.*
 
@@ -37,17 +37,17 @@ ID: loves-labours-lost-4-3
 **KING.**
 *(Reads.)*
 ==4==*“So sweet a kiss the golden sun gives not*
-==5==*To those fresh morning drops upon the rose,*
+==5== *To those fresh morning drops upon the rose,*
 ==6==*As thy eye-beams, when their fresh rays have smote*
-==7==*The night of dew that on my cheeks down flows;*
+==7== *The night of dew that on my cheeks down flows;*
 ==8==*Nor shines the silver moon one half so bright*
-==9==*Through the transparent bosom of the deep,*
+==9== *Through the transparent bosom of the deep,*
 ==10==*As doth thy face through tears of mine give light.*
-==11==*Thou shin’st in every tear that I do weep,*
+==11== *Thou shin’st in every tear that I do weep,*
 ==12==*No drop but as a coach doth carry thee;*
-==13==*So ridest thou triumphing in my woe.*
+==13== *So ridest thou triumphing in my woe.*
 ==14==*Do but behold the tears that swell in me,*
-==15==*And they thy glory through my grief will show.*
+==15== *And they thy glory through my grief will show.*
 ==16==*But do not love thyself, then thou wilt keep*
 ==17==*My tears for glasses, and still make me weep.*
 ==18==*O queen of queens, how far dost thou excel*
@@ -99,17 +99,17 @@ ID: loves-labours-lost-4-3
 ==36==           This same shall go.
 *(He reads the sonnet.)*
 ==37==*“Did not the heavenly rhetoric of thine eye,*
-==38==*’Gainst whom the world cannot hold argument,*
+==38== *’Gainst whom the world cannot hold argument,*
 ==39==*Persuade my heart to this false perjury?*
-==40==*Vows for thee broke deserve not punishment.*
+==40== *Vows for thee broke deserve not punishment.*
 ==41==*A woman I forswore, but I will prove,*
-==42==*Thou being a goddess, I forswore not thee.*
+==42== *Thou being a goddess, I forswore not thee.*
 ==43==*My vow was earthly, thou a heavenly love;*
-==44==*Thy grace being gain’d cures all disgrace in me.*
+==44== *Thy grace being gain’d cures all disgrace in me.*
 ==45==*Vows are but breath, and breath a vapor is;*
-==46==*Then thou, fair sun, which on my earth dost shine,*
+==46== *Then thou, fair sun, which on my earth dost shine,*
 ==47==*Exhal’st this vapor-vow; in thee it is.*
-==48==*If broken then, it is no fault of mine:*
+==48== *If broken then, it is no fault of mine:*
 ==49==*If by me broke, what fool is not so wise*
 ==50==*To lose an oath to win a paradise?”*
 
@@ -498,151 +498,151 @@ ID: loves-labours-lost-4-3
 **LONG.**
 ==252==Look, here’s thy love,
 *(Showing his boot.)*
-==253==my foot and her face see.
+==252==           my foot and her face see.
 
 **BER.**
-==254==O, if the streets were paved with thine eyes,
-==255==Her feet were much too dainty for such tread!
+==253==O, if the streets were paved with thine eyes,
+==254==Her feet were much too dainty for such tread!
 
 **DUM.**
-==256==O vile! Then as she goes what upward lies
-==257==The street should see as she walk’d overhead.
+==255==O vile! Then as she goes what upward lies
+==256==The street should see as she walk’d overhead.
 
 **KING.**
-==258==But what of this, are we not all in love?
+==257==But what of this, are we not all in love?
 
 **BER.**
-==259==O, nothing so sure, and thereby all forsworn.
+==258==O, nothing so sure, and thereby all forsworn.
 
 **KING.**
-==260==Then leave this chat, and, good Berowne, now prove
-==261==Our loving lawful, and our faith not torn.
+==259==Then leave this chat, and, good Berowne, now prove
+==260==Our loving lawful, and our faith not torn.
 
 **DUM.**
-==262==Ay marry, there—some flattery for this evil.
+==261==Ay marry, there—some flattery for this evil.
 
 **LONG.**
-==263==O, some authority how to proceed;
-==264==Some tricks, some quillets, how to cheat the devil.
+==262==O, some authority how to proceed;
+==263==Some tricks, some quillets, how to cheat the devil.
 
 **DUM.**
-==265==Some *salve* for perjury.
+==264==Some *salve* for perjury.
 
 **BER.**
-==265==              O, ’tis more than need.
-==266==Have at you then, affection’s men-at-arms.
-==267==Consider what you first did swear unto:
-==268==To fast, to study, and to see no woman⁠—
-==269==Flat treason ’gainst the kingly state of youth.
-==270==Say, can you fast? Your stomachs are too young,
-==271==And abstinence engenders maladies.
-==272==(And where that you have vow’d to study, lords,
-==273==In that each of you have forsworn his book,
-==274==Can you still dream and pore and thereon look?
-==275==For when would you, my lord, or you, or you,
-==276==Have found the ground of study’s excellence
-==277==Without the beauty of a woman’s face?
-==278==From women’s eyes this doctrine I derive:
-==279==They are the ground, the books, the academes,
-==280==From whence doth spring the true Promethean fire.
-==281==Why, universal plodding poisons up
-==282==The nimble spirits in the arteries,
-==283==As motion and long-during action tires
-==284==The sinowy vigor of the traveler.
-==285==Now for not looking on a woman’s face,
-==286==You have in that forsworn the use of eyes,
-==287==And study too, the causer of your vow.
-==288==For where is any author in the world
-==289==Teaches such beauty as a woman’s eye?
-==290==Learning is but an adjunct to ourself,
-==291==And where we are, our learning likewise is.
-==292==Then when ourselves we see in ladies’ eyes,
-==293==With ourselves,
-==294==Do we not likewise see our learning there?) 
-==295==O, we have made a vow to study, lords,
-==296==And in that vow we have forsworn our books.
-==297==For when would you, my liege, or you, or you,
-==298==In leaden contemplation have found out
-==299==Such fiery numbers as the prompting eyes
-==300==Of beauty’s tutors have enrich’d you with?
-==301==Other slow arts entirely keep the brain;
-==302==And therefore, finding barren practicers,
-==303==Scarce show a harvest of their heavy toil;
-==304==But love, first learned in a lady’s eyes,
-==305==Lives not alone immured in the brain,
-==306==But with the motion of all elements,
-==307==Courses as swift as thought in every power,
-==308==And gives to every power a double power,
-==309==Above their functions and their offices.
-==310==It adds a precious seeing to the eye:
-==311==A lover’s eyes will gaze an eagle blind.
-==312==A lover’s ear will hear the lowest sound,
-==313==When the suspicious head of theft is stopp’d.
-==314==Love’s feeling is more soft and sensible
-==315==Than are the tender horns of cockled snails.
-==316==Love’s tongue proves dainty Bacchus gross in taste.
-==317==For valor, is not Love a Hercules,
-==318==Still climbing trees in the Hesperides?
-==319==Subtile as Sphinx, as sweet and musical
-==320==As bright Apollo’s lute, strung with his hair.
-==321==And when Love speaks, the voice of all the gods
-==322==Make heaven drowsy with the harmony.
-==323==Never durst poet touch a pen to write
-==324==Until his ink were temp’red with Love’s sighs:
-==325==O then his lines would ravish savage ears
-==326==And plant in tyrants mild humility.
-==327==From women’s eyes this doctrine I derive:
-==328==They sparkle still the right Promethean fire;
-==329==They are the books, the arts, the academes,
-==330==That show, contain, and nourish all the world,
-==331==Else none at all in aught proves excellent.
-==332==Then fools you were these women to forswear,
-==333==Or keeping what is sworn, you will prove fools.
-==334==For wisdom’s sake, a word that all men love,
-==335==Or for love’s sake, a word that loves all men,
-==336==Or for men’s sake, the authors of these women,
-==337==Or women’s sake, by whom we men are men,
-==338==Let us once lose our oaths to find ourselves,
-==339==Or else we lose ourselves to keep our oaths.
-==340==It is religion to be thus forsworn:
-==341==For charity itself fulfills the law,
-==342==And who can sever love from charity?
+==264==              O, ’tis more than need.
+==265==Have at you then, affection’s men-at-arms.
+==266==Consider what you first did swear unto:
+==267==To fast, to study, and to see no woman⁠—
+==268==Flat treason ’gainst the kingly state of youth.
+==269==Say, can you fast? Your stomachs are too young,
+==270==And abstinence engenders maladies.
+==271==(And where that you have vow’d to study, lords,
+==272==In that each of you have forsworn his book,
+==273==Can you still dream and pore and thereon look?
+==274==For when would you, my lord, or you, or you,
+==275==Have found the ground of study’s excellence
+==276==Without the beauty of a woman’s face?
+==277==From women’s eyes this doctrine I derive:
+==278==They are the ground, the books, the academes,
+==279==From whence doth spring the true Promethean fire.
+==280==Why, universal plodding poisons up
+==281==The nimble spirits in the arteries,
+==282==As motion and long-during action tires
+==283==The sinowy vigor of the traveler.
+==284==Now for not looking on a woman’s face,
+==285==You have in that forsworn the use of eyes,
+==286==And study too, the causer of your vow.
+==287==For where is any author in the world
+==288==Teaches such beauty as a woman’s eye?
+==289==Learning is but an adjunct to ourself,
+==290==And where we are, our learning likewise is.
+==291==Then when ourselves we see in ladies’ eyes,
+==292==With ourselves,
+==293==Do we not likewise see our learning there?) 
+==294==O, we have made a vow to study, lords,
+==295==And in that vow we have forsworn our books.
+==296==For when would you, my liege, or you, or you,
+==297==In leaden contemplation have found out
+==298==Such fiery numbers as the prompting eyes
+==299==Of beauty’s tutors have enrich’d you with?
+==300==Other slow arts entirely keep the brain;
+==301==And therefore, finding barren practicers,
+==302==Scarce show a harvest of their heavy toil;
+==303==But love, first learned in a lady’s eyes,
+==304==Lives not alone immured in the brain,
+==305==But with the motion of all elements,
+==306==Courses as swift as thought in every power,
+==307==And gives to every power a double power,
+==308==Above their functions and their offices.
+==309==It adds a precious seeing to the eye:
+==310==A lover’s eyes will gaze an eagle blind.
+==311==A lover’s ear will hear the lowest sound,
+==312==When the suspicious head of theft is stopp’d.
+==313==Love’s feeling is more soft and sensible
+==314==Than are the tender horns of cockled snails.
+==315==Love’s tongue proves dainty Bacchus gross in taste.
+==316==For valor, is not Love a Hercules,
+==317==Still climbing trees in the Hesperides?
+==318==Subtile as Sphinx, as sweet and musical
+==319==As bright Apollo’s lute, strung with his hair.
+==320==And when Love speaks, the voice of all the gods
+==321==Make heaven drowsy with the harmony.
+==322==Never durst poet touch a pen to write
+==323==Until his ink were temp’red with Love’s sighs:
+==324==O then his lines would ravish savage ears
+==325==And plant in tyrants mild humility.
+==326==From women’s eyes this doctrine I derive:
+==327==They sparkle still the right Promethean fire;
+==328==They are the books, the arts, the academes,
+==329==That show, contain, and nourish all the world,
+==330==Else none at all in aught proves excellent.
+==331==Then fools you were these women to forswear,
+==332==Or keeping what is sworn, you will prove fools.
+==333==For wisdom’s sake, a word that all men love,
+==334==Or for love’s sake, a word that loves all men,
+==335==Or for men’s sake, the authors of these women,
+==336==Or women’s sake, by whom we men are men,
+==337==Let us once lose our oaths to find ourselves,
+==338==Or else we lose ourselves to keep our oaths.
+==339==It is religion to be thus forsworn:
+==340==For charity itself fulfills the law,
+==341==And who can sever love from charity?
 
 **KING.**
-==343==Saint Cupid, then! And, soldiers, to the field!
+==342==Saint Cupid, then! And, soldiers, to the field!
 
 **BER.**
-==344==Advance your standards, and upon them, lords;
-==345==Pell-mell, down with them! But be first advis’d,
-==346==In conflict that you get the sun of them.
+==343==Advance your standards, and upon them, lords;
+==344==Pell-mell, down with them! But be first advis’d,
+==345==In conflict that you get the sun of them.
 
 **LONG.**
-==347==Now to plain-dealing, lay these glozes by:
-==348==Shall we resolve to woo these girls of France?
+==346==Now to plain-dealing, lay these glozes by:
+==347==Shall we resolve to woo these girls of France?
 
 **KING.**
-==349==And win them too; therefore let us devise
-==350==Some entertainment for them in their tents.
+==348==And win them too; therefore let us devise
+==349==Some entertainment for them in their tents.
 
 **BER.**
-==351==First, from the park let us conduct them thither;
-==352==Then homeward every man attach the hand
-==353==Of his fair mistress. In the afternoon
-==354==We will with some strange pastime solace them,
-==355==Such as the shortness of the time can shape,
-==356==For revels, dances, masks, and merry hours
-==357==Forerun fair Love, strewing her way with flowers.
+==350==First, from the park let us conduct them thither;
+==351==Then homeward every man attach the hand
+==352==Of his fair mistress. In the afternoon
+==353==We will with some strange pastime solace them,
+==354==Such as the shortness of the time can shape,
+==355==For revels, dances, masks, and merry hours
+==356==Forerun fair Love, strewing her way with flowers.
 
 **KING.**
-==358==Away, away, no time shall be omitted
-==359==That will be time, and may by us be fitted.
+==357==Away, away, no time shall be omitted
+==358==That will be time, and may by us be fitted.
 
 **BER.**
-==360==*Allons! Allons!*
-==361==Sow’d cockle reap’d no corn,
-==362==And justice always whirls in equal measure:
-==363==Light wenches may prove plagues to men forsworn;
-==364==If so, our copper buys no better treasure.
+==359==*Allons! Allons!*
+==360==Sow’d cockle reap’d no corn,
+==361==And justice always whirls in equal measure:
+==362==Light wenches may prove plagues to men forsworn;
+==363==If so, our copper buys no better treasure.
 
 *Exeunt.*
 

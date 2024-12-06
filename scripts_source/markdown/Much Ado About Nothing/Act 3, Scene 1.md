@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -116,7 +116,7 @@ ID: much-ado-about-nothing-3-1
 ==62==She would swear the gentleman should be her sister;
 ==63==If black, why, Nature, drawing of an antic,
 ==64==Made a foul blot; if tall, a lance ill-headed;
-==65==If low, an agot very vilely cut;
+==65==If low, an agate very vilely cut;
 ==66==If speaking, why, a vane blown with all winds;
 ==67==If silent, why, a block moved with none.
 ==68==So turns she every man the wrong side out,

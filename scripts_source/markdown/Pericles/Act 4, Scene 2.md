@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -196,7 +196,7 @@ ID: pericles-4-2
 ==58==O, take her home, mistress, take her home. These blushes of hers must be quench’d with some present practice.
 
 **BAWD.**
-==59==Thou sayest true, i’ faith, so they must: for your bride goes to that with shame which is her way to go with warrant.
+==59==Thou sayest true, i’faith, so they must: for your bride goes to that with shame which is her way to go with warrant.
 
 **BOULT.**
 ==60==Faith, some do, and some do not. But, mistress, if I have bargain’d for the joint⁠—
@@ -214,7 +214,7 @@ ID: pericles-4-2
 ==64==Ay, by my faith, they shall not be chang’d yet.
 
 **BAWD.**
-==65==Boult, spend thou that in the town. Report what a sojoumer we have; you’ll lose nothing by custom. When nature fram’d this piece, she meant thee a good turn; therefore say what a paragon she is, and thou hast the harvest out of thine own report.
+==65==Boult, spend thou that in the town. Report what a sojourner we have; you’ll lose nothing by custom. When nature fram’d this piece, she meant thee a good turn; therefore say what a paragon she is, and thou hast the harvest out of thine own report.
 
 **BOULT.**
 ==66==I warrant you, mistress, thunder shall not so awake the beds of eels as my giving out her beauty stirs up the lewdly inclin’d. I’ll bring home some tonight.

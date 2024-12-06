@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-3-1
 ---
@@ -237,7 +237,7 @@ ID: sir-thomas-more-3-1
 ==111==              It is, Erasmus:
 ==112==Now shall you view the honorablest scholar,
 ==113==The most religious politician,
-==114==The worthiest counsellor that tends our state.
+==114==The worthiest counselor that tends our state.
 ==115==That study is the general watch of England;
 ==116==In it the prince’s safety, and the peace
 ==117==That shines upon our commonwealth, are forged
@@ -263,7 +263,7 @@ ID: sir-thomas-more-3-1
 ==130==*In lucem veniat quam qui—*
 
 **RANDALL.**
-==131==I prithee, good Erasmus, be covered. I have forsworn speaking of Latin, else, as I am true counsellor, I’d tickle you with a speech. Nay, sit, Erasmus;—sit, good my Lord of Surrey. I’ll make my lady come to you anon, if she will, and give you entertainment.
+==131==I prithee, good Erasmus, be covered. I have forsworn speaking of Latin, else, as I am true counselor, I’d tickle you with a speech. Nay, sit, Erasmus;—sit, good my Lord of Surrey. I’ll make my lady come to you anon, if she will, and give you entertainment.
 
 **ERASMUS.**
 ==132==Is this Sir Thomas More?
@@ -287,7 +287,7 @@ ID: sir-thomas-more-3-1
 ==138==Fool, painted barbarism, retire thyself
 ==139==Into thy first creation!
 *(Exit Randall.)*
-==139==                Thus you see,
+==139==           Thus you see,
 ==140==My loving learned friends, how far respect
 ==141==Waits often on the ceremonious train
 ==142==Of base illiterate wealth, whilst men of schools,
@@ -312,7 +312,7 @@ ID: sir-thomas-more-3-1
 ==157==My noble poet.
 
 **SURREY.**
-==157==           Oh, my Lord, you tax me
+==157==        Oh, my Lord, you tax me
 ==158==In that word poet of much idleness:
 ==159==It is a study that makes poor our fate;
 ==160==Poets were ever thought unfit for state.
@@ -325,12 +325,12 @@ ID: sir-thomas-more-3-1
 ==165==And tender bay tree.
 
 **SURREY.**
-==165==                Yet, my lord,
+==165==           Yet, my lord,
 ==166==It is become the very logic number
 ==167==To all mechanic sciences.
 
 **MORE.**
-==167==           Why, I’ll show the reason:
+==167==              Why, I’ll show the reason:
 ==168==This is no age for poets; they should sing
 ==169==To the loud canon *heroica facta*;
 ==170==*Qui faciunt reges heroica carmina laudant*:

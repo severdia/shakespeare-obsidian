@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-3-1
 ---
@@ -167,7 +167,7 @@ ID: macbeth-3-1
 ==90==                We are men, my liege.
 
 **K. MACB.**
-==91==Ay, in the catalogue ye go for men,
+==91==Ay, in the catalog ye go for men,
 ==92==As hounds and greyhounds, mongrels, spaniels, curs,
 ==93==Shoughs, water-rugs, and demi-wolves are clipt
 ==94==All by the name of dogs; the valued file

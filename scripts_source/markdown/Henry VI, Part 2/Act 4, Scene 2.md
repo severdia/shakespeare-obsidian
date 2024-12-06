@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -304,7 +304,7 @@ ID: henry-vi-part-ii-4-2
 ==98==O gross and miserable ignorance!
 
 **CADE.**
-==99==Nay, answer if you can. The Frenchmen are our enemies. Go to then, I ask but this: can he that speaks with the tongue of an enemy be a good counsellor, or no?
+==99==Nay, answer if you can. The Frenchmen are our enemies. Go to then, I ask but this: can he that speaks with the tongue of an enemy be a good counselor, or no?
 
 **ALL.**
 ==100==No, no, and therefore we’ll have his head.

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-2-5
 ---
@@ -21,14 +21,14 @@ ID: as-you-like-it-2-5
 *Song.*
 
 **AMI.**
-==1==*Under the greenwood tree*
-==2==*Who loves to lie with me,*
-==3==*And turn his merry note*
-==4==*Unto the sweet bird’s throat,*
-==5==*Come hither, come hither, come hither!*
-==6==*Here shall he see*
-==7==*No enemy*
-==8==*But winter and rough weather.*
+==1== *Under the greenwood tree*
+==2==    *Who loves to lie with me,*
+==3== *And turn his merry note*
+==4==    *Unto the sweet bird’s throat,*
+==5== *Come hither, come hither, come hither!*
+==6==    *Here shall he see*
+==7==    *No enemy*
+==8== *But winter and rough weather.*
 
 **JAQ.**
 ==9==More, more, I prithee more.
@@ -65,14 +65,14 @@ ID: as-you-like-it-2-5
 
 **AMI.**
 *(Song. All together here.)*
-==20==*Who doth ambition shun,*
-==21==*And loves to live i’ th’ sun,*
-==22==*Seeking the food he eats,*
-==23==*And pleas’d with what he gets,*
-==24==*Come hither, come hither, come hither!*
-==25==*Here shall he see*
-==26==*No enemy*
-==27==*But winter and rough weather.*
+==20== *Who doth ambition shun,*
+==21==    *And loves to live i’ th’ sun,*
+==22== *Seeking the food he eats,*
+==23==    *And pleas’d with what he gets,*
+==24== *Come hither, come hither, come hither!*
+==25==    *Here shall he see*
+==26==    *No enemy*
+==27== *But winter and rough weather.*
 
 **JAQ.**
 ==28==I’ll give you a verse to this note, that I made yesterday in despite of my invention.
@@ -82,14 +82,18 @@ ID: as-you-like-it-2-5
 
 **JAQ.**
 ==30==Thus it goes:
-==31==*If it do come to pass*
-==32==*That any man turn ass,*
-==33==*Leaving his wealth and ease*
-==34==*A stubborn will to please,*
-==35==*Ducdame, ducdame, ducdame!*
-==36==*Here shall he see*
-==37==*Gross fools as he,*
-==38==*And if he will come to me.*
+
+*Gives him a paper.*
+
+**AMI.**
+==31== *If it do come to pass*
+==32==    *That any man turn ass,*
+==33== *Leaving his wealth and ease*
+==34==    *A stubborn will to please,*
+==35== *Ducdame, ducdame, ducdame!*
+==36==    *Here shall he see*
+==37==    *Gross fools as he,*
+==38== *And if he will come to me.*
 
 **AMI.**
 ==39==What’s that “ducdame”?

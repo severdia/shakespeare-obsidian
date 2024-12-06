@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-3-1
 ---
@@ -167,7 +167,7 @@ ID: king-john-3-1
 
 **CONST.**
 ==114==War, war, no peace! Peace is to me a war.
-==115==O Lymoges, O Austria! Thou dost shame
+==115==O Limoges, O Austria! Thou dost shame
 ==116==That bloody spoil. Thou slave, thou wretch, thou coward!
 ==117==Thou little valiant, great in villainy!
 ==118==Thou ever strong upon the stronger side!

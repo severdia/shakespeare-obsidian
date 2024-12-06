@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -181,7 +181,7 @@ ID: richard-iii-1-2
 ==102==Didst thou not kill this king?
 
 **GLOU.**
-==102==                  I grant ye.
+==102==                I grant ye.
 
 **ANNE.**
 ==103==Dost grant me, hedgehog? Then God grant me too
@@ -208,7 +208,7 @@ ID: richard-iii-1-2
 ==112==Some dungeon.
 
 **GLOU.**
-==112==              Your bedchamber.
+==112==           Your bedchamber.
 
 **ANNE.**
 ==113==Ill rest betide the chamber where thou liest!
@@ -291,7 +291,7 @@ ID: richard-iii-1-2
 **GLOU.**
 ==146==        Here.
 *(She spits at him.)*
-==146==              Why dost thou spit at me?
+==146==           Why dost thou spit at me?
 
 **ANNE.**
 ==147==Would it were mortal poison for thy sake!
@@ -358,7 +358,7 @@ ID: richard-iii-1-2
 ==189==I have already.
 
 **GLOU.**
-==189==           That was in thy rage.
+==189==        That was in thy rage.
 ==190==Speak it again, and even with the word
 ==191==This hand, which for thy love did kill thy love,
 ==192==Shall for thy love kill a far truer love;
@@ -430,7 +430,7 @@ ID: richard-iii-1-2
 ==224==Bid me farewell.
 
 **ANNE.**
-==224==           ’Tis more than you deserve;
+==224==        ’Tis more than you deserve;
 ==225==But since you teach me how to flatter you,
 ==226==Imagine I have said farewell already.
 

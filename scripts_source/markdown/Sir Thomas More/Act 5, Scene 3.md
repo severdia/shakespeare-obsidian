@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-5-3
 ---
@@ -51,7 +51,7 @@ ID: sir-thomas-more-5-3
 ==15==Tomorrow morning.
 
 **MORE.**
-==15==              So, sir, I thank ye;
+==15==           So, sir, I thank ye;
 ==16==I have not lived so ill, I fear to die.
 ==17==Master Lieutenant,
 ==18==I have had a sore fit of the stone tonight;
@@ -120,7 +120,7 @@ ID: sir-thomas-more-5-3
 ==53==Might I (without offense) inquire of them?
 
 **MORE.**
-==54==Croutches, Master Lieutenant, and bare cloaks;
+==54==Crutches, Master Lieutenant, and bare cloaks;
 ==55==For halting soldiers and poor needy scholars
 ==56==Have had my gettings in the Chancery:
 ==57==To think but what a cheat the crown shall have

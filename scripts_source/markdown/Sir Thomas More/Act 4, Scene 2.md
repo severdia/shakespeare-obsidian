@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-4-2
 ---
@@ -117,7 +117,7 @@ ID: sir-thomas-more-4-2
 ==58==Your honor’s welcome home.
 
 **MORE.**
-==58==                  Honor! Ha ha!
+==58==                Honor! Ha ha!
 ==59==And how dost, wife?
 
 **ROPER.**
@@ -135,7 +135,7 @@ ID: sir-thomas-more-4-2
 ==63==In faith, it ill becomes ye.
 
 **MORE.**
-==63==                  Oh, good wife,
+==63==              Oh, good wife,
 ==64==Honor and jests are both together fled;
 ==65==The merriest councillor of England’s dead.
 
@@ -149,7 +149,7 @@ ID: sir-thomas-more-4-2
 ==67==That’s you.
 
 **MORE.**
-==67==    Certain; but I have changed my life.
+==67==        Certain; but I have changed my life.
 ==68==Am I not leaner than I was before?
 ==69==The fat is gone; my title’s only More.
 ==70==Contented with one style, I’ll live at rest:

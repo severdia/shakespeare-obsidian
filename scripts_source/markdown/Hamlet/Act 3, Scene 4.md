@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -374,7 +374,7 @@ ID: hamlet-3-4
 ==210==When in one line two crafts directly meet.
 ==211==This man shall set me packing;
 ==212==I’ll lug the guts into the neighbor room.
-==213==Mother, good night indeed. This counsellor
+==213==Mother, good night indeed. This counselor
 ==214==Is now most still, most secret, and most grave,
 ==215==Who was in life a foolish prating knave.
 ==216==Come, sir, to draw toward an end with you.

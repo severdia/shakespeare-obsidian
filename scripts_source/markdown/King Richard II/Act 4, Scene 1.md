@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -457,7 +457,7 @@ ID: king-richard-ii-4-1
 ==304==Shall I obtain it?
 
 **BULL.**
-==304==           Name it, fair cousin.
+==304==        Name it, fair cousin.
 
 **K. RICH.**
 ==305==“Fair cousin”? I am greater than a king;

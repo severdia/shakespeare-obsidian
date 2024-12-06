@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1594)
   - First Folio (1623)
@@ -62,7 +62,7 @@ ID: titus-andronicus-2-3
 ==31==Saturn is dominator over mine:
 ==32==What signifies my deadly-standing eye,
 ==33==My silence, an’ my cloudy melancholy,
-==34==My fleece of woolly hair that now uncurls,
+==34==My fleece of wooly hair that now uncurls,
 ==35==Even as an adder when she doth unroll
 ==36==To do some fatal execution?
 ==37==No, madam, these are no venereal signs.
@@ -301,7 +301,7 @@ ID: titus-andronicus-2-3
 ==185==Nay then I’ll stop your mouth. Bring thou her husband;
 ==186==This is the hole where Aaron bid us hide him.
 
-*Demetrius throws the body of Bassianus into the pit. *
+*Demetrius throws the body of Bassianus into the pit.*
 
 *Then exeunt Demetrius and Chiron dragging off Lavinia.*
 

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-dp
 ---
@@ -23,9 +23,9 @@ ID: king-john-dp
 - Lewis, the Dauphin (LEW.)
 - Arthur (ARTH.)
 - Earl of Pembroke (PEM.; BOTH PEM. AND BIG.)
-- Chatillion (CHAT.)
+- Chatillon (CHAT.)
 - Melune (MEL.)
-- Lymoges, Duke of Austria (AUST.)
+- Limoges, Duke of Austria (AUST.)
 - Prince Henry (P. HEN.)
 - Robert Faulconbridge (ROB.)
 - Earl of Essex (ESSEX.)
@@ -42,3 +42,7 @@ ID: king-john-dp
 - Peter of Pomfret (PET.)
 - James Gurney (GUR.)
 - Sheriff (SHER.)
+- Citizens (CITIZENS.)
+- Attendants (ATTENDANTS.)
+- Lords (LORDS.)
+- Soldiers (SOLDIERS.)

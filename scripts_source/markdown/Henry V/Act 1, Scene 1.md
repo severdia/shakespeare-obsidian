@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -153,7 +153,7 @@ ID: henry-v-1-1
 **CANT.**
 ==91==The French ambassador upon that instant
 ==92==Crav’d audience; and the hour, I think, is come
-==93==To give him hearing. Is it four a’ clock?
+==93==To give him hearing. Is it four o’clock?
 
 **ELY.**
 ==94==It is.

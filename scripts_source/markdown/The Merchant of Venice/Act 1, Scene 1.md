@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -32,7 +32,7 @@ ID: merchant-of-venice-1-1
 **SAL.**
 ==8==Your mind is tossing on the ocean,
 ==9==There where your argosies with portly sail
-==10==Like *signior*s and rich burghers on the flood,
+==10==Like *signiors* and rich burghers on the flood,
 ==11==Or as it were the pageants of the sea,
 ==12==Do overpeer the petty traffickers
 ==13==That cur’sy to them, do them reverence,
@@ -111,7 +111,7 @@ ID: merchant-of-venice-1-1
 ==65==Good morrow, my good lords.
 
 **BASS.**
-==66==Good *signior*s both, when shall we laugh? Say, when?
+==66==Good *signiors* both, when shall we laugh? Say, when?
 ==67==You grow exceeding strange. Must it be so?
 
 **SAL.**
@@ -179,7 +179,7 @@ ID: merchant-of-venice-1-1
 ==110==Fare you well! I’ll grow a talker for this gear.
 
 **GRA.**
-==111==Thanks, i’ faith, for silence is only commendable
+==111==Thanks, i’faith, for silence is only commendable
 ==112==In a neat’s tongue dried and a maid not vendible.
 
 *Exeunt Gratiano and Lorenzo.*

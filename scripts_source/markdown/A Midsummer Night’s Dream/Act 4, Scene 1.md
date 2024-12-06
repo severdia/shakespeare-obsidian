@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -115,10 +115,10 @@ ID: midsummer-nights-dream-4-1
 ==50==But as the fierce vexation of a dream.
 ==51==But first I will release the Fairy Queen.
 *(Touching her eyes.)*
-==52==*Be as thou wast wont to be;*
-==53==*See as thou wast wont to see.*
-==54==*Dian’s bud o’er Cupid’s flower*
-==55==*Hath such force and blessed power.*
+==52== *Be as thou wast wont to be;*
+==53== *See as thou wast wont to see.*
+==54== *Dian’s bud o’er Cupid’s flower*
+==55== *Hath such force and blessed power.*
 ==56==Now, my Titania, wake you, my sweet queen.
 
 **TITA.**
@@ -158,20 +158,20 @@ ID: midsummer-nights-dream-4-1
 ==73==Wedded, with Theseus, all in jollity.
 
 **PUCK.**
-==74==*Fairy King, attend and mark;*
-==75==*I do hear the morning lark.*
+==74== *Fairy King, attend and mark;*
+==75== *I do hear the morning lark.*
 
 **OBE.**
-==76==*Then, my queen, in silence sad,*
-==77==*Trip we after night’s shade.*
-==78==*We the globe can compass soon,*
-==79==*Swifter than the wand’ring moon.*
+==76== *Then, my queen, in silence sad,*
+==77== *Trip we after night’s shade.*
+==78== *We the globe can compass soon,*
+==79== *Swifter than the wand’ring moon.*
 
 **TITA.**
-==80==*Come, my lord, and in our flight,*
-==81==*Tell me how it came this night*
-==82==*That I sleeping here was found,*
-==83==*With these mortals on the ground.*
+==80== *Come, my lord, and in our flight,*
+==81== *Tell me how it came this night*
+==82== *That I sleeping here was found,*
+==83== *With these mortals on the ground.*
 
 *Exeunt. Wind horn within.*
 

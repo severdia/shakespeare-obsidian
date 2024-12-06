@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-2-2
 ---
@@ -49,21 +49,21 @@ ID: tempest-2-2
 *Enter Stephano, singing, a bottle in his hand.*
 
 **STE.**
-==21==*“I shall no more to sea, to sea,*
-==22==*Here shall I die ashore—”*
+==21== *“I shall no more to sea, to sea,*
+==22== *Here shall I die ashore—”*
 ==23==This is a very scurvy tune to sing at a man’s funeral.
 ==24==Well, here’s my comfort.
 *(Drinks.)*
 *(Sings.)*
-==25==*“The master, the swabber, the boatswain, and I,*
-==26==*The gunner and his mate,*
-==27==*Lov’d Mall, Meg, and Marian, and Margery,*
-==28==*But none of us car’d for Kate;*
-==29==*For she had a tongue with a tang,*
-==30==*Would cry to a sailor, ‘Go hang!’*
-==31==*She lov’d not the savor of tar nor of pitch,*
-==32==*Yet a tailor might scratch her where e’er she did itch.*
-==33==*Then to sea, boys, and let her go hang!”*
+==25== *“The master, the swabber, the boatswain, and I,*
+==26==    *The gunner and his mate,*
+==27== *Lov’d Mall, Meg, and Marian, and Margery,*
+==28==    *But none of us car’d for Kate;*
+==29==    *For she had a tongue with a tang,*
+==30==    *Would cry to a sailor, ‘Go hang!’*
+==31==    *She lov’d not the savor of tar nor of pitch,*
+==32==    *Yet a tailor might scratch her where e’er she did itch.*
+==33==    *Then to sea, boys, and let her go hang!”*
 ==34==This is a scurvy tune too; but here’s my comfort.
 
 *Drinks.*
@@ -212,18 +212,18 @@ ID: tempest-2-2
 
 **CAL.**
 *(Sings drunkenly.)*
-==90==*Farewell, master; farewell, farewell!*
+==90== *Farewell, master; farewell, farewell!*
 
 **TRIN.**
 ==91==A howling monster; a drunken monster!
 
 **CAL.**
-==92==*No more dams I’ll make for fish,*
-==93==*Nor fetch in firing*
-==94==*At requiring,*
-==95==*Nor scrape trenchering, nor wash dish.*
-==96==*’Ban, ’Ban, Ca-Caliban*
-==97==*Has a new master, get a new man.*
+==92== *No more dams I’ll make for fish,*
+==93== *Nor fetch in firing*
+==94== *At requiring,*
+==95== *Nor scrape trenchering, nor wash dish.*
+==96==    *’Ban, ’Ban, Ca-Caliban*
+==97==    *Has a new master, get a new man.*
 ==98==Freedom, high-day! High-day, freedom! Freedom, high-day, freedom!
 
 **STE.**

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -64,7 +64,7 @@ ID: king-richard-ii-5-5
 ==40==With nothing shall be pleas’d, till he be eas’d
 ==41==With being nothing.
 *(The music plays.)*
-==41==              Music do I hear?
+==41==           Music do I hear?
 ==42==Ha, ha, keep time! How sour sweet music is
 ==43==When time is broke, and no proportion kept!
 ==44==So is it in the music of men’s lives.

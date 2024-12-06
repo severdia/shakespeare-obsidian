@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-5-2
 ---
@@ -36,7 +36,7 @@ ID: antony-and-cleopatra-5-2
 ==11==Thou mean’st to have him grant thee.
 
 **CLEO.**
-==11==                  What’s thy name?
+==11==                     What’s thy name?
 
 **PROC.**
 ==12==My name is Proculeius.
@@ -186,7 +186,7 @@ ID: antony-and-cleopatra-5-2
 ==81==The little O, th’ earth.
 
 **DOL.**
-==81==              Most sovereign creature⁠—
+==81==           Most sovereign creature⁠—
 
 **CLEO.**
 ==82==His legs bestrid the ocean, his rear’d arm

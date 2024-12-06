@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -176,7 +176,7 @@ ID: othello-3-4
 ==65==Conserv’d of maidens’ hearts.
 
 **DES.**
-==65==                I’ faith! Is’t true?
+==65==                I’faith! Is’t true?
 
 **OTH.**
 ==66==Most veritable, therefore look to’t well.
@@ -241,7 +241,7 @@ ID: othello-3-4
 ==86==The handkerchief!
 
 **DES.**
-==87==I’ faith, you are to blame.
+==87==I’faith, you are to blame.
 
 **OTH.**
 ==88==’Zounds!

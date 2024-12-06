@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -222,7 +222,7 @@ ID: othello-5-2
 ==83==But while I say one prayer!
 
 **OTH.**
-==83==                It is too late.
+==83==              It is too late.
 
 *Smothers her.*
 
@@ -300,7 +300,7 @@ ID: othello-5-2
 ==115==And Cassio kill’d?
 
 **EMIL.**
-==115==                No, Cassio is not kill’d.
+==115==           No, Cassio is not kill’d.
 
 **OTH.**
 ==116==Not Cassio kill’d? Then murder’s out of tune,
@@ -395,7 +395,7 @@ ID: othello-5-2
 ==150==That sticks on filthy deeds.
 
 **EMIL.**
-==150==                  My husband?
+==150==                My husband?
 
 **OTH.**
 ==151==What needs this iterance, woman? I say thy husband.
@@ -553,7 +553,7 @@ ID: othello-5-2
 ==224==Be wise, and get you home.
 
 **EMIL.**
-==224==                  I will not.
+==224==                I will not.
 
 *Iago offers to stab Emilia.*
 
@@ -622,7 +622,7 @@ ID: othello-5-2
 ==248==Hark, canst thou hear me? I will play the swan,
 ==249==And die in music.
 *(Sings.)*
-==250==*Willow, willow, willow.*
+==250== *Willow, willow, willow.*
 ==251==Moor, she was chaste; she lov’d thee, cruel Moor;
 ==252==So come my soul to bliss, as I speak true;
 ==253==So speaking as I think, alas, I die.
@@ -669,7 +669,7 @@ ID: othello-5-2
 ==278==Even like thy chastity. O cursed, cursed slave!
 ==279==Whip me, ye devils,
 ==280==From the possession of this heavenly sight!
-==281==Blow me about in winds! Roast me in sulphur!
+==281==Blow me about in winds! Roast me in sulfur!
 ==282==Wash me in steep-down gulfs of liquid fire!
 ==283==O Desdemon! Dead, Desdemon! Dead!
 ==284==O, O!

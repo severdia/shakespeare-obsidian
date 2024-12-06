@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -295,7 +295,7 @@ ID: merry-wives-of-windsor-2-2
 *Exit.*
 
 **FORD.**
-==92==What a damn’d Epicurean rascal is this! My heart is ready to crack with impatience. Who says this is improvident jealousy? My wife hath sent to him, the hour is fix’d, the match is made. Would any man have thought this? See the hell of having a false woman! My bed shall be abus’d, my coffers ransack’d, my reputation gnawn at, and I shall not only receive this villainous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong. Terms! Names! Amaimon sounds well; Lucifer, well; Barbason, well; yet they are devils’ additions, the names of fiends; but Cuckold! Wittol!—Cuckold! The devil himself hath not such a name. Page is an ass, a secure ass; he will trust his wife, he will not be jealous. I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself. Then she plots, then she ruminates, then she devises; and what they think in their hearts they may effect, they will break their hearts but they will effect. God be prais’d for my jealousy! Eleven o’ clock the hour. I will prevent this, detect my wife, be reveng’d on Falstaff, and laugh at Page. I will about it; better three hours too soon than a minute too late. Fie, fie, fie! Cuckold, cuckold, cuckold!
+==92==What a damn’d Epicurean rascal is this! My heart is ready to crack with impatience. Who says this is improvident jealousy? My wife hath sent to him, the hour is fix’d, the match is made. Would any man have thought this? See the hell of having a false woman! My bed shall be abus’d, my coffers ransack’d, my reputation gnawn at, and I shall not only receive this villainous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong. Terms! Names! Amaimon sounds well; Lucifer, well; Barbason, well; yet they are devils’ additions, the names of fiends; but Cuckold! Wittol!—Cuckold! The devil himself hath not such a name. Page is an ass, a secure ass; he will trust his wife, he will not be jealous. I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself. Then she plots, then she ruminates, then she devises; and what they think in their hearts they may effect, they will break their hearts but they will effect. God be prais’d for my jealousy! Eleven o’clock the hour. I will prevent this, detect my wife, be reveng’d on Falstaff, and laugh at Page. I will about it; better three hours too soon than a minute too late. Fie, fie, fie! Cuckold, cuckold, cuckold!
 
 *Exit.*
 

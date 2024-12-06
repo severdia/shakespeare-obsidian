@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -173,34 +173,34 @@ ID: midsummer-nights-dream-3-2
 *Exit.*
 
 **OBE.**
-==102==*Flower of this purple dye,*
-==103==*Hit with Cupid’s archery,*
-==104==*Sink in apple of his eye.*
-==105==*When his love he doth espy,*
-==106==*Let her shine as gloriously*
-==107==*As the Venus of the sky.*
-==108==*When thou wak’st, if she be by,*
-==109==*Beg of her for remedy.*
+==102== *Flower of this purple dye,*
+==103== *Hit with Cupid’s archery,*
+==104== *Sink in apple of his eye.*
+==105== *When his love he doth espy,*
+==106== *Let her shine as gloriously*
+==107== *As the Venus of the sky.*
+==108== *When thou wak’st, if she be by,*
+==109== *Beg of her for remedy.*
 
 *Enter Puck.*
 
 **PUCK.**
-==110==*Captain of our fairy band,*
-==111==*Helena is here at hand,*
-==112==*And the youth, mistook by me,*
-==113==*Pleading for a lover’s fee.*
-==114==*Shall we their fond pageant see?*
-==115==*Lord, what fools these mortals be!*
+==110== *Captain of our fairy band,*
+==111== *Helena is here at hand,*
+==112== *And the youth, mistook by me,*
+==113== *Pleading for a lover’s fee.*
+==114== *Shall we their fond pageant see?*
+==115== *Lord, what fools these mortals be!*
 
 **OBE.**
-==116==*Stand aside. The noise they make*
-==117==*Will cause Demetrius to awake.*
+==116== *Stand aside. The noise they make*
+==117== *Will cause Demetrius to awake.*
 
 **PUCK.**
-==118==*Then will two at once woo one;*
-==119==*That must needs be sport alone.*
-==120==*And those things do best please me*
-==121==*That befall prepost’rously.*
+==118== *Then will two at once woo one;*
+==119== *That must needs be sport alone.*
+==120== *And those things do best please me*
+==121== *That befall prepost’rously.*
 
 *Enter Lysander and Helena.*
 
@@ -332,7 +332,7 @@ ID: midsummer-nights-dream-3-2
 ==208==Had been incorporate. So we grew together,
 ==209==Like to a double cherry, seeming parted,
 ==210==But yet an union in partition,
-==211==Two lovely berries moulded on one stem;
+==211==Two lovely berries molded on one stem;
 ==212==So with two seeming bodies, but one heart,
 ==213==Two of the first, like coats in heraldry,
 ==214==Due but to one, and crowned with one crest.
@@ -466,7 +466,7 @@ ID: midsummer-nights-dream-3-2
 ==284==And stol’n my love’s heart from him?
 
 **HEL.**
-==284==                     Fine, i’ faith!
+==284==                     Fine, i’faith!
 ==285==Have you no modesty, no maiden shame,
 ==286==No touch of bashfulness? What, will you tear
 ==287==Impatient answers from my gentle tongue?
@@ -642,10 +642,10 @@ ID: midsummer-nights-dream-3-2
 *Exit.*
 
 **PUCK.**
-==396==*Up and down, up and down,*
-==397==*I will lead them up and down;*
-==398==*I am fear’d in field and town.*
-==399==*Goblin, lead them up and down.*
+==396== *Up and down, up and down,*
+==397== *I will lead them up and down;*
+==398== *I am fear’d in field and town.*
+==399== *Goblin, lead them up and down.*
 ==400==Here comes one.
 
 *Enter Lysander.*
@@ -739,12 +739,12 @@ ID: midsummer-nights-dream-3-2
 *Sleep.*
 
 **PUCK.**
-==437==*Yet but three? Come one more;*
-==438==*Two of both kinds makes up four.*
+==437== *Yet but three? Come one more;*
+==438== *Two of both kinds makes up four.*
 *(Enter Hermia.)*
-==439==*Here she comes, curst and sad.*
-==440==*Cupid is a knavish lad,*
-==441==*Thus to make poor females mad.*
+==439== *Here she comes, curst and sad.*
+==440== *Cupid is a knavish lad,*
+==441== *Thus to make poor females mad.*
 
 **HER.**
 ==442==Never so weary, never so in woe,
@@ -757,22 +757,22 @@ ID: midsummer-nights-dream-3-2
 *Lies down and sleeps.*
 
 **PUCK.**
-==448==*On the ground,*
-==449==*Sleep sound;*
-==450==*I’ll apply,*
-==451==*To your eye,*
+==448== *On the ground,*
+==449== *Sleep sound;*
+==450== *I’ll apply,*
+==451== *To your eye,*
 ==452==Gentle lover, remedy.
 *(Squeezing the juice on Lysander’s eyes.)*
-==453==*When thou wak’st,*
-==454==*Thou tak’st*
-==455==*True delight*
-==456==*In the sight*
+==453== *When thou wak’st,*
+==454== *Thou tak’st*
+==455== *True delight*
+==456== *In the sight*
 ==457==Of thy former lady’s eye;
 ==458==And the country proverb known,
 ==459==That every man should take his own,
 ==460==In your waking shall be shown.
-==461==*Jack shall have Jill;*
-==462==*Nought shall go ill:*
+==461== *Jack shall have Jill;*
+==462== *Nought shall go ill:*
 ==463==The man shall have his mare again, and all shall be well.
 
 *Exit.*

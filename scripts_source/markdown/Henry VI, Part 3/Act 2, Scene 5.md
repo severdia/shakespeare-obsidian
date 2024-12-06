@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -165,7 +165,7 @@ ID: henry-vi-part-iii-2-5
 
 **FATH.**
 ==114==These arms of mine shall be thy winding-sheet;
-==115==My heart, sweet boy, shall be thy sepulchre,
+==115==My heart, sweet boy, shall be thy sepulcher,
 ==116==For from my heart thine image ne’er shall go;
 ==117==My sighing breast shall be thy funeral bell;
 ==118==And so obsequious will thy father be,

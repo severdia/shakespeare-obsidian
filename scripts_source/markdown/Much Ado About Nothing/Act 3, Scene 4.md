@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -47,7 +47,7 @@ ID: much-ado-about-nothing-3-4
 ==8==My cousin’s a fool, and thou art another. I’ll wear none but this.
 
 **MARG.**
-==9==I like the new tire within excellently, if the hair were a thought browner; and your gown’s a most rare fashion, i’ faith. I saw the Duchess of Milan’s gown that they praise so.
+==9==I like the new tire within excellently, if the hair were a thought browner; and your gown’s a most rare fashion, i’faith. I saw the Duchess of Milan’s gown that they praise so.
 
 **HERO.**
 ==10==O, that exceeds, they say.
@@ -91,7 +91,7 @@ ID: much-ado-about-nothing-3-4
 ==22==O illegitimate construction! I scorn that with my heels.
 
 **BEAT.**
-==23==’Tis almost five a’ clock, cousin, ’tis time you were ready. By my troth, I am exceeding ill. Heigh-ho!
+==23==’Tis almost five o’clock, cousin, ’tis time you were ready. By my troth, I am exceeding ill. Heigh-ho!
 
 **MARG.**
 ==24==For a hawk, a horse, or a husband?

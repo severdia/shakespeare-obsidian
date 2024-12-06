@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-5-2
 ---
@@ -108,7 +108,7 @@ ID: coriolanus-5-2
 ==36==What’s the matter?
 
 **MEN.**
-==37==Now, you companion! I’ll say an arrant for you. You shall know now that I am in estimation; you shall perceive that a Jack guardant cannot office me from my son Coriolanus. Guess but by my entertainment with him if thou stand’st not i’ th’ state of hanging, or of some death more long in spectatorship and crueller in suffering; behold now presently, and swound for what’s to come upon thee.
+==37==Now, you companion! I’ll say an arrant for you. You shall know now that I am in estimation; you shall perceive that a Jack guardant cannot office me from my son Coriolanus. Guess but by my entertainment with him if thou stand’st not i’ th’ state of hanging, or of some death more long in spectatorship and crueler in suffering; behold now presently, and swound for what’s to come upon thee.
 *(To Coriolanus.)*
 ==38==The glorious gods sit in hourly synod about thy particular prosperity, and love thee no worse than thy old father Menenius does! O my son, my son! Thou art preparing fire for us; look thee, here’s water to quench it. I was hardly mov’d to come to thee; but being assur’d none but myself could move thee, I have been blown out of your gates with sighs, and conjure thee to pardon Rome and thy petitionary countrymen. The good gods assuage thy wrath, and turn the dregs of it upon this varlet here—this, who like a block hath denied my access to thee.
 

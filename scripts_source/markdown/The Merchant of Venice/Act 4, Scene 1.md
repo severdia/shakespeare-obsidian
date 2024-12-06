@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -285,7 +285,7 @@ ID: merchant-of-venice-4-1
 ==165==Ay, so he says.
 
 **POR.**
-==165==           Do you confess the bond?
+==165==        Do you confess the bond?
 
 **ANT.**
 ==166==I do.
@@ -335,7 +335,7 @@ ID: merchant-of-venice-4-1
 ==197==If this will not suffice, it must appear
 ==198==That malice bears down truth.
 *(To the Duke.)*
-==198==                  And I beseech you
+==198==                And I beseech you
 ==199==Wrest once the law to your authority:
 ==200==To do a great right, do a little wrong,
 ==201==And curb this cruel devil of his will.
@@ -658,7 +658,7 @@ ID: merchant-of-venice-4-1
 ==381==And I will sign it.
 
 **DUKE.**
-==381==           Get thee gone, but do it.
+==381==        Get thee gone, but do it.
 
 **GRA.**
 ==382==In christ’ning shalt thou have two god-fathers:

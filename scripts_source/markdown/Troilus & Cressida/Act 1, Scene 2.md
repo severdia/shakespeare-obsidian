@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -346,7 +346,7 @@ ID: troilus-and-cressida-1-2
 *Enter Antenor and passes over the stage.*
 
 **PAN.**
-==110==That’s Antenor. He has a shrewd wit, I can tell you, and he’s man good enough. He’s one o’ th’ soundest judgements in Troy, whosoever, and a proper man of person. When comes Troilus? I’ll show you Troilus anon. If he see me, you shall see him nod at me.
+==110==That’s Antenor. He has a shrewd wit, I can tell you, and he’s man good enough. He’s one o’ th’ soundest judgments in Troy, whosoever, and a proper man of person. When comes Troilus? I’ll show you Troilus anon. If he see me, you shall see him nod at me.
 
 **CRES.**
 ==111==Will he give you the nod?

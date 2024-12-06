@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: king-john-2-1
 ---
@@ -78,18 +78,18 @@ ID: king-john-2-1
 **CONST.**
 ==44==Stay for an answer to your embassy,
 ==45==Lest unadvis’d you stain your swords with blood.
-==46==My Lord Chatillion may from England bring
+==46==My Lord Chatillon may from England bring
 ==47==That right in peace which here we urge in war,
 ==48==And then we shall repent each drop of blood
 ==49==That hot rash haste so indirectly shed.
 
-*Enter Chatillion.*
+*Enter Chatillon.*
 
 **K. PHI.**
 ==50==A wonder, lady! Lo upon thy wish
-==51==Our messenger Chatillion is arriv’d!
+==51==Our messenger Chatillon is arriv’d!
 ==52==What England says, say briefly, gentle lord,
-==53==We coldly pause for thee; Chatillion, speak.
+==53==We coldly pause for thee; Chatillon, speak.
 
 **CHAT.**
 ==54==Then turn your forces from this paltry siege,
@@ -149,7 +149,7 @@ ID: king-john-2-1
 ==97==Outfaced infant state, and done a rape
 ==98==Upon the maiden virtue of the crown.
 ==99==Look here upon thy brother Geffrey’s face:
-==100==These eyes, these brows, were moulded out of his;
+==100==These eyes, these brows, were molded out of his;
 ==101==This little abstract doth contain that large
 ==102==Which died in Geffrey; and the hand of time
 ==103==Shall draw this brief into as huge a volume.
@@ -219,7 +219,7 @@ ID: king-john-2-1
 ==137==You are the hare of whom the proverb goes,
 ==138==Whose valor plucks dead lions by the beard;
 ==139==I’ll smoke your skin-coat and I catch you right.
-==140==Sirrah, look to’t, i’ faith I will, i’ faith.
+==140==Sirrah, look to’t, i’faith I will, i’faith.
 
 **BLANCH.**
 ==141==O, well did he become that lion’s robe,

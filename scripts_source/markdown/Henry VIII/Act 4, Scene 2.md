@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-4-2
 ---
@@ -32,7 +32,7 @@ ID: henry-viii-4-2
 ==7==Was dead?
 
 **GRIF.**
-==7==    Yes, madam; but I think your Grace,
+==7==        Yes, madam; but I think your Grace,
 ==8==Out of the pain you suffer’d, gave no ear to’t.
 
 **KATH.**

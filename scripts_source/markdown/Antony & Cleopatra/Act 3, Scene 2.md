@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-3-2
 ---
@@ -95,10 +95,10 @@ ID: antony-and-cleopatra-3-2
 ==34==In your distrust.
 
 **CAES.**
-==34==           I have said.
+==34==        I have said.
 
 **ANT.**
-==34==                  You shall not find,
+==34==                You shall not find,
 ==35==Though you be therein curious, the least cause
 ==36==For what you seem to fear. So the gods keep you,
 ==37==And make the hearts of Romans serve your ends!
@@ -124,7 +124,7 @@ ID: antony-and-cleopatra-3-2
 ==46==Octavia?
 
 **OCT.**
-==46==    I’ll tell you in your ear.
+==46==        I’ll tell you in your ear.
 
 **ANT.**
 ==47==Her tongue will not obey her heart, nor can

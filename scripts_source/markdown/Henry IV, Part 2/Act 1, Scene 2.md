@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -27,7 +27,7 @@ ID: henry-iv-part-ii-1-2
 ==2==He said, sir, the water itself was a good healthy water, but for the party that ow’d it, he might have more diseases than he knew for.
 
 **FAL.**
-==3==Men of all sorts take a pride to gird at me. The brain of this foolish-compounded clay, man, is not able to invent any thing that intends to laughter more than I invent or is invented on me: I am not only witty in myself, but the cause that wit is in other men. I do here walk before thee like a sow that hath overwhelm’d all her litter but one. If the Prince put thee into my service for any other reason than to set me off, why then I have no judgment. Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels. I was never mann’d with an agot till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master for a jewel—the juvenal, the Prince your master, whose chin is not yet fledge. I will sooner have a beard grow in the palm of my hand than he shall get one of his cheek, and yet he will not stick to say his face is a face royal. God may finish it when he will, ’tis not a hair amiss yet. He may keep it still at a face royal, for a barber shall never earn sixpence out of it; and yet he’ll be crowing as if he had writ man ever since his father was a bachelor. He may keep his own grace, but he’s almost out of mine, I can assure him. What said Master Dommelton about the satin for my short cloak and my slops?
+==3==Men of all sorts take a pride to gird at me. The brain of this foolish-compounded clay, man, is not able to invent any thing that intends to laughter more than I invent or is invented on me: I am not only witty in myself, but the cause that wit is in other men. I do here walk before thee like a sow that hath overwhelm’d all her litter but one. If the Prince put thee into my service for any other reason than to set me off, why then I have no judgment. Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels. I was never mann’d with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master for a jewel—the juvenal, the Prince your master, whose chin is not yet fledge. I will sooner have a beard grow in the palm of my hand than he shall get one of his cheek, and yet he will not stick to say his face is a face royal. God may finish it when he will, ’tis not a hair amiss yet. He may keep it still at a face royal, for a barber shall never earn sixpence out of it; and yet he’ll be crowing as if he had writ man ever since his father was a bachelor. He may keep his own grace, but he’s almost out of mine, I can assure him. What said Master Dommelton about the satin for my short cloak and my slops?
 
 **PAGE.**
 ==4==He said, sir, you should procure him better assurance than Bardolph. He would not take his bond and yours, he lik’d not the security.
@@ -197,7 +197,7 @@ ID: henry-iv-part-ii-1-2
 ==58==Do you set down your name in the scroll of youth, that are written down old with all the characters of age? Have you not a moist eye, a dry hand, a yellow cheek, a white beard, a decreasing leg, an increasing belly? Is not your voice broken, your wind short, your chin double, your wit single, and every part about you blasted with antiquity? And will you yet call yourself young? Fie, fie, fie, Sir John!
 
 **FAL.**
-==59==My lord, I was born about three of the clock in the afternoon, with a white head and something a round belly. For my voice, I have lost it with hallowing and singing of anthems. To approve my youth further, I will not. The truth is, I am only old in judgment and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him! For the box of the year that the Prince gave you, he gave it like a rude prince, and you took it like a sensible lord. I have check’d him for it, and the young lion repents,
+==59==My lord, I was born about three of the clock in the afternoon, with a white head and something a round belly. For my voice, I have lost it with hallowing and singing of anthems. To approve my youth further, I will not. The truth is, I am only old in judgment and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him! For the box of the ear that the Prince gave you, he gave it like a rude prince, and you took it like a sensible lord. I have check’d him for it, and the young lion repents,
 *(Aside.)*
 ==60==marry, not in ashes and sackcloth, but in new silk and old sack.
 

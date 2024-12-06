@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -30,7 +30,7 @@ ID: romeo-and-juliet-4-5
 ==8==Marry and amen! How sound is she asleep!
 ==9==I needs must wake her. Madam, madam, madam!
 ==10==Ay, let the County take you in your bed,
-==11==He’ll fright you up, i’ faith. Will it not be?
+==11==He’ll fright you up, i’faith. Will it not be?
 *(Draws back the curtains.)*
 ==12==What, dress’d, and in your clothes, and down again?
 ==13==I must needs wake you. Lady, lady, lady!
@@ -227,9 +227,9 @@ ID: romeo-and-juliet-4-5
 
 **PET.**
 ==113==Then have at you with my wit! I will dry-beat you with an iron wit, and put up my iron dagger. Answer me like men:
-==114==*“When griping griefs the heart doth wound,*
-==115==*And doleful dumps the mind oppress,*
-==116==*Then music with her silver sound”⁠—*
+==114== *“When griping griefs the heart doth wound,*
+==115== *And doleful dumps the mind oppress,*
+==116== *Then music with her silver sound”⁠—*
 ==117==Why “silver sound”? Why “music with her silver sound”? What say you, Simon Catling?
 
 **1. MUS.**
@@ -249,8 +249,8 @@ ID: romeo-and-juliet-4-5
 
 **PET.**
 ==123==O, I cry you mercy, you are the singer; I will say for you; it is “music with her silver sound,” because musicians have no gold for sounding:
-==124==*“Then music with her silver sound*
-==125==*With speedy help doth lend redress.”*
+==124== *“Then music with her silver sound*
+==125== *With speedy help doth lend redress.”*
 
 *Exit.*
 

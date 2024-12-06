@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -263,7 +263,7 @@ ID: romeo-and-juliet-2-2
 ==151==           Madam!
 
 **JUL.**
-==151==              By and by, I come⁠—
+==151==                By and by, I come⁠—
 ==152==To cease thy strife, and leave me to my grief.
 ==153==Tomorrow will I send.
 
@@ -304,7 +304,7 @@ ID: romeo-and-juliet-2-2
 ==167==        My nyas?
 
 **JUL.**
-==167==              What a’ clock tomorrow
+==167==              What o’clock tomorrow
 ==168==Shall I send to thee?
 
 **ROM.**

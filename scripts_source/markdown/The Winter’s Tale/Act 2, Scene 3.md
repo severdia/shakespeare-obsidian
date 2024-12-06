@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-2-3
 ---
@@ -124,7 +124,7 @@ ID: winters-tale-2-3
 ==52==              Good my liege, I come⁠—
 ==53==And I beseech you hear me, who professes
 ==54==Myself your loyal servant, your physician,
-==55==Your most obedient counsellor; yet that dares
+==55==Your most obedient counselor; yet that dares
 ==56==Less appear so, in comforting your evils,
 ==57==Than such as most seem yours—I say, I come
 ==58==From your good queen.
@@ -216,7 +216,7 @@ ID: winters-tale-2-3
 ==100==And copy of the father—eye, nose, lip,
 ==101==The trick of ’s frown, his forehead, nay, the valley,
 ==102==The pretty dimples of his chin and cheek, his smiles,
-==103==The very mould and frame of hand, nail, finger.
+==103==The very mold and frame of hand, nail, finger.
 ==104==And thou, good goddess Nature, which hast made it
 ==105==So like to him that got it, if thou hast
 ==106==The ordering of the mind too, ’mongst all colors

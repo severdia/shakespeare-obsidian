@@ -10,7 +10,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Manuscript  (1603-1604)
 ID: sir-thomas-more-dp
 ---
@@ -81,3 +81,10 @@ ID: sir-thomas-more-dp
 - Servant to More (SERVANT.)
 - Gentleman Porter of the Tower (GENTLEMAN PORTER.)
 - Smart (SMART.)
+- Justices (JUSTICES.)
+- Attendants (ATTENDANTS.)
+- Aldermen (ALDERMEN.)
+- Ladies (LADIES.)
+- Lords (LORDS.)
+- Gentlemen (GENTLEMEN.)
+- Guard (GUARD.)

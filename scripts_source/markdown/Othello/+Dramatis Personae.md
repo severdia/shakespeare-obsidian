@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -40,3 +40,8 @@ ID: othello-dp
 - First Messenger (1. MESS.)
 - Second Messenger (2. MESS.)
 - Herald (HER.)
+- Servants (SERVANTS.)
+- Attendants (ATTENDANTS.)
+- Gentlemen (GENTLEMEN.)
+- Musicians (MUSICIANS.)
+- Officers (OFFICERS.)

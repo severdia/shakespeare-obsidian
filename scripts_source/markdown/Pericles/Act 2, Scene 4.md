@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -89,7 +89,7 @@ ID: pericles-2-4
 ==38==That best know how to rule and how to reign,
 ==39==We thus submit unto—our sovereign.
 
-**ALL.**
+**ALL. IN TYRE.**
 ==40==Live, noble Helicane!
 
 **HEL.**

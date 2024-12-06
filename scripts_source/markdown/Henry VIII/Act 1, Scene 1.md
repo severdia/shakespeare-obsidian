@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-1-1
 ---
@@ -63,7 +63,7 @@ ID: henry-viii-1-1
 ==26==Was to them as a painting. Now this masque
 ==27==Was cried incomparable; and th’ ensuing night
 ==28==Made it a fool and beggar. The two kings,
-==29==Equal in lustre, were now best, now worst,
+==29==Equal in luster, were now best, now worst,
 ==30==As presence did present them: him in eye
 ==31==Still him in praise, and being present both,
 ==32==’Twas said they saw but one, and no discerner
@@ -132,7 +132,7 @@ ID: henry-viii-1-1
 ==72==A new hell in himself.
 
 **BUCK.**
-==72==              Why the devil,
+==72==           Why the devil,
 ==73==Upon this French going out, took he upon him
 ==74==(Without the privity o’ th’ King) t’ appoint
 ==75==Who should attend on him? He makes up the file

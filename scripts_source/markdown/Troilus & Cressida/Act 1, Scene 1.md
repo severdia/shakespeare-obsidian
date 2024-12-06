@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -94,7 +94,7 @@ ID: troilus-and-cressida-1-1
 ==43==In whose comparison all whites are ink
 ==44==Writing their own reproach; to whose soft seizure
 ==45==The cygnet’s down is harsh, and spirit of sense
-==46==Hard as the palm of ploughman. This thou tell’st me,
+==46==Hard as the palm of plowman. This thou tell’st me,
 ==47==As true thou tell’st me, when I say I love her,
 ==48==But saying thus, in stead of oil and balm,
 ==49==Thou lay’st in every gash that love hath given me
@@ -195,7 +195,7 @@ ID: troilus-and-cressida-1-1
 ==91==In all swift haste.
 
 **TRO.**
-==92==Come go we then together.
+==91==           Come go we then together.
 
 *Exeunt.*
 

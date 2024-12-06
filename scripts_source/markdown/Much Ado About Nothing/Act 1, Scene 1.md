@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -54,7 +54,7 @@ ID: much-ado-about-nothing-1-1
 ==11==A kind overflow of kindness. There are no faces truer than those that are so wash’d. How much better is it to weep at joy than to joy at weeping!
 
 **BEAT.**
-==12==I pray you, is *Signior* Mountanto return’d from the wars or no?
+==12==I pray you, is *Signior* Mountanto return’d from the wars or not?
 
 **MESS.**
 ==13==I know none of that name, lady. There was none such in the army of any sort.
@@ -225,7 +225,7 @@ ID: much-ado-about-nothing-1-1
 ==67==No, I pray thee speak in sober judgment.
 
 **BENE.**
-==68==Why, i’ faith, methinks she’s too low for a high praise, too brown for a fair praise, and too little for a great praise; only this commendation I can afford her, that were she other than she is, she were unhandsome, and being no other but as she is, I do not like her.
+==68==Why, i’faith, methinks she’s too low for a high praise, too brown for a fair praise, and too little for a great praise; only this commendation I can afford her, that were she other than she is, she were unhandsome, and being no other but as she is, I do not like her.
 
 **CLAUD.**
 ==69==Thou thinkest I am in sport. I pray thee tell me truly how thou lik’st her.
@@ -249,7 +249,7 @@ ID: much-ado-about-nothing-1-1
 ==75==I would scarce trust myself, though I had sworn the contrary, if Hero would be my wife.
 
 **BENE.**
-==76==Is’t come to this? In faith, hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of threescore again? Go to, i’ faith, and thou wilt needs thrust thy neck into a yoke, wear the print of it, and sigh away Sundays. Look, Don Pedro is return’d to seek you.
+==76==Is’t come to this? In faith, hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of threescore again? Go to, i’faith, and thou wilt needs thrust thy neck into a yoke, wear the print of it, and sigh away Sundays. Look, Don Pedro is return’d to seek you.
 
 *Enter Don Pedro.*
 

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-4-2
 ---
@@ -77,7 +77,7 @@ ID: measure-for-measure-4-2
 ==17==Sir, I will serve him; for I do find your hangman is a more penitent trade than your bawd: he doth oft’ner ask forgiveness.
 
 **PROV.**
-==18==You, sirrah, provide your block and your axe tomorrow, four a’ clock.
+==18==You, sirrah, provide your block and your axe tomorrow, four o’clock.
 
 **ABHOR.**
 ==19==Come on, bawd, I will instruct thee in my trade; follow.

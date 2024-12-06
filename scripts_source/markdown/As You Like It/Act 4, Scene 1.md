@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-4-1
 ---
@@ -236,10 +236,10 @@ ID: as-you-like-it-4-1
 ==72==Alas, dear love, I cannot lack thee two hours!
 
 **ORL.**
-==73==I must attend the Duke at dinner. By two a’ clock I will be with thee again.
+==73==I must attend the Duke at dinner. By two o’clock I will be with thee again.
 
 **ROS.**
-==74==Ay, go your ways, go your ways; I knew what you would prove; my friends told me as much, and I thought no less. That flattering tongue of yours won me. ’Tis but one cast away, and so come death! Two a’ clock is your hour?
+==74==Ay, go your ways, go your ways; I knew what you would prove; my friends told me as much, and I thought no less. That flattering tongue of yours won me. ’Tis but one cast away, and so come death! Two o’clock is your hour?
 
 **ORL.**
 ==75==Ay, sweet Rosalind.

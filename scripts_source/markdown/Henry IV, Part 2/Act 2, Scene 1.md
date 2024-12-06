@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -172,7 +172,7 @@ ID: henry-iv-part-ii-2-1
 ==53==Glasses, glasses, is the only drinking, and for thy walls, a pretty slight drollery, or the story of the Prodigal, or the German hunting in waterwork, is worth a thousand of these bed-hangers and these fly-bitten tapestries. Let it be ten pound, if thou canst. Come, and ’twere not for thy humors, there’s not a better wench in England. Go wash thy face, and draw the action. Come, thou must not be in this humor with me, dost not know me? Come, come, I know thou wast set on to this.
 
 **HOST.**
-==54==Pray thee, Sir John, let it be but twenty nobles. I’ faith, I am loath to pawn my plate, so God save me law!
+==54==Pray thee, Sir John, let it be but twenty nobles. I’faith, I am loath to pawn my plate, so God save me law!
 
 **FAL.**
 ==55==Let it alone, I’ll make other shift. You’ll be a fool still.

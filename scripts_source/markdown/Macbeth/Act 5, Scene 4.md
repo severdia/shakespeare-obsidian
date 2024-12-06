@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-5-4
 ---
@@ -17,7 +17,7 @@ ID: macbeth-5-4
 
 *Country near Birnam wood.*
 
-*Drum and Colors. Enter Malcolm, Siward, Macduff, Siward’s Son, Menteth, Cathness, Angus, Lennox, Rosse, and Soldiers, marching.*
+*Drum and Colors. Enter Malcolm, Siward, Macduff, Siward’s Son, Menteith, Caithness, Angus, Lennox, Rosse, and Soldiers, marching.*
 
 **MAL.**
 ==1==Cousins, I hope the days are near at hand

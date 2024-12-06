@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-1-2
 ---
@@ -353,7 +353,7 @@ ID: as-you-like-it-1-2
 ==119==Shall we go, coz?
 
 **CEL.**
-==119==        Ay. Fare you well, fair gentleman.
+==119==           Ay. Fare you well, fair gentleman.
 
 **ORL.**
 ==120==Can I not say, I thank you? My better parts

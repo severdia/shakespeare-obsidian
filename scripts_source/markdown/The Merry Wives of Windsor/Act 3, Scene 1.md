@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1602)
   - First Folio (1623)
@@ -37,17 +37,17 @@ ID: merry-wives-of-windsor-3-1
 **EVANS.**
 ==5==*Jeshu* pless my soul! How full of *chollors* I am and *trempling* of mind! I shall be glad if he have deceiv’d me. How melancholies I am! I will *knog* his urinals about his knave’s costard when I have good opportunities for the ork. Pless my soul!
 *(Sings.)*
-==6==*“To shallow rivers, to whose falls*
-==7==*Melodious birds sings madrigals;*
-==8==*There will we make our peds of roses,*
-==9==*And a thousand fragrant posies.*
-==10==*To shallow—”*
+==6== *“To shallow rivers, to whose falls*
+==7== *Melodious birds sings madrigals;*
+==8== *There will we make our peds of roses,*
+==9== *And a thousand fragrant posies.*
+==10== *To shallow—”*
 ==11==Mercy on me! I have a great dispositions to cry.
 *(Sings.)*
-==12==*“Melodious birds sing madrigals⁠—*
-==13==*When as I sat in Pabylon⁠—*
-==14==*And a thousand vagram posies.*
-==15==*To shallow, etc.”*
+==12== *“Melodious birds sing madrigals⁠—*
+==13== *When as I sat in Pabylon⁠—*
+==14== *And a thousand vagram posies.*
+==15== *To shallow, etc.”*
 
 *Enter Simple.*
 
@@ -57,7 +57,7 @@ ID: merry-wives-of-windsor-3-1
 **EVANS.**
 ==17==He’s welcome.
 *(Sings.)*
-==18==*“To shallow rivers, to whose falls—”*
+==18== *“To shallow rivers, to whose falls—”*
 ==19==Heaven prosper the right! What weapons is he?
 
 **SIM.**

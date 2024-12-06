@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -86,7 +86,7 @@ ID: merchant-of-venice-1-3
 ==28==If I forgive him!
 
 **BASS.**
-==28==           Shylock, do you hear?
+==28==        Shylock, do you hear?
 
 **SHY.**
 ==29==I am debating of my present store,
@@ -118,7 +118,7 @@ ID: merchant-of-venice-1-3
 **SHY.**
 ==44==I had forgot—three months⁠—
 *(To Bassanio.)*
-==44==                  you told me so.
+==44==                you told me so.
 ==45==Well then, your bond; and let me see—but hear you,
 ==46==Methoughts you said you neither lend nor borrow
 ==47==Upon advantage.
@@ -277,7 +277,7 @@ ID: merchant-of-venice-1-3
 *Exit.*
 
 **ANT.**
-==154==           Hie thee, gentle Jew.
+==154==        Hie thee, gentle Jew.
 ==155==The Hebrew will turn Christian, he grows kind.
 
 **BASS.**

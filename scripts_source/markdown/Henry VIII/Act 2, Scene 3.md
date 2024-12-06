@@ -7,7 +7,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: henry-viii-2-3
 ---
@@ -157,7 +157,7 @@ ID: henry-viii-2-3
 ==74==I shall not fail t’ approve the fair conceit
 ==75==The King hath of you.
 *(Aside.)*
-==75==              I have perus’d her well;
+==75==           I have perus’d her well;
 ==76==Beauty and honor in her are so mingled
 ==77==That they have caught the King; and who knows yet
 ==78==But from this lady may proceed a gem

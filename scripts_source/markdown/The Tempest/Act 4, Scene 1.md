@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: tempest-4-1
 ---
@@ -86,11 +86,11 @@ ID: tempest-4-1
 ==43==Ay, with a twink.
 
 **ARI.**
-==44==*Before you can say “come” and “go,”*
-==45==*And breathe twice, and cry “so, so,”*
-==46==*Each one, tripping on his toe,*
-==47==*Will be here with mop and mow.*
-==48==*Do you love me, master? No?*
+==44== *Before you can say “come” and “go,”*
+==45== *And breathe twice, and cry “so, so,”*
+==46== *Each one, tripping on his toe,*
+==47== *Will be here with mop and mow.*
+==48== *Do you love me, master? No?*
 
 **PROS.**
 ==49==Dearly, my delicate Ariel. Do not approach
@@ -167,7 +167,7 @@ ID: tempest-4-1
 ==91==I have forsworn.
 
 **IRIS.**
-==91==           Of her society
+==91==        Of her society
 ==92==Be not afraid. I met her Deity
 ==93==Cutting the clouds towards Paphos; and her son
 ==94==Dove-drawn with her. Here thought they to have done
@@ -193,20 +193,20 @@ ID: tempest-4-1
 *They sing.*
 
 **JUNO.**
-==106==*Honor, riches, marriage-blessing,*
-==107==*Long continuance, and increasing,*
-==108==*Hourly joys be still upon you!*
-==109==*Juno sings her blessings on you.*
+==106== *Honor, riches, marriage-blessing,*
+==107== *Long continuance, and increasing,*
+==108== *Hourly joys be still upon you!*
+==109== *Juno sings her blessings on you.*
 
 **CER.**
-==110==*Earth’s increase, foison plenty,*
-==111==*Barns and garners never empty;*
-==112==*Vines with clust’ring bunches growing,*
-==113==*Plants with goodly burden bowing;*
-==114==*Spring come to you at the farthest*
-==115==*In the very end of harvest!*
-==116==*Scarcity and want shall shun you,*
-==117==*Ceres’ blessing so is on you.*
+==110== *Earth’s increase, foison plenty,*
+==111== *Barns and garners never empty;*
+==112== *Vines with clust’ring bunches growing,*
+==113== *Plants with goodly burden bowing;*
+==114== *Spring come to you at the farthest*
+==115== *In the very end of harvest!*
+==116== *Scarcity and want shall shun you,*
+==117== *Ceres’ blessing so is on you.*
 
 **FER.**
 ==118==This is a most majestic vision, and

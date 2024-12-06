@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -103,7 +103,7 @@ ID: richard-iii-1-1
 ==64==My Lady Grey his wife, Clarence, ’tis she
 ==65==That tempers him to this extremity.
 ==66==Was it not she, and that good man of worship,
-==67==Anthony Woodvile, her brother there,
+==67==Anthony Woodville, her brother there,
 ==68==That made him send Lord Hastings to the Tower,
 ==69==From whence this present day he is delivered?
 ==70==We are not safe, Clarence, we are not safe.

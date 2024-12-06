@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: timon-of-athens-5-1
 ---
@@ -246,7 +246,7 @@ ID: timon-of-athens-5-1
 *(To one.)*
 ==114==You have work for me; there’s payment, hence!
 *(To the other.)*
-==115==You are an alcumist, make gold of that.
+==115==You are an alchemist, make gold of that.
 ==116==Out, rascal dogs!
 
 *Exeunt both, driven out by Timon, who retires to his cave.*

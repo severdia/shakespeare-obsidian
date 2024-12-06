@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 2 (1596)
   - First Folio (1623)
@@ -52,3 +52,6 @@ ID: taming-of-the-shrew-dp
 - Baptista’s Messenger (BAP. MESS.)
 - Baptista’s Servant (BAP. SERV.)
 - Officer (OFF.)
+- Attendants (ATTENDANTS.)
+- Servants (SERVANTS.)
+- Servingmen (SERVINGMEN.)

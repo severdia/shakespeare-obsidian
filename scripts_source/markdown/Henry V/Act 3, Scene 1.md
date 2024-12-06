@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -50,7 +50,7 @@ ID: henry-v-3-1
 ==27==The mettle of your pasture; let us swear
 ==28==That you are worth your breeding, which I doubt not;
 ==29==For there is none of you so mean and base
-==30==That hath not noble lustre in your eyes.
+==30==That hath not noble luster in your eyes.
 ==31==I see you stand like greyhounds in the slips,
 ==32==Straining upon the start. The game’s afoot!
 ==33==Follow your spirit; and upon this charge

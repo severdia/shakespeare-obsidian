@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -18,14 +18,14 @@ ID: richard-iii-dp
 
 
 - Richard, Duke of Gloucester (King Richard III) (GLOU.; K. RICH.)
-- Duke of Buckingham (Ghost of Duke of Buckingham) (BUCK.; GHOST OF BUCK.)
+- Duke of Buckingham (Ghost of Duke of Buckingham) (BUCK.; GHOST OF BUCK.; ALL. IN BAY.)
 - George, Duke of Clarence (Ghost of Clarence) (CLAR.; GHOST OF C.; ALL GHOSTS)
 - Henry, Earl of Richmond (RICHM.)
 - King Edward the Fourth (K. EDW.)
-- Sir William Catesby (CATE.)
+- Sir William Catesby (CATE.; ALL. IN BAY.)
 - Earl Rivers (Ghost of Earl Rivers) (RIV.; GHOST OF R.; ALL GHOSTS)
-- Edward, Prince of Wales (Ghosts of Princes) (PRINCE.; GHOSTS. PRINC.; ALL GHOSTS)
-- Richard, Duke of York (Ghosts of Princes) (YORK.; GHOSTS. PRINC.; ALL GHOSTS)
+- Edward, Prince of Wales (Ghost of Prince Edward of Wales) (PRINCE.; GHOST OF EDWARD.; GHOSTS. PRINC.; ALL GHOSTS)
+- Richard, Duke of York (Ghost of Prince Richard of York) (YORK.; GHOST OF RICHARD.; GHOSTS. PRINC.; ALL GHOSTS)
 - Sir James Tyrrel (TYR.)
 - Sir Richard Ratcliffe (RAT.)
 - Edward Plantagenet (EDW.; CHIL.)
@@ -39,7 +39,7 @@ ID: richard-iii-dp
 - Lord Hastings (Ghost of Lord Hastings) (HAST.; GHOST OF H.)
 - Lord Stanley (STAN.)
 - Lord Grey (Ghost of Lord Grey) (GREY.; GHOST OF G.; ALL GHOSTS)
-- Lord Mayor of London (MAY.)
+- Lord Mayor of London (MAY.; ALL. IN BAY.)
 - Duke of Norfolk (NOR.)
 - Cardinal Bourchier (CARD.)
 - Christopher Urswick (CHRIS.)
@@ -55,9 +55,9 @@ ID: richard-iii-dp
 - Lord Lovel (LOV.)
 - First Murderer (1. MUR.; BOTH 1. MUR. AND 2. MUR.)
 - Second Murderer (2. MUR.; BOTH 1. MUR. AND 2. MUR.)
-- First Citizen (1. CIT.)
-- Second Citizen (2. CIT.)
-- Third Citizen (3. CIT.)
+- First Citizen (1. CIT.; ALL. IN BAY.)
+- Second Citizen (2. CIT.; ALL. IN BAY.)
+- Third Citizen (3. CIT.; ALL. IN BAY.)
 - First Messenger (1. MESS.)
 - Second Messenger (2. MESS.)
 - Third Messenger (3. MESS.)
@@ -77,6 +77,9 @@ ID: richard-iii-dp
 - Sir William Brandon (BRAND.)
 - Tressel (TRESS.)
 - Berkeley (BERK.)
-- Two Bishops (TWO BISH.)
+- Two Bishops (TWO BISH.; ALL. IN BAY.)
 - Halberdiers (HALB.)
-- Aldermen of London (ALD.)
+- Aldermen of London (ALD.; ALL. IN BAY.)
+- Guard (GUARD.)
+- Soldiers (SOLDIERS.)
+- Attendants (ATTENDANTS.)

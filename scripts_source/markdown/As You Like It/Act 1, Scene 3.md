@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-1-3
 ---
@@ -85,7 +85,7 @@ ID: as-you-like-it-1-3
 ==21==                Me, uncle?
 
 **DUKE F.**
-==21==                  You, cousin.
+==21==                       You, cousin.
 ==22==Within these ten days if that thou beest found
 ==23==So near our public court as twenty miles,
 ==24==Thou diest for it.

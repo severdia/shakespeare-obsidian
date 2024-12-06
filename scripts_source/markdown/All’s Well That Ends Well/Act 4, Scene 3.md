@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-4-3
 ---
@@ -302,8 +302,8 @@ ID: alls-well-that-ends-well-4-3
 ==96==*Men are to mell with, boys are not to kiss;*
 ==97==*For count of this, the Count’s a fool, I know it,*
 ==98==*Who pays before, but not when he does owe it.*
-==99==*Thine, as he vow’d to thee in thine ear,*
-==100==*Parolles.”*
+==99==    *Thine, as he vow’d to thee in thine ear,*
+==100==    *Parolles.”*
 
 **BER.**
 ==101==He shall be whipt through the army with this rhyme in ’s forehead.

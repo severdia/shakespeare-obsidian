@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -328,7 +328,7 @@ ID: othello-2-1
 ==154==To suckle fools and chronicle small beer.
 
 **DES.**
-==155==O most lame and impotent conclusion! Do not learn of him, Emilia, though he be thy husband. How say you, Cassio? Is he not a most profane and liberal counsellor?
+==155==O most lame and impotent conclusion! Do not learn of him, Emilia, though he be thy husband. How say you, Cassio? Is he not a most profane and liberal counselor?
 
 **CAS.**
 ==156==He speaks home, madam. You may relish him more in the soldier than in the scholar.

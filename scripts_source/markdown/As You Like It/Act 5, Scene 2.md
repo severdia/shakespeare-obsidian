@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-5-2
 ---
@@ -135,9 +135,11 @@ ID: as-you-like-it-5-2
 ==45==And so am I for no woman.
 
 **PHE.**
+*(To Rosalind.)*
 ==46==If this be so, why blame you me to love you?
 
 **SIL.**
+*(To Phebe.)*
 ==47==If this be so, why blame you me to love you?
 
 **ORL.**
@@ -170,10 +172,10 @@ ID: as-you-like-it-5-2
 ==59==I’ll not fail, if I live.
 
 **PHE.**
-==60==Nor I.
+==59==           Nor I.
 
 **ORL.**
-==61==Nor I.
+==59==                Nor I.
 
 *Exeunt.*
 

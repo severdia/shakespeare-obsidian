@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: winters-tale-4-3
 ---
@@ -19,27 +19,27 @@ ID: winters-tale-4-3
 *Enter Autolycus singing.*
 
 **AUT.**
-==1==*When daffodils begin to peer,*
-==2==*With heigh, the doxy over the dale!*
-==3==*Why, then comes in the sweet o’ the year,*
-==4==*For the red blood reigns in the winter’s pale.*
-==5==*The white sheet bleaching on the hedge,*
-==6==*With hey, the sweet birds, O how they sing!*
-==7==*Doth set my pugging tooth an edge,*
-==8==*For a quart of ale is a dish for a king.*
-==9==*The lark, that tirra-lyra chaunts,*
-==10==*With heigh, with heigh, the thrush and the jay!*
-==11==*Are summer songs for me and my aunts,*
-==12==*While we lie tumbling in the hay.*
+==1== *When daffodils begin to peer,*
+==2==    *With heigh, the doxy over the dale!*
+==3== *Why, then comes in the sweet o’ the year,*
+==4==    *For the red blood reigns in the winter’s pale.*
+==5== *The white sheet bleaching on the hedge,*
+==6==    *With hey, the sweet birds, O how they sing!*
+==7== *Doth set my pugging tooth an edge,*
+==8==    *For a quart of ale is a dish for a king.*
+==9== *The lark, that tirra-lyra chaunts,*
+==10==    *With heigh, with heigh, the thrush and the jay!*
+==11== *Are summer songs for me and my aunts,*
+==12==    *While we lie tumbling in the hay.*
 ==13==I have serv’d Prince Florizel, and in my time wore three-pile, but now I am out of service.
-==14==*But shall I go mourn for that, my dear?*
-==15==*The pale moon shines by night;*
-==16==*And when I wander here and there,*
-==17==*I then do most go right.*
-==18==*If tinkers may have leave to live,*
-==19==*And bear the sow-skin bouget,*
-==20==*Then my account I well may give,*
-==21==*And in the stocks avouch it.*
+==14== *But shall I go mourn for that, my dear?*
+==15==    *The pale moon shines by night;*
+==16== *And when I wander here and there,*
+==17==    *I then do most go right.*
+==18== *If tinkers may have leave to live,*
+==19==    *And bear the sow-skin bouget,*
+==20== *Then my account I well may give,*
+==21==    *And in the stocks avouch it.*
 ==22==My traffic is sheets; when the kite builds, look to lesser linen. My father nam’d me Autolycus, who being, as I am, litter’d under Mercury, was likewise a snapper-up of unconsider’d trifles. With die and drab I purchas’d this caparison, and my revenue is the silly cheat. Gallows and knock are too powerful on the highway. Beating and hanging are terrors to me. For the life to come, I sleep out the thought of it. A prize, a prize!
 
 *Enter Clown.*
@@ -153,10 +153,10 @@ ID: winters-tale-4-3
 **AUT.**
 ==57==Prosper you, sweet sir! Your purse is not hot enough to purchase your spice. I’ll be with you at your sheep-shearing too. If I make not this cheat bring out another, and the shearers prove sheep, let me be unroll’d, and my name put in the book of virtue!
 *(Song.)*
-==58==*Jog on, jog on, the foot-path way,*
-==59==*And merrily hent the stile-a;*
-==60==*A merry heart goes all the day,*
-==61==*Your sad tires in a mile-a.*
+==58== *Jog on, jog on, the foot-path way,*
+==59==    *And merrily hent the stile-a;*
+==60== *A merry heart goes all the day,*
+==61==    *Your sad tires in a mile-a.*
 
 *Exit.*
 

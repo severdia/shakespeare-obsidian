@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-4-2
 ---
@@ -104,7 +104,7 @@ ID: macbeth-4-2
 ==41==Then you’ll buy ’em to sell again.
 
 **L. MACD.**
-==42==Thou speak’st with all thy wit, and yet, i’ faith,
+==42==Thou speak’st with all thy wit, and yet, i’faith,
 ==43==With wit enough for thee.
 
 **SON.**

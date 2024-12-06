@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -173,7 +173,7 @@ ID: pericles-2-5
 ==77==Bestow your love and your affections
 ==78==Upon a stranger?
 *(Aside.)*
-==78==           who, for aught I know,
+==78==           Who, for aught I know,
 ==79==May be (nor can I think the contrary) 
 ==80==As great in blood as I myself.⁠—
 ==81==Therefore hear you, mistress, either frame

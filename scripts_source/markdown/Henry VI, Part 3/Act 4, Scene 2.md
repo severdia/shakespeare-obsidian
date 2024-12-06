@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -53,7 +53,7 @@ ID: henry-vi-part-iii-4-2
 ==25==For I intend but only to surprise him.
 ==26==You that will follow me to this attempt,
 ==27==Applaud the name of Henry with your leader.
-*(They all cry, “Henry!” )*
+*(They all cry, “Henry!”)*
 ==28==Why then, let’s on our way in silent sort.
 ==29==For Warwick and his friends, God and Saint George!
 

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-3-5
 ---
@@ -136,19 +136,19 @@ ID: two-noble-kinsmen-3-5
 
 **DAUGH.**
 *(Sings.)*
-==59==*“The George Alow came from the south,*
-==60==*From the coast of Barbary-a;*
-==61==*And there he met with brave gallants of war,*
-==62==*By one, by two, by three-a.*
-==63==*Well hail’d, well hail’d, you jolly gallants!*
-==64==*And whither now are you bound-a?*
-==65==*O, let me have your company*
-==66==*Till I come to the sound-a.”*
-==67==*“There was three fools fell out about an howlet:*
-==68==*The one said it was an owl,*
-==69==*The other he said nay,*
-==70==*The third he said it was a hawk,*
-==71==*And her bells were cut away.”*
+==59== *“The George Alow came from the south,*
+==60== *From the coast of Barbary-a;*
+==61== *And there he met with brave gallants of war,*
+==62== *By one, by two, by three-a.*
+==63== *Well hail’d, well hail’d, you jolly gallants!*
+==64== *And whither now are you bound-a?*
+==65== *O, let me have your company*
+==66== *Till I come to the sound-a.”*
+==67== *“There was three fools fell out about an howlet:*
+==68==    *The one said it was an owl,*
+==69==    *The other he said nay,*
+==70==    *The third he said it was a hawk,*
+==71==    *And her bells were cut away.”*
 
 **3. COUN.**
 ==72==There’s a dainty mad woman, master,

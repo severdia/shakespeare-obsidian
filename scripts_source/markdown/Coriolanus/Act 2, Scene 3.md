@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-2-3
 ---
@@ -338,7 +338,7 @@ ID: coriolanus-2-3
 ==140==That his contempt shall not be bruising to you
 ==141==When he hath power to crush? Why, had your bodies
 ==142==No heart among you? Or had you tongues to cry
-==143==Against the rectorship of judgement?
+==143==Against the rectorship of judgment?
 
 **SIC.**
 ==143==                     Have you

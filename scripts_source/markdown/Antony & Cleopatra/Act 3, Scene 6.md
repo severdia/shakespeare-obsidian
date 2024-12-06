@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: antony-and-cleopatra-3-6
 ---
@@ -32,7 +32,7 @@ ID: antony-and-cleopatra-3-6
 ==11==Absolute queen.
 
 **MAEC.**
-==11==        This in the public eye?
+==11==           This in the public eye?
 
 **CAES.**
 ==12==I’ th’ common show-place, where they exercise.
@@ -64,7 +64,7 @@ ID: antony-and-cleopatra-3-6
 ==25==Sextus Pompeius spoil’d, we had not rated him
 ==26==His part o’ th’ isle. Then does he say he lent me
 ==27==Some shipping unrestor’d. Lastly, he frets
-==28==That Lepidus of the triumpherate
+==28==That Lepidus of the triumvirate
 ==29==Should be depos’d; and being, that we detain
 ==30==All his revenue.
 

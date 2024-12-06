@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -200,7 +200,7 @@ ID: pericles-2-1
 ==78==It kept where I kept, I so dearly lov’d it,
 ==79==Till the rough seas, that spares not any man,
 ==80==Took it in rage, though calm’d have given’t again.
-==81==I thank thee for’t. My shipwrack now’s no ill,
+==81==I thank thee for’t. My shipwreck now’s no ill,
 ==82==Since I have here my father gave in his will.
 
 **1. FISH.**

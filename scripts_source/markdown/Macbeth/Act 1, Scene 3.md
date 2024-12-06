@@ -7,7 +7,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: macbeth-1-3
 ---
@@ -280,7 +280,7 @@ ID: macbeth-1-3
 
 **BAN.**
 ==144==        New honors come upon him,
-==145==Like our strange garments, cleave not to their mould
+==145==Like our strange garments, cleave not to their mold
 ==146==But with the aid of use.
 
 **MACB.**

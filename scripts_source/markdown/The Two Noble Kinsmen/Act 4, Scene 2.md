@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-4-2
 ---
@@ -128,7 +128,7 @@ ID: two-noble-kinsmen-4-2
 ==71==              From the knights.
 
 **THE.**
-==71==                       Pray speak,
+==71==                         Pray speak,
 ==72==You that have seen them, what they are.
 
 **1. MESS.**
@@ -210,7 +210,7 @@ ID: two-noble-kinsmen-4-2
 ==121==              Yes, they are well.
 
 **1. MESS.**
-==121==                       Methinks,
+==121==                         Methinks,
 ==122==Being so few and well dispos’d, they show
 ==123==Great and fine art in nature. He’s white-hair’d,
 ==124==Not wanton white, but such a manly color

@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -133,7 +133,7 @@ ID: king-richard-ii-3-3
 ==73==To watch the fearful bending of thy knee,
 ==74==Because we thought ourself thy lawful king;
 ==75==And if we be, how dare thy joints forget
-==76==To pay their aweful duty to our presence?
+==76==To pay their awful duty to our presence?
 ==77==If we be not, show us the hand of God
 ==78==That hath dismiss’d us from our stewardship,
 ==79==For well we know no hand of blood and bone

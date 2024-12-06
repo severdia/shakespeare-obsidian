@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -287,7 +287,7 @@ ID: romeo-and-juliet-1-1
 
 **MONT.**
 ==123==Both by myself and many other friends,
-==124==But he, his own affections’ counsellor,
+==124==But he, his own affections’ counselor,
 ==125==Is to himself (I will not say how true) 
 ==126==But to himself so secret and so close,
 ==127==So far from sounding and discovery,
@@ -396,7 +396,7 @@ ID: romeo-and-juliet-1-1
 ==177==What, shall I groan and tell thee?
 
 **BEN.**
-==177==                Groan? Why, no;
+==177==                  Groan? Why, no;
 ==178==But sadly tell me, who?
 
 **ROM.**

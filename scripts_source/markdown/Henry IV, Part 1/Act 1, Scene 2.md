@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -137,7 +137,7 @@ ID: henry-iv-part-i-1-2
 ==39==Else he had been damn’d for cozening the devil.
 
 **POINS.**
-==40==But, my lads, my lads, tomorrow morning by four a’ clock early, at Gadshill, there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses. I have vizards for you all; you have horses for yourselves. Gadshill lies tonight in Rochester. I have bespoke supper tomorrow night in Eastcheap. We may do it as secure as sleep. If you will go, I will stuff your purses full of crowns; if you will not, tarry at home and be hang’d.
+==40==But, my lads, my lads, tomorrow morning by four o’clock early, at Gadshill, there are pilgrims going to Canterbury with rich offerings, and traders riding to London with fat purses. I have vizards for you all; you have horses for yourselves. Gadshill lies tonight in Rochester. I have bespoke supper tomorrow night in Eastcheap. We may do it as secure as sleep. If you will go, I will stuff your purses full of crowns; if you will not, tarry at home and be hang’d.
 
 **FAL.**
 ==41==Hear ye, Yedward, if I tarry at home and go not, I’ll hang you for going.

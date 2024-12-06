@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -424,7 +424,7 @@ ID: henry-vi-part-iii-1-1
 ==193==Whom I unnaturally shall disinherit.
 ==194==But be it as it may.
 *(To York.)*
-==194==              I here entail
+==194==           I here entail
 ==195==The crown to thee and to thine heirs forever,
 ==196==Conditionally that here thou take an oath
 ==197==To cease this civil war, and whilst I live
@@ -515,7 +515,7 @@ ID: henry-vi-part-iii-1-1
 ==233==And giv’n unto the house of York such head
 ==234==As thou shalt reign but by their sufferance.
 ==235==To entail him and his heirs unto the crown,
-==236==What is it, but to make thy sepulchre,
+==236==What is it, but to make thy sepulcher,
 ==237==And creep into it far before thy time?
 ==238==Warwick is chancellor and the lord of Callice,
 ==239==Stern Faulconbridge commands the Narrow Seas,

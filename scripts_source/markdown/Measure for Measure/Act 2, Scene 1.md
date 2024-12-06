@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: measure-for-measure-2-1
 ---
@@ -404,7 +404,7 @@ ID: measure-for-measure-2-1
 **ESCAL.**
 ==151==To my house. Fare you well.
 *(Exit Elbow.)*
-==152==What’s a’ clock, think you?
+==152==What’s o’clock, think you?
 
 **JUST.**
 ==153==Eleven, sir.

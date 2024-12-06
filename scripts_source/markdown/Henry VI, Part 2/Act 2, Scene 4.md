@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 3 (1619)
   - First Folio (1623)
@@ -25,7 +25,7 @@ ID: henry-vi-part-ii-2-4
 ==2==And after summer evermore succeeds
 ==3==Barren winter, with his wrathful nipping cold;
 ==4==So cares and joys abound, as seasons fleet.
-==5==Sirs, what’s a’ clock?
+==5==Sirs, what’s o’clock?
 
 **GLOU. 1. ATT.**
 ==5==           Ten, my lord.

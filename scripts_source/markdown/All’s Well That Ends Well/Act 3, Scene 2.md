@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: alls-well-that-ends-well-3-2
 ---
@@ -102,7 +102,7 @@ ID: alls-well-that-ends-well-3-2
 **HEL.**
 ==32==Look on his letter, madam, here’s my passport.
 *(Reads.)*
-==33==*“When thou canst get the ring upon my finger, which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband; but in such a ‘then’ I write a ‘never.’” *
+==33==*“When thou canst get the ring upon my finger, which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband; but in such a ‘then’ I write a ‘never.’”*
 ==34==This is a dreadful sentence.
 
 **COUNT.**

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: twelfth-night-4-1
 ---
@@ -26,7 +26,7 @@ ID: twelfth-night-4-1
 ==3==Let me be clear of thee.
 
 **CLO.**
-==4==Well held out, i’ faith! No, I do not know you, nor I am not sent to you by my lady, to bid you come speak with her, nor your name is not Master Cesario, nor this is not my nose neither: nothing that is so is so.
+==4==Well held out, i’faith! No, I do not know you, nor I am not sent to you by my lady, to bid you come speak with her, nor your name is not Master Cesario, nor this is not my nose neither: nothing that is so is so.
 
 **SEB.**
 ==5==I prithee vent thy folly somewhere else,

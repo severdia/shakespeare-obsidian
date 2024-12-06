@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: comedy-of-errors-2-1
 ---
@@ -21,7 +21,7 @@ ID: comedy-of-errors-2-1
 **ADR.**
 ==1==Neither my husband nor the slave return’d,
 ==2==That in such haste I sent to seek his master?
-==3==Sure, Luciana, it is two a’ clock.
+==3==Sure, Luciana, it is two o’clock.
 
 **LUC.**
 ==4==Perhaps some merchant hath invited him,
@@ -201,7 +201,7 @@ ID: comedy-of-errors-2-1
 ==101==Sister, you know he promis’d me a chain;
 ==102==Would that alone a’ love he would detain,
 ==103==So he would keep fair quarter with his bed!
-==104==I see the jewel best enamelled
+==104==I see the jewel best enameled
 ==105==Will lose his beauty; yet the gold bides still
 ==106==That others touch and, often touching, will
 ==107==Where gold; and no man that hath a name

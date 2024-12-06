@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: Quarto 1 (1634)
 ID: two-noble-kinsmen-3-6
 ---
@@ -358,7 +358,7 @@ ID: two-noble-kinsmen-3-6
 ==157==What more than man is this!
 
 **THE.**
-==157==                I have sworn.
+==157==              I have sworn.
 
 **ARC.**
 ==157==                       We seek not
@@ -427,7 +427,7 @@ ID: two-noble-kinsmen-3-6
 ==199==By your own virtues infinite⁠—
 
 **HIP.**
-==199==                  By valor,
+==199==                By valor,
 ==200==By all the chaste nights I have ever pleas’d you⁠—
 
 **THE.**

@@ -7,7 +7,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1609)
   - Third Folio (1664)
@@ -19,7 +19,7 @@ ID: pericles-3-2
 
 *Ephesus. A room in Cerimon’s house.*
 
-*Enter Lord Cerimon with an Ephesan Servant and another Man, both storm-beaten.*
+*Enter Lord Cerimon with an Ephesian Servant and another Man, both storm-beaten.*
 
 **CER.**
 ==1==Philemon, ho!
@@ -46,7 +46,7 @@ ID: pericles-3-2
 ==10==Give this to the pothecary,
 ==11==And tell me how it works.
 
-*Exeunt Ephesan Servant and other Man.*
+*Exeunt Ephesian Servant and other Man.*
 
 *Enter two Gentlemen.*
 

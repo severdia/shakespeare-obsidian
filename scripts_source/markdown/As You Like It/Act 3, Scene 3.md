@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: as-you-like-it-3-3
 ---
@@ -116,13 +116,14 @@ ID: as-you-like-it-3-3
 ==31==Come, sweet Audrey,
 ==32==We must be married, or we must live in bawdry.
 ==33==Farewell, good Master Oliver: not
-==34==*“O sweet Oliver,*
-==35==*O brave Oliver,*
-==36==*Leave me not behind thee;”*
+*(Singing and dancing.)*
+==34==    *“O sweet Oliver,*
+==35==    *O brave Oliver,*
+==36== *Leave me not behind thee;”*
 ==37==But
-==38==*“Wind away,*
-==39==*Be gone, I say,*
-==40==*I will not to wedding with thee.”*
+==38==    *“Wind away,*
+==39==    *Be gone, I say,*
+==40== *I will not to wedding with thee.”*
 
 *Exeunt Jaques, Touchstone, and Audrey.*
 

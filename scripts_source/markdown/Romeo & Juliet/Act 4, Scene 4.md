@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 2 (1599)
@@ -31,7 +31,7 @@ ID: romeo-and-juliet-4-4
 
 **CAP.**
 ==3==Come, stir, stir, stir! The second cock hath crowed,
-==4==The curfew-bell hath rung, ’tis three a’ clock.
+==4==The curfew-bell hath rung, ’tis three o’clock.
 ==5==Look to the bak’d meats, good Angelica,
 ==6==Spare not for cost.
 

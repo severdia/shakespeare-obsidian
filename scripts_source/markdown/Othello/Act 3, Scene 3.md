@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1622)
   - First Folio (1623)
@@ -88,7 +88,7 @@ ID: othello-3-3
 ==35==Hah? I like not that.
 
 **OTH.**
-==35==              What dost thou say?
+==35==           What dost thou say?
 
 **IAGO.**
 ==36==Nothing, my lord; or if—I know not what.
@@ -208,7 +208,7 @@ ID: othello-3-3
 ==93==My noble lord⁠—
 
 **OTH.**
-==93==           What dost thou say, Iago?
+==93==        What dost thou say, Iago?
 
 **IAGO.**
 ==94==Did Michael Cassio, when you woo’d my lady,
@@ -244,7 +244,7 @@ ID: othello-3-3
 ==104==Honest? Ay, honest.
 
 **IAGO.**
-==104==              My lord, for aught I know.
+==104==           My lord, for aught I know.
 
 **OTH.**
 ==105==What dost thou think?
@@ -269,7 +269,7 @@ ID: othello-3-3
 ==117==My lord, you know I love you.
 
 **OTH.**
-==117==                  I think thou dost;
+==117==                I think thou dost;
 ==118==And for I know thou’rt full of love and honesty,
 ==119==And weigh’st thy words before thou giv’st them breath,
 ==120==Therefore these stops of thine fright me the more;
@@ -423,7 +423,7 @@ ID: othello-3-3
 ==214==For too much loving you.
 
 **OTH.**
-==214==           I am bound to thee forever.
+==214==              I am bound to thee forever.
 
 **IAGO.**
 ==215==I see this hath a little dash’d your spirits.
@@ -432,7 +432,7 @@ ID: othello-3-3
 ==216==Not a jot, not a jot.
 
 **IAGO.**
-==216==              I’ faith, I fear it has.
+==216==           I’faith, I fear it has.
 ==217==I hope you will consider what is spoke
 ==218==Comes from my love. But I do see y’ are mov’d.
 ==219==I am to pray you not to strain my speech
@@ -639,7 +639,7 @@ ID: othello-3-3
 ==327==Dangerous conceits are in their natures poisons,
 ==328==Which at the first are scarce found to distaste,
 ==329==But with a little act upon the blood
-==330==Burn like the mines of sulphur.
+==330==Burn like the mines of sulfur.
 *(Enter Othello.)*
 ==330==                  I did say so.
 ==331==Look where he comes! Not poppy, nor mandragora,

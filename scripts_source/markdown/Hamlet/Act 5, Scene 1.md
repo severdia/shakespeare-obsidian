@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1603)
   - Quarto 2 (1604-1605)
@@ -100,10 +100,10 @@ ID: hamlet-5-1
 *(Exit Second Clown.)*
 *(First Clown digs.)*
 *(Song.)*
-==26==*“In youth when I did love, did love,*
-==27==*Methought it was very sweet,*
-==28==*To contract—O—the time for-a-my behove,*
-==29==*O, methought there-a-was nothing-a-meet.”*
+==26== *“In youth when I did love, did love,*
+==27== *Methought it was very sweet,*
+==28== *To contract—O—the time for-a-my behove,*
+==29== *O, methought there-a-was nothing-a-meet.”*
 
 **HAM.**
 ==30==Has this fellow no feeling of his business? ’A sings in grave-making.
@@ -116,10 +116,10 @@ ID: hamlet-5-1
 
 **1. CLO.**
 *(Song.)*
-==33==*“But age with his stealing steps*
-==34==*Hath clawed me in his clutch,*
-==35==*And hath shipped me into the land,*
-==36==*As if I had never been such.”*
+==33== *“But age with his stealing steps*
+==34==    *Hath clawed me in his clutch,*
+==35== *And hath shipped me into the land,*
+==36==    *As if I had never been such.”*
 
 *Throws up a shovelful of earth with a skull in it.*
 
@@ -140,10 +140,10 @@ ID: hamlet-5-1
 
 **1. CLO.**
 *(Song.)*
-==42==*“A pickaxe and a spade, a spade,*
-==43==*For and a shrouding sheet:*
-==44==*O, a pit of clay for to be made*
-==45==*For such a guest is meet.”*
+==42== *“A pickaxe and a spade, a spade,*
+==43==    *For and a shrouding sheet:*
+==44== *O, a pit of clay for to be made*
+==45==    *For such a guest is meet.”*
 
 *Throws up another skull.*
 
@@ -165,8 +165,8 @@ ID: hamlet-5-1
 **1. CLO.**
 ==51==Mine, sir.
 *(Sings.)*
-==52==*“O, a pit of clay for to be made*
-==53==*For such a guest is meet.”*
+==52== *“O, a pit of clay for to be made*
+==53== *For such a guest is meet.”*
 
 **HAM.**
 ==54==I think it be thine indeed, for thou liest in’t.

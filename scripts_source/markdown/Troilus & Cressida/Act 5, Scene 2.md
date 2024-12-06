@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1A (1609)
   - First Folio (1623)
@@ -170,7 +170,7 @@ ID: troilus-and-cressida-5-2
 ==46==I will be patient.
 
 **CRES.**
-==46==           Guardian! Why, Greek!
+==46==        Guardian! Why, Greek!
 
 **DIO.**
 ==47==Fo, fo, *adieu*, you palter.
@@ -183,10 +183,10 @@ ID: troilus-and-cressida-5-2
 ==50==You will break out.
 
 **TRO.**
-==50==        She strokes his cheek.
+==50==           She strokes his cheek.
 
 **ULYSS.**
-==50==                     Come, come.
+==50==                       Come, come.
 
 **TRO.**
 ==51==Nay, stay; by Jove I will not speak a word.

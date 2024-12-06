@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: two-gentlemen-of-verona-4-2
 ---
@@ -92,21 +92,21 @@ ID: two-gentlemen-of-verona-4-2
 **HOST.**
 ==34==Ay; but peace, let’s hear ’em.
 *(Song.)*
-==35==*Who is Silvia? What is she,*
-==36==*That all our swains commend her?*
-==37==*Holy, fair, and wise is she;*
-==38==*The heaven such grace did lend her,*
-==39==*That she might admired be.*
-==40==*Is she kind as she is fair?*
-==41==*For beauty lives with kindness.*
-==42==*Love doth to her eyes repair,*
-==43==*To help him of his blindness;*
-==44==*And, being help’d, inhabits there.*
-==45==*Then to Silvia let us sing,*
-==46==*That Silvia is excelling;*
-==47==*She excels each mortal thing*
-==48==*Upon the dull earth dwelling.*
-==49==*To her let us garlands bring.*
+==35== *Who is Silvia? What is she,*
+==36== *That all our swains commend her?*
+==37== *Holy, fair, and wise is she;*
+==38== *The heaven such grace did lend her,*
+==39==    *That she might admired be.*
+==40== *Is she kind as she is fair?*
+==41== *For beauty lives with kindness.*
+==42== *Love doth to her eyes repair,*
+==43== *To help him of his blindness;*
+==44==    *And, being help’d, inhabits there.*
+==45== *Then to Silvia let us sing,*
+==46== *That Silvia is excelling;*
+==47== *She excels each mortal thing*
+==48== *Upon the dull earth dwelling.*
+==49==    *To her let us garlands bring.*
 
 **HOST.**
 ==50==How now? Are you sadder than you were before? How do you, man? The music likes you not.
@@ -245,7 +245,7 @@ ID: two-gentlemen-of-verona-4-2
 
 **SILV.**
 ==104==Go to thy lady’s grave and call hers thence,
-==105==Or at the least, in hers sepulchre thine.
+==105==Or at the least, in hers sepulcher thine.
 
 **JUL.**
 *(Aside.)*

@@ -6,7 +6,7 @@ Genre: Tragedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources: First Folio (1623)
 ID: coriolanus-1-1
 ---
@@ -160,7 +160,7 @@ ID: coriolanus-1-1
 **1. ROM. CIT.**
 ==70==              Your belly’s answer—what?
 ==71==The kingly-crowned head, the vigilant eye,
-==72==The counsellor heart, the arm our soldier,
+==72==The counselor heart, the arm our soldier,
 ==73==Our steed the leg, the tongue our trumpeter,
 ==74==With other muniments and petty helps
 ==75==In this our fabric, if that they⁠—

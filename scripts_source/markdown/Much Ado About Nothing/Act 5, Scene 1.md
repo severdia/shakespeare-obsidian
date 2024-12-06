@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -284,7 +284,7 @@ ID: much-ado-about-nothing-5-1
 ==132==What, a feast, a feast?
 
 **CLAUD.**
-==133==I’ faith, I thank him, he hath bid me to a calve’s-head and a capon, the which if I do not carve most curiously, say my knife’s naught. Shall I not find a woodcock too?
+==133==I’faith, I thank him, he hath bid me to a calve’s-head and a capon, the which if I do not carve most curiously, say my knife’s naught. Shall I not find a woodcock too?
 
 **BENE.**
 ==134==Sir, your wit ambles well, it goes easily.

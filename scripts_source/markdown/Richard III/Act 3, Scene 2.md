@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -33,7 +33,7 @@ ID: richard-iii-3-2
 
 **HAST.**
 *(Within.)*
-==4==What is’t a’ clock?
+==4==What is’t o’clock?
 
 **STAN. MESS.**
 ==5==Upon the stroke of four.

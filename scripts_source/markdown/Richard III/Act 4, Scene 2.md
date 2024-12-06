@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 3 (1602)
@@ -241,14 +241,14 @@ ID: richard-iii-4-2
 ==108==My lord⁠—
 
 **K. RICH.**
-==109==Ay, what’s a’ clock?
+==109==Ay, what’s o’clock?
 
 **BUCK.**
 ==110==I am thus bold to put your Grace in mind
 ==111==Of what you promis’d me.
 
 **K. RICH.**
-==111==              Well, but what’s a’ clock?
+==111==              Well, but what’s o’clock?
 
 **BUCK.**
 ==112==Upon the stroke of ten.
@@ -268,7 +268,7 @@ ID: richard-iii-4-2
 ==117==May it please you to resolve me in my suit.
 
 **K. RICH.**
-==118==Thou troubles! Me, I am not in the vein.
+==118==Thou troublest me; I am not in the vein.
 
 *Exit with all but Buckingham.*
 

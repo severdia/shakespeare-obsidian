@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -48,7 +48,7 @@ ID: henry-iv-part-ii-2-4
 *Enter Mistress Quickly the Hostess and Doll Tearsheet.*
 
 **HOST.**
-==8==I’ faith, sweet heart, methinks now you are in an excellent good temperality. Your pulsidge beats as extraordinarily as heart would desire, and your color, I warrant you, is as red as any rose, in good truth law! But, i’ faith, you have drunk too much canaries, and that’s a marvelous searching wine, and it perfumes the blood ere one can say, “What’s this?” How do you now?
+==8==I’faith, sweet heart, methinks now you are in an excellent good temperality. Your pulsidge beats as extraordinarily as heart would desire, and your color, I warrant you, is as red as any rose, in good truth law! But, i’faith, you have drunk too much canaries, and that’s a marvelous searching wine, and it perfumes the blood ere one can say, “What’s this?” How do you now?
 
 **DOLL.**
 ==9==Better than I was. Hem!
@@ -60,10 +60,10 @@ ID: henry-iv-part-ii-2-4
 
 **FAL.**
 *(Singing.)*
-==11==*“When Arthur first in court”—Empty the jordan.⁠—*
+==11== *“When Arthur first in court”—Empty the jordan.⁠—*
 *(Exit Francis.)*
 *(Singing.)*
-==12==*“And was a worthy king.”*
+==12== *“And was a worthy king.”*
 ==13==How now, Mistress Doll?
 
 **HOST.**
@@ -123,7 +123,7 @@ ID: henry-iv-part-ii-2-4
 ==31==Tilly-fally, Sir John, ne’er tell me; and your ancient swagger, ’a comes not in my doors. I was before Master Tisick, the debuty, t’ other day, and, as he said to me—’twas no longer ago than Wed’sday last, i’ good faith— “Neighbor Quickly,” says he—Master Dumbe, our minister, was by then— “Neighbor Quickly,” says he, “receive those that are civil, for,” said he, “you are in an ill name.” Now ’a said so, I can tell whereupon. “For,” says he, “you are an honest woman, and well thought on, therefore take heed what guests you receive. Receive,” says he, “no swaggering companions.” There comes none here. You would bless you to hear what he said. No, I’ll no swagg’rers.
 
 **FAL.**
-==32==He’s no swagg’rer, hostess, a tame cheater, i’ faith, you may stroke him as gently as a puppy greyhound. He’ll not swagger with a Barbary hen, if her feathers turn back in any show of resistance. Call him up, drawer.
+==32==He’s no swagg’rer, hostess, a tame cheater, i’faith, you may stroke him as gently as a puppy greyhound. He’ll not swagger with a Barbary hen, if her feathers turn back in any show of resistance. Call him up, drawer.
 
 *Exit Francis.*
 
@@ -195,7 +195,7 @@ ID: henry-iv-part-ii-2-4
 *Draws his sword.*
 
 **HOST.**
-==54==Good Captain Peesel, be quiet, ’tis very late, i’ faith. I beseek you now, aggravate your choler.
+==54==Good Captain Peesel, be quiet, ’tis very late, i’faith. I beseek you now, aggravate your choler.
 
 **PIST.**
 ==55==These be good humors indeed! Shall pack-horses
@@ -289,7 +289,7 @@ ID: henry-iv-part-ii-2-4
 ==91==A rascal! To brave me?
 
 **DOLL.**
-==92==Ah, you sweet little rogue, you! Alas, poor ape, how thou sweat’st! Come let me wipe thy face. Come on, you whoreson chops. Ah, rogue! I’ faith, I love thee. Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies. Ah, villain!
+==92==Ah, you sweet little rogue, you! Alas, poor ape, how thou sweat’st! Come let me wipe thy face. Come on, you whoreson chops. Ah, rogue! i’faith, I love thee. Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies. Ah, villain!
 
 **FAL.**
 ==93==Ah, rascally slave! I will toss the rogue in a blanket.
@@ -306,7 +306,7 @@ ID: henry-iv-part-ii-2-4
 ==96==Let them play. Play, sirs. Sit on my knee, Doll. A rascal bragging slave! The rogue fled from me like quicksilver.
 
 **DOLL.**
-==97==I’ faith, and thou follow’dst him like a church. Thou whoreson little tidy Bartholomew boar-pig, when wilt thou leave fighting a’ days and foining a’ nights, and begin to patch up thine old body for heaven?
+==97==I’faith, and thou follow’dst him like a church. Thou whoreson little tidy Bartholomew boar-pig, when wilt thou leave fighting a’ days and foining a’ nights, and begin to patch up thine old body for heaven?
 
 *Enter, behind, Prince Henry and Poins, disguised.*
 

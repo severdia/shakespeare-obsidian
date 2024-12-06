@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1597)
   - Quarto 4 (1608)
@@ -80,7 +80,7 @@ ID: king-richard-ii-5-2
 *Enter Aumerle.*
 
 **YORK.**
-==41==                  Aumerle that was,
+==41==                Aumerle that was,
 ==42==But that is lost for being Richard’s friend;
 ==43==And, madam, you must call him Rutland now.
 ==44==I am in parliament pledge for his truth

@@ -6,7 +6,7 @@ Genre: Comedy
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1598)
   - First Folio (1623)
@@ -134,13 +134,13 @@ ID: loves-labours-lost-4-1
 **BOYET.**
 *(Reads.)*
 ==58==*“By heaven, that thou art fair, is most infallible; true, that thou art beauteous; truth itself, that thou art lovely. More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal! The magnanimous and most illustrate King Cophetua set eye upon the pernicious and indubitate beggar Zenelophon; and he it was that might rightly say, Veni, vidi, vici; which to annothanize in the vulgar—O base and obscure vulgar!—videlicet, He came, saw, and overcame: he came, one; saw, two; overcame, three. Who came? The king. Why did he come? To see. Why did he see? To overcome. To whom came he? To the beggar. What saw he? The beggar. Who overcame he? The beggar. The conclusion is victory; on whose side? The king’s. The captive is enrich’d; on whose side? The beggar’s. The catastrophe is a nuptial; on whose side? The king’s; no, on both in one, or one in both. I am the king, for so stands the comparison; thou the beggar, for so witnesseth thy lowliness. Shall I command thy love? I may. Shall I enforce thy love? I could. Shall I entreat thy love? I will. What shalt thou exchange for rags? Robes; for tittles? Titles; for thyself? Me. Thus expecting thy reply, I profane my lips on thy foot, my eyes on thy picture, and my heart on thy every part. Thine, in the dearest design of industry,*
-==59==*Don Adriano de Armado.*
-==60==Thus dost thou hear the Nemean lion roar
-==61==’Gainst thee, thou lamb, that standest as his prey;
-==62==Submissive fall his princely feet before,
-==63==And he from forage will incline to play.
-==64==But if thou strive, poor soul, what art thou then?
-==65==Food for his rage, repasture for his den.”
+==59==    *Don Adriano de Armado.*
+==60==*Thus dost thou hear the Nemean lion roar*
+==61==    *’Gainst thee, thou lamb, that standest as his prey;*
+==62==*Submissive fall his princely feet before,*
+==63==    *And he from forage will incline to play.*
+==64==*But if thou strive, poor soul, what art thou then?*
+==65==*Food for his rage, repasture for his den.”*
 
 **PRIN.**
 ==66==What plume of feathers is he that indited this letter?
@@ -226,13 +226,13 @@ ID: loves-labours-lost-4-1
 
 **ROS.**
 *(Sings.)*
-==94==*Thou canst not hit it, hit it, hit it,*
-==95==*Thou canst not hit it, my good man.*
+==94== *Thou canst not hit it, hit it, hit it,*
+==95==    *Thou canst not hit it, my good man.*
 
 **BOYET.**
 *(Sings.)*
-==96==*And I cannot, cannot, cannot,*
-==97==*And I cannot, another can.*
+==96== *And I cannot, cannot, cannot,*
+==97== *And I cannot, another can.*
 
 *Exeunt Rosaline and Katherine.*
 
@@ -247,7 +247,7 @@ ID: loves-labours-lost-4-1
 ==101==Let the mark have a prick in’t, to mete at, if it may be.
 
 **MAR.**
-==102==Wide a’ the bow-hand! I’ faith, your hand is out.
+==102==Wide a’ the bow-hand! i’faith, your hand is out.
 
 **COST.**
 ==103==Indeed ’a must shoot nearer, or he’ll ne’er hit the clout.

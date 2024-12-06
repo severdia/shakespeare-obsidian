@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -28,23 +28,23 @@ ID: henry-v-3-2
 
 **PIST.**
 ==3==The plain-song is most just; for humors do abound:
-==4==*“Knocks go and come; God’s vassals drop and die;*
-==5==*And sword and shield,*
-==6==*In bloody field,*
-==7==*Doth win immortal fame.”*
+==4== *“Knocks go and come; God’s vassals drop and die;*
+==5==    *And sword and shield,*
+==6==    *In bloody field,*
+==7==    *Doth win immortal fame.”*
 
 **BOY.**
 ==8==Would I were in an alehouse in London, I would give all my fame for a pot of ale and safety.
 
 **PIST.**
 ==9==And I:
-==10==*“If wishes would prevail with me,*
-==11==*My purpose should not fail with me,*
-==12==*But thither would I hie.”*
+==10== *“If wishes would prevail with me,*
+==11== *My purpose should not fail with me,*
+==12== *But thither would I hie.”*
 
 **BOY.**
-==13==*“As duly, but not as truly,*
-==14==*As bird doth sing on bough.”*
+==13== *“As duly, but not as truly,*
+==14== *As bird doth sing on bough.”*
 
 *Enter Fluellen.*
 
@@ -54,7 +54,7 @@ ID: henry-v-3-2
 *Driving them forward.*
 
 **PIST.**
-==16==Be merciful, great duke, to men of mould.
+==16==Be merciful, great duke, to men of mold.
 ==17==Abate thy rage, abate thy manly rage,
 ==18==Abate thy rage, great duke!
 ==19==Good bawcock, bate thy rage; use lenity, sweet chuck!
@@ -82,7 +82,7 @@ ID: henry-v-3-2
 ==23==To the mines? Tell you the Duke, it is not so good to come to the mines; for look you, the mines is not according to the disciplines of the war; the concavities of it is not sufficient. For look you, th’ athversary—you may discuss unto the Duke, look you—is *digt* himself four yard under the countermines. By *Cheshu*, I think ’a will plow up all, if there is not better directions.
 
 **GOW.**
-==24==The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’ faith.
+==24==The Duke of Gloucester, to whom the order of the siege is given, is altogether directed by an Irishman, a very valiant gentleman, i’faith.
 
 **FLU.**
 ==25==It is Captain Macmorris, is it not?
@@ -141,7 +141,9 @@ ID: henry-v-3-2
 ==42==Gentlemen both, you will mistake each other.
 
 **JAMY.**
-==43==A! That’s a foul fault. A parley sounded.
+==43==Ah, that’s a foul fault.
+
+*A parley is sounded.*
 
 **GOW.**
 ==44==The town sounds a parley.

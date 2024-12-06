@@ -6,7 +6,7 @@ Genre: History
 Copyright: ©2005-2024 PlayShakespeare.com. All rights reserved.
 License: GFDL License 1.3
 License URL: http://www.gnu.org/copyleft/fdl.html
-Version: 4.3
+Version: 5.3
 Sources:
   - Quarto 1 (1600)
   - First Folio (1623)
@@ -62,6 +62,14 @@ ID: henry-v-dp
 - French Soldier (FR. SOLD.)
 - French Court Attendant (FR. ATT.)
 - French Messenger (FR. MESS.)
-- English Lords (LORDS.)
+- English Lords (ENG. LORDS.)
 - Thomas, Duke of Clarence (CLAR.)
 - Duke of Berri (BERRI.)
+- Attendants (ATTENDANTS.)
+- French Lords (LORDS.)
+- Soldiers (SOLDIERS.)
+- Citizens (CITIZENS.)
+- English Captain (ENG. CAPT.)
+- Welsh Captain (WEL. CAPT.)
+- Heralds (HERALDS.)
+- French Power (FR. POWER.)
